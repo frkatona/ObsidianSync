@@ -15,7 +15,12 @@
 	 - [ ] game people x3
 ---
 ## Home
+
+### General
+ - [ ] Groceries
+ - [ ] Bolt power pic/reset/spreadsheet
 ### Move
+
  - [ ] Disassemble materials for trash
  - [ ] Pack clothes for thrift store
  - [x] Order Huel/Soylent
@@ -30,7 +35,7 @@
 ## Hobby
  - Music
 	 - [ ] [[Kaya game updates]]
-	 - [ ] Plan to bring speaker for Seana recording session
+	 - [ ] Contact Seana about bringing Kali monitor + recording session
 
 ---
 ## Tomorrow
