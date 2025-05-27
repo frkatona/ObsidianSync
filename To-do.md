@@ -20,7 +20,7 @@
  - [ ] Pack clothes for thrift store
  - [ ] Order DVDs for Bojack
 
-### Misc
+### Misc.
  - [ ] Obsidian
 	 - [ ] Improve cloud storage (sync to phone?)
 	 - [ ] Figure out plugin(s)

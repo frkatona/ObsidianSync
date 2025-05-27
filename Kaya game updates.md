@@ -1,27 +1,44 @@
- - City-Forest level
-	 - [ ] base-building conducive to platforming
+ - city-forest 'bullshitting platformer" level
+	 - [ ] base-building structure conducive to platforming
+	 - [ ] larger scale 3d platformer level design blockout
 	 - Transit infrastructure
-		 - [ ] overpasses
-		 - [ ] subway train (above/below ground)
-		 - [ ] trains
-		 - [ ] bridges
-		 - [ ] ladders
+		 - [x] overpass/overhead rail
+		 - [ ] trains, bridges, ladders
 	 - Construction
-		 - building scaffolding, vehicles, beams
+		 - [ ] building scaffolding, beams, pulleys/lifts, crane, wrecking ball
 	 - Inside of buildings
-		 - [ ] Shader to simulate looking in windows
+		 - [ ] shader to simulate looking in windows (i.e., [this](https://godotshaders.com/shader/interior-mapping-shader/))
+	 - man-hole level changer
+	 - block out alternate biomes at the boundaries of this level (N64-realism ice, dessert, etc.)
  - audio
-	 - [ ] sound effects
-	 - [ ] simplify the basement track
-	 - [ ] new overworld tracks (more Toby Fox, narrow the motif)
-	 - [ ] new city-forest level tracks
+	 - music
+		 - [ ] simplify the basement track
+		 - [ ] new overworld tracks (more Toby Fox, narrow the motif)
+		 - [ ] new city-forest level tracks
+		 - consider alternative potential uses for dynamic music system
+	 - SFX
+		 - [ ] movement (step, jump, fall, land, glide, rail grind)
+		 - [ ] awareness (pickup, fire, ball, lava, teleporter, level change)
+		 - [ ] action (block place, sign read)
+			 - [ ] UI (open menu, click, apply/save, exit menu)
  - animations
 	 - [ ] explore the workflow that separates the animations from the model
-	 - [ ] port new squirrel animations
+	 - [ ] port new squirrel animations + spring joint tail wag
 	 - [ ] make new ninja animations for emotes
+	 - [ ] fix ninja crawl
+	 - [ ] urban wildlife (rat, cat, pigeon)
+- modeling
+	- [ ] environment mesh + collision (care not to disrupt child structure)
+	- [ ] set dressing (rocks, trees)
+	- [ ] characters (original squirrel player character)
+- shading/art
+	- [ ] icon/svg
+	- [ ] environment shaders (grass, sky, etc.)
+		- remember Material Maker
+	- [ ] explore hair approximation shaders for bushy squirrel tail
 
 check out Blender 4.4 [new features](https://youtu.be/-eqPs-boihU?t=306)
 check out Blender Studio [pipeline features](https://studio.blender.org/projects/project-dogwalk/3dbedf9bab5c44/) (any code available?)
 
-[[Kaya Kanban]]
+### [[Kaya Kanban]]
 
