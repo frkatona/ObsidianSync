@@ -1,0 +1,9 @@
+- [ ] Put samples in vacuum desiccator
+- [ ] Try forming gas
+- [ ] send Yuki the MURI notes
+- [ ] Buy stuff before Emma says spending is paused (when?)
+	- [ ] O2 meter
+	- [ ] thermocouple
+	- [ ] Thor stuff
+- [ ] Get FLIR images with or without wireless to report to Priya
+- [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
