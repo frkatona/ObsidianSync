@@ -19,12 +19,7 @@
  - [ ] Pack clothes for thrift store
  - [ ] Order DVDs for Bojack
 
-### Misc.
- - [ ] Obsidian
-	 - [ ] Improve cloud storage (sync to phone?)
-	 - [ ] Figure out plugin(s)
- - [ ] Watch Flow, Andor S02
- - [ ] Play Outer Wilds DLC
+
 
 ## Hobby
  - ## [[Squirrel Game]]
@@ -48,10 +43,6 @@
 ### [[Lab]]
 
 ---
-### Closed Tabs
-- [Tiger VNC](https://tigervnc.org/)
-- [Selenium](https://pypi.org/project/selenium/)
-- [Ben's SAM tutorial](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb#scrollTo=RHw4yH8XRCo9)
-- what is `pip install -e`?
-- https://threejs.org/manual/#en/installation
-- 3B1Br and Sebastian Lague Neural Network videos
+
+
+### [[Misc. Brain Dump]]

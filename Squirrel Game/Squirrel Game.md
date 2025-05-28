@@ -16,7 +16,7 @@
 		 - [ ] new overworld tracks (more Toby Fox, narrow the motif)
 		 - [ ] new city-forest level tracks
 		 - consider alternative potential uses for dynamic music system
-	 - SFX (see [[Squirrel Game SFX]])
+	 - SFX (see [[SFX Checklist]])
  - animations
 	 - [ ] explore the workflow that separates the animations from the model
 	 - [ ] port new squirrel animations + spring joint tail wag
@@ -36,6 +36,6 @@
 check out Blender 4.4 [new features](https://youtu.be/-eqPs-boihU?t=306)
 check out Blender Studio [pipeline features](https://studio.blender.org/projects/project-dogwalk/3dbedf9bab5c44/) (any code available?)
 
-### [[Squirrel Game Kanban]]
-### [[Squirrel Game SFX]]
+### [[Task Cards]]
+### [[SFX Checklist]]
 
