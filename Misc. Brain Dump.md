@@ -1,4 +1,4 @@
-### ideas
+### Ideas
 - Hot spot iPhone to Android in car
 ### Misc. to-do
  - [ ] Watch Flow, Andor S02
