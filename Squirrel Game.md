@@ -16,11 +16,7 @@
 		 - [ ] new overworld tracks (more Toby Fox, narrow the motif)
 		 - [ ] new city-forest level tracks
 		 - consider alternative potential uses for dynamic music system
-	 - SFX
-		 - [ ] movement (step, jump, fall, land, glide, rail grind)
-		 - [ ] awareness (pickup, fire, ball, lava, teleporter, level change)
-		 - [ ] action (block place, sign read)
-			 - [ ] UI (open menu, click, apply/save, exit menu)
+	 - SFX (see [[Squirrel Game SFX]])
  - animations
 	 - [ ] explore the workflow that separates the animations from the model
 	 - [ ] port new squirrel animations + spring joint tail wag
@@ -40,5 +36,6 @@
 check out Blender 4.4 [new features](https://youtu.be/-eqPs-boihU?t=306)
 check out Blender Studio [pipeline features](https://studio.blender.org/projects/project-dogwalk/3dbedf9bab5c44/) (any code available?)
 
-### [[Kaya Kanban]]
+### [[Squirrel Game Kanban]]
+### [[Squirrel Game SFX]]
 
