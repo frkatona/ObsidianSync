@@ -11,6 +11,6 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 
-notes
+5/28 notes
  - characterization may pivot to Raman-AFM
  - MS plotting update reveals some H2, CH2 (or BH3), and C2H4 (or B2H4) release at 250 C oven treatment, corresponding to some simulations

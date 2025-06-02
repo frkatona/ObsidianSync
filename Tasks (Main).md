@@ -1,14 +1,4 @@
  ---
-# Work
-### Lab (see [[Lab]])
--  Group meeting
-	- [ ] make wordless thesis
-	- [ ] pitch post-gm subgroup
-- [ ] Submit receipts for trip (Ask Taylor how tax works...read the email docs)
-- [ ] Respond to GCMS email
-- [ ] Make icons for group meeting
-
----
 # Home
 
 ## General
@@ -20,7 +10,7 @@
  - [ ] Disassemble materials for trash
  - [ ] Pack clothes for thrift store
 ## Hobby
-- Squirrel Game (See [[Squirrel Game]])
+- Squirrel Game (see [[Squirrel Game]])
 - Coding
 	 - [ ] Kristen Firebase
 	 - [ ] React game + NPM onto website
@@ -41,5 +31,9 @@
 	 - [ ] game people x3
 
 ---
+
+# Work
+
+## see [[Work]]
 # Other
 ### [[Misc. Brain Dump]]
