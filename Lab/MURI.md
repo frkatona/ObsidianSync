@@ -16,6 +16,17 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 6/4 Notes
+- GCMS doesn't show much change and there's some doubt about the veracity of the data considering the strangeness of various peaks
+- Could we borrow Ray's H2 meter to sample the gases that come off (if a lot of H2 comes off, it reinforces the "H-removal --> reactive boron" mechanism)
+- 'think about how many times you're hitting one spot etc.' ask Ben what other than the notes would be helpful
+- misc neutron scattering thoughts from Rob
+	- maybe think a bit about the impact on the pyrolyze-->infiltrate cycling repetitions
+---
+### 5/28 notes
+ - characterization may pivot to Raman-AFM
+ - MS plotting update reveals some H2, CH2 (or BH3), and C2H4 (or B2H4) release at 250 C oven treatment, corresponding to some simulations
+---
 ### 5/1 notes
 1. ‘Necessary to initiate that first step, release of the hydrogen’
 2. Do the thermocouple experiment to see if there’s any exotherm that arises after the laser pulse (in excess of the energy of a pulse)
@@ -41,6 +52,3 @@
 9. Ben Stovall will give me samples which aren’t super uniform this week, but next week they will be and then we’ll do the parameter space for JP
 	1. This week, we’ll give the samples to Tainara to cut into pieces herself
 ---
-### 5/28 notes
- - characterization may pivot to Raman-AFM
- - MS plotting update reveals some H2, CH2 (or BH3), and C2H4 (or B2H4) release at 250 C oven treatment, corresponding to some simulations
