@@ -16,6 +16,7 @@
 	 - [ ] React game + NPM onto website
 	 - [ ] Polish Chelsea's timeline webpage (fix scroll cursor location + add panning)
 - Music
+	- ### [[Music]]
 	- [ ] Get Eric's recording onto computer to practice bass for next Sunday
 	- [ ] Bring CDs for JVJ
 

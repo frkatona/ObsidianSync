@@ -7,7 +7,6 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] model - city platforming template building
-- [ ] audio - simplify basement bgm
 - [ ] audio - more overworld tracks
 - [ ] animation - port new squirrel with jiggle tail
 - [ ] animation - implement modular animation
@@ -24,6 +23,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] audio - simplify basement bgm
 - [ ] level design - block out city
 - [ ] model - dumpster
 - [ ] model - urban wildlife (rat, pigeon, cats)
