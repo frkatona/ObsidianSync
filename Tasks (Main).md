@@ -1,6 +1,8 @@
  ---
 # Home
 
+paper TOC + font, icons group meeting, fb person, respond zack, alex, tell seana sunday IOOF
+
 ## General
  - [x] Groceries
  - [x] Order DVDs for Bojack
