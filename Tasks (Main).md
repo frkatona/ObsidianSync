@@ -1,7 +1,7 @@
  ---
 # Home
 
-paper TOC + font, icons group meeting, fb person, respond zack, alex, tell seana sunday IOOF
+paper TOC + font, icons group meeting, fb person, tell seana sunday IOOF
 
 ## General
  - [x] Groceries

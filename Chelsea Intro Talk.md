@@ -13,5 +13,5 @@
 	- who she influenced --> helps to understand them better
 	- informs 'what it means to be an author in the period'
 - direct
-	- invites analysis of economic independence
+	- invites analysis of economic independence etc
 ## How it could be expanded if I had more time
