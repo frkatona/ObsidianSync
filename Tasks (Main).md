@@ -1,7 +1,10 @@
  ---
 # Home
 
-paper TOC + font, icons group meeting, fb person, tell seana sunday IOOF
+- paper TOC + font
+- icons group meeting
+- fb person
+- tell Seana about Sunday IOOF (can she come?)
 
 ## General
  - [x] Groceries
