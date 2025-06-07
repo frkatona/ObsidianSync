@@ -1,12 +1,24 @@
  ---
 # Home
 
-paper TOC + font, icons group meeting, fb person, tell seana sunday IOOF
-
 ## General
  - [x] Groceries
- - [x] Order DVDs for Bojack
- - [ ] Bolt scratch/fluid chamber repair
+ - IOOF Jam
+	 - [ ] prepare list of covers
+	 - [ ] coordinate trip and audio equipment with Seana
+		 - [ ] Also take any necessary equipment for Tim's recording
+ - Bojack DVDs for Aspen
+	 - [x] Troubleshoot Bojack DVD S01
+	 - [ ] Generate S02
+	 - [ ] Find real DVD to test (episodes 7+ work and subtitles can be switched without menu)
+ - [ ] Edit/upload pics from Arena
+ - [ ] Message Sadia about rball, Eid (is there a celebration soon?)
+ - Prep knee for Monday
+	 - [ ] Ice knee to see if swelling goes down
+ - Bolt maintenance
+	 - [ ] scratch/fluid chamber repair
+	 - [ ] add more fluid
+	 - [ ] clean yellow scratches with clay bars
 ## Move
 
  - [ ] Disassemble materials for trash
@@ -19,18 +31,17 @@ paper TOC + font, icons group meeting, fb person, tell seana sunday IOOF
 	 - [ ] Polish Chelsea's timeline webpage (fix scroll cursor location + add panning)
 - Music
 	- ### [[Music]]
-	- [ ] Get Eric's recording onto computer to practice bass for next Sunday
-	- [ ] Bring CDs for JVJ
+	- [x] Get Eric's recording onto computer to practice bass for next Sunday
+	- [x] Bring CDs for JVJ
 
 ---
 # People
 
  - Reach out / respond
-	 - [ ] Eric
 	 - [ ] Zack R
  - check out everyone's projects from PyCon
 	 - [ ] tall streamer guitar guy
-	 - [ ] his friend guitar guy
+	 - [x] his friend guitar guy (mashups on soundcloud)
 	 - [ ] game people x3
 
 ---
