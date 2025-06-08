@@ -10,3 +10,5 @@
 - what is `pip install -e`?
 - https://threejs.org/manual/#en/installation
 - 3B1Br and Sebastian Lague Neural Network videos
+- wiki islamic holidays
+- setting frames to video length blender

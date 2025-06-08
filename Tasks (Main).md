@@ -1,6 +1,11 @@
  ---
 # Home
 
+<<<<<<< HEAD
+=======
+- practice cover songs for IOOF, message sadia, ask ben for ponyo bowl
+
+>>>>>>> origin/main
 ## General
  - [x] Groceries
  - IOOF Jam
