@@ -12,3 +12,7 @@
 - 3B1Br and Sebastian Lague Neural Network videos
 - wiki islamic holidays
 - setting frames to video length blender
+- youtube [vibe coding microsoft](https://www.youtube.com/watch?v=eo9UKLqfjhI)
+- hotkeys for obsidian commit and push
+- esp button clicker game
+- coding adventures: rasterizer
