@@ -1,11 +1,14 @@
 - ### Movement
-	- [ ] step
+	- [x] step 1/2
 	- [ ] jump
 	- [ ] climb
 	- [ ] fall
 	- [ ] land
 	- [ ] glide
-	- [ ] rail grind
+	- rail grind
+		- [ ] hop on
+		- [ ] grinding
+		- [ ] hop off
 - ### Proximity awareness
 	- [x] item
 	- [ ] fire (unlit)
@@ -15,18 +18,29 @@
 	- [ ] lava
 	- [ ] teleporter
 - ### Action feedback 
-	- [ ] block place
-	- [ ] sign read
-	- [ ] ball hit
+	- block
+		- [x] place
+		- [x] remove
+	- [x] sign read
+	- ball
+		- [ ] fall
+		- [x] hit
 	- [ ] death
 	- [ ] pickup
 		- [ ] coin (+pitch consecutive?)
 		- [ ] block
 		- [ ] special item
 	- [x] level change
-	- [x] character talk
-	- [x] response (affirmative)
-	- [x] response (negative)
+	- [x] teleport
+	- NPCs
+		- dialogue
+			- [x] character talk
+			- [ ]  response (affirmative)
+			- [x] response (negative)
+		-  animals
+			- [x] birdsong
+		- enemy
+			- [x] hit
 	- fishing
 		- [ ] start
 		- [ ] good QTE
@@ -40,3 +54,6 @@
 		- [ ] exit menu
 - ### Special
 	- [ ] flower grow
+
+6/9 Notes
+ - 
