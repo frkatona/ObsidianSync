@@ -3,8 +3,8 @@
 ---
 ### Lab
 -  Group meeting
-	- [ ] make wordless thesis
-	- [ ] pitch post-gm subgroup
+	- [x] make wordless thesis
+	- [x] pitch post-gm subgroup
 - Submit receipts for trip (Ask Taylor how tax works...read the email docs)
 	- [x] AirBnB receipt ($1011.09 vs $138/day * 6 days = $828)
 	- [x] PyCon ticket receipt ($125)
