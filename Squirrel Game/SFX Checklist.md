@@ -4,7 +4,10 @@
 	- [ ] climb
 	- [ ] fall
 	- [ ] land
-	- [ ] glide
+	- glide
+		- [ ] start
+		- [ ] active
+		- [ ] stop
 	- rail grind
 		- [ ] hop on
 		- [ ] grinding
@@ -56,4 +59,9 @@
 	- [ ] flower grow
 
 6/9 Notes
- - 
+ - Kaya
+	 - preferred to post basically any non-secret in one of the public channels going forward
+	 - try pivoting squirrel's sfx to squirrel noises (a la SM64)
+		 - chittering variations?  think on what other sounds squirrels might make
+	 - [x] add actions to rail grind sfx
+	 - [x] share github link to this checklist
