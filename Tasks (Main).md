@@ -3,23 +3,20 @@
 
 <<<<<<< HEAD
 =======
-- practice cover songs for IOOF, message sadia, ask ben for ponyo bowl
+- Follow up with Eric (pitch a day)
+- Start some temperature purchases
+- Measure basic temperature for Priya (and send info on multiple exposure tests)
+- message Sadia
+- ask ben for Ponyo's bowl
+- submit a new AC request
+- call Progressive
+- Home
+	- groceries
 
 >>>>>>> origin/main
 ## General
- - [x] Groceries
- - IOOF Jam
-	 - [ ] prepare list of covers
-	 - [ ] coordinate trip and audio equipment with Seana
-		 - [ ] Also take any necessary equipment for Tim's recording
- - Bojack DVDs for Aspen
-	 - [x] Troubleshoot Bojack DVD S01
-	 - [ ] Generate S02
-	 - [ ] Find real DVD to test (episodes 7+ work and subtitles can be switched without menu)
- - [ ] Edit/upload pics from Arena
+ - [ ] Groceries
  - [ ] Message Sadia about rball, Eid (is there a celebration soon?)
- - Prep knee for Monday
-	 - [ ] Ice knee to see if swelling goes down
  - Bolt maintenance
 	 - [ ] scratch/fluid chamber repair
 	 - [ ] add more fluid
