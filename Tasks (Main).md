@@ -1,19 +1,19 @@
  ---
 # Home
 
-<<<<<<< HEAD
-=======
-- Follow up with Eric (pitch a day)
-- Start some temperature purchases
-- Measure basic temperature for Priya (and send info on multiple exposure tests)
-- message Sadia
-- ask ben for Ponyo's bowl
-- submit a new AC request
-- call Progressive
+- Work
+	- Start some temperature purchases
+	- Measure basic temperature for Priya (and send info on multiple exposure tests)
 - Home
+	- Zack
+		- send wokwi homework
+		- read Dan's fluorimeter paper (look for laser to price estimate)
 	- groceries
-
->>>>>>> origin/main
+	- submit a new AC request
+	- call Progressive
+	- Follow up with Eric (pitch a day)
+	- ask ben for Ponyo's bowl
+	- message Sadia
 ## General
  - [ ] Groceries
  - [ ] Message Sadia about rball, Eid (is there a celebration soon?)

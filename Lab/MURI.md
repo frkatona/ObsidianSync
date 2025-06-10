@@ -7,10 +7,10 @@
 		- recall that TGA shows polymer without boron degrades around 450, but around 250 with Boron
 	- [x] bring it back on Sapphire for Tainara to cut
 - [ ] Buy stuff before spending pauses around the 15th
-	- [ ] O2 meter, appropriate thermocouple, better regulator
+	- [ ] O2 meter, appropriate thermocouple, better regulator, forming gas
 	- [ ] Thor stuff
 - [x] Respond to GCMS email
-- [ ] Get or take a desiccator downstairs
+- [ ] Get or take a desiccator downstairs (ask Kristen, see if it needs regenerated/bought again)
 - [ ] Try forming gas
 
 - [ ] Get FLIR images with or without wireless to report to Priya
