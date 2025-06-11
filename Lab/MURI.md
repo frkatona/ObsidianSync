@@ -12,10 +12,20 @@
 - [x] Respond to GCMS email
 - [ ] Get or take a desiccator downstairs (ask Kristen, see if it needs regenerated/bought again)
 - [ ] Try forming gas
-
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 6/11 Notes
+- Ben S. GCMS H2 (m = 2) peaks start alongside the small molecule (m = 15) (2500-4000 s)
+- JP - those boron species are highly reactive, "basically just jet fuel"
+	- JP concerned about the distance between the TGA and MS
+	- Pick up some thermally conductive tape to apply to sapphire
+- Ben - might be better with Ar carrier gas instead of N2
+- What was called B-H peaks evolving in FTIR approaching 1200 C (in Molecules 2018 23 2461) is dubious, lending weight to our skepticism of their proposed mechanism
+- JP will measure optical loss (k) on sapphire samples prepared as consistent as possible to explore why it is that absorption seems so low yet we're producing so much heat
+- Check into literature to see what we're doing differently
+	- is our mechanism different, "do we need this mechanism we're proposing"
+
 ### 6/4 Notes
 - GCMS doesn't show much change and there's some doubt about the veracity of the data considering the strangeness of various peaks
 - Could we borrow Ray's H2 meter to sample the gases that come off (if a lot of H2 comes off, it reinforces the "H-removal --> reactive boron" mechanism)

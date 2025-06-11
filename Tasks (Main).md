@@ -4,8 +4,10 @@
 - Work
 	- Start some temperature purchases
 	- Measure basic temperature for Priya (and send info on multiple exposure tests)
+	- Start PyCon purchasing paperwork
+	- Ask Kristen if there are more regulators upstairs and if we can take the vacuum chamber
 - Home
-	- check Adderall
+	- CVS adderall
 	- Zack
 		- ESP32 - read Dan's fluorimeter paper (look for laser to price estimate)
 		- speakers - gather parts from basement (amplifier (op amp?), photodiode)
@@ -15,7 +17,8 @@
 	- ask ben for Ponyo's bowl
 	- message Sadia
 ## General
- - [ ] Groceries
+
+ - [x] Groceries
  - [ ] Message Sadia about rball, Eid (is there a celebration soon?)
  - Bolt maintenance
 	 - [ ] scratch/fluid chamber repair
