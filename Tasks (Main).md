@@ -5,10 +5,10 @@
 	- Start some temperature purchases
 	- Measure basic temperature for Priya (and send info on multiple exposure tests)
 - Home
+	- check Adderall
 	- Zack
-		- send wokwi homework
-		- read Dan's fluorimeter paper (look for laser to price estimate)
-	- groceries
+		- ESP32 - read Dan's fluorimeter paper (look for laser to price estimate)
+		- speakers - gather parts from basement (amplifier (op amp?), photodiode)
 	- submit a new AC request
 	- call Progressive
 	- Follow up with Eric (pitch a day)
@@ -40,7 +40,7 @@
 # People
 
  - Reach out / respond
-	 - [ ] Zack R
+	 - [ ] Zack
  - check out everyone's projects from PyCon
 	 - [ ] tall streamer guitar guy
 	 - [x] his friend guitar guy (mashups on soundcloud)

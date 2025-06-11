@@ -35,7 +35,7 @@
 
 check out Blender 4.4 [new features](https://youtu.be/-eqPs-boihU?t=306)
 check out Blender Studio [pipeline features](https://studio.blender.org/projects/project-dogwalk/3dbedf9bab5c44/) (any code available?)
-
+check out Brackey's Lighting in Godot [YT video](https://www.youtube.com/watch?v=aRdiiWpA0AA)
 ### [[Task Cards]]
 ### [[SFX Checklist]]
 

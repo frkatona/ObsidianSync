@@ -3,6 +3,8 @@
 ### Misc. to-do
  - [ ] Watch Flow, Andor S02
  - [ ] Play Outer Wilds DLC
+ - [ ] color grade with sliders in Marimo
+ - [ ] 
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
@@ -16,3 +18,5 @@
 - hotkeys for obsidian commit and push
 - esp button clicker game
 - coding adventures: rasterizer
+- w3 python reference list and string methods
+- https://en.wikipedia.org/wiki/In-band_signaling
