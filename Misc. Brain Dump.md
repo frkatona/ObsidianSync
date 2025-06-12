@@ -4,7 +4,6 @@
  - [ ] Watch Flow, Andor S02
  - [ ] Play Outer Wilds DLC
  - [ ] color grade with sliders in Marimo
- - [ ] 
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
