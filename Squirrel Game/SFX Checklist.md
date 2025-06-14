@@ -58,7 +58,8 @@
 - ### Special
 	- [ ] flower grow
 
-6/9 Notes
+---
+### 6/9 Notes
  - Kaya
 	 - preferred to post basically any non-secret in one of the public channels going forward
 	 - try pivoting squirrel's sfx to squirrel noises (a la SM64)
