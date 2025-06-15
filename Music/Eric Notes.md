@@ -1,6 +1,7 @@
 # To-do
- - [ ] Follow up about practice day (ask if setlist still largely stands)
- - [ ] Prepare a more fx-driven version of Starlight for next Sunday
+ - [ ] Find cool effects for Eric's voice during 'Evidence'
+ - [ ] Practice all 4 originals
+ - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping + solo idea
 ---
 # Eric originals notes
 1. **Starlight** (conspiracy) (C#m → Cm)
