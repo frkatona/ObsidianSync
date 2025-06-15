@@ -1,9 +1,9 @@
 # To-do
- - [ ] Follow up about practice day (ask if setlist still largely stands)
- - [ ] Prepare a more fx-driven version of Starlight for next Sunday
+ - [x] Follow up about practice day (ask if setlist still largely stands)
+ - [ ] Prepare a more fx-driven version of Starlight for The Bar
 ---
 # Eric originals notes
-1. **Starlight** (conspiracy) (C#m → Cm)
+1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
@@ -19,19 +19,72 @@
 	8. Chorus
 	9. Instrumental (~2:40)
 		1. Bb→C, F, G#
-		2. Bb→C, F, D#
-2. **Right in Front of Their Eyes** (A#m → Cm)
-	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4
-		1. C, G# (4 bars each, x4) → silence for Eric’s virtuoso section
+		2. Bb→C, D#, F
+	10. Vocalizations
+		1. D, D#, C
+2. **Revolving Door** (A# → D# {+5})
+	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
+		1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
 	2. Verse 1
-		1. C, G#
-	3. Chorus (“right in front of our eyes”)
-		1. D#, E
+		1. A#, D#
+	3. Chorus (“right in front of our eyes”) (real = F# and D)
+		1. F#, D
 	4. Post-chorus instrumental
-		1. E→C# (slide), F#, G# (x3)
+		1. D→B (slide), E, F# (x2)
+		2. E again before the chorus F#
 	5. Chorus
 	6. Post chorus instrumental
 		1. Same, but hard cut before the F#
+3. Hypno-state (Dm)
+	1. Intro
+		1. D (but just let guitar go for ~16 measures)
+	2. Verse 1 
+		1. D playing around (lots of earlier Dm pentatonic licks)
+	3. Chorus
+		1. D
+	4. Verse 2
+	5. Chorus
+	6. Outro
+		1. Bb, A, F, E->G
+		2. Some weird stuff and then chromatic walk up from ~B
+	7. Chorus
+		1. Hold D(sus)
+4. Landline (halfway between pennsyltucky and {-})
+	1. Intro
+	2. Verse 1
+		1. D, F, D, F + G
+	3. Chorus
+		1. G, Bb, C, G, (repeat)
+	4. Slidey post-chorus
+		1. slidey (F to G# to F to C)
+		2. F-->G, A#, F, C x2
+		3. A (~4 bars)
+	5. Verse 2 (slower)
+	6. Slidey part
+		1. kinda like the chorus
+		2. vocalizations with A#, A
+		3. A
+5. It's Not Alright (F#m) (probably skip for thematic cohesion)
+	1. Verse
+		1. F#, A, E, D
+	2. Chorus
+		1. G, D, Am
+6. Oblivion ('gets weird partway through')
+	1. Verse 1
+		1. D, C, G x2 (with a E-F-G bassline every second time)
+	2. Chorus
+		1. ?
+7. Working Title ('let me work on that a bit first')
+	1. Verse 1
+		1. D->E (repeat) F
+8. She's Come to Me
+	1. Intro
+9. Ragged
+	1. Intro
+		1. E G D 
+	2. Chorus
+		1. C G F
+
 
 ---
 # Eric 'The Bar' Setlist
@@ -113,5 +166,8 @@
 8. Oblivion
 9. Evidence
 10. Atrium
-11. As the Sun Breaks
-12. Brain Damage
+11. As LP+}
+6/12 Notes
+]/[?:	1. Intro- bringing back old name "The Abducted"
+/'
+- Trippy stuff is mostly "cover up song" and "hypnostate"/

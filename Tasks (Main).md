@@ -7,15 +7,14 @@
 	- Start PyCon purchasing paperwork
 	- Ask Kristen if there are more regulators upstairs and if we can take the vacuum chamber
 - Home
-	- CVS adderall
 	- Zack
 		- ESP32 - read Dan's fluorimeter paper (look for laser to price estimate)
 		- speakers - gather parts from basement (amplifier (op amp?), photodiode)
-	- submit a new AC request
-	- call Progressive
-	- Follow up with Eric (pitch a day)
-	- ask ben for Ponyo's bowl
-	- message Sadia
+	- [x] submit a new AC request
+	- [ ] call Progressive
+	- [x] Follow up with Eric (pitch a day)
+	- [ ] ask ben for Ponyo's bowl
+	- [x] message Sadia
 ## General
 
  - [x] Groceries
