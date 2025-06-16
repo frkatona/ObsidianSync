@@ -2,6 +2,14 @@
 
 ---
 ### Lab
+- CB Properties paper proof
+	- line 23: 2x 'widely'
+	- line 79: 'different times'
+	- line 109: typo 'glass slide slides' --> skis (fix typo but also clarify wording)
+	- line 111: maybe add 'ordinary' to laboratory fluorescent lighting to clarify there's nothing special about the light source
+	- line 116: typo - 'LOR' is unbolded
+		- also, can a permutation be 'performed'? 
+	- lines 160 and 162: phrasing 'single spot of' --> maybe preferred 'single position on' and 'single 3 cm-diameter circular exposure site'
 -  Group meeting
 	- [x] make wordless thesis
 	- [x] pitch post-gm subgroup

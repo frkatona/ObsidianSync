@@ -3,13 +3,12 @@
  - [ ] Find cool effects for Eric's voice during 'Evidence'
  - [ ] Practice all 4 originals
  - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping + solo idea
-=======
- - [x] Follow up about practice day (ask if setlist still largely stands)
- - [ ] Prepare a more fx-driven version of Starlight for The Bar
->>>>>>> origin/main
+- Prepare a more fx-driven version of Starlight for The Bar
+	 - [ ] add delay + chorus wet to the FCB pedal
+	 - [ ] add grossbeat chops on/off to pedal note 
 ---
 # Eric originals notes
-1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
+### 1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
@@ -28,7 +27,7 @@
 		2. Bb→C, D#, F
 	10. Vocalizations
 		1. D, D#, C
-2. **Revolving Door** (A# → D# {+5})
+### 2. **Revolving Door** (A# → D# {+5})
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
 		1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
 	2. Verse 1
@@ -41,7 +40,7 @@
 	5. Chorus
 	6. Post chorus instrumental
 		1. Same, but hard cut before the F#
-3. Hypno-state (Dm)
+### 3. Hypno-state (Dm)
 	1. Intro
 		1. D (but just let guitar go for ~16 measures)
 	2. Verse 1 
@@ -55,7 +54,7 @@
 		2. Some weird stuff and then chromatic walk up from ~B
 	7. Chorus
 		1. Hold D(sus)
-4. Landline (halfway between pennsyltucky and {-})
+### 4. Landline (halfway between pennsyltucky and {-})
 	1. Intro
 	2. Verse 1
 		1. D, F, D, F + G
@@ -70,22 +69,22 @@
 		1. kinda like the chorus
 		2. vocalizations with A#, A
 		3. A
-5. It's Not Alright (F#m) (probably skip for thematic cohesion)
+### 5. It's Not Alright (F#m) (probably skip for thematic cohesion)
 	1. Verse
 		1. F#, A, E, D
 	2. Chorus
 		1. G, D, Am
-6. Oblivion ('gets weird partway through')
+### 6. Oblivion ('gets weird partway through')
 	1. Verse 1
 		1. D, C, G x2 (with a E-F-G bassline every second time)
 	2. Chorus
 		1. ?
-7. Working Title ('let me work on that a bit first')
+### 7. Working Title ('let me work on that a bit first')
 	1. Verse 1
 		1. D->E (repeat) F
-8. She's Come to Me
+### 8. She's Come to Me
 	1. Intro
-9. Ragged
+### 9. Ragged
 	1. Intro
 		1. E G D 
 	2. Chorus

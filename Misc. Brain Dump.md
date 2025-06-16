@@ -3,7 +3,19 @@
 ### Misc. to-do
  - [ ] Watch Flow, Andor S02
  - [ ] Play Outer Wilds DLC
- - [ ] color grade with sliders in Marimo
+ - [ ] Color grade with sliders in Marimo
+ - Move items
+	 - FBM or give away
+		 - [ ] FDM printer (offer to Zack?)
+		 - [ ] water heater (bring to lab?)
+		 - [ ] big screen CRT
+		 - [ ] marble roller
+		 - [ ] lifting bench/weights + dumbells
+		 - [ ] small dog crate?
+	 - disassemble for garbage
+		 - standing fan
+		 - metal fan (working?)
+		 - air fryer (katie pick up?  repairable?)
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
@@ -22,6 +34,5 @@
 - https://www.instructables.com/Tales-From-the-Chip-LM386-Audio-Amplifier/
 - https://en.wikipedia.org/wiki/Amplifier#:~:text=An%20amplifier%20is%20defined%20as,power%20gain%20greater%20than%20one.&text=An%20amplifier%20can%20be%20either,in%20almost%20all%20electronic%20equipment.
 - https://www.youtube.com/watch?v=aRdiiWpA0AA
-- https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s
-- https://youtu.be/pIk8I10ZmYY
-- 
+- [DIY Mass Spec YT Video](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
+- YT - [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)

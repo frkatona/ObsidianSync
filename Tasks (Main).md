@@ -11,14 +11,14 @@
 		- ESP32 - read Dan's fluorimeter paper (look for laser to price estimate)
 		- speakers - gather parts from basement (amplifier (op amp?), photodiode)
 	- [x] submit a new AC request
-	- [ ] call Progressive
+	- [x] call Progressive
 	- [x] Follow up with Eric (pitch a day)
 	- [ ] ask ben for Ponyo's bowl
 	- [x] message Sadia
+		- [ ] message again in a week
 ## General
 
  - [x] Groceries
- - [ ] Message Sadia about rball, Eid (is there a celebration soon?)
  - Bolt maintenance
 	 - [ ] scratch/fluid chamber repair
 	 - [ ] add more fluid
