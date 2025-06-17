@@ -1,15 +1,11 @@
 # To-do
-<<<<<<< HEAD
  - [x] Find cool effects for Eric's voice during 'Evidence'
  - [x] Practice all 4 originals
  - [x] Practice Pink Floyd's "In Bloom" on bass and explore the looping + solo idea
-<<<<<<< HEAD
 - Prepare a more fx-driven version of Starlight for The Bar
 	 - [ ] add delay + chorus wet to the FCB pedal
 	 - [ ] add grossbeat chops on/off to pedal note 
-=======
  - [x] Follow up about practice day (ask if setlist still largely stands)
->>>>>>> origin/main
 ---
 # Eric originals notes
 ### 1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
@@ -69,10 +65,14 @@
 		2. F-->G, A#, F, C x2
 		3. A (~4 bars)
 	5. Verse 2 (slower)
-	6. Slidey part
-		1. kinda like the chorus
-		2. vocalizations with A#, A
-		3. A
+	6. Chorus
+	7. Slidey part
+		1. kinda like the chorus just a little bit
+		2. A
+	8. Verse chords
+	9. Outro
+		1. vocalizations with A#, A
+		2. End on D
 ### 5. It's Not Alright (F#) (downer, possibly skip for thematic cohesion)
 	1. Intro
 		1. F#, A, E, D (playful, slow)
@@ -99,25 +99,19 @@
 		1. D, C, G x2 (with a E-F-G bassline every second time)
 	2. Chorus
 		1. ?
-### 7. Working Title ('let me work on that a bit first')
-	1. Verse 1
-		1. D->E (repeat) F
-### 8. She's Come to Me
+### 8. She's Come to Me (WIP)
 	1. Intro
-### 9. Ragged
+### 9. Ragged (WIP)
 	1. Intro
 		1. E G D 
 	2. Chorus
 		1. C G F
 ---
-1. Atrium
+### 1. Atrium (WIP)
 	1. asdf
-	2. asdf
-2. Wanderlust (Beatles-esque weird)
+### 2. Wanderlust (Beatles-esque weird)
 	1. Verse 1
 		1. G, D, F
-3. asdf
-4. 
 
 ---
 # Eric 'The Bar' Setlist
@@ -199,8 +193,12 @@
 8. Oblivion
 9. Evidence
 10. Atrium
-11. As LP+}
+
 6/12 Notes
-]/[?:	1. Intro- bringing back old name "The Abducted"
-/'
-- Trippy stuff is mostly "cover up song" and "hypnostate"/
+1. Intro- bringing back old name "The Abducted"
+	- Trippy stuff is mostly "cover up song" and "hypnostate"/
+6/17 Notes
+- Another Tom Petty cover to maybe learn keys for "You Got Lucky"
+- The Doors
+	- Love Her Madly keys
+	- Roadhouse Blues bass
