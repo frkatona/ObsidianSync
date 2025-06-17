@@ -1,11 +1,15 @@
 # To-do
 <<<<<<< HEAD
- - [ ] Find cool effects for Eric's voice during 'Evidence'
- - [ ] Practice all 4 originals
+ - [x] Find cool effects for Eric's voice during 'Evidence'
+ - [x] Practice all 4 originals
  - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping + solo idea
+<<<<<<< HEAD
 - Prepare a more fx-driven version of Starlight for The Bar
 	 - [ ] add delay + chorus wet to the FCB pedal
 	 - [ ] add grossbeat chops on/off to pedal note 
+=======
+ - [x] Follow up about practice day (ask if setlist still largely stands)
+>>>>>>> origin/main
 ---
 # Eric originals notes
 ### 1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
