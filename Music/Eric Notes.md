@@ -17,20 +17,21 @@
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
 		1. High C’s
-	3. “Newspaper reporters”
+	3. Verse 1 (“Newspaper reporters”)
 		1. Low C’s
 	4. Chorus (“They’re so proud to boast”)
 		1. D#, F, C
-	5. Post-chorus (falsetto voice section)
+	5. falsetto voice (?)
 		1. D, D#, C
-	6. Verse
+	6. Verse 2
 	7. Pre-chorus
 	8. Chorus
 	9. Instrumental (~2:40)
 		1. Bb→C, F, G#
 		2. Bb→C, D#, F
-	10. Vocalizations
+	10. falsetto voice
 		1. D, D#, C
+	11. Verse chords (outro instrumental)
 ### 2. **Revolving Door** (A# → D# {+5})
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
 		1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
