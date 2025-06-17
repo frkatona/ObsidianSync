@@ -2,7 +2,7 @@
 <<<<<<< HEAD
  - [x] Find cool effects for Eric's voice during 'Evidence'
  - [x] Practice all 4 originals
- - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping + solo idea
+ - [x] Practice Pink Floyd's "In Bloom" on bass and explore the looping + solo idea
 <<<<<<< HEAD
 - Prepare a more fx-driven version of Starlight for The Bar
 	 - [ ] add delay + chorus wet to the FCB pedal
@@ -73,11 +73,27 @@
 		1. kinda like the chorus
 		2. vocalizations with A#, A
 		3. A
-### 5. It's Not Alright (F#m) (probably skip for thematic cohesion)
-	1. Verse
+### 5. It's Not Alright (F#) (downer, possibly skip for thematic cohesion)
+	1. Intro
+		1. F#, A, E, D (playful, slow)
+	2. Verse 1
 		1. F#, A, E, D
-	2. Chorus
-		1. G, D, Am
+	3. Chorus 1 (2x)
+		1. G, D, Am, Am
+	4. Verse 2
+	5. Chorus 2 (4x)
+		1. 4 measures
+		2. end on B
+	6. Post-chorus shuffle
+		1. 'shuffle' between E and G
+		2. walk down C, B, A (just a moment) and repeat shuffle from top
+	7. Verse 3
+		1. Keep doing post chorus shuffle
+	8. Chorus 3
+	9. Post-chorus shuffle
+	10. Outro
+		1. E phrases ending with F#, G turnaround
+		2. end with sitting on an F# a few strums then E
 ### 6. Oblivion ('gets weird partway through')
 	1. Verse 1
 		1. D, C, G x2 (with a E-F-G bassline every second time)
@@ -93,7 +109,15 @@
 		1. E G D 
 	2. Chorus
 		1. C G F
-
+---
+1. Atrium
+	1. asdf
+	2. asdf
+2. Wanderlust (Beatles-esque weird)
+	1. Verse 1
+		1. G, D, F
+3. asdf
+4. 
 
 ---
 # Eric 'The Bar' Setlist
