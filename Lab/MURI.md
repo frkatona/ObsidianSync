@@ -15,6 +15,18 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 6/18 Notes
+- Asma slides
+	- above 1150K, B10H14 --> B10H12 + H2 is spontaneous
+	- barrier is ~150 kcal/mol forward, ~90 backward
+	- experimental H2 barrier calculations would be highly valuable
+- Ben S slides
+	- TGA-MS shows H2 and CH3 largely coming off first at ~300 C, both losses largely leveling (maybe H2 goes up a bit at 600 C and drops down).  Ben L raises point that it's really hard to compare the H2 and CH3 quantitatively b/c of unknown ionization efficiencies 
+- note to self
+	- Find a k-type to test for Priya
+	- Find photosensor (look up what accessible tech is highest response time)
+	- email TJ 
+
 ### 6/11 Notes
 - Ben S. GCMS H2 (m = 2) peaks start alongside the small molecule (m = 15) (2500-4000 s)
 - JP - those boron species are highly reactive, "basically just jet fuel"
