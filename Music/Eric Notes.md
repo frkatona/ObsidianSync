@@ -5,6 +5,8 @@
 - Prepare a more fx-driven version of Starlight for The Bar
 	 - [ ] add delay + chorus wet to the FCB pedal
 	 - [ ] add grossbeat chops on/off to pedal note 
+ - [ ] practice a Doors song on keyboard
+ - [ ] make a convincing tambourine (maybe automate across a song)
  - [x] Follow up about practice day (ask if setlist still largely stands)
 ---
 # Eric originals notes

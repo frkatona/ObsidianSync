@@ -7,15 +7,38 @@
 	- Start PyCon purchasing paperwork
 	- Ask Kristen if there are more regulators upstairs and if we can take the vacuum chamber
 - Home
-	- Zack
-		- ESP32 - read Dan's fluorimeter paper (look for laser to price estimate)
-		- speakers - gather parts from basement (amplifier (op amp?), photodiode)
-	- [x] submit a new AC request
-	- [x] call Progressive
-	- [x] Follow up with Eric (pitch a day)
+	- Zack - bring photodiode from basement to lab
 	- [ ] ask ben for Ponyo's bowl
-	- [x] message Sadia
-		- [ ] message again in a week
+	- [ ] ask Sadia when she's back from Spain
+- Trip
+	- Grocery list before/during trip
+		- [ ] milk
+		- [ ] cereal
+		- [ ] diet cola (2x 2L)
+		- [ ] chicken ramen
+		- [ ] 2 dozen eggs
+		- [ ] small olive oil
+		- [ ] cheap cut of steak
+		- [ ] travel bowl for ponyo
+	- pack
+		- food
+			- [ ] lemon/water bottle
+			- [ ] olive oil
+			- [ ] bouillon
+			- [ ] soylent
+		- toiletries/Rx/wear
+			- [ ] wipes
+			- [ ] clothes
+			- [ ] towel/body wash
+			- [ ] adderall
+		- music 
+			- [ ] interface/cables
+			- [ ] laptop
+			- [ ] guitar, pedalboard, keyboard
+			- [ ] power (extender/surge protector/phone charger cube/USB-C)
+		- misc
+			- [ ] fan
+	- break down fan and air fryer
 ## General
 
  - [x] Groceries

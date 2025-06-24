@@ -1,3 +1,19 @@
+ - test terrain game
+	 - add some blender objects
+		 - scatter trees and flora (bushes, grass, flowers)
+		 - buildings
+	 - [x] cursor capture bugs
+	 - [x] compass centering
+		 - [ ] (confirm it works in adaptive mode)
+	 - blink ability
+		 - player feedback
+			 - add sfx
+			 - UI blink cooldown
+			 - warp camera
+		 - prevent clipping through walls
+		 - add vertical killbox
+	 - explore docs/video for making tunnel/cave structures
+---
  - city-forest 'bullshitting platformer" level
 	 - [ ] base-building structure conducive to platforming
 	 - [ ] larger scale 3d platformer level design blockout

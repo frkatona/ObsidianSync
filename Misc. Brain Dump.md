@@ -1,8 +1,11 @@
 ### Ideas
 - Hot spot iPhone to Android in car
 ### Misc. to-do
- - [ ] Watch Flow, Andor S02
- - [ ] Play Outer Wilds DLC
+ - Watch
+	 - [ ] Flow
+	 - [ ] Andor S02
+ - Play 
+	 - [ ] Outer Wilds DLC
  - [ ] Color grade with sliders in Marimo
  - Move items
 	 - FBM or give away
@@ -35,4 +38,8 @@
 - https://en.wikipedia.org/wiki/Amplifier#:~:text=An%20amplifier%20is%20defined%20as,power%20gain%20greater%20than%20one.&text=An%20amplifier%20can%20be%20either,in%20almost%20all%20electronic%20equipment.
 - https://www.youtube.com/watch?v=aRdiiWpA0AA
 - [DIY Mass Spec YT Video](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
-- YT - [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
+- YT
+	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
+	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
+- https://leetcode.com/problems/longest-common-prefix/description/
+- 3DP - "snap-fit joints"
