@@ -3,18 +3,36 @@
 ---
 ### To-do
 - Find out if we are retaining ligand from the polymer
-	- [ ] run the white sample (no Boron) see what happens
+	- [x] run the white sample (no Boron) see what happens
 		- recall that TGA shows polymer without boron degrades around 450, but around 250 with Boron
 	- [x] bring it back on Sapphire for Tainara to cut
-- [ ] Buy stuff before spending pauses around the 15th
-	- [ ] O2 meter, appropriate thermocouple, better regulator, forming gas
-	- [ ] Thor stuff
-- [x] Respond to GCMS email
-- [ ] Get or take a desiccator downstairs (ask Kristen, see if it needs regenerated/bought again)
+- [ ] Buy stuff as soon as spending resumes on 6/30
+	- Vacuum chamber
+		- [ ] O2 meter
+		- [ ] thermocouple (type k? cold junction?)
+		- [ ] better regulator
+		- [ ] forming gas
+	- Thor stuff
+		- [ ] optics (collimate/lens light from source)
+		- [ ] split wavelengths (filtered mirrors?)
+		- [ ] signal enhancement (PMT?)
+		- [ ] ADC/Data Acquisition
+- [x] Get or take a desiccator downstairs (ask Kristen, see if it needs regenerated/bought again)
 - [ ] Try forming gas
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+
+### 6/25 Notes
+- Rob opening notes
+	- on-site is on (?) get to program manager 24th of July, so we need abstracts from everyone who is presenting for the posters everyone else is presenting
+- Ben S.
+	- MS signals show propane and butane ion currents raised around 200 C
+	- Rob - Check out broader source of papers on hydrogen release to get ideas for how to measure it better (H2 release as novel mechanism to precede ceramic transformation, particularly with photothermal)
+	- DCM cast samples appear different from the previous samples which might impact the ellipsometry that JP's group will do, and so Ben will have to think on whether JP's group is ok with that before he gets me sample
+		- Rob - "I think the cloudiness is a surface roughness thing because it's a homopolymer and homopolymers don't phase separate...maybe do an SEM of the film and see if it's porous...try holding cloudy samples at 75C in vacuum to anneal out the voids...maybe some kind of evaporation induced phase separation...interesting to consider if voids/pores play a role in photothermal absorption"
+	- Tainara XRD indexing shows BSi and no graphite
+		- Rob - "your silica should convert to quartz at these temperatures...that amorphous peak is throwing me off because everything (except for some carbon) should be crystalline at those temperatures)...try SAX and WAX"
 ### 6/18 Notes
 - Asma slides
 	- above 1150K, B10H14 --> B10H12 + H2 is spontaneous
@@ -66,7 +84,6 @@
 	3. How far does what size beam move during a single pulse
 		1. Try just lasing one a single spot (no movement) to see if it accounts for the weird scarring patterns on the SEM images
 		2. Try making the beam as big as possible and change the duty cycle at a single spot
-		    
 		3. ‘Anything we can establish as a constant, we have to march through that parameter space’
 		4. How can we get it to not move at all? Try at minimum speed when the beam size is big from being defocused (or lens expanded) so that it doesn’t move off the same spot
 			1. Or just try the YAG which is static and big already
