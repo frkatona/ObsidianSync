@@ -22,7 +22,36 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 6/26 Notes
+- Paper notes
+	- (2024) Horcher - Ceramic coatings from PDC (silazane + Al2O3/ZrO2) lasing
+		- motivated by need for ceramic coating formation mechanism where heat does not penetrate to the substrate, permitting application of materials which cannot be exposed to corrosive environments, but are thermally sensitive (here, high strength-to-weight magnesium alloys)
+			- first establishes disadvantages with alternatives:
+				- electroplating and chromating deal with toxic chemicals
+				- anodizing with hard oxide ceramic-like surfaces leads to porous coatings which are permeable to corrosive environments
+				- organic coatings are limited in application temperature and are susceptible to mechanical damage
+				- vapor deposition (CVD or PVD) are costly and limited by their complexity
+			- PCDs are good (commonly poly-siloxanes, -silanes, -carbosilanes, and -silazanes)
+				- suspensions can be applied to surfaces through simple methods like dipping, spraying, spin-coating, and doctor blade
+				- drawback is high shrinkage (~50% volume) leading to pores/cracks increasing with thickness due to gaseous pyrolysis products
 
+
+
+- Purchase notes
+	- Regulator (check inlet type) - [CGA580 inlet](https://www.amazon.com/ARCCAPTAIN-Regulators-Welding-Regulator-Connection/dp/B0D1KD5ZPT?sr=8-10) - $40
+	- thermocouple
+		- sensor
+		- reader
+	- oscilloscope probes ([tektronix passive](https://www.tek.com/en/products/oscilloscopes/oscilloscope-probes/passive-probe#) x2 = $168)
+	- Vacuum container properties
+		- able to mechanically seal, resistant to positive pressure (maybe bolts, but ideally something like a [toggle latch](https://www.amazon.com/Toggle-Latch-Pack-Adjustable-Industrial/dp/B0DKFPCRWG?dib=eyJ2IjoiMSJ9.n4y-4bK6e84yc7qxJion7bHdlDnSr3YWVcDGWarWVgOQO41DWCpuaXuUtMXyuSBrX70luV1KdsihFEV_aSipPKLUbER6pckyyDU6dvCkkHKZodt-IBVw8wIZ903QuhqToGwgTIAees8CkSHfSj525Pm4I8tg_BLfWfgJcY6EUn1ZuV3y4MacADrdSfs0SRlGn1IlpegANrXD2mAzCpuDKXnKYxpypZob-00ucG9HJYr2LaFl-9ghPYVEc1Gg-Wl5VD7AsidH3lUTUM3K5Ciw8Pd-lnxucNsUPvMNjI7LSF8.IfA3-UC-2EnzsI7GxKMGerrF6zxfPwCpp4ekDOYz74c&dib_tag=se&keywords=toggle+latch&qid=1750951998&sr=8-1) ~$17)
+		- low absorption, strong, transparent enclosure
+			- possibility 1: Pyrex top clamped onto steel enclosure
+			- possibility 2: solvent-welded acrylic
+				- easier to bolt to, but would need thick pieces to not break, along with nuts and o-rings
+				- buy [solvent cement](https://www.amazon.com/Weld-Acrylic-Plastic-Cement-Applicator/dp/B0149IG548) $20
+		- big enough to house O2, H2O, VOC sensors + pyrometer
+		- port for wires
 ### 6/25 Notes
 - Rob opening notes
 	- on-site is on (?) get to program manager 24th of July, so we need abstracts from everyone who is presenting for the posters everyone else is presenting
