@@ -43,3 +43,4 @@
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
 - https://leetcode.com/problems/longest-common-prefix/description/
 - 3DP - "snap-fit joints"
+- https://wokwi.com/rust

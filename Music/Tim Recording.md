@@ -1,5 +1,9 @@
 ### 6/27 Notes
 ---
+### 6/27 Notes
+- Lots of Ducks available
+	- add a solo at 8-16 bar break (117?)
+- inspiration bands ghost funk orchestra (walk like a motherfucker), bronco
 ### 6/14 Notes
 - Hammer's Gonna Fall
 	- shortened intro to 8 bars (from 12)
