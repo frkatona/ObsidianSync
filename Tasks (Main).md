@@ -2,14 +2,16 @@
 # Home
 
 - Work
-	- Start some temperature purchases
+	- [ ] Start temperature purchases and ask Ben S if he wants me to wait a week
 	- Measure basic temperature for Priya (and send info on multiple exposure tests)
 	- Start PyCon purchasing paperwork
 	- Retrieve vacuum dessicator
 	- Set up alternative regulator, see if 
 - Home
-	- Zack - bring photodiode from basement to lab
-	- [ ] ask ben for Ponyo's bowl
+	- [ ] Zack - bring photodiode from basement to lab
+	- [ ] Terrain + Blender imports for show and tell
+	- [ ] respond Jason
+	- [ ] ask ben for Ponyo's bowl (or buy from Amazon)
 	- [ ] ask Sadia when she's back from Spain
 	- Seana Open Mic
 		- leave at 1:15
