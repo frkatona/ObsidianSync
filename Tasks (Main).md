@@ -5,39 +5,17 @@
 	- Start some temperature purchases
 	- Measure basic temperature for Priya (and send info on multiple exposure tests)
 	- Start PyCon purchasing paperwork
-	- Ask Kristen if there are more regulators upstairs and if we can take the vacuum chamber
+	- Retrieve vacuum dessicator
+	- Set up alternative regulator, see if 
 - Home
 	- Zack - bring photodiode from basement to lab
 	- [ ] ask ben for Ponyo's bowl
 	- [ ] ask Sadia when she's back from Spain
-- Trip
-	- Grocery list before/during trip
-		- [ ] milk
-		- [ ] cereal
-		- [ ] diet cola (2x 2L)
-		- [ ] chicken ramen
-		- [ ] 2 dozen eggs
-		- [ ] small olive oil
-		- [ ] cheap cut of steak
-		- [ ] travel bowl for ponyo
-	- pack
-		- food
-			- [ ] lemon/water bottle
-			- [ ] olive oil
-			- [ ] bouillon
-			- [ ] soylent
-		- toiletries/Rx/wear
-			- [ ] wipes
-			- [ ] clothes
-			- [ ] towel/body wash
-			- [ ] adderall
-		- music 
-			- [ ] interface/cables
-			- [ ] laptop
-			- [ ] guitar, pedalboard, keyboard
-			- [ ] power (extender/surge protector/phone charger cube/USB-C)
-		- misc
-			- [ ] fan
+	- Seana Open Mic
+		- leave at 1:15
+		- bring
+			- cables from room
+			- paper/marker
 	- break down fan and air fryer
 ## General
 

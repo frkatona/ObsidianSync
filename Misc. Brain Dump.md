@@ -44,3 +44,4 @@
 - https://leetcode.com/problems/longest-common-prefix/description/
 - 3DP - "snap-fit joints"
 - https://wokwi.com/rust
+- https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_3d_shader.html
