@@ -2,13 +2,14 @@
 # Home
 
 - Work
-	- Start some temperature purchases
+	- [ ] Start temperature purchases and ask Ben S if he wants me to wait a week
 	- Measure basic temperature for Priya (and send info on multiple exposure tests)
 	- Start PyCon purchasing paperwork
 	- Ask Kristen if there are more regulators upstairs and if we can take the vacuum chamber
 - Home
 	- Zack - bring photodiode from basement to lab
-	- [ ] ask ben for Ponyo's bowl
+	- [ ] respond Jason
+	- [ ] ask ben for Ponyo's bowl (or buy from Amazon)
 	- [ ] ask Sadia when she's back from Spain
 - Trip
 	- Grocery list before/during trip
