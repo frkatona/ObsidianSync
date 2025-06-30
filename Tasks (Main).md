@@ -7,7 +7,8 @@
 	- Start PyCon purchasing paperwork
 	- Ask Kristen if there are more regulators upstairs and if we can take the vacuum chamber
 - Home
-	- Zack - bring photodiode from basement to lab
+	- [ ] Zack - bring photodiode from basement to lab
+	- [ ] Terrain + Blender imports for show and tell
 	- [ ] respond Jason
 	- [ ] ask ben for Ponyo's bowl (or buy from Amazon)
 	- [ ] ask Sadia when she's back from Spain
