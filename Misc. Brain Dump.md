@@ -51,3 +51,4 @@
 - https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_3d_shader.html
 - mounting onto acrylic -face -photo
 - https://www.w3schools.com/cpp/cpp_functions_lambda.asp
+- https://github.com/google-gemini/gemini-cli

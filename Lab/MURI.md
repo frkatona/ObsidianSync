@@ -2,6 +2,17 @@
 
 ---
 ### To-do
+ - lab
+	 - [ ] Try lasing through acrylic in lab before buying full container
+ - home
+	 -  Search one last time for temperature determination in literature
+		 - Onedrive folder
+		 - wider lit search
+	 - Purchasing
+	 - Ask Ben S
+		 - [ ] most recent video recordings
+		 - [ ] If he'd prefer to wait until next week for new case/regulator
+
 - Find out if we are retaining ligand from the polymer
 	- [x] run the white sample (no Boron) see what happens
 		- recall that TGA shows polymer without boron degrades around 450, but around 250 with Boron
@@ -11,12 +22,29 @@
 		- [ ] O2 meter ([RKI wireless](https://sensorpros.com/products/rki-instruments-gx3r-pro-gas-detector-with-wireless-communication?variant=39736879087690) $700, call about O2 sensitivity)
 		- [ ] thermocouple (type k? cold junction?)
 		- [ ] better regulator
-		- [ ] forming gas
+		- [ ] forming gas (just get an H2 cylinder to run with Ar? Or is there Ar + H available?)
 	- Thor stuff
 		- [ ] optics (collimate/lens light from source)
 		- [ ] split wavelengths (filtered mirrors?)
 		- [ ] signal enhancement (PMT?)
 		- [ ] ADC/Data Acquisition
+	- Misc
+		- Regulator (check inlet type) - [CGA580 inlet](https://www.amazon.com/ARCCAPTAIN-Regulators-Welding-Regulator-Connection/dp/B0D1KD5ZPT?sr=8-10) - $40
+		- thermocouple
+			- sensor
+			- reader
+		- oscilloscope (file:///C:/Users/antho/Downloads/071281002web.pdf)
+			- probes ([tektronix passive](https://www.tek.com/en/products/oscilloscopes/oscilloscope-probes/passive-probe#) x2 = $168)
+		- Vacuum container
+			- google image 'positive pressure glass vacuum box'
+			- able to mechanically seal, resistant to positive pressure (maybe bolts, but ideally something like a [toggle latch](https://www.amazon.com/Toggle-Latch-Pack-Adjustable-Industrial/dp/B0DKFPCRWG?dib=eyJ2IjoiMSJ9.n4y-4bK6e84yc7qxJion7bHdlDnSr3YWVcDGWarWVgOQO41DWCpuaXuUtMXyuSBrX70luV1KdsihFEV_aSipPKLUbER6pckyyDU6dvCkkHKZodt-IBVw8wIZ903QuhqToGwgTIAees8CkSHfSj525Pm4I8tg_BLfWfgJcY6EUn1ZuV3y4MacADrdSfs0SRlGn1IlpegANrXD2mAzCpuDKXnKYxpypZob-00ucG9HJYr2LaFl-9ghPYVEc1Gg-Wl5VD7AsidH3lUTUM3K5Ciw8Pd-lnxucNsUPvMNjI7LSF8.IfA3-UC-2EnzsI7GxKMGerrF6zxfPwCpp4ekDOYz74c&dib_tag=se&keywords=toggle+latch&qid=1750951998&sr=8-1) ~$17)
+			- low absorption, strong, transparent enclosure
+				- possibility 1: Pyrex top clamped onto steel enclosure
+				- possibility 2: solvent-welded acrylic
+					- easier to bolt to, but would need thick pieces to not break, along with nuts and o-rings
+					- buy [solvent cement](https://www.amazon.com/Weld-Acrylic-Plastic-Cement-Applicator/dp/B0149IG548) $20
+			- big enough to house O2, H2O, VOC sensors + pyrometer
+			- port for wires
 - [x] Get or take a desiccator downstairs (ask Kristen, see if it needs regenerated/bought again)
 - [ ] Try forming gas
 - [ ] Get FLIR images with or without wireless to report to Priya
@@ -36,23 +64,7 @@
 				- drawback is high shrinkage (~50% volume) leading to pores/cracks increasing with thickness due to gaseous pyrolysis products
 
 
-- Purchase notes
-	- Regulator (check inlet type) - [CGA580 inlet](https://www.amazon.com/ARCCAPTAIN-Regulators-Welding-Regulator-Connection/dp/B0D1KD5ZPT?sr=8-10) - $40
-	- thermocouple
-		- sensor
-		- reader
-	- oscilloscope (file:///C:/Users/antho/Downloads/071281002web.pdf)
-		- probes ([tektronix passive](https://www.tek.com/en/products/oscilloscopes/oscilloscope-probes/passive-probe#) x2 = $168)
-	- Vacuum container
-		- google image 'positive pressure glass vacuum box'
-		- able to mechanically seal, resistant to positive pressure (maybe bolts, but ideally something like a [toggle latch](https://www.amazon.com/Toggle-Latch-Pack-Adjustable-Industrial/dp/B0DKFPCRWG?dib=eyJ2IjoiMSJ9.n4y-4bK6e84yc7qxJion7bHdlDnSr3YWVcDGWarWVgOQO41DWCpuaXuUtMXyuSBrX70luV1KdsihFEV_aSipPKLUbER6pckyyDU6dvCkkHKZodt-IBVw8wIZ903QuhqToGwgTIAees8CkSHfSj525Pm4I8tg_BLfWfgJcY6EUn1ZuV3y4MacADrdSfs0SRlGn1IlpegANrXD2mAzCpuDKXnKYxpypZob-00ucG9HJYr2LaFl-9ghPYVEc1Gg-Wl5VD7AsidH3lUTUM3K5Ciw8Pd-lnxucNsUPvMNjI7LSF8.IfA3-UC-2EnzsI7GxKMGerrF6zxfPwCpp4ekDOYz74c&dib_tag=se&keywords=toggle+latch&qid=1750951998&sr=8-1) ~$17)
-		- low absorption, strong, transparent enclosure
-			- possibility 1: Pyrex top clamped onto steel enclosure
-			- possibility 2: solvent-welded acrylic
-				- easier to bolt to, but would need thick pieces to not break, along with nuts and o-rings
-				- buy [solvent cement](https://www.amazon.com/Weld-Acrylic-Plastic-Cement-Applicator/dp/B0149IG548) $20
-		- big enough to house O2, H2O, VOC sensors + pyrometer
-		- port for wires
+
 ### 6/25 Notes
 - Rob opening notes
 	- on-site is on (?) get to program manager 24th of July, so we need abstracts from everyone who is presenting for the posters everyone else is presenting
