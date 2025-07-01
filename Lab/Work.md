@@ -16,5 +16,6 @@
 	- [x] Travel [mileage](https://www.irs.gov/tax-professionals/standard-mileage-rates) (289 mi * $0.70/mi = $202.30)
 	- [x] Per Diem x meals x days (2x $60 + 4x $80 = $440)
 	- total = $1595.30
+- Reach out to Dr. Maslak about chemistry game
 
 ## see [[MURI]]
