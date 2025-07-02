@@ -9,6 +9,16 @@
  - [ ] make a convincing tambourine (maybe automate across a song)
  - [x] Follow up about practice day (ask if setlist still largely stands)
 ---
+# Practice Notes
+### 6/12 Notes
+1. Intro- bringing back old name "The Abducted"
+	- Trippy stuff is mostly "cover up song" and "hypnostate"/
+### 6/17 Notes
+- Another Tom Petty cover to maybe learn keys for "You Got Lucky"
+- The Doors
+	- Love Her Madly keys
+	- Roadhouse Blues bass
+---
 # Eric originals notes
 ### 1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
 	1. Intro (~8 bars) “low stuff”
@@ -43,7 +53,7 @@
 	5. Chorus
 	6. Post chorus instrumental
 		1. Same, but hard cut before the F#
-### 3. Hypno-state (Dm)
+### **3. Hypno-state (Dm)**
 	1. Intro
 		1. D (but just let guitar go for ~16 measures)
 	2. Verse 1 
@@ -57,7 +67,7 @@
 		2. Some weird stuff and then chromatic walk up from ~B
 	7. Chorus
 		1. Hold D(sus)
-### 4. Landline (halfway between pennsyltucky and {-})
+### **4. Landline (halfway between pennsyltucky and {-})**
 	1. Intro
 	2. Verse 1
 		1. D, F, D, F + G
@@ -76,7 +86,7 @@
 	9. Outro
 		1. vocalizations with A#, A
 		2. End on D
-### 5. It's Not Alright (F#) (downer, possibly skip for thematic cohesion)
+### **5. It's Not Alright (F#) (downer, possibly skip for thematic cohesion)**
 	1. Intro
 		1. F#, A, E, D (playful, slow)
 	2. Verse 1
@@ -97,27 +107,31 @@
 	10. Outro
 		1. E phrases ending with F#, G turnaround
 		2. end with sitting on an F# a few strums then E
-### 6. Oblivion ('gets weird partway through')
+### **6. Oblivion ('gets weird partway through')**
 	1. Verse 1
 		1. D, C, G x2 (with a E-F-G bassline every second time)
 	2. Chorus
 		1. ?
-### 8. She's Come to Me (WIP)
+---
+---
+## WIP
+### 1. She's Come to Me (WIP)
 	1. Intro
-### 9. Ragged (WIP)
+### 2. Ragged (WIP)
 	1. Intro
 		1. E G D 
 	2. Chorus
 		1. C G F
 ---
-### 1. Atrium (WIP)
+### 3. Atrium (WIP)
 	1. asdf
-### 2. Wanderlust (Beatles-esque weird)
+### 4. Wanderlust (WIP) (Beatles-esque weird)
 	1. Verse 1
 		1. G, D, F
 
 ---
-# Eric 'The Bar' Setlist
+---
+# Setlist from 'The Bar' performance
 
 ### Covers 1 ('Power Hour')
 
@@ -197,11 +211,5 @@
 9. Evidence
 10. Atrium
 
-6/12 Notes
-1. Intro- bringing back old name "The Abducted"
-	- Trippy stuff is mostly "cover up song" and "hypnostate"/
-6/17 Notes
-- Another Tom Petty cover to maybe learn keys for "You Got Lucky"
-- The Doors
-	- Love Her Madly keys
-	- Roadhouse Blues bass
+---
+

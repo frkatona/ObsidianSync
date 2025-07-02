@@ -41,6 +41,14 @@
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
+	- [Andre Kelley DoD](https://youtu.be/IroPQ150F6c)
+	- [Every type of capacitor](https://youtu.be/Fwng7mRuOVw)
+
+[](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/
 - 3DP - "snap-fit joints"
 - https://wokwi.com/rust
+- https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_3d_shader.html
+- mounting onto acrylic -face -photo
+- https://www.w3schools.com/cpp/cpp_functions_lambda.asp
+- https://github.com/google-gemini/gemini-cli

@@ -1,10 +1,23 @@
+ - 2025-06-03 Meeting
+	 - To-do
+		 - scatter blender objects (flora, buildings, etc.) in a terrain world
+	 - Terrain notes (mostly [tutorial 2](https://youtu.be/YtiAI2F6Xkk))
+		 - holes demo
+		 - porting materials from libraries (e.g., ambientcg.com)
+		 - painting wetness
+		 -  bake occluder 3D (in 'Terrain3D Tools')
+		 - flickering fix
+		 - start with procedural noise (~19:30)
+		 - vegetation placement techniques - manual, proton scatter, simple grass textured, "Asset Placer" (commercial)
+	 - Meeting notes
+
+
  - test terrain game
 	 - add some blender objects
 		 - scatter trees and flora (bushes, grass, flowers)
 		 - buildings
 	 - [x] cursor capture bugs
 	 - [x] compass centering
-		 - [ ] (confirm it works in adaptive mode)
 	 - blink ability
 		 - player feedback
 			 - add sfx
