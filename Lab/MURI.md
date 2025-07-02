@@ -1,6 +1,12 @@
 ---
 
 ---
+
+ - one slide on background (how we think through this)
+	 - difficult to think through the isolated heat sources since we don't know what they are, so maybe don't allude too much (is JP doing his reflectance thing?)
+	 - mostly important that heating and cooling is fast, we can get to high temps
+ - one slide on the lasing conditions (chamber, laser) and before and shot for the actual sample
+ - then JP probably will be the one with all the characterization slides, but we can send the first XRD on a third slide and let Mike sort it out
 ### To-do
  - lab
 	 - [ ] Try lasing through acrylic in lab before buying full container
@@ -24,7 +30,11 @@
 		- [ ] better regulator
 		- [ ] forming gas (just get an H2 cylinder to run with Ar? Or is there Ar + H available?)
 	- Thor stuff
-		- [ ] optics (collimate/lens light from source)
+		- [ ] optics
+			- [ ] microscope objective for ~1 um OR simple lens for ~1 cm
+			- [ ] apertures/fiber to define the collection area
+		- [ ] detectors
+			- [ ] photo-diodes and photo-multipliers with rise times of ~nanoseconds (e.g., InGaAs or Ge photodiodes for the near IR ~800-1700, e.g. Xu et al.)
 		- [ ] split wavelengths (filtered mirrors?)
 		- [ ] signal enhancement (PMT?)
 		- [ ] ADC/Data Acquisition

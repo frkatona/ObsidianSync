@@ -9,6 +9,16 @@
  - [ ] make a convincing tambourine (maybe automate across a song)
  - [x] Follow up about practice day (ask if setlist still largely stands)
 ---
+# Practice Notes
+### 6/12 Notes
+1. Intro- bringing back old name "The Abducted"
+	- Trippy stuff is mostly "cover up song" and "hypnostate"/
+### 6/17 Notes
+- Another Tom Petty cover to maybe learn keys for "You Got Lucky"
+- The Doors
+	- Love Her Madly keys
+	- Roadhouse Blues bass
+---
 # Eric originals notes
 ### 1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
 	1. Intro (~8 bars) “low stuff”
@@ -104,7 +114,7 @@
 		1. ?
 ---
 ---
-# WIP
+## WIP
 ### 1. She's Come to Me (WIP)
 	1. Intro
 ### 2. Ragged (WIP)
@@ -202,12 +212,4 @@
 10. Atrium
 
 ---
-# Practice Notes
-### 6/12 Notes
-1. Intro- bringing back old name "The Abducted"
-	- Trippy stuff is mostly "cover up song" and "hypnostate"/
-### 6/17 Notes
-- Another Tom Petty cover to maybe learn keys for "You Got Lucky"
-- The Doors
-	- Love Her Madly keys
-	- Roadhouse Blues bass
+
