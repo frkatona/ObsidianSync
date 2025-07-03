@@ -1,24 +1,19 @@
  ---
-# Home
+# Immediate
 
 - Work
-	- [ ] Start temperature purchases and ask Ben S if he wants me to wait a week
-	- Measure basic temperature for Priya (and send info on multiple exposure tests)
-	- Start PyCon purchasing paperwork
-	- Retrieve vacuum dessicator
-	- Set up alternative regulator, see if 
+	- [ ] Make Ben MURI slide
+	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
+	- [ ] Start temperature purchases
+	- [ ] Start PyCon purchasing paperwork
+	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
+	- [ ] Kristen code, Jackie IR, Jackie lift
 - Home
-	- [ ] Zack - bring photodiode from basement to lab
-	- [ ] Terrain + Blender imports for show and tell
-	- [ ] respond Jason
-	- [ ] ask ben for Ponyo's bowl (or buy from Amazon)
+	- [ ] tell Jason about Tuesday
+	- [ ] buy new ponyo bowl from amazon
 	- [ ] ask Sadia when she's back from Spain
-	- Seana Open Mic
-		- leave at 1:15
-		- bring
-			- cables from room
-			- paper/marker
-	- break down fan and air fryer
+	- [ ] break down fan and air fryer
+	- [ ] schedule visits, negotiate with 
 ## General
 
  - [x] Groceries
@@ -33,8 +28,6 @@
 ## Hobby
 - Squirrel Game (see [[Squirrel Game]])
 - Coding
-	 - [ ] Kristen Firebase
-	 - [ ] React game + NPM onto website
 	 - [ ] Polish Chelsea's timeline webpage (fix scroll cursor location + add panning)
 - Music
 	- ### [[Music]]

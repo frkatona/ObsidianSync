@@ -67,6 +67,11 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 7/02
+- (little bit of a repeat) JP built a TGA MS similar to what the MSC has
+- H2 basically fully peaks before the methane begins to come off, reinforcing notion that H2 removal is a part of the mechanism
+- to-do
+	- get good pics/vids of before/after samples and the lasing process
 ### 6/26 Notes
 - Paper notes
 	- (2024) Horcher - Ceramic coatings from PDC (silazane + Al2O3/ZrO2) lasing
