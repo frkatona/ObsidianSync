@@ -7,6 +7,13 @@
 	 - mostly important that heating and cooling is fast, we can get to high temps
  - one slide on the lasing conditions (chamber, laser) and before and shot for the actual sample
  - then JP probably will be the one with all the characterization slides, but we can send the first XRD on a third slide and let Mike sort it out
+
+7/1 thoughts
+- work on scripting (ideally no labview, but maybe labview) 
+	- visualize oscilloscope output in real time
+	- sync with a secondary input
+	- capture output a given time
+	- fit a blackbody to 4 points
 ### To-do
  - lab
 	 - [ ] Try lasing through acrylic in lab before buying full container
@@ -29,13 +36,13 @@
 		- [ ] thermocouple (type k? cold junction?)
 		- [ ] better regulator
 		- [ ] forming gas (just get an H2 cylinder to run with Ar? Or is there Ar + H available?)
-	- Thor stuff
+	- Thor etc. vendor purchases
 		- [ ] optics
 			- [ ] microscope objective for ~1 um OR simple lens for ~1 cm
 			- [ ] apertures/fiber to define the collection area
 		- [ ] detectors
 			- [ ] photo-diodes and photo-multipliers with rise times of ~nanoseconds (e.g., InGaAs or Ge photodiodes for the near IR ~800-1700, e.g. Xu et al.)
-		- [ ] split wavelengths (filtered mirrors?)
+		- [ ] split wavelengths (filtered mirrors? prism/grating?)
 		- [ ] signal enhancement (PMT?)
 		- [ ] ADC/Data Acquisition
 	- Misc
