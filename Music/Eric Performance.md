@@ -12,13 +12,16 @@
 # Practice Notes
 ### 7/3 Notes (AK home practice)
 - to-do
-	- Sylvie's vocals on 'Cover-up Song'
-	- plan timeline
+	- [ ] Record Sylvie's vocals on 'Cover-up Song'
+	- [ ] plan timeline
 		- next practice(s)?
 		- start to finalize song list?  number of songs? 
 			- how many with Sylvie or me?
 		- drummer?  other members?
 		- special gear?
+	- [ ] rehearse 'Cover-up Song'
+		- [ ] figure out Sylvie's vocals/guitar
+	- Remind Eric to bring lyrics for the songs he wants Sylvie to sing to Saturday's jam
 ### 6/12 Notes
 1. Intro- bringing back old name "The Abducted"
 	- Trippy stuff is mostly "cover up song" and "hypnostate"/
