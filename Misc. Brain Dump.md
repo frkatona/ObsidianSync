@@ -43,6 +43,10 @@
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
 	- [Andre Kelley DoD](https://youtu.be/IroPQ150F6c)
 	- [Every type of capacitor](https://youtu.be/Fwng7mRuOVw)
+	- [simulating 256 bytes RAM](https://www.youtube.com/watch?v=HGkuRp5HfH8)
+	- Ben Eater [8-bit Computer](https://youtu.be/HyznrdDSSGM?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+	- [shadow math ](https://youtu.be/MuvuxHXLzls)
+	- 
 
 [](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/
@@ -52,3 +56,6 @@
 - mounting onto acrylic -face -photo
 - https://www.w3schools.com/cpp/cpp_functions_lambda.asp
 - https://github.com/google-gemini/gemini-cli
+- chemical composition of dirt
+- UCUPaint latest version
+- Silo TV Series
