@@ -20,14 +20,12 @@
 			- instead of chorus we rehearsed an outro with the D-G vamp
 		- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
 		- [ ] Doors - Love Her Madly
+		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
 	- [ ] Keyboard
 		- [ ] Tom Petty - You Got Lucky
 			- DX7 brass
 			- Initial bit is Dm just walking down the 7
 			- Figure out the melody in the center
-- ? Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
-- 
-
 ### 7/3 Notes (AK home practice)
 - to-do
 	- [ ] Record Sylvie's vocals on 'Cover-up Song'
