@@ -10,6 +10,24 @@
  - [x] Follow up about practice day (ask if setlist still largely stands)
 ---
 # Practice Notes
+### 7/8 Notes
+- Sylvie can be here today and 6-9 tomorrow
+- take-home practice songs
+	- [ ] Bass
+		- [ ] CCR - Heard it through the Grapevine
+		- [ ] Prince - Purple Rain
+		- [ ] Def Leppard - [Hysteria](https://tabs.ultimate-guitar.com/tab/def-leppard/hysteria-chords-1052725)
+			- instead of chorus we rehearsed an outro with the D-G vamp
+		- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
+		- [ ] Doors - Love Her Madly
+	- [ ] Keyboard
+		- [ ] Tom Petty - You Got Lucky
+			- DX7 brass
+			- Initial bit is Dm just walking down the 7
+			- Figure out the melody in the center
+- ? Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
+- 
+
 ### 7/3 Notes (AK home practice)
 - to-do
 	- [ ] Record Sylvie's vocals on 'Cover-up Song'
@@ -48,9 +66,12 @@
 	8. Chorus
 	9. Instrumental (~2:40)
 		1. Bb→C, F, G#
+			1. real B->C#, F#, A
 		2. Bb→C, D#, F
+			1. real B->C#, E, F#
 	10. falsetto voice
 		1. D, D#, C
+			1. real D# E C#
 	11. Verse chords (outro instrumental)
 ### 2. **Revolving Door** (A# → D# {+5})
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
