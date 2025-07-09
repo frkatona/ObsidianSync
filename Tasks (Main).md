@@ -6,7 +6,7 @@
 	- [ ] practice Eric originals and some covers
 		- [ ] figure out there if we're meeting tomorrow
 	- [ ] plan yuki date (ask Friday (Kristen?) and respond LaTeX tutorial)
-	- [ ] Respond deer person movie audio stuff
+	- [x] Respond deer person movie audio stuff
 	- [ ] purchasing
 	- [ ] order prime day things
 	- [x] fix MURI slide, send to Ben
