@@ -59,3 +59,11 @@
 - chemical composition of dirt
 - UCUPaint latest version
 - Silo TV Series
+
+### FL 2025 [YT](https://youtu.be/nKK0TRFwB7g) Notes
+- Playlist - per-clip editing
+	- cut clips are unique by default
+		- do none of them share volume or anything?  Is it only when you cut them?
+	- alt + 2x-M1 = clip properties, including pitch, reverse, and time shift
+- Loop starter
+- channel rack 4 bar seems to repeat for >4 lengths
