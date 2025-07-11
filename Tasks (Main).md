@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
 - Home
 	- [ ] get Eric's tracks local and transcribe them to practice to
+	- [ ] Tell Remax about staying extra
 	- [ ] Sunday
 		- [ ] practice Crazy on You for Sylvie 
 		- [ ] tell Seana about driving separately (gotta go to thrift store and stay for Sylvie)

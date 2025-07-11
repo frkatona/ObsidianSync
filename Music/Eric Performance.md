@@ -21,7 +21,11 @@
 		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
 		- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
 		- [ ] Doors - Love Her Madly
+<<<<<<< HEAD
 			- figure out walking bassline
+=======
+		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
+>>>>>>> origin/main
 	- [ ] Keyboard
 		- [ ] Tom Petty - You Got Lucky
 			- DX7 brass
