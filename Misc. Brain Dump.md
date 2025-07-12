@@ -22,7 +22,6 @@
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
-- [Ben's SAM tutorial](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb#scrollTo=RHw4yH8XRCo9)
 - what is `pip install -e`?
 - https://threejs.org/manual/#en/installation
 - 3B1Br and Sebastian Lague Neural Network videos
@@ -37,7 +36,7 @@
 - https://www.instructables.com/Tales-From-the-Chip-LM386-Audio-Amplifier/
 - https://en.wikipedia.org/wiki/Amplifier#:~:text=An%20amplifier%20is%20defined%20as,power%20gain%20greater%20than%20one.&text=An%20amplifier%20can%20be%20either,in%20almost%20all%20electronic%20equipment.
 - https://www.youtube.com/watch?v=aRdiiWpA0AA
-- [DIY Mass Spec YT Video](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
+- [special search characters](https://www.digitalthirdcoast.com/blog/5-easy-symbols-google-work)
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
@@ -46,7 +45,10 @@
 	- [simulating 256 bytes RAM](https://www.youtube.com/watch?v=HGkuRp5HfH8)
 	- Ben Eater [8-bit Computer](https://youtu.be/HyznrdDSSGM?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 	- [shadow math ](https://youtu.be/MuvuxHXLzls)
-	- 
+	- Ample Bass [1](https://youtu.be/2WrbDEUMPU0) and [2](https://youtu.be/bfB4tkRIp8M)
+	- [Walking Basslines on Keyboard](https://www.youtube.com/watch?v=1ohTb1El06o)
+	- [DIY Mass Spec](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
+	- [Lighting in Godot](https://www.youtube.com/watch?v=aRdiiWpA0AA)
 
 [](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/
@@ -67,3 +69,17 @@
 	- alt + 2x-M1 = clip properties, including pitch, reverse, and time shift
 - Loop starter
 - channel rack 4 bar seems to repeat for >4 lengths
+
+Going out
+- recycling
+- CVS
+
+To-do
+- transcribe eric's tracks
+- MIDI Bass
+	- re-watch kontakt demo
+	- try ample bass (see if there are patterns)
+	- find free MIDI pattern downloads
+		- generally
+		- that come with the new Kontakt bass player
+- Try out Jacob Collier's free choir plugin

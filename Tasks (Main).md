@@ -3,7 +3,8 @@
 
 - ASAP
 	- remind chelsea to send dog paperwork and intent to purchase fence
-		- pay security deposit, 1st month, and dog (write check?  write down office address)
+		- [ ] pay security deposit, 1st month, and dog (write check? write down office address)
+		- [x] message current tenant about fence 
 - later
 	- read Zack, Emily, break down more trash, follow up with Tim, squash
 	- terrain
