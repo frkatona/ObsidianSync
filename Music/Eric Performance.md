@@ -1,13 +1,11 @@
 # To-do
  - [x] Find cool effects for Eric's voice during 'Evidence'
- - [x] Practice all 4 originals
- - [x] Practice Pink Floyd's "In Bloom" on bass and explore the looping + solo idea
-- Prepare a more fx-driven version of Starlight for The Bar
-	 - [ ] add delay + chorus wet to the FCB pedal
-	 - [ ] add grossbeat chops on/off to pedal note 
- - [ ] practice a Doors song on keyboard
- - [ ] make a convincing tambourine (maybe automate across a song)
- - [x] Follow up about practice day (ask if setlist still largely stands)
+ - [ ] Practice all 4 originals
+ - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping again
+ - [ ] Finalize list of originals and covers that we've played
+ - [ ] Find where in "Coverup Song" I'm doing a little solo (sounded 'hollow')
+ - Sylvie
+	 - [ ] Practice Beatles - "It's All Too Much" for Sylvie at the community jam
 ---
 # Practice Notes
 ### 7/9 Notes
