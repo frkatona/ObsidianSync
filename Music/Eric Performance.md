@@ -57,9 +57,9 @@
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
-		1. High C’s
+		1. High C#’s
 	3. Verse 1 (“Newspaper reporters”)
-		1. Low C’s
+		1. Low C#’s
 	4. Chorus (“They’re so proud to boast”)
 		1. D#, F, C
 	5. falsetto voice (?)
