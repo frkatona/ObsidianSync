@@ -10,6 +10,14 @@
  - [x] Follow up about practice day (ask if setlist still largely stands)
 ---
 # Practice Notes
+### 7/9 Notes
+- Last practice
+	- Sylvie maybe practice at open mic on Sunday (after she chats with her friend afterwards)
+	- maybe ask her if she could come before too?
+- Sylvie covers
+	- A Day in the Life
+- Other note, practice Crazy on You for Sunday
+
 ### 7/8 Notes
 - Sylvie can be here today and 6-9 tomorrow
 - take-home practice songs
@@ -48,66 +56,69 @@
 	- Roadhouse Blues bass
 ---
 # Eric originals notes
-### 1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
+### 1. **Cover-up Song** (conspiracy) (C#m)
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
-		1. High C’s
+		1. High C#
 	3. Verse 1 (“Newspaper reporters”)
-		1. Low C’s
+		1. Low C#
 	4. Chorus (“They’re so proud to boast”)
-		1. D#, F, C
-	5. falsetto voice (?)
-		1. D, D#, C
+		1. E, F#, C#
+	5. falsetto voice
+		1. D#, E, C#
 	6. Verse 2
 	7. Pre-chorus
 	8. Chorus
 	9. Instrumental (~2:40)
-		1. Bb→C, F, G#
-			1. real B->C#, F#, A
-		2. Bb→C, D#, F
-			1. real B->C#, E, F#
+		1. B->C#, F#, A
+		2. B->C#, E, F#
 	10. falsetto voice
 		1. D, D#, C
 			1. real D# E C#
 	11. Verse chords (outro instrumental)
-### 2. **Revolving Door** (A# → D# {+5})
+### 2. **Revolving Door** (A#)
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
 		1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
 	2. Verse 1
 		1. A#, D#
-	3. Chorus (“right in front of our eyes”) (real = F# and D)
+	3. Chorus (“right in front of our eyes”)
 		1. F#, D
 	4. Post-chorus instrumental
 		1. D→B (slide), E, F# (x2)
 		2. E again before the chorus F#
 	5. Chorus
 	6. Post chorus instrumental
-		1. Same, but hard cut before the F#
+		1. play 3x but hard cut before the E
 ### **3. Hypno-state (Dm)**
 	1. Intro
 		1. D (but just let guitar go for ~16 measures)
 	2. Verse 1 
 		1. D playing around (lots of earlier Dm pentatonic licks)
-	3. Chorus
-		1. D
-	4. Verse 2
-	5. Chorus
-	6. Outro
-		1. Bb, A, F, E->G
+	3. Pre-chorus
+		1. Bb, D...finish on C
+	4. Chorus
+		1.  D, E->F, G, A#, C
+		2. last time, hold last two chords 2x just like other original 
+	5. Verse 2
+	6. Chorus
+	7. Outro
+		1. Bb, A, F, E->G (but just mess around in Dm pent)
 		2. Some weird stuff and then chromatic walk up from ~B
-	7. Chorus
+	8. Chorus
 		1. Hold D(sus)
 ### **4. Landline (halfway between pennsyltucky and {-})**
 	1. Intro
 	2. Verse 1
 		1. D, F, D, F + G
 	3. Chorus
-		1. G, Bb, C, G, (repeat)
-	4. Slidey post-chorus
-		1. slidey (F to G# to F to C)
-		2. F-->G, A#, F, C x2
-		3. A (~4 bars)
+		1. G, Bb, C, G (E->F) (x3)
+		2. last time, go from the C into slidey-post chorus
+	4. Slidey post-chorus 
+		1. (a lot like the Hypnostate Chorus...just kinda jam as though it's Cm starting on F)
+		2. slidey (F to G# to F to C)
+		3. F-->G, A#, F, C x2
+		4. A (~4 bars) G->F->E->D
 	5. Verse 2 (slower)
 	6. Chorus
 	7. Slidey part
