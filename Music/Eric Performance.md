@@ -53,7 +53,7 @@
 	- Roadhouse Blues bass
 ---
 # Eric originals notes
-### 1. **Cover-up Song** (conspiracy) (C#m → Cm {+1})
+### 1. **Cover-up Song** (conspiracy) (C#m)
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
@@ -76,7 +76,7 @@
 		1. D, D#, C
 			1. real D# E C#
 	11. Verse chords (outro instrumental)
-### 2. **Revolving Door** (A# → D# {+5})
+### 2. **Revolving Door** (A#)
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
 		1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
 	2. Verse 1
