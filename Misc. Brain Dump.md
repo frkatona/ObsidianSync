@@ -22,7 +22,6 @@
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
-- [Ben's SAM tutorial](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb#scrollTo=RHw4yH8XRCo9)
 - what is `pip install -e`?
 - https://threejs.org/manual/#en/installation
 - 3B1Br and Sebastian Lague Neural Network videos
@@ -37,7 +36,7 @@
 - https://www.instructables.com/Tales-From-the-Chip-LM386-Audio-Amplifier/
 - https://en.wikipedia.org/wiki/Amplifier#:~:text=An%20amplifier%20is%20defined%20as,power%20gain%20greater%20than%20one.&text=An%20amplifier%20can%20be%20either,in%20almost%20all%20electronic%20equipment.
 - https://www.youtube.com/watch?v=aRdiiWpA0AA
-- [DIY Mass Spec YT Video](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
+- [special search characters](https://www.digitalthirdcoast.com/blog/5-easy-symbols-google-work)
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
@@ -46,7 +45,10 @@
 	- [simulating 256 bytes RAM](https://www.youtube.com/watch?v=HGkuRp5HfH8)
 	- Ben Eater [8-bit Computer](https://youtu.be/HyznrdDSSGM?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 	- [shadow math ](https://youtu.be/MuvuxHXLzls)
-	- 
+	- Ample Bass [1](https://youtu.be/2WrbDEUMPU0) and [2](https://youtu.be/bfB4tkRIp8M)
+	- [Walking Basslines on Keyboard](https://www.youtube.com/watch?v=1ohTb1El06o)
+	- [DIY Mass Spec](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
+	- [Lighting in Godot](https://www.youtube.com/watch?v=aRdiiWpA0AA)
 
 [](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/
@@ -59,3 +61,55 @@
 - chemical composition of dirt
 - UCUPaint latest version
 - Silo TV Series
+
+### FL 2025 [YT](https://youtu.be/nKK0TRFwB7g) Notes
+- Playlist - per-clip editing
+	- cut clips are unique by default
+		- do none of them share volume or anything?  Is it only when you cut them?
+	- alt + 2x-M1 = clip properties, including pitch, reverse, and time shift
+- Loop starter
+- channel rack 4 bar seems to repeat for >4 lengths
+
+Going out
+- recycling
+- CVS
+
+To-do
+- transcribe eric's tracks
+- MIDI Bass
+	- re-watch kontakt demo
+	- try ample bass (see if there are patterns)
+	- find free MIDI pattern downloads
+		- generally
+		- that come with the new Kontakt bass player
+- Try out Jacob Collier's free choir plugin
+
+
+Well, who I think it's good for is people with a simple 2x2 interface and an SM7B. No other preamps or anything else. This is for two reasons. 
+
+The mic preamps on entry level 2x2 audio interfaces often don't provide sufficient gain to get the best power and performance out of an SM7B and the headphone preamp on those interfaces often times don't provide ample volume output. So, what happens a lot of time is beginners often record things in at loud volume levels (like at -6 dB or louder). Then they go to track vocals and they wonder why the output of the vocal is so low in comparison to all the other tracks. Instead of turning down all the other tracks and turning up the headphone preamp when tracking vocals, they end up keeping the levels of all other tracks where they are and just try to record vocals the best they can but the vocal gets buried and they can't deliver their best vocal performance. So, if you have a cloud lifter, it helps in this scenario. 
+
+Also, it provides the proper amplification to ensure you're getting the best out of an SM7B or ribbon mic. But studios or people with a selection of high end mic pres don't need a cloudlifter at all so they wouldn't use one. The preamp they chose would provide sufficient amplification from the start. I'd say it's something good to have if you're just starting out with an entry level budget interface, and then to keep around the studio as you become more experienced as well because you may run out of mic pre's and you can end up finding a good use for it. Bottom line is if you have good preamps on your interface or have dedicated mic preamps, it's not needed. It's for people who don't have these things and don't
+
+Thanks for such a detailed response!  I do think I see where you're coming from for microphones that are low-sensitivity (e.g., the SM7b) combined with weak-preamps (e.g., many entry-level interfaces) in situations where the user is quiet and distant from the microphone (e.g., whispery podcasts).  I do find that a bit niche, combined with choosing to purchase a >$400 microphone alongside a <$100 interface, but it happens.
+
+That said, to the first point, it seems that beginners would be better served by simple/free solutions, like turning down their mix and taking one ear out of their headphones.  I understand that "just turn down" is an (unironically) infamously difficult lesson to teach a newcomer, but it feels non-ideal to recommend an expensive hardware purchase to solve a mouse-click issue.
+
+To the second point—and I want to be clear that I do not mean this as snarky as it sounds—you're not getting the BEST out of your microphone unless you're using gold-plated, silver-core electronics with dielectric potting in a faraday cage booth lined with >6" rock wool pads.  To the best of my knowledge, there are no interfaces around the Cloudlifter price point that don't add more gain than your SSL 2 at the ~60% from the video.  And there seem to be a few examples around YouTube of people recording soft dialogue in a similar setup where the gain-matched noise is (to my ears) imperceptibly different between interface and Cloudlifter.  And for recording vocal
+
+
+### Blender-Godot [Blog-post](https://studio.blender.org/blog/our-workflow-with-blender-and-godot/) Notes
+- .blend imports deemed unhelpful for multi-person workflows
+- Collection Exports
+	- 'rather than exportin ga file in its entirety, we could set up dedicated collections to export multiple individual assets, allowing us to set up the export settings for all assets in advance'
+	- 'also allows to have additional data for reference in a file without polluting export data'
+	- 'question was how to nest assets without exporting the nested assets redundantly -> custom code'
+		- blender extension and godot plugin for correctly re-creating the asset from the blender export inside godot found at the end of the article (though it is 'not fully fleshed out')
+- Asset Separation
+	- asset collections (e.g., branches on trees, trees in forests) need to be allowed to be edited/exported separately and their references in Godot should be re-created
+- Pipeline breakdown
+	- asset pipeline that worked for different asset types and relied on naming conventions
+	- Export data to game files
+		- Blender extension assigns an ID to assets that don't have one and register it to an index .json file for Godot to find
+		- make sure collection instances are cleared of their instanced geometry for asset separation
+		- 

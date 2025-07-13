@@ -26,9 +26,14 @@
 		- [ ] Prince - Purple Rain
 		- [ ] Def Leppard - [Hysteria](https://tabs.ultimate-guitar.com/tab/def-leppard/hysteria-chords-1052725)
 			- instead of chorus we rehearsed an outro with the D-G vamp
+		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
 		- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
 		- [ ] Doors - Love Her Madly
+<<<<<<< HEAD
+			- figure out walking bassline
+=======
 		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
+>>>>>>> origin/main
 	- [ ] Keyboard
 		- [ ] Tom Petty - You Got Lucky
 			- DX7 brass
@@ -60,9 +65,15 @@
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
+<<<<<<< HEAD
 		1. High C#
 	3. Verse 1 (“Newspaper reporters”)
 		1. Low C#
+=======
+		1. High C#’s
+	3. Verse 1 (“Newspaper reporters”)
+		1. Low C#’s
+>>>>>>> origin/main
 	4. Chorus (“They’re so proud to boast”)
 		1. E, F#, C#
 	5. falsetto voice

@@ -2,27 +2,9 @@
 # Immediate
 
 - ASAP
-	- [x] coordinate driving to bellefonte
-	- [ ] practice Eric originals and some covers
-		- [ ] figure out there if we're meeting tomorrow
-	- [ ] plan yuki date (ask Friday (Kristen?) and respond LaTeX tutorial)
-	- [x] Respond deer person movie audio stuff
-	- [ ] purchasing
-	- [ ] order prime day things
-	- [x] fix MURI slide, send to Ben
-	- [x] Groceries
-	- Read/respond
-		- [x] Sandra/Ben paper update/figure
-		- [x] Eric
-			- [ ] new Eric about Wednesday
-		- [x] Kaya
-		- [x] Alex
-		- [x] Sophia
-	- Housing
-		- [x] call rental
-		- [ ] send negotiation message to ReMax
-	- [x] buy amazon
-	- [x] Squirrel show and tell ready
+	- remind chelsea to send dog paperwork and intent to purchase fence
+		- [ ] pay security deposit, 1st month, and dog (write check? write down office address)
+		- [x] message current tenant about fence 
 - later
 	- read Zack, Emily, break down more trash, follow up with Tim, squash
 	- terrain
@@ -32,16 +14,22 @@
 https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 
 - Work
-	- [ ] Make Ben MURI slide
+	- [ ] Start MURI poster/abstract
 	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
 	- [ ] Start temperature purchases
 	- [ ] Start PyCon purchasing paperwork
 	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
-	- [ ] Kristen code, Jackie IR, Jackie lift
 - Home
+	- [ ] get Eric's tracks local and transcribe them to practice to
+	- [ ] Tell Remax about staying extra
+	- [ ] Sunday
+		- [ ] practice Crazy on You for Sylvie 
+		- [ ] tell Seana about driving separately (gotta go to thrift store and stay for Sylvie)
+			- [ ] Will thrift store take heavy items like the TV and workout bench?
+	- [ ] break down fan, coffee, air fryer, etc.
+	- [ ] post weights on FBM
+		- [ ] clean other items and take pics for FBM
 	- [ ] ask Sadia when she's back from Spain
-	- [ ] break down fan and air fryer
-	- [ ] schedule visits, negotiate with 
 ## General
 
  - [x] Groceries
