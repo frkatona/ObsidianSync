@@ -27,11 +27,8 @@
 		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
 		- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
 		- [ ] Doors - Love Her Madly
-<<<<<<< HEAD
 			- figure out walking bassline
-=======
 		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
->>>>>>> origin/main
 	- [ ] Keyboard
 		- [ ] Tom Petty - You Got Lucky
 			- DX7 brass
@@ -63,29 +60,26 @@
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
-<<<<<<< HEAD
 		1. High C#
 	3. Verse 1 (“Newspaper reporters”)
 		1. Low C#
-=======
-		1. High C#’s
-	3. Verse 1 (“Newspaper reporters”)
+		2. High C#’s
+	4. Verse 1 (“Newspaper reporters”)
 		1. Low C#’s
->>>>>>> origin/main
-	4. Chorus (“They’re so proud to boast”)
+	5. Chorus (“They’re so proud to boast”)
 		1. E, F#, C#
-	5. falsetto voice
+	6. falsetto voice
 		1. D#, E, C#
-	6. Verse 2
-	7. Pre-chorus
-	8. Chorus
-	9. Instrumental (~2:40)
+	7. Verse 2
+	8. Pre-chorus
+	9. Chorus
+	10. Instrumental (~2:40)
 		1. B->C#, F#, A
 		2. B->C#, E, F#
-	10. falsetto voice
+	11. falsetto voice
 		1. D, D#, C
 			1. real D# E C#
-	11. Verse chords (outro instrumental)
+	12. Verse chords (outro instrumental)
 ### 2. **Revolving Door** (A#)
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
 		1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
