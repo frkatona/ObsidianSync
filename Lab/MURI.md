@@ -76,11 +76,13 @@
 	- On-site
 		- We're giving poster abstracts to the program manager before July 24th?  Give to Rob or email directly?
 - Meeting Notes
-	- XRD was down, so no new results about the last time
-	- Ben S is emailing Rob asking about the poster abstract stuff (when? to whom?)
-		- [ ] ask him to let me know what he finds
-	- Ben S giving me some more sample on sapphire to score/lase
+	- XRD was down, so no new results about anything
+	- Ben S is emailing Rob asking about the poster abstract stuff (when? to whom? any special instructions?).  He'll let me know what he finds out.
+	- Ben S giving me some more sample on sapphire to lase
+		- He wants the same procedure as normal
 		- Remember to document the process well, both in notes and in taking good photos/videos)
+		- He scored it and cut the sample above it with a razor in an attempt to get a clean cross section, but the sapphire cracked into two slivers off the main body (pics taken on phone)
+			- I'll try to put a little tape on them to prevent shattering if they crack from thermal shock, same as the last samples, which seemed to work well.
 	- Ben S put the Alex talk link, so I should check to see if there are clues to what he'd like with his sample (or what it is/if it's hazardous/needs stored in special conditions) 
 
 ### 7/02
