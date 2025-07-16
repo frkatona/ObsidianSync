@@ -6,6 +6,9 @@
 		- [ ] pay security deposit, 1st month, and dog (write check? write down office address)
 		- [x] message current tenant about fence 
 - later
+	- remember eric wanted special keyboard part at cover up part he thought was "hollow", try playing piano chords to Tumbling Dice, try putting weird fx and singing 'If" by pink floyd
+	- maybe Sunshine of your Love solo next week
+	- Alexie Murdoch - All of my Days
 	- read Zack, Emily, break down more trash, follow up with Tim, squash
 	- terrain
 		- [x] generate layout from blend scene
