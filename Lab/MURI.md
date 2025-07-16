@@ -67,6 +67,14 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 7/16
+- PCD sample
+	- Results from last one?
+	- Any new sample?
+- Ask for Alex's presentation recording on the OneDrive
+- On-site
+	- We're giving poster abstracts to the program manager before July 24th?  Give to Rob or email directly?
+
 ### 7/02
 - (little bit of a repeat) JP built a TGA MS similar to what the MSC has
 - H2 basically fully peaks before the methane begins to come off, reinforcing notion that H2 removal is a part of the mechanism
@@ -89,7 +97,7 @@
 
 ### 6/25 Notes
 - Rob opening notes
-	- on-site is on (?) get to program manager 24th of July, so we need abstracts from everyone who is presenting for the posters everyone else is presenting
+	- on-site is on August 7th, get to program manager 24th of July, so we need abstracts from everyone who is presenting for the posters everyone else is presenting
 - Ben S.
 	- MS signals show propane and butane ion currents raised around 200 C
 	- Rob - Check out broader source of papers on hydrogen release to get ideas for how to measure it better (H2 release as novel mechanism to precede ceramic transformation, particularly with photothermal)
