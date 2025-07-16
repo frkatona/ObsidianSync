@@ -68,12 +68,20 @@
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
 ### 7/16
-- PCD sample
-	- Results from last one?
-	- Any new sample?
-- Ask for Alex's presentation recording on the OneDrive
-- On-site
-	- We're giving poster abstracts to the program manager before July 24th?  Give to Rob or email directly?
+- Pre-meeting notes
+	- PCD sample
+		- Results from last one?
+		- Any new sample?
+	- Ask for Alex's presentation recording on the OneDrive
+	- On-site
+		- We're giving poster abstracts to the program manager before July 24th?  Give to Rob or email directly?
+- Meeting Notes
+	- XRD was down, so no new results about the last time
+	- Ben S is emailing Rob asking about the poster abstract stuff (when? to whom?)
+		- [ ] ask him to let me know what he finds
+	- Ben S giving me some more sample on sapphire to score/lase
+		- Remember to document the process well, both in notes and in taking good photos/videos)
+	- Ben S put the Alex talk link, so I should check to see if there are clues to what he'd like with his sample (or what it is/if it's hazardous/needs stored in special conditions) 
 
 ### 7/02
 - (little bit of a repeat) JP built a TGA MS similar to what the MSC has
@@ -92,8 +100,6 @@
 			- PCDs are good (commonly poly-siloxanes, -silanes, -carbosilanes, and -silazanes)
 				- suspensions can be applied to surfaces through simple methods like dipping, spraying, spin-coating, and doctor blade
 				- drawback is high shrinkage (~50% volume) leading to pores/cracks increasing with thickness due to gaseous pyrolysis products
-
-
 
 ### 6/25 Notes
 - Rob opening notes
