@@ -8,7 +8,8 @@
 - later
 	- remember eric wanted special keyboard part at cover up part he thought was "hollow", try playing piano chords to Tumbling Dice, try putting weird fx and singing 'If" by pink floyd
 	- maybe Sunshine of your Love solo next week
-	- Alexie Murdoch - All of my Days
+	- Beatles song for Sylvie
+	- [Long Day's Journey into Night](https://ia801404.us.archive.org/28/items/in.ernet.dli.2015.182217/2015.182217.Long-Days-Journey-Into-Night.pdf)
 	- read Zack, Emily, break down more trash, follow up with Tim, squash
 	- terrain
 		- [x] generate layout from blend scene
@@ -42,8 +43,11 @@ https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 	 - [ ] clean yellow scratches with clay bars
 ## Move
 
+ - [ ] Determine if storage + another stay is viable
  - [ ] Disassemble materials for trash
  - [ ] Pack clothes for thrift store
+ - [ ] Cancel/transfer services
+	 - [ ] mowing, power, internet
 ## Hobby
 - Squirrel Game (see [[Squirrel Game]])
 - Coding
