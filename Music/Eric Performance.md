@@ -4,16 +4,40 @@
  - [ ] Ask if any extra stuff is useful (lights, phone stand for recording, etc.)
  - [ ] Transcribe originals into the website
  - [ ] Get everything I need onto the surface to do a run-through rehearsal
- - [ ] Practice
-	 - [ ] all 4 originals
-	 - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping again
-	 - [ ] keyboard for the one Tom Petty song
- - [ ] Finalize list of originals and covers that we've played
- - [ ] Find where in "Coverup Song" I'm doing a little solo (sounded 'hollow')
- - Sylvie
-	 - [ ] Practice Beatles - "It's All Too Much" for Sylvie at the community jam
 ---
 # Practice Notes
+
+### 7/19 Notes
+- Eric Setlist
+	- Originals
+		- [ ] Cover-up Song
+			- remember solo for 'hollow' section at end
+		- [ ] Revolving Door
+		- [ ] Hypno-state
+		- [ ] Landline
+		- [ ] It's Not Alright
+		- [ ] Oblivion
+	- Covers
+		- Bass
+			- [ ] Beatles - [Day in the Life](https://tabs.ultimate-guitar.com/tab/the-beatles/a-day-in-the-life-chords-260796)
+			- [ ] CCR - [Heard it through the Grapevine](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/i-heard-it-through-the-grapevine-chords-1046816)
+			- [ ] Prince - [Purple Rain](https://tabs.ultimate-guitar.com/tab/prince/purple-rain-chords-413679)
+			- [ ] Pink Floyd - In Bloom
+			- [ ] Def Leppard - [Hysteria](https://tabs.ultimate-guitar.com/tab/def-leppard/hysteria-chords-1052725)
+				- instead of chorus we rehearsed an outro with the D-G vamp
+			- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
+			- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
+			- [ ] Doors - [Love Her Madly](https://tabs.ultimate-guitar.com/tab/the-doors/love-her-madly-chords-986317)
+				- figure out walking bassline
+			- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
+		- Keyboard
+			- [ ] Tom Petty - [You Got Lucky](https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/you-got-lucky-chords-1056462)
+				- DX7 brass
+				- Initial bit is Dm just walking down the 7
+				- Figure out the melody in the center
+- Community Jam
+	- Heart - [Crazy on You](https://tabs.ultimate-guitar.com/tab/heart/crazy-on-you-chords-32922) (practice solo)
+	- Beatles - [It's All Too Much](https://tabs.ultimate-guitar.com/tab/the-beatles/its-all-too-much-chords-870040)
 ### 7/9 Notes
 - Last practice
 	- Sylvie maybe practice at open mic on Sunday (after she chats with her friend afterwards)
@@ -25,21 +49,7 @@
 ### 7/8 Notes
 - Sylvie can be here today and 6-9 tomorrow
 - take-home practice songs
-	- [ ] Bass
-		- [ ] CCR - Heard it through the Grapevine
-		- [ ] Prince - Purple Rain
-		- [ ] Def Leppard - [Hysteria](https://tabs.ultimate-guitar.com/tab/def-leppard/hysteria-chords-1052725)
-			- instead of chorus we rehearsed an outro with the D-G vamp
-		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
-		- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
-		- [ ] Doors - Love Her Madly
-			- figure out walking bassline
-		- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
-	- [ ] Keyboard
-		- [ ] Tom Petty - You Got Lucky
-			- DX7 brass
-			- Initial bit is Dm just walking down the 7
-			- Figure out the melody in the center
+
 ### 7/3 Notes (AK home practice)
 - to-do
 	- [ ] Record Sylvie's vocals on 'Cover-up Song'
