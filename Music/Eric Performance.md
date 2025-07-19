@@ -16,25 +16,37 @@
 		- [ ] Hypno-state
 		- [ ] Landline
 		- [ ] It's Not Alright
-		- [ ] Oblivion
+		- [ ] Wanderlust
 	- Covers
 		- Bass
+			- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
 			- [ ] Beatles - [Day in the Life](https://tabs.ultimate-guitar.com/tab/the-beatles/a-day-in-the-life-chords-260796)
 			- [ ] CCR - [Heard it through the Grapevine](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/i-heard-it-through-the-grapevine-chords-1046816)
 			- [ ] Prince - [Purple Rain](https://tabs.ultimate-guitar.com/tab/prince/purple-rain-chords-413679)
 			- [ ] Pink Floyd - In Bloom
 			- [ ] Def Leppard - [Hysteria](https://tabs.ultimate-guitar.com/tab/def-leppard/hysteria-chords-1052725)
 				- instead of chorus we rehearsed an outro with the D-G vamp
-			- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
-			- [ ] Stone Temple Pilots - [Interstate Love Song](https://tabs.ultimate-guitar.com/tab/stone-temple-pilots/interstate-love-song-chords-1788242)
+			- Rolling Stones
+				- [ ] [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
+				- [ ] Beast of Burden
 			- [ ] Doors - [Love Her Madly](https://tabs.ultimate-guitar.com/tab/the-doors/love-her-madly-chords-986317)
 				- figure out walking bassline
-			- [ ] Rolling Stones - [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
+			- [ ] Sublime
+				- [ ] Doing Time
+				- [ ] Badfish
+				- [ ] What I Got
+			- [ ] Audioslave - I am the Highway
+			- [ ] Led Zeppelin
+				- [ ] Hey hey, what can I say
+				- [ ] Going to California
+				- [ ] Tangerine
 		- Keyboard
 			- [ ] Tom Petty - [You Got Lucky](https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/you-got-lucky-chords-1056462)
 				- DX7 brass
 				- Initial bit is Dm just walking down the 7
 				- Figure out the melody in the center
+			- [ ] Mary Jane's Last Dance
+			- [ ] American Girl
 - Community Jam
 	- Heart - [Crazy on You](https://tabs.ultimate-guitar.com/tab/heart/crazy-on-you-chords-32922) (practice solo)
 	- Beatles - [It's All Too Much](https://tabs.ultimate-guitar.com/tab/the-beatles/its-all-too-much-chords-870040)
@@ -64,7 +76,7 @@
 	- Remind Eric to bring lyrics for the songs he wants Sylvie to sing to Saturday's jam
 ### 6/12 Notes
 1. Intro- bringing back old name "The Abducted"
-	- Trippy stuff is mostly "cover up song" and "hypnostate"/
+	- Trippy stuff is mostly "cover up song" and "hypnostate"
 ### 6/17 Notes
 - Another Tom Petty cover to maybe learn keys for "You Got Lucky"
 - The Doors
