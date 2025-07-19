@@ -64,6 +64,7 @@
 - chemical composition of dirt
 - UCUPaint latest version
 - Silo TV Series
+- https://da4all.github.io/toolkit/
 
 ### FL 2025 [YT](https://youtu.be/nKK0TRFwB7g) Notes
 - Playlist - per-clip editing

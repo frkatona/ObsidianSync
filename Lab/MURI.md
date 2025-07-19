@@ -64,10 +64,24 @@
 				- buy [solvent cement](https://www.amazon.com/Weld-Acrylic-Plastic-Cement-Applicator/dp/B0149IG548) $20
 		- big enough to house O2, H2O, VOC sensors + pyrometer
 		- port for wires
+	- Find literature for errors from emissivity which supposedly become overwhelming at high temperatures and with increasing surface oxidation  (also calibration drift)
 - [x] Get or take a desiccator downstairs (ask Kristen, see if it needs regenerated/bought again)
 - [ ] Try forming gas
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
+
+### 7/18 Thor
+- long/short ratio intermediate NIR solution for ultrafast blackbody thermometer
+- Collect/transmit NIR light
+	- hardware?  positioning?  ask Thor
+- Split halfway into the detector range (~1250)
+	- 1180nm longpass dichroic [DMLP1180](https://www.thorlabs.com/thorproduct.cfm?partnumber=DMLP1180)  ($250) (variations for size) (see [graph](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3313))
+- Detector
+	- Avalanche free space [InGaAs 850-1650 nm](https://www.thorlabs.com/thorproduct.cfm?partnumber=APD310) (x2 = $6000)
+	- Ordinary free space [InGaAs 800-1700](https://www.thorlabs.com/thorproduct.cfm?partnumber=DET08C/M#ad-image-0) (x2 = $700) (detector [main page](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=7537))
+- Filter below and above the sensors?
+- Misc.
+	- posts, mounts, rails, signal cable adapter to BNC
 ---
 ### 7/16
 - Pre-meeting notes

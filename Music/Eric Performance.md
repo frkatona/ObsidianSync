@@ -1,7 +1,13 @@
 # To-do
  - [x] Find cool effects for Eric's voice during 'Evidence'
- - [ ] Practice all 4 originals
- - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping again
+ - [ ] Find a good platform for the laptop and pack the keyboard stand
+ - [ ] Ask if any extra stuff is useful (lights, phone stand for recording, etc.)
+ - [ ] Transcribe originals into the website
+ - [ ] Get everything I need onto the surface to do a run-through rehearsal
+ - [ ] Practice
+	 - [ ] all 4 originals
+	 - [ ] Practice Pink Floyd's "In Bloom" on bass and explore the looping again
+	 - [ ] keyboard for the one Tom Petty song
  - [ ] Finalize list of originals and covers that we've played
  - [ ] Find where in "Coverup Song" I'm doing a little solo (sounded 'hollow')
  - Sylvie
