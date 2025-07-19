@@ -9,7 +9,7 @@
 
 ### 7/19 Notes
 - Eric Setlist
-	- Originals
+	- [Originals](https://frkatona.github.io/Subpages/OriginalSongHelper/songwritingmarkdown.html)
 		- [ ] Cover-up Song
 			- remember solo for 'hollow' section at end
 		- [ ] Revolving Door
@@ -23,30 +23,31 @@
 			- [ ] Beatles - [Day in the Life](https://tabs.ultimate-guitar.com/tab/the-beatles/a-day-in-the-life-chords-260796)
 			- [ ] CCR - [Heard it through the Grapevine](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/i-heard-it-through-the-grapevine-chords-1046816)
 			- [ ] Prince - [Purple Rain](https://tabs.ultimate-guitar.com/tab/prince/purple-rain-chords-413679)
-			- [ ] Pink Floyd - In Bloom
+			- [ ] Pink Floyd - [In Bloom](https://tabs.ultimate-guitar.com/tab/nirvana/in-bloom-chords-1171571)
 			- [ ] Def Leppard - [Hysteria](https://tabs.ultimate-guitar.com/tab/def-leppard/hysteria-chords-1052725)
 				- instead of chorus we rehearsed an outro with the D-G vamp
 			- Rolling Stones
 				- [ ] [Miss You](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/miss-you-chords-815773) 
-				- [ ] Beast of Burden
-			- [ ] Doors - [Love Her Madly](https://tabs.ultimate-guitar.com/tab/the-doors/love-her-madly-chords-986317)
+				- [ ] [Beast of Burden](https://tabs.ultimate-guitar.com/tab/the-rolling-stones/beast-of-burden-chords-611187)
+			- Doors - [Love Her Madly](https://tabs.ultimate-guitar.com/tab/the-doors/love-her-madly-chords-986317)
 				- figure out walking bassline
-			- [ ] Sublime
-				- [ ] Doing Time
-				- [ ] Badfish
-				- [ ] What I Got
-			- [ ] Audioslave - I am the Highway
-			- [ ] Led Zeppelin
-				- [ ] Hey hey, what can I say
-				- [ ] Going to California
-				- [ ] Tangerine
+			- Sublime
+				- [ ] [Doing Time](https://tabs.ultimate-guitar.com/tab/sublime/doin-time-chords-2255305)
+				- [ ] [Badfish](https://tabs.ultimate-guitar.com/tab/sublime/badfish-chords-153576)
+				- [ ] [What I Got](https://tabs.ultimate-guitar.com/tab/sublime/what-i-got-chords-2553)
+			- Audioslave - [I am the Highway](https://tabs.ultimate-guitar.com/tab/audioslave/i-am-the-highway-chords-42445)
+			- Led Zeppelin
+				- [ ] [Hey hey, what can I say](https://tabs.ultimate-guitar.com/tab/led-zeppelin/hey-hey-what-can-i-do-chords-478399)
+				- [ ] [Going to California](https://tabs.ultimate-guitar.com/tab/led-zeppelin/going-to-california-chords-828659)
+				- [ ] [Tangerine](https://tabs.ultimate-guitar.com/tab/led-zeppelin/tangerine-chords-1089369)
+			- Tom Petty
+				- [ ] [Mary Jane's Last Dance](https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/mary-janes-last-dance-chords-205804)
+				- [ ] [American Girl](https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/american-girl-chords-1142372)
 		- Keyboard
 			- [ ] Tom Petty - [You Got Lucky](https://tabs.ultimate-guitar.com/tab/tom-petty-and-the-heartbreakers/you-got-lucky-chords-1056462)
 				- DX7 brass
 				- Initial bit is Dm just walking down the 7
 				- Figure out the melody in the center
-			- [ ] Mary Jane's Last Dance
-			- [ ] American Girl
 - Community Jam
 	- Heart - [Crazy on You](https://tabs.ultimate-guitar.com/tab/heart/crazy-on-you-chords-32922) (practice solo)
 	- Beatles - [It's All Too Much](https://tabs.ultimate-guitar.com/tab/the-beatles/its-all-too-much-chords-870040)
