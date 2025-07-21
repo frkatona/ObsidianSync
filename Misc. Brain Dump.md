@@ -3,7 +3,10 @@
 ### Misc. to-do
  - Watch
 	 - [ ] Flow
-	 - [ ] Andor S02
+	 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
+	 - [ ] Kaiju no 8 [S02](https://www.miruro.to/watch?id=178754)
+	 - [ ] 
+	 - [x] Andor S02
  - Play 
 	 - [ ] Outer Wilds DLC
  - [ ] Color grade with sliders in Marimo

@@ -14,24 +14,25 @@
 	- sync with a secondary input
 	- capture output a given time
 	- fit a blackbody to 4 points
+
 ### To-do
- - lab
-	 - [ ] Try lasing through acrylic in lab before buying full container
  - home
 	 -  Search one last time for temperature determination in literature
 		 - Onedrive folder
 		 - wider lit search
 	 - Purchasing
-	 - Ask Ben S
-		 - [ ] most recent video recordings
-		 - [ ] If he'd prefer to wait until next week for new case/regulator
+		 - positive pressure chamber supplies + O2 sensor
+		 - 
+	- Lase
+		- Alex R.'s sample
+		- Paper or something to see if the chamber is insufficient
 
 - Find out if we are retaining ligand from the polymer
 	- [x] run the white sample (no Boron) see what happens
 		- recall that TGA shows polymer without boron degrades around 450, but around 250 with Boron
 	- [x] bring it back on Sapphire for Tainara to cut
 - [ ] Buy stuff as soon as spending resumes on 6/30
-	- Vacuum chamber.
+	- Vacuum chamber
 		- [x] Regulator (check inlet type) - [CGA580 inlet](https://www.amazon.com/ARCCAPTAIN-Regulators-Welding-Regulator-Connection/dp/B0D1KD5ZPT?sr=8-10) - $40
 		- [ ] O2 meter ([RKI wireless](https://sensorpros.com/products/rki-instruments-gx3r-pro-gas-detector-with-wireless-communication?variant=39736879087690) $700, call about O2 sensitivity)
 		- [ ] thermocouple (type k? cold junction?)
@@ -55,6 +56,7 @@
 	- oscilloscope (file:///C:/Users/antho/Downloads/071281002web.pdf)
 		- probes ([tektronix passive](https://www.tek.com/en/products/oscilloscopes/oscilloscope-probes/passive-probe#) x2 = $168)
 	- Vacuum container
+		- Oxygen scrubber (heat tape + copper wool?)
 		- google image 'positive pressure glass vacuum box'
 		- able to mechanically seal, resistant to positive pressure (maybe bolts, but ideally something like a [toggle latch](https://www.amazon.com/Toggle-Latch-Pack-Adjustable-Industrial/dp/B0DKFPCRWG?dib=eyJ2IjoiMSJ9.n4y-4bK6e84yc7qxJion7bHdlDnSr3YWVcDGWarWVgOQO41DWCpuaXuUtMXyuSBrX70luV1KdsihFEV_aSipPKLUbER6pckyyDU6dvCkkHKZodt-IBVw8wIZ903QuhqToGwgTIAees8CkSHfSj525Pm4I8tg_BLfWfgJcY6EUn1ZuV3y4MacADrdSfs0SRlGn1IlpegANrXD2mAzCpuDKXnKYxpypZob-00ucG9HJYr2LaFl-9ghPYVEc1Gg-Wl5VD7AsidH3lUTUM3K5Ciw8Pd-lnxucNsUPvMNjI7LSF8.IfA3-UC-2EnzsI7GxKMGerrF6zxfPwCpp4ekDOYz74c&dib_tag=se&keywords=toggle+latch&qid=1750951998&sr=8-1) ~$17)
 		- low absorption, strong, transparent enclosure
@@ -69,16 +71,52 @@
 - [ ] Try forming gas
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
+---
+### 7/21 Ultrafast Blackbody Thermometer Notes
+- (2011) Ni, P.A. et al ["Multi-channel optical pyrometer for sub-nanosecond..."](https://www.osti.gov/servlets/purl/1016573)
+	- pyrometer is just an absolutely calibrated spectrometer operating at several discrete wavelengths in the visible and near-infrared regions which compares thermal radiation to temperature of the Planck formula
+	- take into account all speed determining factors (modal dispersion of fibers, photodiode rise time, oscilloscope bandwidth)
+		- but understand that all speed improvements will also lower sensitivity
+	- Light Collection (LC) system
+		- thermal emission collected by a relay system of lenses (pair of achromatic doubles, f=75 d=50.8 mm, coated for Vis/NIR) mounted on micro-positioning stage in a vacuum, oriented normal to the sample surface
+		- produces a 1:1 image of the target on an optical fiber
+		- lens focus/aperture chosen to match NA=0.2 = 24 degree acceptance angle; step-index, multimode, 400 um diameter silica fiber
+		- asdf
+	- Spectral resolution
+		- asfd
+	- Light detection (sensor)
+		- Need broad frequency response current amplifier with a flat gain curve between the low cut (DC) and high cut (~GHz) frequencies
+			- DC important since calibration is done with continuous radiation sources
+		- PIN photo diode models 1591 and 1592 from Newfocus Inc ultimately chose
+			- alternatives like (1) avalanche photodiodes (APD), (2) photomultiplier tubes (PMTs), and (3) micro-channel plates (MCPs) are considered to have a low-frequency cutoff from 10 kHz, making calibration difficult
+			- also, avalanches and PMTs have high noise levels and saturate quickly; and PMTs and MCPs use phosphor which degrades over time and requires frequent recalibrations (and cost a lot per unit, which is untenable for a multi-channel detection system)
+
+### 7/20 - Alex Presentation Notes
+- Zoom presentation for updates on the design/synthesis of precursors for SiC photoceramization
+- SiC is a good target for low-T photoceramization (well-represented both conventionally and with pre-ceramic precursors; also DOE considers it important)
+- Two approaches to SiC photoceramization
+	- "Decomposition Approach"
+		- design precursor with defined Si:C stoichiometry and photodecompose (likely H2), leaving SiC behind
+	- "Photocaging Approach"
+		- design novel molecules bound to Si/C and photolyze to release SiC
+	- Either way, long-term hope is for new synthetic chemistry and transferrable knowledge
+- The "Decomposition Approach" is largely about getting the Si:C ratio right
+	- Si is reluctant to form multiple bonds to other atoms, especially itself
+	- Ideally, the designed material will be made entirely of Si and C, perhaps some H if necessary to terminate valency; Si:C will be 1:1 and/or tunable; must have a homolytic chromophore (Si-Si bond) 
+
 
 ### 7/18 Thor
 - long/short ratio intermediate NIR solution for ultrafast blackbody thermometer
 - Collect/transmit NIR light
 	- hardware?  positioning?  ask Thor
+		- OAP
+		- Lens + fiber
 - Split halfway into the detector range (~1250)
 	- 1180nm longpass dichroic [DMLP1180](https://www.thorlabs.com/thorproduct.cfm?partnumber=DMLP1180)  ($250) (variations for size) (see [graph](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3313))
 - Detector
 	- Avalanche free space [InGaAs 850-1650 nm](https://www.thorlabs.com/thorproduct.cfm?partnumber=APD310) (x2 = $6000)
-	- Ordinary free space [InGaAs 800-1700](https://www.thorlabs.com/thorproduct.cfm?partnumber=DET08C/M#ad-image-0) (x2 = $700) (detector [main page](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=7537))
+	- Amplified free space [InGaAs 950-1650 nm](https://www.thorlabs.com/thorproduct.cfm?partnumber=FPD310-FS-NIR) (x2 = $4500)
+	- Ordinary free space [InGaAs 800-1700 nm](https://www.thorlabs.com/thorproduct.cfm?partnumber=DET08C/M#ad-image-0) (x2 = $700) (detector [main page](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=7537))
 - Filter below and above the sensors?
 - Misc.
 	- posts, mounts, rails, signal cable adapter to BNC
