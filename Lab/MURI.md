@@ -33,13 +33,22 @@
 	- [x] bring it back on Sapphire for Tainara to cut
 - [ ] Buy stuff as soon as spending resumes on 6/30
 	- Vacuum chamber
-		- [x] Regulator (check inlet type) - [CGA580 inlet](https://www.amazon.com/ARCCAPTAIN-Regulators-Welding-Regulator-Connection/dp/B0D1KD5ZPT?sr=8-10) - $40
-		- [ ] O2 meter ([RKI wireless](https://sensorpros.com/products/rki-instruments-gx3r-pro-gas-detector-with-wireless-communication?variant=39736879087690) $700, call about O2 sensitivity)
+		- [ ] Regulator (check inlet type) - [CGA580 inlet](https://www.amazon.com/ARCCAPTAIN-Regulators-Welding-Regulator-Connection/dp/B0D1KD5ZPT?sr=8-10) - $40
+		- [ ] bolts (6", full thread + nut/washer x4 [Amazon](https://www.amazon.com/Screws-Extra-large-Washers-Threaded-Stainless/dp/B08DCGY4X3?s=industrial&sr=1-4) $13)
+		- [ ] acrylic (12"x12", 1/4" thick [Amazon](https://www.amazon.com/CALPALMY-12-Plexiglass-Projects-Engraver/dp/B085L5V796?crid=1GQMAO77Q83&dib=eyJ2IjoiMSJ9.OcoZFCkOqjT5vO0DxOV-wO7CEYIzq74an48RTH2m1DEHDiIwvwJYu9-C2YMjiFj41Do-7GHHnamN6VtGDpCXweVX2ou_Ou1ZP35f1dxLoq27cFI9uMtdOLnuwHUTnNeMHVRTagun89lVSQ0fbsh1PynF6NN51iz65oVVhwdQRUzGvNz__b6R6c6iy12up6EtOMPUCsZv39F0zFnMcsGpBrIZq2X0T62RtHBAvGJqOKyRL11ZsuJGZNGiIQ4h39aF6SMJLMq5YlQybdUkSJGEgrUJvj3mxUYOXTPIrk9x7Uw.vtCB1BMvPnFqxZSJ1p7zmyWYxiMERycBsj4KOrYHL6U&dib_tag=se&keywords=acrylic&qid=1753195340&s=industrial&sprefix=acrylic%2Cindustrial%2C111&sr=1-9&th=1) x3 = $45)
+		- [ ] Weld-on Acrylic bonding agent ([Amazon](https://www.amazon.com/Weld-Acrylic-Plastic-Cement-Applicator/dp/B0149IG548?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-3) $17)
+		- [ ] gasket silicone [Amazon](https://www.amazon.com/Silicone-Rubber-Sheet-Durometer-Thick/dp/B08DDFQ9YM?crid=2SEL66BI1MQKS&dib=eyJ2IjoiMSJ9.G1-p0GLr7hKGThxt4fS5DB-Y8wjJNhxrgWHQsq3DhOQnB2cHlSIMi0q2KR3yii0SA0SmypuUDuo9dyWCnOofWdKyBhgLNbkcONmzaxuwgoFkSJ6dKsgCqiw-KcbX9-kC-Kgz9C1ZUEDhW6oLjwugJZgZppafumV8s5vd7kS0GltAolHXUKj-_-mN4mttr_FZiWwEWjZ4pP4zdg3bXCxAM7AuMjH1hQ_P6u12si42zZU.Cqc6Ol_9LzMXTuHHK6E3czbm4LFDSiTcEV7FZMSIA_8&dib_tag=se&keywords=food+grade+silicone+strip&qid=1753196984&sprefix=food+grade+silicone+strip%2Caps%2C129&sr=8-2#averageCustomerReviewsAnchor) $10
+		- [ ] bulkhead fitting sample port, 2" ([Amazon](https://www.amazon.com/Murtenze-Connector-Stainless-Thru-bulk-Aquariums/dp/B0F9K83TMH?sr=8-10) $21) - close with extra gasket or rubber stopper and add syringe
+		- [ ] bulkhead fitting gas connector ([Amazon](https://www.amazon.com/Joywayus-Connector-Theaded-Bulkhead-Stablizing/dp/B07GPP23K9?sr=8-15) x2 = $18)
+		- [ ] O2 trap [Analytics Shop](https://www.analytics-shop.com/us/re23805?utm_source=google_shopping&utm_medium=cpc&gQT=1) $256
+		- [ ] 1/4" hose connector [Swagelok](https://products.swagelok.com/en/c/connectors-plastic-tubing/p/SS-4-HC-1-4)  x2 = $??
+		- [ ] 10 ft vinyl tubing [Amazon](https://www.amazon.com/Flexible-Lightweight-Plastic-Chemical-Resistant/dp/B09Y5R8SSL?dib=eyJ2IjoiMSJ9.g6lpmgC4OwdfJr5JxOivXbCFu86BZrR1i_9NFP94kyriBVoup0Uouvy45WLNvyJK7OduydBUqrWVpZbnaUV4rHV5e0_E7LmziiRQfQpERdh5F1WHAiNdFk0YVNLdB1BLvds2NZYdHHmMzYZBubTK-xMZh60BpRxnKB-rJC7lCrODS0IFutDpC_Qp7LAJ9kDJVxYuCMqo14ndWUoYXW0-Hg0R2ndA0nfOpCG_eDdfZI3yifbOYUxoyUIkGFwpq90Bp6U5BruDpfJqjCaVs7u7Op7DisIrQ-YS13FXuEcQ9Ks.23IpNb2foQzpV5fC424uOByM35zUHR9OX09f_FQJFHM&dib_tag=se&keywords=gas%2Btubing%2B1%2F4%22&qid=1753203818&sr=8-2&th=1) = $9
+		- [ ] probes [Amazon](https://www.amazon.com/Universal-Oscilloscope-Accessories-100MHz-Minigrabber/dp/B0827JL1T2?dib=eyJ2IjoiMSJ9.bZDc7MWRCkthqLP5DJaRzdcr6JlDc8vZvjPJgrYsIHYwYWkk00pPTMLTbdri5CpH8gJLSaf-TYzBoizQTsDiRD_ZQY_hp0e7QGi01MFegNKD0CHWxtxD8RgvDAl8YNQrSnZryYO52ddxszK5M0_3qTUidKemcfH-K99z27IVan-NTtR8KiNHMPh8kq6SGPghCPJkdBhNyP1MZuyBmrVmS-dWHYSkqS8uov5LlgQwui8.Y4Et6cg30FpgT688ViJRaMKz2Qg0hL7JPIZIArDB85I&dib_tag=se&keywords=oscilloscope%2Bprobes&qid=1753201681&sr=8-3&th=1)$30
+		- [ ] O2 meter ??? $???
 		- [ ] thermocouple (type k? cold junction?)
 			- [ ] sensor
 			- [ ] reader
-		- [ ] better regulator
-		- [ ] forming gas (just get an H2 cylinder to run with Ar? Or is there Ar + H available?)
+		- [x] forming gas (just get an H2 cylinder to run with Ar? Or is there Ar + H available?)
 	- Thor etc. vendor purchases
 		- [ ] optics
 			- [ ] microscope objective for ~1 um OR simple lens for ~1 cm

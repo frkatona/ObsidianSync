@@ -2,14 +2,11 @@
 # Immediate
 
 - ASAP
-	- remind chelsea to send dog paperwork and intent to purchase fence
-		- [ ] pay security deposit, 1st month, and dog (write check? write down office address)
-		- [x] message current tenant about fence 
+	- [Long Day's Journey into Night](https://ia801404.us.archive.org/28/items/in.ernet.dli.2015.182217/2015.182217.Long-Days-Journey-Into-Night.pdf)
 - later
 	- remember eric wanted special keyboard part at cover up part he thought was "hollow", try playing piano chords to Tumbling Dice, try putting weird fx and singing 'If" by pink floyd
+	- remind chelsea to send dog paperwork
 	- maybe Sunshine of your Love solo next week
-	- Beatles song for Sylvie
-	- [Long Day's Journey into Night](https://ia801404.us.archive.org/28/items/in.ernet.dli.2015.182217/2015.182217.Long-Days-Journey-Into-Night.pdf)
 	- read Zack, Emily, break down more trash, follow up with Tim, squash
 	- terrain
 		- [x] generate layout from blend scene
