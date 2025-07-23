@@ -22,11 +22,8 @@ https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
 - Home
 	- [ ] get Eric's tracks local and transcribe them to practice to
-	- [ ] Tell Remax about staying extra
 	- [ ] Sunday
-		- [ ] practice Crazy on You for Sylvie 
-		- [ ] tell Seana about driving separately (gotta go to thrift store and stay for Sylvie)
-			- [ ] Will thrift store take heavy items like the TV and workout bench?
+		- [ ] Will thrift store take heavy items like the TV and workout bench?
 	- [ ] break down fan, coffee, air fryer, etc.
 	- [ ] post weights on FBM
 		- [ ] clean other items and take pics for FBM
@@ -40,10 +37,12 @@ https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 	 - [ ] clean yellow scratches with clay bars
 ## Move
 
- - [ ] Determine if storage + another stay is viable
+ - [ ] Check batteries
+ - [ ] Find pro cleaner for carpets (call for quotes)
+ - [ ] Clean (see "additional docs")
  - [ ] Disassemble materials for trash
  - [ ] Pack clothes for thrift store
- - [ ] Cancel/transfer services
+ - [ ] Cancel/transfer services back to Medhat
 	 - [ ] mowing, power, internet
 ## Hobby
 - Squirrel Game (see [[Squirrel Game]])

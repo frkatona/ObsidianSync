@@ -81,6 +81,11 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 7/23 In-person meeting notes
+- Asma had questions for Ben S about the structure of the compound
+- Ben S points out that the PCD structure can be drawn with the vinyl group at the edge of the repeat unit, but also not, and it's unclear how that influences the simulation -- and Asma's units may have been missing a carbon
+- Ben S uses ~50 ccpm for his Ar flow, which I should try to use for my new flow chamber 
+
 ### 7/21 Ultrafast Blackbody Thermometer Notes
 - (2011) Ni, P.A. et al ["Multi-channel optical pyrometer for sub-nanosecond..."](https://www.osti.gov/servlets/purl/1016573)
 	- pyrometer is just an absolutely calibrated spectrometer operating at several discrete wavelengths in the visible and near-infrared regions which compares thermal radiation to temperature of the Planck formula
