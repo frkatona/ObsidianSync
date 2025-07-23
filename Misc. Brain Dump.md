@@ -106,6 +106,8 @@ That said, to the first point, it seems that beginners would be better served by
 
 To the second point—and I want to be clear that I do not mean this as snarky as it sounds—you're not getting the BEST out of your microphone unless you're using gold-plated, silver-core electronics with dielectric potting in a faraday cage booth lined with >6" rock wool pads.  To the best of my knowledge, there are no interfaces around the Cloudlifter price point that don't add more gain than your SSL 2 at the ~60% from the video.  And there seem to be a few examples around YouTube of people recording soft dialogue in a similar setup where the gain-matched noise is (to my ears) imperceptibly different between interface and Cloudlifter.  And for recording vocal
 
+---
+
 
 ### Blender-Godot [Blog-post](https://studio.blender.org/blog/our-workflow-with-blender-and-godot/) Notes
 - .blend imports deemed unhelpful for multi-person workflows
