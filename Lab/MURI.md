@@ -14,7 +14,6 @@
 	- sync with a secondary input
 	- capture output a given time
 	- fit a blackbody to 4 points
-
 ### To-do
  - home
 	 -  Search one last time for temperature determination in literature
@@ -65,14 +64,8 @@
 	- oscilloscope (file:///C:/Users/antho/Downloads/071281002web.pdf)
 		- probes ([tektronix passive](https://www.tek.com/en/products/oscilloscopes/oscilloscope-probes/passive-probe#) x2 = $168)
 	- Vacuum container
-		- Oxygen scrubber (heat tape + copper wool?)
-		- google image 'positive pressure glass vacuum box'
 		- able to mechanically seal, resistant to positive pressure (maybe bolts, but ideally something like a [toggle latch](https://www.amazon.com/Toggle-Latch-Pack-Adjustable-Industrial/dp/B0DKFPCRWG?dib=eyJ2IjoiMSJ9.n4y-4bK6e84yc7qxJion7bHdlDnSr3YWVcDGWarWVgOQO41DWCpuaXuUtMXyuSBrX70luV1KdsihFEV_aSipPKLUbER6pckyyDU6dvCkkHKZodt-IBVw8wIZ903QuhqToGwgTIAees8CkSHfSj525Pm4I8tg_BLfWfgJcY6EUn1ZuV3y4MacADrdSfs0SRlGn1IlpegANrXD2mAzCpuDKXnKYxpypZob-00ucG9HJYr2LaFl-9ghPYVEc1Gg-Wl5VD7AsidH3lUTUM3K5Ciw8Pd-lnxucNsUPvMNjI7LSF8.IfA3-UC-2EnzsI7GxKMGerrF6zxfPwCpp4ekDOYz74c&dib_tag=se&keywords=toggle+latch&qid=1750951998&sr=8-1) ~$17)
 		- low absorption, strong, transparent enclosure
-			- possibility 1: Pyrex top clamped onto steel enclosure
-			- possibility 2: solvent-welded acrylic
-				- easier to bolt to, but would need thick pieces to not break, along with nuts and o-rings
-				- buy [solvent cement](https://www.amazon.com/Weld-Acrylic-Plastic-Cement-Applicator/dp/B0149IG548) $20
 		- big enough to house O2, H2O, VOC sensors + pyrometer
 		- port for wires
 	- Find literature for errors from emissivity which supposedly become overwhelming at high temperatures and with increasing surface oxidation  (also calibration drift)
@@ -81,6 +74,11 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 7/23 In-person meeting notes
+- Asma had questions for Ben S about the structure of the compound
+- Ben S points out that the PCD structure can be drawn with the vinyl group at the edge of the repeat unit, but also not, and it's unclear how that influences the simulation -- and Asma's units may have been missing a carbon
+- Ben S uses ~50 ccpm for his Ar flow, which I should try to use for my new flow chamber 
+
 ### 7/21 Ultrafast Blackbody Thermometer Notes
 - (2011) Ni, P.A. et al ["Multi-channel optical pyrometer for sub-nanosecond..."](https://www.osti.gov/servlets/purl/1016573)
 	- pyrometer is just an absolutely calibrated spectrometer operating at several discrete wavelengths in the visible and near-infrared regions which compares thermal radiation to temperature of the Planck formula
