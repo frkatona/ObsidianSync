@@ -2,12 +2,16 @@
 # Immediate
 
 - ASAP
+	- Thor call/ordering
+	- MURI Meeting
 	- [Long Day's Journey into Night](https://ia801404.us.archive.org/28/items/in.ernet.dli.2015.182217/2015.182217.Long-Days-Journey-Into-Night.pdf)
+	- Ask ARPM about using basement
+	- Find prices for storage + AirBnB
+	- Upload FB marketplace - weights, island, TV, dog crate
 - later
-	- remember eric wanted special keyboard part at cover up part he thought was "hollow", try playing piano chords to Tumbling Dice, try putting weird fx and singing 'If" by pink floyd
 	- remind chelsea to send dog paperwork
 	- maybe Sunshine of your Love solo next week
-	- read Zack, Emily, break down more trash, follow up with Tim, squash
+	- read Zack, Emily
 	- terrain
 		- [x] generate layout from blend scene
 		- [ ] modify the mesh render distance
