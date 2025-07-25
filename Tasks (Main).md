@@ -3,11 +3,11 @@
 
 - ASAP
 	- Thor call/ordering
-	- MURI Meeting
 	- [Long Day's Journey into Night](https://ia801404.us.archive.org/28/items/in.ernet.dli.2015.182217/2015.182217.Long-Days-Journey-Into-Night.pdf)
-	- Ask ARPM about using basement
+	- Ask ARPM about using basement (Ben? Just holding in truck?)
 	- Find prices for storage + AirBnB
-	- Upload FB marketplace - weights, island, TV, dog crate
+	- Upload FB marketplace - weights, island, TV, dog crate/carrier
+	- Bag/load trash and cardboard
 - later
 	- remind chelsea to send dog paperwork
 	- maybe Sunshine of your Love solo next week
@@ -15,6 +15,20 @@
 	- terrain
 		- [x] generate layout from blend scene
 		- [ ] modify the mesh render distance
+
+needs stored:
+- Beds (queen, twin)
+- Washer, dryer
+- Small tables x~5
+- Keyboards (x2) + guitars (x4)
+- Misc
+	- dog crate
+	- food
+	- computer
+	- instruments
+	- speakers
+	- fans
+	- clothes
 
 https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 
