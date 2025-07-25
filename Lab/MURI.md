@@ -30,7 +30,7 @@
 	- [x] run the white sample (no Boron) see what happens
 		- recall that TGA shows polymer without boron degrades around 450, but around 250 with Boron
 	- [x] bring it back on Sapphire for Tainara to cut
-- [ ] Buy stuff as soon as spending resumes on 6/30
+- [x] Buy stuff as soon as spending resumes on 6/30
 	- Vacuum chamber
 		- [x] Regulator (check inlet type) - [CGA580 inlet](https://www.amazon.com/ARCCAPTAIN-Regulators-Welding-Regulator-Connection/dp/B0D1KD5ZPT?sr=8-10) - $40
 		- [x] bolts (6", full thread + nut/washer x4 [Amazon](https://www.amazon.com/Screws-Extra-large-Washers-Threaded-Stainless/dp/B08DCGY4X3?s=industrial&sr=1-4) $13)
@@ -42,27 +42,20 @@
 		- [x] O2 trap [Analytics Shop](https://www.analytics-shop.com/us/re23805?utm_source=google_shopping&utm_medium=cpc&gQT=1) $256
 		- [x] 1/4" hose connector [Swagelok](https://products.swagelok.com/en/c/connectors-plastic-tubing/p/SS-4-HC-1-4)  x2 = $??
 		- [x] 10 ft vinyl tubing [Amazon](https://www.amazon.com/Flexible-Lightweight-Plastic-Chemical-Resistant/dp/B09Y5R8SSL?dib=eyJ2IjoiMSJ9.g6lpmgC4OwdfJr5JxOivXbCFu86BZrR1i_9NFP94kyriBVoup0Uouvy45WLNvyJK7OduydBUqrWVpZbnaUV4rHV5e0_E7LmziiRQfQpERdh5F1WHAiNdFk0YVNLdB1BLvds2NZYdHHmMzYZBubTK-xMZh60BpRxnKB-rJC7lCrODS0IFutDpC_Qp7LAJ9kDJVxYuCMqo14ndWUoYXW0-Hg0R2ndA0nfOpCG_eDdfZI3yifbOYUxoyUIkGFwpq90Bp6U5BruDpfJqjCaVs7u7Op7DisIrQ-YS13FXuEcQ9Ks.23IpNb2foQzpV5fC424uOByM35zUHR9OX09f_FQJFHM&dib_tag=se&keywords=gas%2Btubing%2B1%2F4%22&qid=1753203818&sr=8-2&th=1) = $9
-		- [ ] probes [Amazon](https://www.amazon.com/Universal-Oscilloscope-Accessories-100MHz-Minigrabber/dp/B0827JL1T2?dib=eyJ2IjoiMSJ9.bZDc7MWRCkthqLP5DJaRzdcr6JlDc8vZvjPJgrYsIHYwYWkk00pPTMLTbdri5CpH8gJLSaf-TYzBoizQTsDiRD_ZQY_hp0e7QGi01MFegNKD0CHWxtxD8RgvDAl8YNQrSnZryYO52ddxszK5M0_3qTUidKemcfH-K99z27IVan-NTtR8KiNHMPh8kq6SGPghCPJkdBhNyP1MZuyBmrVmS-dWHYSkqS8uov5LlgQwui8.Y4Et6cg30FpgT688ViJRaMKz2Qg0hL7JPIZIArDB85I&dib_tag=se&keywords=oscilloscope%2Bprobes&qid=1753201681&sr=8-3&th=1)$30
-		- [ ] O2 meter ??? $???
-		- [ ] thermocouple (type k? cold junction?)
-			- [ ] sensor
-			- [ ] reader
+		- [x] probes [Amazon](https://www.amazon.com/Universal-Oscilloscope-Accessories-100MHz-Minigrabber/dp/B0827JL1T2?dib=eyJ2IjoiMSJ9.bZDc7MWRCkthqLP5DJaRzdcr6JlDc8vZvjPJgrYsIHYwYWkk00pPTMLTbdri5CpH8gJLSaf-TYzBoizQTsDiRD_ZQY_hp0e7QGi01MFegNKD0CHWxtxD8RgvDAl8YNQrSnZryYO52ddxszK5M0_3qTUidKemcfH-K99z27IVan-NTtR8KiNHMPh8kq6SGPghCPJkdBhNyP1MZuyBmrVmS-dWHYSkqS8uov5LlgQwui8.Y4Et6cg30FpgT688ViJRaMKz2Qg0hL7JPIZIArDB85I&dib_tag=se&keywords=oscilloscope%2Bprobes&qid=1753201681&sr=8-3&th=1)$30
+		- [ ] O2 meter $???
+		- [ ] thermocouple (type k? cold junction?, get sensor and reader)
+			- [x] acquire low-T wireless electronics with I2S compatibility
 		- [x] forming gas (just get an H2 cylinder to run with Ar? Or is there Ar + H available?)
 	- Thor etc. vendor purchases
-		- [ ] optics
-			- [ ] microscope objective for ~1 um OR simple lens for ~1 cm
-			- [ ] apertures/fiber to define the collection area
-		- [ ] detectors
-			- [ ] photo-diodes and photo-multipliers with rise times of ~nanoseconds (e.g., InGaAs or Ge photodiodes for the near IR ~800-1700, e.g. Xu et al.)
-			- [ ] split wavelengths (filtered mirrors? prism/grating?)
-				- [ ]  for finding1500-3000 K: 250, 500, 1000, 2000 nm
-				- [ ] for finding 500-1500 K: 1500, 2200 (1500 K peak), 4000, 6000 (400 K peak)
-					- [ ] bandpass filters
-					- [ ] detectors
-				- [ ] signal enhancement (built-in PMT?)
-		- [ ] ADC/Data Acquisition
-	- oscilloscope (file:///C:/Users/antho/Downloads/071281002web.pdf)
-		- probes ([tektronix passive](https://www.tek.com/en/products/oscilloscopes/oscilloscope-probes/passive-probe#) x2 = $168)
+		- [x] optics (OAP)
+		- [x] detectors
+			- [x] photo-diodes and photo-multipliers with rise times of ~nanoseconds (e.g., InGaAs or Ge photodiodes for the near IR ~800-1700, e.g. Xu et al.)
+			- [x] split wavelengths (filtered mirrors? prism/grating?)
+				- [x]  dichroic tree and bandpass filters
+				- [x] signal enhancement (APD)
+		- [x] ADC/Data Acquisition
+			- [x] Tektronix oscilloscope (file:///C:/Users/antho/Downloads/071281002web.pdf)
 	- Vacuum container
 		- able to mechanically seal, resistant to positive pressure (maybe bolts, but ideally something like a [toggle latch](https://www.amazon.com/Toggle-Latch-Pack-Adjustable-Industrial/dp/B0DKFPCRWG?dib=eyJ2IjoiMSJ9.n4y-4bK6e84yc7qxJion7bHdlDnSr3YWVcDGWarWVgOQO41DWCpuaXuUtMXyuSBrX70luV1KdsihFEV_aSipPKLUbER6pckyyDU6dvCkkHKZodt-IBVw8wIZ903QuhqToGwgTIAees8CkSHfSj525Pm4I8tg_BLfWfgJcY6EUn1ZuV3y4MacADrdSfs0SRlGn1IlpegANrXD2mAzCpuDKXnKYxpypZob-00ucG9HJYr2LaFl-9ghPYVEc1Gg-Wl5VD7AsidH3lUTUM3K5Ciw8Pd-lnxucNsUPvMNjI7LSF8.IfA3-UC-2EnzsI7GxKMGerrF6zxfPwCpp4ekDOYz74c&dib_tag=se&keywords=toggle+latch&qid=1750951998&sr=8-1) ~$17)
 		- low absorption, strong, transparent enclosure
@@ -70,7 +63,7 @@
 		- port for wires
 	- Find literature for errors from emissivity which supposedly become overwhelming at high temperatures and with increasing surface oxidation  (also calibration drift)
 - [x] Get or take a desiccator downstairs (ask Kristen, see if it needs regenerated/bought again)
-- [ ] Try forming gas
+- [x] Acquire forming gas (H2-balanced Ar)
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
