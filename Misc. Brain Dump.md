@@ -170,3 +170,22 @@ Misc.
  - connectors/adapters
 	 - fiber?
 	 - oscilloscope BNC
+
+
+- Intelligence Analyst
+	- Government
+		- CIA, NSA, FBI, DoD ("Open Source Analyst" or "Intelligence Research Specialist")
+	- Private
+		- Booz Allen Hamilton, Raytheon, Palantir (near DC), IST Research, Leidos
+- Legal Researcher
+	- law firms in any city found on Indeed/Glassdoor ("Litigation Support Specialist" or "Paralegal - Research Focused")
+- UX Researcher Apprenticeship (x)
+- Policy Analyst/ Program Evaluator (Think Tank)
+	- American Institutes for Research, Brookings, RAND, state/local government
+	- Harrisburg-based policy groups, Pennsylvania Department of Education
+	- "Policy Analyst," "Program Evaluation Specialist," "Research Associate"
+- Knowledge Management Specialist
+	- organizations in healthcare, engineering, and education (e.g., Penn State Health, Geisinger, UPMC)
+	- "Information Specialist," "Knowledge Manager," "Taxonomy Analyst"
+- Grant Writer or Research Development Officer
+	- Penn State, Bucknell, nonprofit hospital

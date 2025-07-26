@@ -1,4 +1,10 @@
-### 6/27 Notes
+### 7/25
+- Hammer's Gonna Fall mix fix
+	- trying to bounce swear version ("vox2") with acoustics (no electric guitar except solo) for radio
+	- added more highs/mids/stereo separation there for the real acoustic guitar
+	- bumped guitar levels up a bunch, turned it down just a little for clear vox at low levels
+	- [x] 1:10 (guitars sound out of time with each other)
+	- [x] 1:45ish (fixed out of time guitars)
 ---
 ### 6/27 Notes
 - Lots of Ducks available
