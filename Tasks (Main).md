@@ -1,17 +1,28 @@
  ---
 # Immediate
 
-- ASAP
-	- Thor call/ordering
-	- [Long Day's Journey into Night](https://ia801404.us.archive.org/28/items/in.ernet.dli.2015.182217/2015.182217.Long-Days-Journey-Into-Night.pdf)
-	- Ask ARPM about using basement (Ben? Just holding in truck?)
-	- Find prices for storage + AirBnB
-	- Upload FB marketplace - weights, island, TV, dog crate/carrier
+- Tomorrow
+	- Upload FB marketplace - dog crate, coal + grill + stoaker
 	- Bag/load trash and cardboard
+		- [ ] buy bigger bags, take some away, some in garage, some around the trash
+	- [ ] Copy keys (Benner Pike Walmart)
+		- [ ] collect all 4 pairs into the folder
+	- Call
+		- [ ] Moving truck for Thursday - [UHaul](https://www.uhaul.com/)
+		- [ ] Cleaning (windows, etc.) for Wednesday - [Molly Maid](https://www.mollymaid.com/lewistown-state-college/our-services/move-out-cleaning/)
+		- [ ] Cleaning (carpets) for Wednesday - [Blue Diamond](https://www.bluediamondcarpetcleaners.com/) (814) 861-4188
+		- [ ] Utilities/Services
+			- [x] Lawn
+			- [ ] Power
+			- [ ] Trash
+	- Online
+		- [x] Comcast
+		- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
 - later
 	- remind chelsea to send dog paperwork
 	- maybe Sunshine of your Love solo next week
 	- read Zack, Emily
+	- cancel soylent order
 	- terrain
 		- [x] generate layout from blend scene
 		- [ ] modify the mesh render distance
