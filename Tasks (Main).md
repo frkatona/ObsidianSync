@@ -8,13 +8,15 @@
 	- [ ] Copy keys (Benner Pike Walmart)
 		- [ ] collect all 4 pairs into the folder
 	- Call
-		- [ ] Moving truck for Thursday - [UHaul](https://www.uhaul.com/)
+		- [x] Moving truck for Thursday - [UHaul](https://www.uhaul.com/)
 		- [ ] Cleaning (windows, etc.) for Wednesday - [Molly Maid](https://www.mollymaid.com/lewistown-state-college/our-services/move-out-cleaning/)
-		- [ ] Cleaning (carpets) for Wednesday - [Blue Diamond](https://www.bluediamondcarpetcleaners.com/) (814) 861-4188
+		- [x] Cleaning (carpets) for Wednesday - [Blue Diamond](https://www.bluediamondcarpetcleaners.com/) (814) 861-4188
 		- [ ] Utilities/Services
 			- [x] Lawn
-			- [ ] Power
-			- [ ] Trash
+			- [ ] Power (end 2147 Earlystown)
+			- [ ] Power (start 300 Matilda)
+			- [ ] Trash (end 2147 Earlystown)
+			- [ ] Trash (start 300 Matilda)
 	- Online
 		- [x] Comcast
 		- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
