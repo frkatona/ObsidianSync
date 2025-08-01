@@ -1,84 +1,54 @@
  ---
 # Immediate
 
-- Tomorrow
-	- Upload FB marketplace - dog crate, coal + grill + stoaker
-	- Bag/load trash and cardboard
-		- [ ] buy bigger bags, take some away, some in garage, some around the trash
-	- [ ] Copy keys (Benner Pike Walmart)
-		- [ ] collect all 4 pairs into the folder
-	- Call
-		- [x] Moving truck for Thursday - [UHaul](https://www.uhaul.com/)
-		- [ ] Cleaning (windows, etc.) for Wednesday - [Molly Maid](https://www.mollymaid.com/lewistown-state-college/our-services/move-out-cleaning/)
-		- [x] Cleaning (carpets) for Wednesday - [Blue Diamond](https://www.bluediamondcarpetcleaners.com/) (814) 861-4188
-		- [ ] Utilities/Services
-			- [x] Lawn
-			- [ ] Power (end 2147 Earlystown)
-			- [ ] Power (start 300 Matilda)
-			- [ ] Trash (end 2147 Earlystown)
-			- [ ] Trash (start 300 Matilda)
-	- Online
-		- [x] Comcast
-		- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
-- later
+
+- Work
+	- [ ] Vacuum chamber/ lase
+	- [ ] Coordinate poster with Yuki
+	- [ ] Think on any updates needed to discuss with Ben
+	- [ ] Read Zack's paper
+	- [ ] Start PyCon purchasing paperwork
+	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
+	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
+	
+- Home
+	- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
+	- [ ] Power (end 2147 Earlystown)
+	- [ ] Power (start 300 Matilda)
+	- [ ] Trash (end 2147 Earlystown)
+	- [ ] Trash (start 300 Matilda)
+	- [ ] Be sure comcast doesn't need anything else (do I need my own coax cable?)
+	- [ ] Gift for Mary and other
+	- [ ] Sadia rball
+	- [ ] Rick notes
+		- Ponyo damage (doors, carpet hole, ramp scratches)
+		- Trash in garage/basement
+		- Carpet guy saying they're past their lifespan
+		- Outlet
+
+- Misc.
 	- remind chelsea to send dog paperwork
 	- maybe Sunshine of your Love solo next week
 	- read Zack, Emily
 	- cancel soylent order
-	- terrain
-		- [x] generate layout from blend scene
-		- [ ] modify the mesh render distance
-
-needs stored:
-- Beds (queen, twin)
-- Washer, dryer
-- Small tables x~5
-- Keyboards (x2) + guitars (x4)
-- Misc
-	- dog crate
-	- food
-	- computer
-	- instruments
-	- speakers
-	- fans
-	- clothes
+	- Kaya game
 
 https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
-
-- Work
-	- [ ] Start MURI poster/abstract
-	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
-	- [ ] Start temperature purchases
-	- [ ] Start PyCon purchasing paperwork
-	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
-- Home
-	- [ ] get Eric's tracks local and transcribe them to practice to
-	- [ ] Sunday
-		- [ ] Will thrift store take heavy items like the TV and workout bench?
-	- [ ] break down fan, coffee, air fryer, etc.
-	- [ ] post weights on FBM
-		- [ ] clean other items and take pics for FBM
-	- [ ] ask Sadia when she's back from Spain
 ## General
 
- - [x] Groceries
  - Bolt maintenance
 	 - [ ] scratch/fluid chamber repair
 	 - [ ] add more fluid
 	 - [ ] clean yellow scratches with clay bars
 ## Move
 
- - [ ] Check batteries
- - [ ] Find pro cleaner for carpets (call for quotes)
- - [ ] Clean (see "additional docs")
- - [ ] Disassemble materials for trash
- - [ ] Pack clothes for thrift store
- - [ ] Cancel/transfer services back to Medhat
-	 - [ ] mowing, power, internet
 ## Hobby
 - Squirrel Game (see [[Squirrel Game]])
 - Coding
 	 - [ ] Polish Chelsea's timeline webpage (fix scroll cursor location + add panning)
+ - JVJ
+	 - Listen to CD
+	 - Read horror/mystery book
 - Music
 	- ### [[Music]]
 	- [x] Get Eric's recording onto computer to practice bass for next Sunday
