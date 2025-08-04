@@ -1,6 +1,27 @@
  ---
 # Immediate
 
+- [ ] respond postdoc visit email
+- [ ] message ReMax
+- [x] message harry for sleep
+- buy
+	- coax cable
+	- table legs
+	- Chelsea guitar case
+- [ ] order regulator + hose adapter
+- [ ] Start PyCon purchasing paperwork
+- [ ] respond to show and tell
+- tomorrow
+	- pick up keys
+	- old place
+		- drop off garage door
+		- take pics/vids
+		- clean basement (take bags)
+
+Kaya notes
+- this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
+	- quirky minimalist vibe like undertale (in general) for most tracks in the game, but the voxel map should be very sparse
+	- try for C418 tracks that are long and background (e.g., Mice on Venus, Living Mice) - and then don't have high energy for more than like 5-20s
 
 - Work
 	- [ ] Vacuum chamber/ lase
@@ -15,14 +36,13 @@
 	- [ ] Sign and return patent forms
 	- [ ] Coordinate poster with Yuki
 	- [ ] Think on any updates needed to discuss with Ben
-	- [ ] Read Zack's paper
-	- [ ] Start PyCon purchasing paperwork
+	- [x] Read Zack's paper
 	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
 	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
 	
 - Home
-	- [ ] Move
-		- [ ] Pay rent
+	- Move
+		- [x] Pay rent
 		- [ ] Set up PO Box
 			- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
 		- [ ] Power (end 2147 Earlystown)
