@@ -40,6 +40,9 @@
 - https://en.wikipedia.org/wiki/Amplifier#:~:text=An%20amplifier%20is%20defined%20as,power%20gain%20greater%20than%20one.&text=An%20amplifier%20can%20be%20either,in%20almost%20all%20electronic%20equipment.
 - https://www.youtube.com/watch?v=aRdiiWpA0AA
 - [special search characters](https://www.digitalthirdcoast.com/blog/5-easy-symbols-google-work)
+- https://zen-browser.app/download/
+- https://www.masteringthemix.com/products/eq-academy
+- 
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
@@ -54,7 +57,8 @@
 	- [Lighting in Godot](https://www.youtube.com/watch?v=aRdiiWpA0AA)
 	- Legal Eagle - [Supreme Court Trans Rights](https://youtu.be/S80ivPamBoM)
 	- Legal Eagle - [Religious Parents](https://youtu.be/Go3-HnVxres)
-	- 
+	- [LibGodot](https://youtu.be/L06KBOWCsSk)
+	- [Andor Luthen Speech](https://youtu.be/-3RCme2zZRY)
 
 [](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/

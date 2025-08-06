@@ -2,6 +2,7 @@
 # Immediate
 
 - Tomorrow
+	- Pay first month rent
 	- Upload FB marketplace - dog crate, coal + grill + stoaker
 	- Bag/load trash and cardboard
 		- [ ] buy bigger bags, take some away, some in garage, some around the trash
@@ -14,7 +15,7 @@
 		- [ ] Utilities/Services
 			- [x] Lawn
 			- [ ] Power (end 2147 Earlystown)
-			- [ ] Power (start 300 Matilda)
+			- [x] Power (start 300 Matilda)
 			- [ ] Trash (end 2147 Earlystown)
 			- [ ] Trash (start 300 Matilda)
 	- Online
