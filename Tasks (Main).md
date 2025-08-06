@@ -1,6 +1,7 @@
  ---
 # Immediate
 
+<<<<<<< HEAD
 - Tomorrow
 	- Pay first month rent
 	- Upload FB marketplace - dog crate, coal + grill + stoaker
@@ -22,64 +23,96 @@
 		- [x] Comcast
 		- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
 - later
+=======
+- [ ] respond postdoc visit email
+- [ ] message ReMax
+- [x] message harry for sleep
+- buy
+	- coax cable
+	- table legs
+	- Chelsea guitar case
+- [ ] order regulator + hose adapter
+- [ ] Start PyCon purchasing paperwork
+- [ ] respond to show and tell
+- tomorrow
+	- pick up keys
+	- old place
+		- drop off garage door
+		- take pics/vids
+		- clean basement (take bags)
+
+Kaya notes
+- this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
+	- quirky minimalist vibe like undertale (in general) for most tracks in the game, but the voxel map should be very sparse
+	- try for C418 tracks that are long and background (e.g., Mice on Venus, Living Mice) - and then don't have high energy for more than like 5-20s
+
+- Work
+	- [ ] Vacuum chamber/ lase
+		- [ ] troubleshoot black powder, try flowing in metal chamber
+	- [ ] Buy
+		- [ ] fuel gas regulator + adapter
+			- (is the fuel reg output also oppositely threaded?)
+		- [ ] gas flow meter
+		- [ ] sparger or laminar diffuser
+		- [ ] even ppt (IR?) O2 meter 
+		- [ ] Thor status?
+	- [ ] Sign and return patent forms
+	- [ ] Coordinate poster with Yuki
+	- [ ] Think on any updates needed to discuss with Ben
+	- [x] Read Zack's paper
+	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
+	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
+	
+- Home
+	- Move
+		- [x] Pay rent
+		- [ ] Set up PO Box
+			- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
+		- [ ] Power (end 2147 Earlystown)
+		- [ ] Power start (300 Matilda)
+			- meter number: 5001142936
+			- zip code: 16851
+			- [set up link](https://www.firstenergycorp.com/service_requests/Start_Service/new_address.html)
+		- [ ] Trash (end 2147 Earlystown)
+		- [ ] Trash (start 300 Matilda)
+		- [ ] Be sure comcast doesn't need anything else (do I need my own coax cable?)
+		- [ ] Gift for Mary and other
+		- [ ] Buy
+			- [ ] Coax cable?
+			- [ ] Desk (with keyboard space)
+			- [ ] TV mount
+			- [ ] TV computer/audio setup
+	- [ ] Rick notes
+		- Ponyo damage (doors, carpet hole, ramp scratches)
+		- Trash in garage/basement
+		- Carpet guy saying they're past their lifespan
+		- Outlet
+	- [ ] Sadia rball
+
+- Misc.
+>>>>>>> origin/main
 	- remind chelsea to send dog paperwork
 	- maybe Sunshine of your Love solo next week
 	- read Zack, Emily
 	- cancel soylent order
-	- terrain
-		- [x] generate layout from blend scene
-		- [ ] modify the mesh render distance
-
-needs stored:
-- Beds (queen, twin)
-- Washer, dryer
-- Small tables x~5
-- Keyboards (x2) + guitars (x4)
-- Misc
-	- dog crate
-	- food
-	- computer
-	- instruments
-	- speakers
-	- fans
-	- clothes
+	- Kaya game
 
 https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
-
-- Work
-	- [ ] Start MURI poster/abstract
-	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
-	- [ ] Start temperature purchases
-	- [ ] Start PyCon purchasing paperwork
-	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
-- Home
-	- [ ] get Eric's tracks local and transcribe them to practice to
-	- [ ] Sunday
-		- [ ] Will thrift store take heavy items like the TV and workout bench?
-	- [ ] break down fan, coffee, air fryer, etc.
-	- [ ] post weights on FBM
-		- [ ] clean other items and take pics for FBM
-	- [ ] ask Sadia when she's back from Spain
 ## General
 
- - [x] Groceries
  - Bolt maintenance
 	 - [ ] scratch/fluid chamber repair
 	 - [ ] add more fluid
 	 - [ ] clean yellow scratches with clay bars
 ## Move
 
- - [ ] Check batteries
- - [ ] Find pro cleaner for carpets (call for quotes)
- - [ ] Clean (see "additional docs")
- - [ ] Disassemble materials for trash
- - [ ] Pack clothes for thrift store
- - [ ] Cancel/transfer services back to Medhat
-	 - [ ] mowing, power, internet
 ## Hobby
 - Squirrel Game (see [[Squirrel Game]])
 - Coding
 	 - [ ] Polish Chelsea's timeline webpage (fix scroll cursor location + add panning)
+ - JVJ
+	 - Listen to CD
+	 - Read horror/mystery book
 - Music
 	- ### [[Music]]
 	- [x] Get Eric's recording onto computer to practice bass for next Sunday

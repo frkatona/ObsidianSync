@@ -67,6 +67,17 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 7/30
+
+- Rob discussing a meeting he has to go to where he's making a quad chart that was DC but now isn't
+- travel restrictions are hampering a few members, we'll discuss presenting tomorrow
+- JP warns that budget is difficult to modify without the project getting scrutinized
+- Get a CGA 350 from JP/Tainara
+- JP's group will check out Raman and re-do XRD for the previously lased samples
+- JP will also get Ea for the H2 release using calorimetry to report back to the computational people
+- to discuss
+    - [x]  CGA 350 regulator/adapter
+        - will pick up from Tainara
 ### 7/23 In-person meeting notes
 - Asma had questions for Ben S about the structure of the compound
 - Ben S points out that the PCD structure can be drawn with the vinyl group at the edge of the repeat unit, but also not, and it's unclear how that influences the simulation -- and Asma's units may have been missing a carbon
