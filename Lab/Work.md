@@ -2,9 +2,7 @@
 
 ---
 ### Lab
-- Yuki
-	- tell second week would be good
-	- ask lab for preference in days/times (probably pitch 9 am)
+- Yuki - set up comps practice
 - Read MURI folder papers
 - Submit receipts for trip (Ask Taylor how tax works...read the email docs)
 	- [x] AirBnB receipt ($1011.09 vs $138/day * 6 days = $828)
