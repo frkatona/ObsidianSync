@@ -67,6 +67,51 @@
 - [ ] Get FLIR images with or without wireless to report to Priya
 - [ ] Email TJ about getting absorption for a given thickness at 532 and 1064 (what did Ben S say about it?)
 ---
+### 8/7 On-site Review
+- Rob presentation - project overview
+- Mike presentation - 3D printing, Raman characterizing, and infusing PDC precursors
+	- PDC design - partial focus on amount of C and O desired in product
+	- Evelyn's real time Raman monitoring of 
+	- Si NP carbon scavenging ('reaction bonding') at 35 wt% and 1400 C
+	- Q - Kenneth Lipkowitz - shrinkage is the 'kiss of death,' what are you thinking to minimize it
+		- A - 'atom economy' is the name of the game...ideally you can just keep all atoms the same and rearrange the bonds...it'll come down to the hydrogen which is hard to get rid of in the design of the PDC precursor materials
+- Adri presentation - ReaxFF force field development and simulations
+	- Nomura et al Scientific Reports 2016 - absolutely sick looking 3D graphiticization web formation animation
+- Alex presentation - designing ideal photothermal SiC precursors 
+	- photodecomposition (solid, synthesize as designed) vs photocaging (molecules designed to release targets)
+	- tetra alkyne Si-Si compound in our lab - shows UV Vis peaks around like 300ish nm (missed what the 3 curves were) and we should try to determine ideal absorption
+- Aiichiro presentation - MD and ML of photochemical pyrolysis of Si polymers
+- Rob presentation 2 - ROMP and PCD
+- Ben
+- JP
+	- Indexing B4C is super hard --> lots of BC and BO look the same...but we still probably have B4C with really nice, big grains
+	- building YAG into TGA-MS
+	- idea: plasmonic field enhancement
+	- future: Intense Pulsed Light (IPL) zaps a sheet of paper size at 1 Hz with like 96 J/cm2
+- Adri
+	- energetically, BC is really unstable, but B4C is only slightly more stable than B or C alone (both of which are considered quite stable)
+	- alternative H2 release pathway through decaborane dimerization with modest activation energy
+- To-do
+	- add images, other links to the QR code repo
+### 8/6
+- Ben S.
+	- the original lased sample (nice pic) looks maybe like boric oxide or boric acid
+- Rob
+	- make sure we're doing like 100 C overnight with samples and lasing right away (water is hard to remove at RT)
+	- looks like maybe it's boron oxide, but B metal may form, so try to be very thorough with sample prep
+	- presentation
+		- Kavindi's PCD-grafted silica lead to some B4C/SiC composites through carbothermal reduction
+- Tainara
+	- the ones we've indexed could be oxide or acid or something
+- Notes from me
+	- I don't have any XRDs, but we can lase an open-air PCD asap, either now or as soon as its out of the oven
+	- sapphire sample I lased didn't look very pure in either chamber
+		- lasing from the bottom resulted in some colored specks that look a little iridescent
+- Ben S uses argon with 5% H2 for his oven pyrolysis
+- REMEMBER
+	- tomorrow morning set up posters at 8:30
+	- dinner tomorrow evening, whenever we wrap up we'll walk down to Allen St
+
 ### 7/30
 - Rob discussing a meeting he has to go to where he's making a quad chart that was DC but now isn't
 - travel restrictions are hampering a few members, we'll discuss presenting tomorrow
