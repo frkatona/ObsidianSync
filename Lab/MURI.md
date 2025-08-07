@@ -91,6 +91,10 @@
 - Adri
 	- energetically, BC is really unstable, but B4C is only slightly more stable than B or C alone (both of which are considered quite stable)
 	- alternative H2 release pathway through decaborane dimerization with modest activation energy
+- Priya
+	- mechanisms for evolution of methane, ethene, propane
+- Pani - ONR review comments - good job with first year, try not to lose focus in the second year; we could have better clarified role of separate theorists and how specifically they contributed to the experiments (just a presentation note)
+	- keep an eye on budge; - continue to spend the money and submit the invoices
 - To-do
 	- add images, other links to the QR code repo
 ### 8/6
