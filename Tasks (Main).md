@@ -1,9 +1,8 @@
  ---
 # Immediate
 
-<<<<<<< HEAD
 - Tomorrow
-	- Pay first month rent
+	- positive pressure chamber supplies + 
 	- Upload FB marketplace - dog crate, coal + grill + stoaker
 	- Bag/load trash and cardboard
 		- [ ] buy bigger bags, take some away, some in garage, some around the trash

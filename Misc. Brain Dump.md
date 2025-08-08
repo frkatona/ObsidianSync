@@ -193,3 +193,16 @@ Misc.
 	- "Information Specialist," "Knowledge Manager," "Taxonomy Analyst"
 - Grant Writer or Research Development Officer
 	- Penn State, Bucknell, nonprofit hospital
+
+Creative tabs dump
+ - Blender 4.5 features [YT](https://youtu.be/wPhA0imjvVs)
+ - Blender Godot workflow [YT](https://studio.blender.org/blog/our-workflow-with-blender-and-godot/)
+ - FL VFX Scripting Tutorial [YT](https://youtu.be/sB5otomxtu4)
+	 - Dogwalk Release Party [YT](https://youtu.be/7eRlX4b3HEU)
+ - 'suggest markdown in Fruity Notebook 2'
+ - what to grow with tomatoes, how to compost, how to water tomatoes
+ - Music Indie Game from Scratch [YT](https://youtu.be/3USobO6qRHE)
+ - DBD 9.1 [patch notes](https://forums.bhvr.com/dead-by-daylight/kb/articles/514-9-1-0-ptb-patch-notes)
+ - UK Censored Internet [YT](https://youtu.be/RFUUy0DKxvk)
+ - 'PIP subtitles'
+ - 

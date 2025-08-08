@@ -20,7 +20,8 @@
 		 - Onedrive folder
 		 - wider lit search
 	 - Purchasing
-		 - positive pressure chamber supplies + O2 sensor
+		 - cga-350 regulator
+		 - O2 sensor
 		 - 
 	- Lase
 		- Alex R.'s sample
