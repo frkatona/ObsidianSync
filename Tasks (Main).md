@@ -1,63 +1,40 @@
  ---
 # Immediate
 
-- [ ] Utilities/Services
-	- [x] Lawn
-	- [x] Power (end 2147 Earlystown)
-	- [x] Power (start 300 Matilda)
-	- [ ] Trash (end 2147 Earlystown)
-	- [ ] Trash (start 300 Matilda)
-- Online
-	- [x] Comcast
-	- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
-- later
-=======
-- [ ] message ReMax
-- [ ] order regulator + hose adapter
+- [ ] message ReMax PO Box
 - [ ] Start PyCon purchasing paperwork
-- [ ] respond to show and tell
+- [ ] Kaya music - show and tell
+- Buy
+	- [ ] Lawnmower
+	- [ ] Dresser/nightstand
+	- [ ] Desk drawer
+	- [ ] TV Audio
+- Work
+	- [ ] Sandra angles, findings + recommendation
+	- [ ] order regulator + hose adapter
 
-Kaya notes
+8/4 Kaya music notes
 - this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
 	- quirky minimalist vibe like undertale (in general) for most tracks in the game, but the voxel map should be very sparse
 	- try for C418 tracks that are long and background (e.g., Mice on Venus, Living Mice) - and then don't have high energy for more than like 5-20s
 
 - Work
-	- [ ] Vacuum chamber/ lase
-		- [ ] troubleshoot black powder, try flowing in metal chamber
+	- [ ] Lase Alex's powder
 	- [ ] Buy
 		- [ ] fuel gas regulator + adapter
 			- (is the fuel reg output also oppositely threaded?)
 		- [ ] gas flow meter
 		- [ ] sparger or laminar diffuser
 		- [ ] even ppt (IR?) O2 meter 
-		- [ ] Thor status?
+	- [ ] Check Thor order, start assembling
 	- [ ] Sign and return patent forms
-	- [ ] Coordinate poster with Yuki
-	- [ ] Think on any updates needed to discuss with Ben
-	- [x] Read Zack's paper
 	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
-	- [ ] Measure basic temperature for Priya (and send info on multiple exposure tests)
 	
 - Home
 	- Move
-		- [x] Pay rent
-		- [ ] Set up PO Box
-			- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
-		- [ ] Power (end 2147 Earlystown)
-		- [ ] Power start (300 Matilda)
-			- meter number: 5001142936
-			- zip code: 16851
-			- [set up link](https://www.firstenergycorp.com/service_requests/Start_Service/new_address.html)
 		- [ ] Trash (end 2147 Earlystown)
 		- [ ] Trash (start 300 Matilda)
-		- [ ] Be sure comcast doesn't need anything else (do I need my own coax cable?)
 		- [ ] Gift for Mary and other
-		- [ ] Buy
-			- [ ] Coax cable?
-			- [ ] Desk (with keyboard space)
-			- [ ] TV mount
-			- [ ] TV computer/audio setup
 	- [ ] Rick notes
 		- Ponyo damage (doors, carpet hole, ramp scratches)
 		- Trash in garage/basement
