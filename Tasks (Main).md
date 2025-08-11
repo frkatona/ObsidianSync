@@ -1,44 +1,21 @@
  ---
 # Immediate
 
-- Tomorrow
-	- positive pressure chamber supplies + 
-	- Upload FB marketplace - dog crate, coal + grill + stoaker
-	- Bag/load trash and cardboard
-		- [ ] buy bigger bags, take some away, some in garage, some around the trash
-	- [ ] Copy keys (Benner Pike Walmart)
-		- [ ] collect all 4 pairs into the folder
-	- Call
-		- [x] Moving truck for Thursday - [UHaul](https://www.uhaul.com/)
-		- [ ] Cleaning (windows, etc.) for Wednesday - [Molly Maid](https://www.mollymaid.com/lewistown-state-college/our-services/move-out-cleaning/)
-		- [x] Cleaning (carpets) for Wednesday - [Blue Diamond](https://www.bluediamondcarpetcleaners.com/) (814) 861-4188
-		- [ ] Utilities/Services
-			- [x] Lawn
-			- [ ] Power (end 2147 Earlystown)
-			- [x] Power (start 300 Matilda)
-			- [ ] Trash (end 2147 Earlystown)
-			- [ ] Trash (start 300 Matilda)
-	- Online
-		- [x] Comcast
-		- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
+- [ ] Utilities/Services
+	- [x] Lawn
+	- [x] Power (end 2147 Earlystown)
+	- [x] Power (start 300 Matilda)
+	- [ ] Trash (end 2147 Earlystown)
+	- [ ] Trash (start 300 Matilda)
+- Online
+	- [x] Comcast
+	- [ ] Forward [USPS](https://www.usps.com/manage/forward.htm) mail to new address (300 MATILDA AVE LEMONT PA 16851)
 - later
 =======
-- [ ] respond postdoc visit email
 - [ ] message ReMax
-- [x] message harry for sleep
-- buy
-	- coax cable
-	- table legs
-	- Chelsea guitar case
 - [ ] order regulator + hose adapter
 - [ ] Start PyCon purchasing paperwork
 - [ ] respond to show and tell
-- tomorrow
-	- pick up keys
-	- old place
-		- drop off garage door
-		- take pics/vids
-		- clean basement (take bags)
 
 Kaya notes
 - this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
