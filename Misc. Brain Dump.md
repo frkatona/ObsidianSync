@@ -73,6 +73,8 @@
 - Silo TV Series
 - https://da4all.github.io/toolkit/
 
+---
+## FL Notes
 ### FL 2025 [YT](https://youtu.be/nKK0TRFwB7g) Notes
 - Playlist - per-clip editing
 	- cut clips are unique by default
@@ -81,21 +83,17 @@
 - Loop starter
 - channel rack 4 bar seems to repeat for >4 lengths
 
-Going out
-- recycling
-- CVS
-
-To-do
-- transcribe eric's tracks
+### For Eric live collab:
 - MIDI Bass
 	- re-watch kontakt demo
-	- try ample bass (see if there are patterns)
+	- try ample bass (see if there are any good patterns)
+	- explore extracting bass from [GTab](https://gprotab.net/) tracks
 	- find free MIDI pattern downloads
 		- generally
 		- that come with the new Kontakt bass player
-- Try out Jacob Collier's free choir plugin
-
-
+- [x] Try out Jacob Collier's free choir plugin
+---
+## YT Audio Comment Response
 '''
 Well, who I think it's good for is people with a simple 2x2 interface and an SM7B. No other preamps or anything else. This is for two reasons. 
 
@@ -127,7 +125,8 @@ To the second point—and I want to be clear that I do not mean this as snarky a
 	- Export data to game files
 		- Blender extension assigns an ID to assets that don't have one and register it to an index .json file for Godot to find
 		- make sure collection instances are cleared of their instanced geometry for asset separation
-
+---
+## First pass blackbody thermometry shopping list
 
 | Qty | Description                                                 | Thorlabs Part # | Est. Price (USD) | Notes                               |
 | --- | ----------------------------------------------------------- | --------------- | ---------------- | ----------------------------------- |
@@ -148,33 +147,9 @@ To the second point—and I want to be clear that I do not mean this as snarky a
 | 1   | SMA(m) to BNC(m) RG-58 cable, 2 ft                          | CA2862          | $26              | For DET08A/M to scope               |
 | 1   | BNC(m) to BNC(m) RG-58 cable, 2 ft                          | CA2602          | $19              | For DET10D2 to scope                |
 | 1   | 50 Ω BNC terminator                                         | T4119-50        | $25              | For scope input termination         |
-**Tektronix DPO4104B** is a 1 GHz, 5 GS/s digital phosphor oscilloscope
 
-Shopping List
-
-Optics
- - collection (lens?  parabolic mirror? size?)
- - collimation (collimator)
-Filters
- - 532 notch
- - 650 bandpass
- - 850 bandpass
- - 1550 bandpass
- - 2200 bandpass
-Dichroics
- - <650
- - 650 - 900
- - 900 - 1800
-Photodetectors (free space?)
- - Si (x2)
- - InGaAs (x2)
-Misc.
- - posts/rails/guides
-	 - lens + 3x mirrors + 4x bandpass + 4x detectors
- - connectors/adapters
-	 - fiber?
-	 - oscilloscope BNC
-
+---
+## Chelsea jobs
 
 - Intelligence Analyst
 	- Government
@@ -206,6 +181,7 @@ Creative tabs dump
  - UK Censored Internet [YT](https://youtu.be/RFUUy0DKxvk)
  - 'PIP subtitles'
 
+---
 ## Growing Tomatoes
 
 - **Planting**
