@@ -20,6 +20,7 @@
 	- [ ] ball bounce
 	- [ ] lava
 	- [ ] teleporter
+	- [ ] vacuum upgrade (current too drone-y, try more like beeps)
 - ### Action feedback 
 	- block
 		- [x] place
@@ -44,12 +45,15 @@
 			- [x] birdsong
 		- enemy
 			- [x] hit
-	- fishing
-		- [ ] start
-		- [ ] good QTE
-		- [ ] bad QTE
-		- [ ] catch failed
-		- [ ] catch success
+	- item use
+		- fishing
+			- [ ] start
+			- [ ] good QTE
+			- [ ] bad QTE
+			- [ ] catch failed
+			- [ ] catch success
+		- [ ] vacuum
+		- [ ] bomb
 	- UI 
 		- [ ] open menu
 		- [ ] click
@@ -57,6 +61,11 @@
 		- [ ] exit menu
 - ### Special
 	- [ ] flower grow
+
+tracks
+- outside skybox
+- ambient for underground in voxel
+- transitioning stages (stage lietmotif?)
 
 ---
 ### 6/9 Notes
