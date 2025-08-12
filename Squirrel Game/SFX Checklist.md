@@ -62,12 +62,14 @@
 - ### Special
 	- [ ] flower grow
 
-tracks
-- outside skybox
-- ambient for underground in voxel
-- transitioning stages (stage lietmotif?)
+
 
 ---
+### 8/11 Notes
+- Kaya new track assignment:
+	- outside skybox
+	- ambient for underground in voxel
+	- transitioning stages (stage lietmotif?)
 ### 6/9 Notes
  - Kaya
 	 - preferred to post basically any non-secret in one of the public channels going forward
