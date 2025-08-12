@@ -1,28 +1,28 @@
  ---
 # Immediate
 
-- [ ] message ReMax PO Box
+- [x] message ReMax PO Box
 - [ ] Start PyCon purchasing paperwork
-- [ ] Kaya music - show and tell
+- [x] Kaya music - show and tell
 - Buy
-	- [ ] Lawnmower
-	- [ ] Dresser/nightstand
+	- [x] Lawnmower
 	- [ ] Desk drawer
 	- [ ] TV Audio
 - Work
 	- [ ] Sandra angles, findings + recommendation
 	- [ ] order regulator + hose adapter
 
-8/4 Kaya music notes
-- this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
-	- quirky minimalist vibe like undertale (in general) for most tracks in the game, but the voxel map should be very sparse
-	- try for C418 tracks that are long and background (e.g., Mice on Venus, Living Mice) - and then don't have high energy for more than like 5-20s
+- [x] 8/4 Kaya music notes
+	- this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
+		- quirky minimalist vibe like undertale (in general) for most tracks in the game, but the voxel map should be very sparse
+		- try for C418 tracks that are long and background (e.g., Mice on Venus, Living Mice) - and then don't have high energy for more than like 5-20s
 
 - Work
 	- [ ] Lase Alex's powder
 	- [ ] Buy
 		- [ ] fuel gas regulator + adapter
 			- (is the fuel reg output also oppositely threaded?)
+		- 
 		- [ ] gas flow meter
 		- [ ] sparger or laminar diffuser
 		- [ ] even ppt (IR?) O2 meter 

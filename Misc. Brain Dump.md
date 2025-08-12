@@ -205,4 +205,30 @@ Creative tabs dump
  - DBD 9.1 [patch notes](https://forums.bhvr.com/dead-by-daylight/kb/articles/514-9-1-0-ptb-patch-notes)
  - UK Censored Internet [YT](https://youtu.be/RFUUy0DKxvk)
  - 'PIP subtitles'
- - 
+
+## Growing Tomatoes
+
+- **Planting**
+	- in late Spring/early Summer, after soil has warmed to 60 C (danger of nighttime frost has passed)
+- **Support**
+	- stakes, cages, and trellises to keep upright, sun-exposed, and circulated
+- **Watering**
+	- water deeply (~4"), infrequently (1/wk), and consistently (for Ca update)
+	- make soil moist but not soggy
+	- water directly at the base, avoiding wetting foliage (spreading disease)
+	- water in the morning to allow the foliage to dry before nightfall, reducing risk of fungus
+	- young transplants need daily, established plants ~1-2 inches per week depending on soil drainage (more drainage -> more water) and heat
+	- almost ripe --> reduce watering further to prevent cracking and blossom end rot
+- **Pruning**
+	- pinch suckers (remove side shoots) to focus plant's energy on production
+	- remove lowest branches to mitigate diseases borne from soil contact
+- **Composting**
+	- apply around the base of the plants to retain moisture and suppress weeds
+- **Grow**
+	- 3-4 weeks to get large/green and then another 3-4 weeks to ripen on the vine
+	- smaller varieties (e.g., cherry) may ripen as quickly as 4 weeks from flower to harvest
+	- a 'blushed' tomato (started to show color) can be picked and ripen indoors at room temp
+	- remove when they are slightly soft to the touch
+- **Harvest**
+	- pick at the 'breaker stage' when they begin to show color and let them finish ripening indoors
+	- no more than a week after full ripening to avoid splitting, overripening, and attracting pests
