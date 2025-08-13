@@ -185,7 +185,7 @@ Creative tabs dump
 ## Growing Tomatoes
 
 - **Planting**
-	- in late Spring/early Summer, after soil has warmed to 60 C (danger of nighttime frost has passed)
+	- in late Spring/early Summer, after soil has warmed to ~60 C (danger of nighttime frost has passed)
 - **Support**
 	- stakes, cages, and trellises to keep upright, sun-exposed, and circulated
 - **Watering**
