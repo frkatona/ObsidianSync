@@ -1,6 +1,8 @@
+files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_U0W6q?usp=sharing)
+---
 - ### Movement
 	- [x] step 1/2
-	- [ ] jump
+	- [x] jump
 	- [ ] climb
 	- [ ] fall
 	- [ ] land
@@ -21,6 +23,7 @@
 	- [ ] lava
 	- [ ] teleporter
 	- [ ] vacuum upgrade (current too drone-y, try more like beeps)
+		- [x] 'metal detector one-shot'
 - ### Action feedback 
 	- block
 		- [x] place
@@ -29,10 +32,10 @@
 	- ball
 		- [ ] fall
 		- [x] hit
-	- [ ] death
+	- [x] death
 	- [ ] pickup
 		- [ ] coin (+pitch consecutive?)
-		- [ ] block
+		- [x] block
 		- [ ] special item
 	- [x] level change
 	- [x] teleport
@@ -47,11 +50,11 @@
 			- [x] hit
 	- item use
 		- fishing
-			- [ ] start
-			- [ ] good QTE
-			- [ ] bad QTE
-			- [ ] catch failed
-			- [ ] catch success
+			- [x] start
+			- [x] good QTE
+			- [x] bad QTE
+			- [x] catch failed
+			- [x] catch success
 		- [ ] vacuum
 		- [ ] bomb
 	- UI 
