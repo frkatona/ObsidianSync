@@ -2,13 +2,10 @@
 
 ---
 
- - one slide on background (how we think through this)
-	 - difficult to think through the isolated heat sources since we don't know what they are, so maybe don't allude too much (is JP doing his reflectance thing?)
-	 - mostly important that heating and cooling is fast, we can get to high temps
- - one slide on the lasing conditions (chamber, laser) and before and shot for the actual sample
- - then JP probably will be the one with all the characterization slides, but we can send the first XRD on a third slide and let Mike sort it out
+### On-site notes
+- Alex brought up an interesting-sounding paper, something like "co2 laser rearrangement 33 sigmatropic shift multiphoton absorption ground state photochemistry"
 
-7/1 thoughts
+### 7/1 thoughts
 - work on scripting (ideally no labview, but maybe labview) 
 	- visualize oscilloscope output in real time
 	- sync with a secondary input
