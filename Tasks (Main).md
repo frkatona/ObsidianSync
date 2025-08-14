@@ -1,35 +1,41 @@
  ---
 # Immediate
 
-- [x] message ReMax PO Box
-- [ ] Start PyCon purchasing paperwork
-- [x] Kaya music - show and tell
-- Buy
-	- [x] Lawnmower
-	- [ ] Desk drawer
-	- [ ] TV Audio
+- Sandra angles
+- Pick up plates
+- PyCon paperwork + MURI dinner
+- Phone eduroam
+- Squash
+- Pick up post office
+- Pack audio stuff for Arena
+
+Tomorrow
+- Make slides for tomorrow
+- Find food replacement for Chelsea
+- Double check on RBall with Kristen (ask Sadia)
+
 - Work
+	- [ ] Start PyCon purchasing paperwork
+	- [ ] Blackbody thermometer
+		- [ ] Check Thor parts against the spreadsheet
+		- [ ] Build
+		- [ ] Order missing parts (bandpass or bandstop)
 	- [ ] Sandra angles, findings + recommendation
-	- [ ] order regulator + hose adapter
-
-- [x] 8/4 Kaya music notes
-	- this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
-		- quirky minimalist vibe like undertale (in general) for most tracks in the game, but the voxel map should be very sparse
-		- try for C418 tracks that are long and background (e.g., Mice on Venus, Living Mice) - and then don't have high energy for more than like 5-20s
-
-- Work
 	- [ ] Lase Alex's powder
 	- [ ] Buy
 		- [ ] fuel gas regulator + adapter
 			- (is the fuel reg output also oppositely threaded?)
-		- 
 		- [ ] gas flow meter
 		- [ ] sparger or laminar diffuser
 		- [ ] even ppt (IR?) O2 meter 
 	- [ ] Check Thor order, start assembling
 	- [ ] Sign and return patent forms
 	- [ ] Re-do PDMS first paper with 2nd order math and see if enhancement factor holds 
-	
+
+- thrift
+	- [ ] Desk drawer solution
+	- [ ] TV Audio
+
 - Home
 	- Move
 		- [ ] Trash (end 2147 Earlystown)
@@ -43,12 +49,15 @@
 	- [ ] Sadia rball
 
 - Misc.
->>>>>>> origin/main
-	- remind chelsea to send dog paperwork
-	- maybe Sunshine of your Love solo next week
-	- read Zack, Emily
-	- cancel soylent order
-	- Kaya game
+	- remind Chelsea to send dog paperwork
+	- practice Sunshine of your Love solo for MCB guy
+	- read Zack
+
+- [x] 8/4 Kaya music notes
+	- this push and pull between the silence, even maybe like a minute or two between tracks (more sparse)
+		- quirky minimalist vibe like undertale (in general) for most tracks in the game, but the voxel map should be very sparse
+		- try for C418 tracks that are long and background (e.g., Mice on Venus, Living Mice) - and then don't have high energy for more than like 5-20s
+- [ ] Work on SFX and try a spacious version of "Kingdom" 
 
 https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 ## General
@@ -64,7 +73,6 @@ https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 - Coding
 	 - [ ] Polish Chelsea's timeline webpage (fix scroll cursor location + add panning)
  - JVJ
-	 - Listen to CD
 	 - Read horror/mystery book
 - Music
 	- ### [[Music]]

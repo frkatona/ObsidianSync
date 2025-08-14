@@ -42,6 +42,7 @@
 - [special search characters](https://www.digitalthirdcoast.com/blog/5-easy-symbols-google-work)
 - https://zen-browser.app/download/
 - https://www.masteringthemix.com/products/eq-academy
+- [well posed vs ill posed problem](https://www.statisticshowto.com/well-posed-ill/)
 - 
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
@@ -59,6 +60,7 @@
 	- Legal Eagle - [Religious Parents](https://youtu.be/Go3-HnVxres)
 	- [LibGodot](https://youtu.be/L06KBOWCsSk)
 	- [Andor Luthen Speech](https://youtu.be/-3RCme2zZRY)
+	- Josh recommended YT video on Godot signals - https://youtu.be/w6jXgaWHo1s
 
 [](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/
@@ -72,6 +74,8 @@
 - UCUPaint latest version
 - Silo TV Series
 - https://da4all.github.io/toolkit/
+- FL delete 'd' vs e
+- put sample on k junction
 
 ---
 ## FL Notes
