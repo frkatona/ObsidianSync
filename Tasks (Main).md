@@ -1,13 +1,24 @@
  ---
 # Immediate
 
-- Sandra angles
-- Pick up plates
+- [x] Work up OMN pics
 - PyCon paperwork + MURI dinner
-- Phone eduroam
-- Squash
-- Pick up post office
-- Pack audio stuff for Arena
+- Errands
+	- thrift
+		- table legs
+		- chairs
+		- acoustic panel supplies
+			- panel/wood
+			- fabric
+			- stuffing
+			- 
+	- pickup chelsea meal food
+- 3:00
+	- UHS
+	- Squash warmup + play
+	-  Sadia
+- Follow up with Seana
+- Listen to Sophia's track + check Vital settings
 
 Tomorrow
 - Make slides for tomorrow
