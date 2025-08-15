@@ -19,7 +19,7 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 	- [ ] fire (unlit)
 	- [x] fire (lit)
 	- [ ] fishing hole
-	- [ ] ball bounce
+	- [x] ball bounce
 	- [ ] lava
 	- [ ] teleporter
 	- [ ] vacuum upgrade (current too drone-y, try more like beeps)
@@ -30,7 +30,7 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 		- [x] remove
 	- [x] sign read
 	- ball
-		- [ ] fall
+		- [x] fall
 		- [x] hit
 	- [x] death
 	- [ ] pickup
@@ -55,12 +55,14 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 			- [x] bad QTE
 			- [x] catch failed
 			- [x] catch success
-		- [ ] vacuum
-		- [ ] bomb
+		- [x] vacuum
+		- [x] bomb
+			- [ ] tap
+			- [x] explode
 	- UI 
-		- [ ] open menu
-		- [ ] click
-		- [ ] apply/save
+		- [x] open menu
+		- [x] click
+		- [x] apply/save
 		- [ ] exit menu
 - ### Special
 	- [ ] flower grow
