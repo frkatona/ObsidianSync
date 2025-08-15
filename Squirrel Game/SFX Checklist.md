@@ -57,7 +57,7 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 			- [x] catch success
 		- [x] vacuum
 		- [x] bomb
-			- [ ] tap
+			- [x] tap
 			- [x] explode
 	- UI 
 		- [x] open menu
