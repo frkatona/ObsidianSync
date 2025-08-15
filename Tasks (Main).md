@@ -3,6 +3,7 @@
 
 - [x] Work up OMN pics
 - PyCon paperwork + MURI dinner
+- Order Thor 532 band stop
 - Errands
 	- thrift
 		- table legs
@@ -19,11 +20,7 @@
 	-  Sadia
 - Follow up with Seana
 - Listen to Sophia's track + check Vital settings
-
-Tomorrow
-- Make slides for tomorrow
-- Find food replacement for Chelsea
-- Double check on RBall with Kristen (ask Sadia)
+- Submit Monday groceries
 
 - Work
 	- [ ] Start PyCon purchasing paperwork

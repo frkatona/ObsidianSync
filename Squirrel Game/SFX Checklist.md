@@ -8,12 +8,12 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 	- [ ] land
 	- glide
 		- [ ] start
-		- [ ] active
+		- [x] active
 		- [ ] stop
 	- rail grind
-		- [ ] hop on
-		- [ ] grinding
-		- [ ] hop off
+		- [x] hop on
+		- [x] grinding
+		- [x] hop off
 - ### Proximity awareness
 	- [x] item
 	- [ ] fire (unlit)
