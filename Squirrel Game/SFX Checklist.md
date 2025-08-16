@@ -20,7 +20,7 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 	- [x] fire (lit)
 	- [x] fishing hole
 	- [x] ball bounce
-	- [ ] lava
+	- [x] lava
 	- [x] teleporter
 	- vacuum upgrade (current too drone-y, try more like beeps)
 		- [x] 'metal detector one-shot'
@@ -33,16 +33,16 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 		- [x] fall
 		- [x] hit
 	- [x] death
-	- [ ] pickup
-		- [x] item
-		- [ ] coin (+pitch consecutive?)
-		- [x] block
+	- pickup
+		- [x] currency/points (stars, coins, etc.)
+		- [x] consumables (blocks, etc.)
+		- [x] upgrades (character, fishing rod, glider, etc.)
 	- [x] level change
 	- [x] teleport
 	- NPCs
 		- dialogue
 			- [x] character talk
-			- [ ]  response (affirmative)
+			- [x]  response (affirmative/affirm)
 			- [x] response (negative)
 		-  animals
 			- [x] birdsong
@@ -63,13 +63,14 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 		- [x] open menu
 		- [x] click
 		- [x] apply/save
-		- [ ] exit menu
-- ### Special
-	- [ ] flower grow
+		- [x] exit menu
 
 
 
 ---
+
+### 8/16 Notes
+- filled most of list, removed flower grow (what sound is already there, do we want another, did I cover it in the bank already?)
 ### 8/11 Notes
 - Kaya new track assignment:
 	- outside skybox
