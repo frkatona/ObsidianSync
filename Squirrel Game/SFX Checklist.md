@@ -16,12 +16,12 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 		- [x] hop off
 - ### Proximity awareness
 	- [x] item
-	- [ ] fire (unlit)
+	- [x] fire (unlit)
 	- [x] fire (lit)
 	- [x] fishing hole
 	- [x] ball bounce
 	- [ ] lava
-	- [ ] teleporter
+	- [x] teleporter
 	- vacuum upgrade (current too drone-y, try more like beeps)
 		- [x] 'metal detector one-shot'
 - ### Action feedback 
@@ -34,9 +34,9 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 		- [x] hit
 	- [x] death
 	- [ ] pickup
+		- [x] item
 		- [ ] coin (+pitch consecutive?)
 		- [x] block
-		- [ ] special item
 	- [x] level change
 	- [x] teleport
 	- NPCs
