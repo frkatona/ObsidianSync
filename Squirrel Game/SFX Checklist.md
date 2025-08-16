@@ -3,13 +3,13 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 - ### Movement
 	- [x] step 1/2
 	- [x] jump
-	- [ ] climb
-	- [ ] fall
-	- [ ] land
+	- [x] climb
+	- [x] fall
+	- [x] land
 	- glide
-		- [ ] start
+		- [x] start
 		- [x] active
-		- [ ] stop
+		- [x] stop
 	- rail grind
 		- [x] hop on
 		- [x] grinding
@@ -18,11 +18,11 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 	- [x] item
 	- [ ] fire (unlit)
 	- [x] fire (lit)
-	- [ ] fishing hole
+	- [x] fishing hole
 	- [x] ball bounce
 	- [ ] lava
 	- [ ] teleporter
-	- [ ] vacuum upgrade (current too drone-y, try more like beeps)
+	- vacuum upgrade (current too drone-y, try more like beeps)
 		- [x] 'metal detector one-shot'
 - ### Action feedback 
 	- block
