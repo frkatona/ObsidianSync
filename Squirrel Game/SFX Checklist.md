@@ -72,7 +72,10 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 ### 8/16 Notes
 - filled most of list, removed flower grow (what sound is already there, do we want another, did I cover it in the bank already?)
 - consider surface-dependent footsteps
-- get autistic about file structure (already modified in the GDrive)
+- get autistic about file naming and structure (already modified in the GDrive)
+	- prefix/suffix vs additional folders
+		- prefix/suffix camelcase, etc.?
+		- denoting one-shots vs loops, general music vs leitmotif, song start vs loop sections of that song
 	- e.g., player movement currently is kinda like 'direct responses to player input' (except for UI), so it includes things like 'jump', but not 'rail grind' because that's an incidental and asynchronous response to input
 	- maybe it's better separated into the sound origin
 		- e.g., enemy would have sounds for it being hit as well as its environmental walking sound
