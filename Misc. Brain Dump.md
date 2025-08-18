@@ -1,53 +1,3 @@
-## Discord tech illiterate how-to
-## Anthony's Quick Guide to Discord
-
-Hi! Anthony here! Since a few of us are brand new to Discord, I just wanted to point out what I feel are the 3 most important tips:
-
-## 1. No money needed :money_with_wings:
-You do not have to buy anything on Discord.
-- if you see “Nitro,” “Shop,” or anything that asks for money → just back out
-
-## 2. Getting around :compass:
-When you open Discord on your phone, the first things you'll see are:
-- Direct Messages (the top-leftmost button)
-  - these are your 1-on-1 chats, like texts
-- our "OMN Crew" group (the green icon with a white microphone)
-  - where we coordinate gatherings and share pictures
-- other groups
-  - if you choose to join or create other groups, you will see them at the left edge, along with our group
-
-When you tap on a group, that group's *channels* will appear
-- tap on a *text* channel (channels with the '#' icon, e.g., "# meeting-plans")  to view its contents and write your own messages for the group
-  - *note: sent messages will generally only be visible in a specific channel, like with this message and the "# general" channel*
-- channels with unread messages will appear bold
-- don't worry about *voice* channels (channels with speaker icons) — they are like group calls, but we usually do not use them
-
-*Tip: if you get lost, look at the left-hand column — that’s where all your servers are.  If you don't see the servers, try pressing the back button at the top, or closing/re-opening to return to the servers*
-
-## 3. Notifications :bell:
-If you feel that Discord pings have become unwelcome or overwhelming:
-- enter the group, tap on the server name at the top, and select “Notifications”
-  - by default, you receive push notifications for each message sent — change that here (e.g., select "Nothing" in "Server notification settings" and uncheck "Mobile Push Notifications") 
-
-
-:white_check_mark: That’s it! If you can:
-1. Open this server
-2. Read/reply to messages
-3. Manage notifications
-…you’re set. Everything else is extra.
----
-## Extra things (optional) :sparkles:
-You don’t need these right away, but talk to me if you'd like to learn more about:
-- Reactions/Emojis: add a little :thumbsup: or :joy: under someone’s message
-- Messages: replying, editing, deleting, pinning, formatting, hyperlinking
-- Files: sharing pictures, videos, audio, PDFs, etc
-- Events: creating and coordinating real life gatherings with Discord sign-ups
-- Voice channels: hop on a call where you can talk, share your screen, or stream video from your camera if you'd like
-- Other groups: create your own group or join an existing community.  This platform is popular for people with shared interests to gather and share funny pictures and stories via text or in spontaneous group calls
-
-*note that what I've referred to as a "group" in these messages you will usually see called a "server"*
-
-**And again: all of these features are free.  Do not pay for anything.**
 
 ### Misc. to-do
  - Watch
@@ -259,3 +209,55 @@ Creative tabs dump
 - **Harvest**
 	- pick at the 'breaker stage' when they begin to show color and let them finish ripening indoors
 	- no more than a week after full ripening to avoid splitting, overripening, and attracting pests
+
+---
+## Discord tech illiterate how-to
+## Anthony's Quick Guide to Discord
+
+Hi! Anthony here! Since a few of us are brand new to Discord, I just wanted to point out what I feel are the 3 most important tips:
+
+## 1. No money needed :money_with_wings:
+You do not have to buy anything on Discord.
+- if you see “Nitro,” “Shop,” or anything that asks for money → just back out
+
+## 2. Getting around :compass:
+When you open Discord on your phone, the first things you'll see are:
+- Direct Messages (the top-leftmost button)
+  - these are your 1-on-1 chats, like texts
+- our "OMN Crew" group (the green icon with a white microphone)
+  - where we coordinate gatherings and share pictures
+- other groups
+  - if you choose to join or create other groups, you will see them at the left edge, along with our group
+
+When you tap on a group, that group's *channels* will appear
+- tap on a *text* channel (channels with the '#' icon, e.g., "# meeting-plans")  to view its contents and write your own messages for the group
+  - *note: sent messages will generally only be visible in a specific channel, like with this message and the "# general" channel*
+- channels with unread messages will appear bold
+- don't worry about *voice* channels (channels with speaker icons) — they are like group calls, but we usually do not use them
+
+*Tip: if you get lost, look at the left-hand column — that’s where all your servers are.  If you don't see the servers, try pressing the back button at the top, or closing/re-opening to return to the servers*
+
+## 3. Notifications :bell:
+If you feel that Discord pings have become unwelcome or overwhelming:
+- enter the group, tap on the server name at the top, and select “Notifications”
+  - by default, you receive push notifications for each message sent — change that here (e.g., select "Nothing" in "Server notification settings" and uncheck "Mobile Push Notifications") 
+
+
+:white_check_mark: That’s it! If you can:
+1. Open this server
+2. Read/reply to messages
+3. Manage notifications
+…you’re set. Everything else is extra.
+
+## Extra things (optional) :sparkles:
+You don’t need these right away, but talk to me if you'd like to learn more about:
+- Reactions/Emojis: add a little :thumbsup: or :joy: under someone’s message
+- Messages: replying, editing, deleting, pinning, formatting, hyperlinking
+- Files: sharing pictures, videos, audio, PDFs, etc
+- Events: creating and coordinating real life gatherings with Discord sign-ups
+- Voice channels: hop on a call where you can talk, share your screen, or stream video from your camera if you'd like
+- Other groups: create your own group or join an existing community.  This platform is popular for people with shared interests to gather and share funny pictures and stories via text or in spontaneous group calls
+
+*note that what I've referred to as a "group" in these messages you will usually see called a "server"*
+
+**And again: all of these features are free.  Do not pay for anything.**
