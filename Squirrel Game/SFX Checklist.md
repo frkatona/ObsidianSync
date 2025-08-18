@@ -82,9 +82,15 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 		- e.g., player would have sounds like UI navigation, jumping, receive damage grunt, etc. with the player as the origin, regardless of the origin of the input
 ### 8/11 Notes
 - Kaya new track assignment:
-	- outside skybox
+	- [ ] outside skybox
 	- ambient for underground in voxel
+		- [x] 'chromatic caustics' track for voxel level
+		- [ ] more
 	- transitioning stages (stage lietmotif?)
+		- [ ] to the gumball level
+		- [x] to the basement
+		- [ ] to the voxel level
+		- [ ] to the city level
 ### 6/9 Notes
  - Kaya
 	 - preferred to post basically any non-secret in one of the public channels going forward
