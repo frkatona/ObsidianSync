@@ -101,10 +101,11 @@ Questions for Yuki comps
 	- Would it be better to irradiate the liquid polymer (e.g., molten PDC irradiation in [(2022) Anas et al](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adem.202101383))?  Why did they do it?
 	- How high of power could you go to with a different laser?  Why not use substantially higher powers?  Is there some limitation?
 	- Some researchers use passive (non-photothermally-active) fillers.  Why don't you?
+	- Would it be reasonable to use different lasers for different parts of the process? Like using UV or femtosecond lasers for shaping a part out of the polymer and then an IR laser or oven to finish ceramizing it
 - Concepts and vocab
 	- ceramics
 		- ceramic vs glass vs metal
-		- ceramic char
+		- ceramic char/ char yield
 		- shrinkage, vitrification, densification
 		- sintering vs melting
 		- green body, white body
