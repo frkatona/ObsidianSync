@@ -69,6 +69,12 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 
 ---
 
+
+### 8/18 Notes
+- "Chromatic Caustics" fun but still kinda a miss for the point
+- The Kingdom" nails it from the stabby freneticism
+	- The Lower Court 'we're progressing' vibes that are similar, maybe the best track would include both of these and maybe have toned-down stuff in between
+
 ### 8/16 Notes
 - filled most of list, removed flower grow (what sound is already there, do we want another, did I cover it in the bank already?)
 - consider surface-dependent footsteps
@@ -82,9 +88,15 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 		- e.g., player would have sounds like UI navigation, jumping, receive damage grunt, etc. with the player as the origin, regardless of the origin of the input
 ### 8/11 Notes
 - Kaya new track assignment:
-	- outside skybox
+	- [ ] outside skybox
 	- ambient for underground in voxel
+		- [x] 'chromatic caustics' track for voxel level
+		- [ ] more
 	- transitioning stages (stage lietmotif?)
+		- [ ] to the gumball level
+		- [x] to the basement
+		- [ ] to the voxel level
+		- [ ] to the city level
 ### 6/9 Notes
  - Kaya
 	 - preferred to post basically any non-secret in one of the public channels going forward
