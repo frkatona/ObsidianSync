@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] animation - rig urban wildlife
 - [ ] model - city platforming template building
-- [ ] audio - more overworld tracks
 - [ ] animation - port new squirrel with jiggle tail
 - [ ] animation - implement modular animation
 - [ ] animation - animate walk/idle for urban wildlife
@@ -16,13 +16,13 @@ kanban-plugin: board
 
 ## In-Progress
 
-- [ ] animation - rig urban wildlife
+- [ ] audio - more overworld tracks
 - [ ] audio - develop city/forest motif
-- [ ] audio - SFX
 
 
 ## Done
 
+- [ ] audio - SFX
 - [ ] audio - simplify basement bgm
 - [ ] level design - block out city
 - [ ] model - dumpster

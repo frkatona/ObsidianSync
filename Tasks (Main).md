@@ -1,26 +1,119 @@
  ---
-# Immediate
+# Today
 
-- [x] Work up OMN pics
+- [ ] Follow up with Seana, Sadia, Kaya
+- [ ] Get reading on thermometer
+- [ ] Order regulator, airflow, O2 sensor, and bandpass-filter
+	- [ ] do I need more optics?
+- [ ] Check Sandra paper stuff
+	- [ ] IR?  Reset breaker?  use another outlet?
+- [ ] Make notes for Yuki comps
+- [ ] Housewarming supplies (drinks? ice? chairs? appetizers/veggies/chips?)
+
+- [ ] Bring in a heater
+- [ ] follow up with Jackie about what time she's taking protein
+
 - PyCon paperwork + MURI dinner
 - Order Thor 532 band stop
 - Errands
 	- thrift
-		- table legs
 		- chairs
 		- acoustic panel supplies
-			- panel/wood
-			- fabric
-			- stuffing
-			- 
-	- pickup chelsea meal food
-- 3:00
-	- UHS
-	- Squash warmup + play
-	-  Sadia
-- Follow up with Seana
-- Listen to Sophia's track + check Vital settings
-- Submit Monday groceries
+			- [x] panel/wood
+			- [x] fabric
+			- [x] stuffing
+			- [ ] poster wire/hook
+
+Questions for Yuki comps
+- Intro
+	- motivation
+		- Where is current technology limited?  What is the physical/chemical root of that limitation?
+			- What negatives come with bulk heating
+		- Can you draw a line between what you're researching and that limitation?
+	- history
+		- What solutions have people tried and what are their shortcomings?  What research is *close* to this?
+			- e.g., photo-initiated cross-linking as PDC pre-processing before furnace heating, as is already used in some additive manufacturing
+		- What challenges did others face or that you otherwise expect to encounter? 
+			- substrate (damage, thermals, cohesion)?
+			- thickness limitations?
+		- How does conventional pyrolysis work
+			- What are the temperature regimes of conventional pyrolysis
+				- PDC processing phases from [(2019) Barroso et al](**https://doi.org/10.1039/c8ta09054h**) - shaping (<300 C), crosslinking (<400 C), pyrolysis (400-1400 C), crystallization (1000-2000 C)
+
+- Experimental design
+	- why this/these lasers
+		- relationship between pulse width, peak power, penetration depth
+		- wavelength -> absorption?
+			- 355 nm, 266 nm can cross-link polymers without photo-initiation
+		- CW, nanosecond, femtosecond
+			- two-photon polymerization (TPP/2PP), like Konstantinou et al's 2020 paper using an ultra-fast (100 fs, 80 MHz, 780 nm, erbium-doped) fiber laser
+	- What properties do you want to understand, why is (this test) good at evaluating them, and how is (this test) limited?
+		- XRD
+			- crystallinity? phases? 
+		- SEM
+			- what would a good or bad structure look like?  What features? (fractures, voids, cracks, grains, boundaries)?  What sizes? (um? nm? less?)
+			- EDS?
+		- AFM (Konstantinou 2020)
+		- TGA/MS
+		- UV/Vis
+		- Horcher et al 2022 also did FTIR and mechanical (tensile, bending) tests
+		- Horcher et al 2021 also did reflection + transmission tests
+		- mechanical properties (tribology, wear, adhesion, tension/compression/bending)
+		- nanosecond thermometry
+	- What exactly do you expect to find out from each experiment?  What hypothesis do they test, and—most importantly—what *specifically* would data look like that supported or opposed that hypothesis? 
+- Data
+	- How was the data collected?
+		- what about sample prep, physically collecting the data, working up the raw data, or making this graph could 
+		- Any noteworthy points on error/statistics
+	- Why does it look weird (XRD peaks in weird places, mass being gained, anything that doesn't look like a textbook example of data)
+	- Would you expect this material to be amorphous, crystalline?  What was the precursor? 
+		- What might you see from the unique microstructures you might expect from the immense thermal gradients you're generating (do you expect things like thermal shock and thermal stress to generate cracks?  How could you alleviate that effect?)
+			- does (2024) Horcher et al's adhesion demonstrate that cracking from gradients is manageable/acceptable? 
+- Discussion
+	- What caveats come with the data
+		- JP and Tainara caution about XRD indexing
+		- What does it mean if the data is difficult to replicate?
+- Literature awareness
+	- Who does what in this space?
+		- Colombo - 2001 SiC films with polycarbosilane pyrolysis
+		- Horcher - Al ZrO2 on stainless steel
+- Other questions
+	- Is there a good reason to think you can compare laser pyrolysis to conventional pyrolysis?
+		- What would happen if you applied non-radiative heat in a similar way, like with Joule heating?
+		- How hot can these lasers get?
+			- How hot have you seen them get personally with these systems, why didn't they get hotter?  
+			- How hot have similar systems gotten in literature that makes you think that this concept will map onto laser heating?
+			- What types of thermal gradients do they see?  What temperature changes over what length scales?
+			- What types of cooling rates do they see?  Do they cool off too fast to do anything meaningful?  Are there any interesting (good or bad) implications of this rapid heating/cooling on the chemistry?  What sources have discussed this?
+				- 10^6 to 10^10 K/s
+	- What's up with the absorption?  Why can this absorb?  Why doesn't it need an agent?  Would it work better with an agent?  What are the options for agents? Are there negative consequences to their use in the formation of the product or the interpretation of the data?
+	- What considerations are there for the lasing procedure?  How do you determine acceptable regimes in such a large parameter space?
+		- Scan speed and hatching distance variation explored in (2021) Horcher et al.
+			- scan speed vs line width also explored in (2020) Konstantinou
+		- Are you able to compare your fluence to other studies?  What happens if you have too much fluence?
+			- Ligon et al (2019) mention that charring, bubbling, and cratering (incipient signs of ablation/ejection) were common in their UV studies
+			- They were able to improve selectivity in crosslinking by offsetting the focal point of their laser, lowering max power and increasing are of exposure
+			- Do fillers contribute a beneficial kind of depth control here, keeping maximum temperatures below the surface? (see Al microparticles aiding absorption and Zr particles mitigating shrinkage referenced Horcher et al 2021)
+	- How thick do we want these things to be and why?  
+	- What substrates do they need to be compatible with, both for their end-use and for experiment convenience (measuring XRD, thermal shock resistance when lased)?
+	- What types of lasers could you use that would behave differently?  Why not use them?
+		- CW?  Far IR?  UV?
+	- Would it be better to irradiate the liquid polymer (e.g., molten PDC irradiation in [(2022) Anas et al](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adem.202101383))?  Why did they do it?
+	- How high of power could you go to with a different laser?  Why not use substantially higher powers?  Is there some limitation?
+	- Some researchers use passive (non-photothermally-active) fillers.  Why don't you?
+- Concepts and vocab
+	- ceramics
+		- ceramic vs glass vs metal
+		- ceramic char
+		- shrinkage, vitrification, densification
+		- sintering vs melting
+		- green body, white body
+	- photothermal effect
+		- pulse width, pulse rate
+		- quenching
+	- XRD and SEM
+		- metastable phases and defect structures
+			- adhesion, delamination, spalling, porosity
 
 - Work
 	- [ ] Start PyCon purchasing paperwork
