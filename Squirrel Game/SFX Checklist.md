@@ -69,6 +69,12 @@ files [here](https://drive.google.com/drive/folders/1G6X02w_M7du63ylahRex6ijJl6_
 
 ---
 
+
+### 8/18 Notes
+- "Chromatic Caustics" fun but still kinda a miss for the point
+- The Kingdom" nails it from the stabby freneticism
+	- The Lower Court 'we're progressing' vibes that are similar, maybe the best track would include both of these and maybe have toned-down stuff in between
+
 ### 8/16 Notes
 - filled most of list, removed flower grow (what sound is already there, do we want another, did I cover it in the bank already?)
 - consider surface-dependent footsteps
