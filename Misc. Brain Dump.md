@@ -263,22 +263,3 @@ You don’t need these right away, but talk to me if you'd like to learn more ab
 **And again: all of these features are free.  Do not pay for anything.**
 
 
-
-### Other comments
-* John: Needs to be better organized around a system
-	* so, more consistent hypotheses, and then focus on presenting these.
-	* focus on what you are doing to test this hypothesis 
-	* better grasp on materials
-		* properties
-		* structure
-	* better grasp on techniques
-		* what are they
-		* why are they appropriate
-* Julie: not a reflection of effort
-	* need to be sure that you have a plan and can move forward on it.
-* Adri: Read the boron literature, using it as a hydrogen storage material
-	* maybe meet with the students in Adri's lab understanding why they work
-* Beth: focus more on future work.  Get quickly to what you have done, then discuss what you want to do and why.
-
-- Ben <-- I think we got a bit de-railed.  But need to make things much more clear for John
-	- also, I think that things went bad when you didn't know the name of the technique and how it worked. 
