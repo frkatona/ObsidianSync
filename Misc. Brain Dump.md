@@ -1,4 +1,10 @@
-
+- ben video
+- emma message (equation)
+- sandra theta_C re-compute
+- tell yuki GM time
+- ask Jackie about beers with party
+- tell Ben S about the narrow window of laser opening
+- algorithms to live by
 ### Misc. to-do
  - Watch
 	 - [ ] Flow
