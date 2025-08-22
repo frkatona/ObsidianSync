@@ -1,8 +1,8 @@
-- ben video
-- emma message (equation)
-- sandra theta_C re-compute
+- [x] ben video
+- [x] emma message (equation)
+- [x] sandra theta_C re-compute
 - tell yuki GM time
-- ask Jackie about beers with party
+- [x] ask Jackie about beers with party
 - tell Ben S about the narrow window of laser opening
 - algorithms to live by
 ### Misc. to-do
@@ -13,18 +13,6 @@
  - Play 
 	 - [ ] Outer Wilds DLC
  - [ ] Color grade with sliders in Marimo
- - Move items
-	 - FBM or give away
-		 - [ ] FDM printer (offer to Zack?)
-		 - [ ] water heater (bring to lab?)
-		 - [ ] big screen CRT
-		 - [ ] marble roller
-		 - [ ] lifting bench/weights + dumbells
-		 - [ ] small dog crate?
-	 - disassemble for garbage
-		 - standing fan
-		 - metal fan (working?)
-		 - air fryer (katie pick up?  repairable?)
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
@@ -46,7 +34,6 @@
 - https://zen-browser.app/download/
 - https://www.masteringthemix.com/products/eq-academy
 - [well posed vs ill posed problem](https://www.statisticshowto.com/well-posed-ill/)
-- 
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
