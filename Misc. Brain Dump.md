@@ -1,10 +1,24 @@
 - [x] ben video
 - [x] emma message (equation)
 - [x] sandra theta_C re-compute
-- tell yuki GM time
+- tell Squirrel crew about Monday at 7
 - [x] ask Jackie about beers with party
 - tell Ben S about the narrow window of laser opening
 - algorithms to live by
+
+Errands
+- order and pick up pizza
+- alcohol
+Home
+- Clean room
+- set up plates, table, cut cake
+- Set up music (laptop?)
+- Order pizza (how much? what time pickup?  6:00?)
+Work
+- Tell Ben S time
+- Lase (set up laser/chamber more?)
+- Meet with Isaac
+
 ### Misc. to-do
  - Watch
 	 - [ ] Flow

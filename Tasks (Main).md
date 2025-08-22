@@ -1,6 +1,8 @@
  ---
 # Today
 
+- what do with next sample from papers and put in onedrive before next meeting
+
 - [ ] Follow up with Seana, Sadia, Kaya
 - [ ] Get reading on thermometer
 - [ ] Order regulator, airflow, O2 sensor, and bandpass-filter
@@ -12,6 +14,11 @@
 
 - [ ] Bring in a heater
 - [ ] follow up with Jackie about what time she's taking protein
+
+- tomatoes
+	- Try grass clippings, shredded leaves, wood chips, straw or compost
+	- companion plants like basil, marigolds, mint, nasturtium
+	- silicone ties to the fence
 
 - PyCon paperwork + MURI dinner
 - Order Thor 532 band stop
