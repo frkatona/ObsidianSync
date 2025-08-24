@@ -3,6 +3,7 @@
 - Yuki questions
 	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?
 	- What's up with the boron-intermediate mechanism
+	- Read the .txt file
 
 
 asdf
@@ -20,6 +21,8 @@ asdf
 	- the sapphire gets easily engraved at 1064 nm somehow
 	- the metal substrate has oxide-looking colors despite >1h of purge
 	- the 2x lase looks more uniform and less layered than the 1x
+
+crossed polarizers to see if sapphire is locally stressed
 
 # Soon
 
