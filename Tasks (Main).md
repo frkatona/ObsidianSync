@@ -14,6 +14,8 @@
 	- bandpass
 - Groceries
 - Schedule Isaac
+- Take out trash/recycling (including hose)
+- Schedule Dr + MRI
 
 - Charge Chelsea
 	- internet ($90.59 / 2 = $45.30)

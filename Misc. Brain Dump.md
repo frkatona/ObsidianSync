@@ -6,6 +6,11 @@
 - tell Ben S about the narrow window of laser opening
 - algorithms to live by
 
+thinking of buying (removed from amazon cart)
+- cable tester (# Mackie Cable Tester, 5-way switch Battery-Powered Connector Test, Black, (MTest-1)) - $35 today (8/25/25)
+	- look used, try out Tim's
+- CO2 [tank](https://www.amazon.com/VEVOR-Aluminum-Cylinder-Adjustable-Dispensing/dp/B0DXKZ14SY?sr=8-1) for soda stream replacement - $138 
+
 Errands
 - order and pick up pizza
 - alcohol
