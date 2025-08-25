@@ -19,6 +19,19 @@ Work
 - Lase (set up laser/chamber more?)
 - Meet with Isaac
 
+### Blender video editing [video](https://youtu.be/n77Viu93pYI)
+- after opening new video editor project, add a new window as a dope sheet and select View -> Sync Visible Range in both it and the sequencer
+- show thumbnails and waveforms
+- Open panels for histogram, chroma, vectorscope, luma waveform, and RGB parade
+- Apply color balance as a modifier to an adjustment layer strip
+	- start adjusting value of lift/gamma/gain
+		- shift+drag for fine adjustments, monitor the vector
+		- use eye button to mute and see change difference
+- (something about streamlining animation) - pin scene
+- 't' as a hotkey for keyframe interpolation modes
+	- alternatively, use the graph editor to fine-tune
+- Save a starter file with desirable settings and default file paths
+
 ### Misc. to-do
  - Watch
 	 - [ ] Flow
@@ -80,6 +93,8 @@ Work
 - https://da4all.github.io/toolkit/
 - FL delete 'd' vs e
 - put sample on k junction
+- focusrite scarlett mute speakers but not monitor
+- https://github.com/ur-whitelab/chemcrow-public
 
 ---
 ## FL Notes

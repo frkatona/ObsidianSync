@@ -1,14 +1,30 @@
- ---
 # Today
 - Yuki questions
 	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?
 	- What's up with the boron-intermediate mechanism
 	- Read the .txt file
+	- (before meeting, talk about the lased samples with Ben)
+- Emma ordering
+- Mowing
+- Squirrel show and tell
+- Coordinate sample drop-off (3:30ish before gym?)
+- Sandra response
+- Emma ordering
+	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
+	- bandpass
+- Groceries
+- Schedule Isaac
 
+- Charge Chelsea
+	- internet ($90.59 / 2 = $45.30)
+	- power ($675.77 / 2 = $337.89)
+### Tomorrow
+- talk with office about trip money
 
 asdf
 - buy longer USB
-- grab lighting cables from downstairs
+- grab lighting cables from downstairs (MIDI box, power cable, usb, whatever plugs into box
+	- replacement balanced cable for left speaker (test if it's the cable or connection)
 - consider how to make lights better
 	- box?
 	- LEDs under-desk, behind TV, around door (connected to  light switch)
@@ -24,6 +40,18 @@ asdf
 
 crossed polarizers to see if sapphire is locally stressed
 
+### Sandra tabs
+- https://www.sciencedirect.com/science/article/abs/pii/S0001868698000876?utm
+- https://en.wikipedia.org/wiki/Contact_angle
+- https://pubs.acs.org/doi/10.1021/la049410h
+- https://pubmed.ncbi.nlm.nih.gov/17448435/
+- https://www.apexicindia.com/technologies/contact-angle-measurement-technology
+
+### MURI buy
+- amazon [port ball valve](https://www.amazon.com/DAN-SPEED-Valve-Stainless-1000WOG/dp/B0B8HBRFJ2/144-5641468-3674104)
+- https://www.mcmaster.com/
+- https://egasdepot.com/regulators/demand-flow/cga-350/demand-flow-regulator-cga-350/
+- cga 350 regulator flow rate
 # Soon
 
 
