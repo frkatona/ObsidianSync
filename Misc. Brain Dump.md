@@ -5,14 +5,39 @@
 - [x] ask Jackie about beers with party
 - [x] download Algorithms to Live By
 
+thinking of buying (removed from amazon cart)
+- cable tester (# Mackie Cable Tester, 5-way switch Battery-Powered Connector Test, Black, (MTest-1)) - $35 today (8/25/25)
+	- look used, try out Tim's
+- CO2 [tank](https://www.amazon.com/VEVOR-Aluminum-Cylinder-Adjustable-Dispensing/dp/B0DXKZ14SY?sr=8-1) for soda stream replacement - $138 
+
 Errands
 - pick up pizza, soda, alcohol (Giant)
 Home
 - cut cake
 - Set up music (laptop? chelsea phone?)
 Work
+<<<<<<< HEAD
 - set up new day/time with Isaac
 - tell Tainara what time I'll be done, ask where to meet her
+=======
+- Tell Ben S time
+- Lase (set up laser/chamber more?)
+- Meet with Isaac
+
+### Blender video editing [video](https://youtu.be/n77Viu93pYI)
+- after opening new video editor project, add a new window as a dope sheet and select View -> Sync Visible Range in both it and the sequencer
+- show thumbnails and waveforms
+- Open panels for histogram, chroma, vectorscope, luma waveform, and RGB parade
+- Apply color balance as a modifier to an adjustment layer strip
+	- start adjusting value of lift/gamma/gain
+		- shift+drag for fine adjustments, monitor the vector
+		- use eye button to mute and see change difference
+- (something about streamlining animation) - pin scene
+- 't' as a hotkey for keyframe interpolation modes
+	- alternatively, use the graph editor to fine-tune
+- Save a starter file with desirable settings and default file paths
+
+>>>>>>> origin/main
 ### Misc. to-do
  - Watch
 	 - [ ] Flow
@@ -78,6 +103,8 @@ Work
 - https://da4all.github.io/toolkit/
 - FL delete 'd' vs e
 - put sample on k junction
+- focusrite scarlett mute speakers but not monitor
+- https://github.com/ur-whitelab/chemcrow-public
 
 ---
 ## FL Notes

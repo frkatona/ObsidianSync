@@ -18,15 +18,15 @@ kanban-plugin: board
 
 - [ ] audio - more overworld tracks
 - [ ] audio - develop city/forest motif
-<<<<<<< HEAD
-=======
+	<<<<<<< HEAD
+	=======
 - [ ] audio - more overworld tracks
->>>>>>> origin/main
 
 
 ## Done
 
 - [ ] audio - SFX
+- [ ] 
 - [ ] audio - simplify basement bgm
 - [ ] level design - block out city
 - [ ] model - dumpster

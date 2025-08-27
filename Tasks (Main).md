@@ -1,18 +1,73 @@
- ---
 # Today
+- Yuki questions
+	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?
+	- What's up with the boron-intermediate mechanism
+	- Read the .txt file
+	- (before meeting, talk about the lased samples with Ben)
+- Emma ordering
+- Mowing
+- Squirrel show and tell
+- Coordinate sample drop-off (3:30ish before gym?)
+- Sandra response
+- Emma ordering
+	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
+	- bandpass
+- Groceries
+- Schedule Isaac
+- Take out trash/recycling (including hose)
+- Schedule Dr + MRI
 
-- what do with next sample from papers and put in onedrive before next meeting
+- Charge Chelsea
+	- internet ($90.59 / 2 = $45.30)
+	- power ($675.77 / 2 = $337.89)
+### Tomorrow
+- talk with office about trip money
 
-- [ ] Follow up with Seana, Sadia, Kaya
+asdf
+- buy longer USB
+- grab lighting cables from downstairs (MIDI box, power cable, usb, whatever plugs into box
+	- replacement balanced cable for left speaker (test if it's the cable or connection)
+- consider how to make lights better
+	- box?
+	- LEDs under-desk, behind TV, around door (connected to  light switch)
+	- get lightswitch light
+- buy what I need to fix toilet and other bathroom problems
+# Monday
+- things that are interesting about PCD lasing
+	- normal conditions generating overpowered, exploded char
+	- sample 1 gooey section (lowest angle, only gooey at top)
+	- the sapphire gets easily engraved at 1064 nm somehow
+	- the metal substrate has oxide-looking colors despite >1h of purge
+	- the 2x lase looks more uniform and less layered than the 1x
+
+crossed polarizers to see if sapphire is locally stressed
+
+### Sandra tabs
+- https://www.sciencedirect.com/science/article/abs/pii/S0001868698000876?utm
+- https://en.wikipedia.org/wiki/Contact_angle
+- https://pubs.acs.org/doi/10.1021/la049410h
+- https://pubmed.ncbi.nlm.nih.gov/17448435/
+- https://www.apexicindia.com/technologies/contact-angle-measurement-technology
+
+### MURI buy
+- amazon [port ball valve](https://www.amazon.com/DAN-SPEED-Valve-Stainless-1000WOG/dp/B0B8HBRFJ2/144-5641468-3674104)
+- https://www.mcmaster.com/
+- https://egasdepot.com/regulators/demand-flow/cga-350/demand-flow-regulator-cga-350/
+- cga 350 regulator flow rate
+# Soon
+
+
+- MURI
+	- what do with next sample from papers and put in onedrive before next meeting
+
+- [ ] schedule MRI
+- [ ] Follow up with Sadia, Kaya
 - [ ] Get reading on thermometer
 - [ ] Order regulator, airflow, O2 sensor, and bandpass-filter
 	- [ ] do I need more optics?
 - [ ] Check Sandra paper stuff
-	- [ ] IR?  Reset breaker?  use another outlet?
 - [ ] Make notes for Yuki comps
-- [ ] Housewarming supplies (drinks? ice? chairs? appetizers/veggies/chips?)
 
-- [ ] Bring in a heater
 - [ ] follow up with Jackie about what time she's taking protein
 
 - tomatoes
@@ -22,15 +77,7 @@
 
 - PyCon paperwork + MURI dinner
 - Order Thor 532 band stop
-- Errands
-	- thrift
-		- chairs
-		- acoustic panel supplies
-			- [x] panel/wood
-			- [x] fabric
-			- [x] stuffing
-			- [ ] poster wire/hook
-
+	
 Questions for Yuki comps
 - Intro
 	- motivation
