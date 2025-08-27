@@ -3,30 +3,28 @@
 - [x] sandra theta_C re-compute
 - tell Squirrel crew about Monday at 7
 - [x] ask Jackie about beers with party
-- tell Ben S about the narrow window of laser opening
-- algorithms to live by
+- [x] download Algorithms to Live By
 
 Errands
-- order and pick up pizza
-- alcohol
+- pick up pizza, soda, alcohol (Giant)
 Home
-- Clean room
-- set up plates, table, cut cake
-- Set up music (laptop?)
-- Order pizza (how much? what time pickup?  6:00?)
+- cut cake
+- Set up music (laptop? chelsea phone?)
 Work
-- Tell Ben S time
-- Lase (set up laser/chamber more?)
-- Meet with Isaac
-
+- set up new day/time with Isaac
+- tell Tainara what time I'll be done, ask where to meet her
 ### Misc. to-do
  - Watch
 	 - [ ] Flow
-	 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
-	 - [ ] Kaiju no 8 [S02](https://www.miruro.to/watch?id=178754)
+	 - current anime season
+		 - [ ] Kaiju no 8 [S02](https://www.miruro.to/watch?id=178754)
+	 - older anime
+		 - [ ] Hajime no Ippo
+		 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
  - Play 
 	 - [ ] Outer Wilds DLC
- - [ ] Color grade with sliders in Marimo
+ - Code
+	 - [ ] Color grade with sliders in Marimo
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
