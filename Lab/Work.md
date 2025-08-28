@@ -2,7 +2,18 @@
 
 ---
 ### Lab
-- Yuki - set up comps practice
+- Blackbody thermometer work
+- Respond Ben laser email
+- Alex Radosevich lasing (try all 3 laser types)
+- Meet with Isaac at 12 (do I have soylent for lunch?)
+	- Respond to Sandra about Sunday lunch place
+- Talk to Taylor about trip and dinner money
+- Send purchases to Emma
+- Invite Emma and Jackie to party
+- Visit Sadia
+- Coordinate leave time with Chelsea
+- Send availability to Isaac
+
 - Read MURI folder papers
 - Submit receipts for trip (Ask Taylor how tax works...read the email docs)
 	- [x] AirBnB receipt ($1011.09 vs $138/day * 6 days = $828)

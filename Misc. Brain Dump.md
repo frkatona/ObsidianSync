@@ -14,8 +14,7 @@ thinking of buying (removed from amazon cart)
 - CO2 [tank](https://www.amazon.com/VEVOR-Aluminum-Cylinder-Adjustable-Dispensing/dp/B0DXKZ14SY?sr=8-1) for soda stream replacement - $138 
 
 Errands
-- order and pick up pizza
-- alcohol
+- pick up pizza, soda, alcohol (Giant)
 Home
 - Clean room
 - set up plates, table, cut cake
@@ -42,11 +41,15 @@ Work
 ### Misc. to-do
  - Watch
 	 - [ ] Flow
-	 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
-	 - [ ] Kaiju no 8 [S02](https://www.miruro.to/watch?id=178754)
+	 - current anime season
+		 - [ ] Kaiju no 8 [S02](https://www.miruro.to/watch?id=178754)
+	 - older anime
+		 - [ ] Hajime no Ippo
+		 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
  - Play 
 	 - [ ] Outer Wilds DLC
- - [ ] Color grade with sliders in Marimo
+ - Code
+	 - [ ] Color grade with sliders in Marimo
 ### Closed Tabs
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
