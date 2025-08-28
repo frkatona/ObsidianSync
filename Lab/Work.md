@@ -12,7 +12,10 @@
 	- total = $1595.30
 - Reach out to Dr. Maslak about chemistry game
 ---
-### Sandra toughness section phrasing
+
+### 8/28 Group Meeting
+- ask about preferences/best practices/format for standardizing purchases requests
+## Sandra toughness section phrasing
 
 ### Clarification of tensile load frame data
 Here, we'll briefly clarify what tensile tests measure and how strength, toughness, and stiffness are determined.

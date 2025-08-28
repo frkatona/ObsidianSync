@@ -1,10 +1,12 @@
 - [x] ben video
 - [x] emma message (equation)
 - [x] sandra theta_C re-compute
-- tell Squirrel crew about Monday at 7
 - [x] ask Jackie about beers with party
-- tell Ben S about the narrow window of laser opening
 - algorithms to live by
+
+
+
+get alcohol for party
 
 thinking of buying (removed from amazon cart)
 - cable tester (# Mackie Cable Tester, 5-way switch Battery-Powered Connector Test, Black, (MTest-1)) - $35 today (8/25/25)

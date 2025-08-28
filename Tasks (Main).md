@@ -1,22 +1,15 @@
 # Today
+
+- Sandra response
+- Emma ordering
+	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
+	- bandpass
+- Schedule Dr + MRI
 - Yuki questions
 	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?
 	- What's up with the boron-intermediate mechanism
 	- Read the .txt file
 	- (before meeting, talk about the lased samples with Ben)
-- Emma ordering
-- Mowing
-- Squirrel show and tell
-- Coordinate sample drop-off (3:30ish before gym?)
-- Sandra response
-- Emma ordering
-	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
-	- bandpass
-- Groceries
-- Schedule Isaac
-- Take out trash/recycling (including hose)
-- Schedule Dr + MRI
-
 - Charge Chelsea
 	- internet ($90.59 / 2 = $45.30)
 	- power ($675.77 / 2 = $337.89)
