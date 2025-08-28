@@ -1,0 +1,23 @@
+Reference tracks
+- Feeling Muse
+	- PJ Harvey
+	- Thom Yorke
+	- The Doors
+	- Jace Everett
+	- Patty Smith
+	- Elle King
+- 4 AM
+	- Cowboy Junkies
+	- Chris Issak
+	- Old 97s
+	- Sad Girl
+	- ~Alt Country Rock
+- Hoi Polloi
+	- 10,00 Maniacs
+	- Cranberries
+	- Natalie Merchant
+	- Indigo Girls
+	- Edie Brickell
+	- The Smiths
+	- Chappell Roan
+	- Paramore
