@@ -1,9 +1,12 @@
 - [x] ben video
 - [x] emma message (equation)
 - [x] sandra theta_C re-compute
-- tell Squirrel crew about Monday at 7
 - [x] ask Jackie about beers with party
-- [x] download Algorithms to Live By
+- algorithms to live by
+
+
+
+get alcohol for party
 
 thinking of buying (removed from amazon cart)
 - cable tester (# Mackie Cable Tester, 5-way switch Battery-Powered Connector Test, Black, (MTest-1)) - $35 today (8/25/25)
@@ -13,13 +16,11 @@ thinking of buying (removed from amazon cart)
 Errands
 - pick up pizza, soda, alcohol (Giant)
 Home
-- cut cake
-- Set up music (laptop? chelsea phone?)
+- Clean room
+- set up plates, table, cut cake
+- Set up music (laptop?)
+- Order pizza (how much? what time pickup?  6:00?)
 Work
-<<<<<<< HEAD
-- set up new day/time with Isaac
-- tell Tainara what time I'll be done, ask where to meet her
-=======
 - Tell Ben S time
 - Lase (set up laser/chamber more?)
 - Meet with Isaac
@@ -37,7 +38,6 @@ Work
 	- alternatively, use the graph editor to fine-tune
 - Save a starter file with desirable settings and default file paths
 
->>>>>>> origin/main
 ### Misc. to-do
  - Watch
 	 - [ ] Flow

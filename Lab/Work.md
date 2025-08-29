@@ -12,7 +12,6 @@
 - Send purchases to Emma
 - Invite Emma and Jackie to party
 - Visit Sadia
-- Coordinate leave time with Chelsea
 - Send availability to Isaac
 
 - Read MURI folder papers
@@ -24,7 +23,23 @@
 	- total = $1595.30
 - Reach out to Dr. Maslak about chemistry game
 ---
-### Sandra toughness section phrasing
+### 8/28 Group Meeting
+- ask about preferences/best practices/format for standardizing purchases requests
+- to-do
+	- make hypothesis
+		- Alex lasing
+		- Building instrument
+		- B4C formation
+- subgroup
+	- MURI
+	- Gauge likelihood of Ben meeting Friday at 7
+	- projects
+		- Alex
+		- Duncan
+		- Isaac
+	- Sandra paper pre-meeting
+---
+## Sandra toughness section phrasing
 
 ### Clarification of tensile load frame data
 Here, we'll briefly clarify what tensile tests measure and how strength, toughness, and stiffness are determined.

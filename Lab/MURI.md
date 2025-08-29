@@ -14,6 +14,11 @@
 ### On-site notes
 - Alex brought up an interesting-sounding paper, something like "co2 laser rearrangement 33 sigmatropic shift multiphoton absorption ground state photochemistry"
 
+
+### 8/26 thoughts
+- should someone reach out to Rob for next meeting and the data labeling ideas
+- Ask Ben S about the sapphire substrate to help avoid shattering
+	- who sells it, is it ion-implanted, can we get a thicker version, or can I use some PVB on it with a glass secondary substrate to prevent shattering
 ### 7/1 thoughts
 - work on scripting (ideally no labview, but maybe labview) 
 	- visualize oscilloscope output in real time
