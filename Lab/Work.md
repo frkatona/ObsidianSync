@@ -2,7 +2,8 @@
 
 ---
 ### Lab
-- Blackbody thermometer work
+- [x] Blackbody thermometer work
+	- [ ] 
 - Respond Ben laser email
 - Alex Radosevich lasing (try all 3 laser types)
 - Meet with Isaac at 12 (do I have soylent for lunch?)

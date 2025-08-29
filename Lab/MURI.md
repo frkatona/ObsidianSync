@@ -1,7 +1,16 @@
 ---
 
 ---
-
+### 8/28 thoughts
+- Sample conditions
+	- repeat
+		- 50% power, 100 mm/min scan speed (replicate 1)
+		- 100% power, 30 mm/min scan speed (replicate 2)
+	- new ideas
+	- 
+		- 25% power, 100 mm/min scan speed, repeat passes until black
+		- 50% power, grid of increasing scan speeds, up to 1000 mm/min
+		- rep rate
 ### On-site notes
 - Alex brought up an interesting-sounding paper, something like "co2 laser rearrangement 33 sigmatropic shift multiphoton absorption ground state photochemistry"
 
