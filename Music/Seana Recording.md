@@ -1,5 +1,22 @@
 ### 9/1/2025 Recording Session
-- asdf
+- Feeling Muse
+	- chorus rhythms
+- 4am
+	- started using pop filter for plosives and consistent distances
+	- fully off-book this session with fisty gesturing, feels more organic/emotive
+	- take 1
+		- went back to start from fill before chorus (measure 24)
+		- verse 2+ a little try-hard with the breathiness --> not much body
+		- went back to end of instrumental, doubled back again to bar ~87.1
+		- went back to end of chorus 3 (bar 123)
+		- ultimately a wash for unnatural over-performing
+	- take 2
+		- went back to bar 40
+		- chorus 2 shakey on pitch, but good character (see if it's newtone0salvageable)
+		- went forward to bar 87
+		- choruses sometimes still rhythmically shakey at the end, imagine that hit for the rest (e.g., ~121) 
+	- separate takes
+		- verse 2 (vox v7) maybe too chesty in the first half (according to Seana)
 ### 8/30/2025 Recording Session
 - Feeling Muse
 	- turned down to 150 BPM (from 160 BPM)

@@ -1,4 +1,12 @@
- - 2025-06-03 Meeting
+- ### 2025-09-01 Meeting
+	- shave the empty space off of fx in drive
+	- think on how to 'side-chain' the music when near bonfire
+	- wait on Kaya noting which sounds need a little tweak to be fully desireable
+		- make the glide sample more loopable (loop remainder)
+			- or make separate initial sound + loopable sound that doesn't have such a transient
+			- maybe also other 'loop' tagged samples (loop reminder on the flre-lit-2_loop and also get it longer than 4 seconds)
+ 
+ - ### 2025-06-03 Meeting
 	 - To-do
 		 - scatter blender objects (flora, buildings, etc.) in a terrain world
 	 - Terrain notes (mostly [tutorial 2](https://youtu.be/YtiAI2F6Xkk))
