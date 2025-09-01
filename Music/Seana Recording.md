@@ -1,4 +1,18 @@
-Reference tracks
+### 9/1/2025 Recording Session
+- asdf
+### 8/30/2025 Recording Session
+- Feeling Muse
+	- turned down to 150 BPM (from 160 BPM)
+	- pitch iffy in some choruses (check against vocoder)
+	- take 3
+		- chorus rhythms
+		- verse growls atonal and shakey
+		- verse 3 rhythm and pitch
+		- outro intervals solid
+- 4am
+	- figuring out chorus opening melody ("while in free fall" - maybe straight Ds, maybe D, C#, E, D)
+---
+### Reference tracks
 - Feeling Muse
 	- PJ Harvey
 	- Thom Yorke
@@ -21,3 +35,22 @@ Reference tracks
 	- The Smiths
 	- Chappell Roan
 	- Paramore
+- General (Playlist)
+	- Chappell Roan - Good Luck, Babe
+	- Wet Leg - Chaise Longue
+	- Rilo Kiley - Portions for Foxes
+	- The Magnetic Fields - All My Little Words
+	- The Cars - My Best Friend's Girl
+	- PJ Harvey - One Line
+	- Radiohead - Karma Police
+	- Hurray For The Riff Raff - Living in the City
+	- The Smiths - Please, Please, Please, Let Me Get What
+	- Cowboy Junkies - Sweet Jane
+	- Old 97's - Weightless
+	- The Doors - The Crystal Ship
+	- Fleetwood Mac - Dreams
+	- The Temper Trap - Sweet Disposition
+	- Bella White - Dishes
+	- Edie Brickell - Circle
+	- Cowboy Junkies - Misguided Angel
+	- (18...80)
