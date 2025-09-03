@@ -1,6 +1,11 @@
 # Today
 
-- Sandra response
+- schedule Kaya day
+- Tell Isaac time (and get LEDs going)
+- Music
+	- Send Cynthia schedule
+	- Send recordings to Cynthia and Seana
+	- Kaya game audio
 - Emma ordering
 	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
 	- bandpass
@@ -13,6 +18,7 @@
 - Charge Chelsea
 	- internet ($90.59 / 2 = $45.30)
 	- power ($675.77 / 2 = $337.89)
+	- (got rent, but did I get the first month of rent and internet?)
 ### Tomorrow
 - talk with office about trip money
 
