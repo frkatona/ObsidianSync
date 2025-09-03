@@ -1,3 +1,63 @@
+## 2025-09-03 Cynthia Practice Prep Notes
+- Resources
+	- Youtubers - Davie504, Adam Neely
+	- Tabs - Ultimate-Guitar.com, GProTab.net
+- Rhythm
+	- 1, 1/2, 1/4, 1/8, 1/16
+	- dotted, triplet
+	- syncopated
+	- son clave/tresillo
+- Techniques
+	- chugging
+	- hammer, pull, slide
+	- octaves
+	- mutes/rakes
+	- chromatic walks
+	- wide runs
+	- slaps
+- Theory
+	- Scales
+	- Accents, staccato vs legato
+	- Non-tonic focal notes - b3, 3, 5, 6, b7
+- Popular basslines
+	- 50s-60s Rock/Pop
+		- Jackson 5 - I Want You Back
+		- The Beatles - Come Together
+		- Cream - Sunshine of your Love
+		- Iron Butterfly - In a Gada Da Vida
+		- Otis Redding - Sitting on the dock of the Bay
+		- Ben E King - Stand By Me
+	- 70s-80s Rock/Pop
+		- Michael Jackson - Billie Jean, Beat It
+		- Queen - Little Thing Called Love
+		- Cheryl Lynn - Got to be Real
+		- Chic - Good Times
+		- Queen - Another One Bites the Dust
+		- Pink Floyd - Money
+		- War - Low Rider
+		- The Police - Message in a Bottle
+		- The Knack - My Sharona
+		- Guns N' Roses - Sweet Child O' Mine
+		- Eagles - Hotel California
+		- Black Sabbath - Iron Man
+		- Nirvana - Come As You Are
+	- 90s+ Rock/Pop
+		- Red Hot Chili Peppers - Can't Stop, Californication, Around the World
+		- Jet - Are You Gonna Be My Girl
+		- White Strips - Seven Nation Army
+		- Rage against the Machine - Killing in the Name Of
+		- MC Hammer - U Can't Touch This
+		- Gorillaz - Feel Good Inc
+	- Funk
+		- Wild Cherry - Play That Funky Music
+		- James Brown - I Feel Good
+		- Parliament - Flashlight
+		- Stevie Wonder - Master Blaster
+		- The Commodores - Brick House
+		- Stevie Wonder - Superstitious
+	- Jazz
+		- ?
+---
 ## 2025-09-01 Practice Minutes
 ### Attendees
 - Seana
