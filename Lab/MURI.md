@@ -1,6 +1,25 @@
 ---
 
 ---
+### 9/3 PSU meeting notes
+- Rob - setting up monthly meetings
+- Ben S - made a spreadsheet to consolidate sample synthesis details, characterization, and results
+- Rob - We gotta figure out what is absorbing, why we're able to thermalize
+	- '2 pulse idea' kinda didn't work out by next test
+	- explore 2PP more
+	- Ben S - use more UV/Vis in-lab
+- JP - spin coating problem can be solved if Ben S 'tricks' the instrument to permit it
+	- 'if i have 1 um of precursor, what is thickness of lased ceramic coating'
+- Rob - other substrates - metal, etc.
+	- what would we want for a paper?  properties or just that it happened
+	- JP - if we can show it, that's good enough
+- JP - take one sample, give it 100k pulses over square cm, back in the laser, same spot
+	- keep everything the same for another 
+	- Ben L - but does it matter that you're letting it cool between attempts, so try it a different way as well - separate pulses - follow up
+	- **send "energy density per pulse" to JP**
+- Rob - can we compare this to what other people made e.g. polycarbosilane...what are the differences
+- Ben L - once we can reliably get the thing we want, try in ambient atmosphere
+
 ### 8/28 thoughts
 - Sample conditions
 	- repeat
