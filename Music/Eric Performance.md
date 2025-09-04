@@ -7,6 +7,11 @@
 ---
 # Practice Notes
 
+### 9/3 Notes
+- discussed a beatles/zeppelin medley for open mic (but not for the upcoming show because they don't want covers)
+- next week, there's a lot of free time b/c Heather is out of town (except Friday)
+- Oblivion - A
+	- 
 ### 7/19 Notes
 - Eric Setlist
 	- [Originals](https://frkatona.github.io/Subpages/OriginalSongHelper/songwritingmarkdown.html)
@@ -48,9 +53,6 @@
 				- DX7 brass
 				- Initial bit is Dm just walking down the 7
 				- Figure out the melody in the center
-- Community Jam
-	- Heart - [Crazy on You](https://tabs.ultimate-guitar.com/tab/heart/crazy-on-you-chords-32922) (practice solo)
-	- Beatles - [It's All Too Much](https://tabs.ultimate-guitar.com/tab/the-beatles/its-all-too-much-chords-870040)
 ### 7/9 Notes
 - Last practice
 	- Sylvie maybe practice at open mic on Sunday (after she chats with her friend afterwards)
@@ -111,9 +113,9 @@
 	12. Verse chords (outro instrumental)
 ### 2. **Revolving Door** (A#)
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
-		1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
+				1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
 	2. Verse 1
-		1. A#, D#
+		1. A#, F#
 	3. Chorus (“right in front of our eyes”)
 		1. F#, D
 	4. Post-chorus instrumental
@@ -181,11 +183,85 @@
 	10. Outro
 		1. E phrases ending with F#, G turnaround
 		2. end with sitting on an F# a few strums then E
-### **6. Oblivion ('gets weird partway through')**
-	1. Verse 1
-		1. D, C, G x2 (with a E-F-G bassline every second time)
-	2. Chorus
-		1. ?
+### **6. Oblivion (supposedly A major, first phone recording)
+	1. Intro (come in right after the flicker after like 4 seconds)
+		- A, G -> E, D -> G, A
+	- Verse
+		- A, G, D
+	- Chorus
+		- F#, A -> D, E
+		- D, E, A, A7 ("they keep running from the light" or just holding "light" into the next)
+	- Verse
+	- Instrumental
+		- F# (or E), B (or A) --> Anthony vocalize 'light' with guitar melody --> you will forget how this goes
+		- B, C# -> D, ?, A
+		- repeat then walk down to E
+	- Verse (muted version)
+		- F#, A, E
+### 7. On Hold (mostly just talked about it)
+1. Intro (come in after one measure?  When it gets loud?)
+	1. E, G, 
+2. Verse
+3. Chorus
+### **8. Kick Yer Feet (cowboy hat ridiculous song)**
+1. Intro
+	1. G, D -> G
+2. Verse
+	1. G, C (repeat), D turnarounds
+3. ???
+	1. bunch of bass
+### **9. Pain, Panic, Worry, and Woe
+1. Intro ()
+	1. B, E....F#
+2. Verse
+	1. B, E
+	2. F#
+3. Chorus
+	1. G, D, A, C....G, D, C/G
+4. Verse
+5. Chorus
+6. Bridge
+	1. C/G slides up chromatically:
+	2. E, G, C, A
+7. Solo (~1 bar)
+8. Intro reprise
+### **10. Do Not Fall Away
+1. Intro (asdf)
+2. Verse
+	1. D, C, G, G
+3. Chorus
+	1. F, D, 
+	2. C, G, A#
+4. Instrumental
+	1. E, G, D, B (x3)
+	2. A, A#, G, F, D
+	3. D (high) for a long time
+	4. A for a bit
+5. asdf
+	1. E, F#, G, ?
+	2. asdf, F#
+
+### **11. Cabin Song ('kinda 12 bar blues, bluegrass song')
+1. Verse
+2. Chorus ("Train rolls on")
+
+### **12. 'Another Country Song I have'
+1. Intro (asdf)
+### **13. 'You're not Paris Hilton'
+1. Intro (asdf)
+	1. G (brief C or D, but a ton of G)
+2. Outro
+	1. D 
+### **14. Atrium
+1. Intro (asdf)
+	1. asdf G F, D
+2. Verse 1
+	1. G, D
+3. some F# and A endings
+4. Bendy on the A# I think
+### **xx She's So Fine** (nevermind, just keep it acoustic)
+1. asdf
+
 ---
 ---
 ## WIP
