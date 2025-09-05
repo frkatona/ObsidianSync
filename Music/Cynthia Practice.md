@@ -8,18 +8,19 @@
 	- syncopated
 	- son clave, tresillo
 	- bossa nova
-- ### Techniques
+- ### Technique
 	- chugging
+		- maintaining consistent volume and deliberate accenting
 	- hammer, pull, slide
-	- octaves
+	- reaching for fifths and octaves
 	- mutes/rakes
 	- chromatic walks
 	- wide runs
 	- slaps
 - ### Theory
-	- Scales
-	- Accents, staccato vs legato
-	- Non-tonic focal notes - b3, 3, 5, 6, b7
+	- scales
+	- staccato, legato
+	- non-tonic focal notes - b3, 3, 5, 6, b7
 - ### Popular basslines
 	- 50s-60s Rock/Pop
 		- Jackson 5 - I Want You Back

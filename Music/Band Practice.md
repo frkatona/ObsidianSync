@@ -1,5 +1,7 @@
 
 ---
+### 2025-09-05 Cynthia Notes
+- Re-export Feeling Muse with more space at beginning (maybe sparser metronome drum hits, hard soft soft soft)
 ## 2025-09-01 Practice Minutes
 ### Attendees
 - Seana
