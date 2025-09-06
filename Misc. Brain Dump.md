@@ -4,8 +4,6 @@
 - [x] ask Jackie about beers with party
 - algorithms to live by
 
-
-
 get alcohol for party
 
 thinking of buying (removed from amazon cart)

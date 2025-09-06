@@ -1,3 +1,32 @@
+## 9/6/2025 Mixing Notes
+- Feeling Muse
+	- General
+		- Add bass intro?  Want to wait for Cynthia or for me to throw something together?
+		- Want the fake bass in?
+	- 0:05 - "me" rocky low end
+	- 1:15 - "A thousand kisses" rushed
+	- 0:29 - chorus starts a little rushed
+	- 0:49 - "destiny" s sound
+	- 0:58 - "enemy" low end rocky
+	- 1:04 - try to get more excited by the end of chorus
+	- 1:17 - a little too insincere in the sultry "happy birthday mr president" voice
+	- 1:30 - "this other thing" kinda bored
+	- 1:45 - "explode" shakey
+	- 1:55 - "fools" pitch correct?
+	- 2:00 - "wake" more emotion? same with "take" in next line?
+	- 2:15 - "explode" shakey
+- 4am
+	- General
+		- with or without bass?
+	- 0:30 - "whole" sounds good, but could it get even growlier?
+	- 1:14 - "11 AM" pitch unclear, little shakey
+	- 1:24 - "in" pitch unclear
+	- 1:35 - "scream a little, in the end" pitch shakey
+	- 1:58 - "behind"
+	- 2:04 - a little pitchy with "gonna hide away"
+	- 3:22 - "behind"
+	- 3:42 - "without" a bitter under-enunciated
+
 ### 9/1/2025 Recording Session
 - Feeling Muse
 	- chorus rhythms
@@ -12,7 +41,7 @@
 		- ultimately a wash for unnatural over-performing
 	- take 2
 		- went back to bar 40
-		- chorus 2 shakey on pitch, but good character (see if it's newtone0salvageable)
+		- chorus 2 shakey on pitch, but good character (see if it's newtone-salvageable)
 		- went forward to bar 87
 		- choruses sometimes still rhythmically shakey at the end, imagine that hit for the rest (e.g., ~121) 
 	- separate takes

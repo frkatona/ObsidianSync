@@ -17,3 +17,8 @@
 ### [[Eric Performance]]
 ### [[Tim Recording]]
 ### [[Seana Recording]]
+
+### [[Band Practice]]
+### [[Cynthia Practice]]
+
+### [[SFX Checklist]]
