@@ -15,10 +15,15 @@
 	- Practice with Eric
 	- Record with Sylvie
 ### [[Eric Performance]]
+
 ### [[Tim Recording]]
+
+### [[Cynthia Practice]]
+
 ### [[Seana Recording]]
 
 ### [[Band Practice]]
-### [[Cynthia Practice]]
+
+### [[General Voice Notes]]
 
 ### [[SFX Checklist]]

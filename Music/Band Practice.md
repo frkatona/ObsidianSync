@@ -1,5 +1,63 @@
 
 ---
+## 2025-09-06 Notes
+- Thinking of warm-up songs with more appropriate instrumentation that can be sent to Cynthia ahead of time
+	- Feeling Muse
+		- PJ Harvey - This is Love
+		- Rilo Kiley - Portions for Foxes
+		- The Doors - Love Her Madly
+	- 4am
+		- Cowboy Junkies - Sweet Jane
+		- Chris Isaak - Somebody's Crying
+		- Old 97's - Where The Road Goes
+	- Hoi Polloi
+		- 10,000 Maniacs - These Are Days
+		- Natalie Merchant - Carnival
+		- Indigo Girls - Closer to Fine
+
+### Reference track pool
+- Feeling Muse
+	- PJ Harvey
+	- Thom Yorke (?  I'm not familiar with a Thom Yorke track that resembles Feeling Muse)
+	- The Doors
+	- Jace Everett
+	- Patty Smith
+	- Elle King
+- 4 AM
+	- Cowboy Junkies
+	- Chris Issak
+	- Old 97s
+	- Sad Girl
+	- ~Alt Country Rock
+- Hoi Polloi
+	- 10,00 Maniacs
+	- Cranberries
+	- Natalie Merchant
+	- Indigo Girls
+	- Edie Brickell
+	- The Smiths
+	- Chappell Roan
+	- Paramore
+- General (Playlist)
+	- Chappell Roan - Good Luck, Babe
+	- Wet Leg - Chaise Longue
+	- Rilo Kiley - Portions for Foxes
+	- The Magnetic Fields - All My Little Words
+	- The Cars - My Best Friend's Girl
+	- PJ Harvey - One Line
+	- Radiohead - Karma Police
+	- Hurray For The Riff Raff - Living in the City
+	- The Smiths - Please, Please, Please, Let Me Get What
+	- Cowboy Junkies - Sweet Jane
+	- Old 97's - Weightless
+	- The Doors - The Crystal Ship
+	- Fleetwood Mac - Dreams
+	- The Temper Trap - Sweet Disposition
+	- Bella White - Dishes
+	- Edie Brickell - Circle
+	- Cowboy Junkies - Misguided Angel
+	- (18...80)
+
 ## 2025-09-05 Cynthia Notes
 - Re-export Feeling Muse with more space at beginning (maybe sparser metronome drum hits, hard soft soft soft)
 ## 2025-09-01 Practice Minutes

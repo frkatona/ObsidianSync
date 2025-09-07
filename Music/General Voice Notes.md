@@ -1,0 +1,83 @@
+## **Registers**
+
+- **Chest voice dominance**
+    - _Adele – “Hello”_: verses have a grounded, chest-heavy resonance.
+    - _Johnny Cash – “Ring of Fire”_: baritone delivery, resonant in the chest.
+- **Head voice resonance**
+    - _Ariana Grande – “No Tears Left to Cry”_: upper chorus floats in head voice.
+    - _Sam Smith – “Stay With Me”_: choruses rise into head-placed resonance, lighter than chest.
+- **Falsetto**
+    - _Bee Gees – “Stayin’ Alive”_: textbook male falsetto, thin and airy.
+    - _Janelle Monáe – “Make Me Feel”_: jumps into falsetto in the chorus for playful lightness.
+- **Whistle register**
+    - _Mariah Carey – “Emotions”_: iconic whistle tones.
+    - _Minnie Riperton – “Lovin’ You”_: early pop example of sustained whistles.
+- **Mix (bridging registers)**
+    - _Whitney Houston – “I Wanna Dance With Somebody”_: choruses blend chest power and head clarity.
+    - _Bruno Mars – “Locked Out of Heaven”_: belts high notes with chest-head mix to avoid strain.
+---
+## **Tone & Timbre**
+- **Bright, ringing tone**
+    - _Freddie Mercury – “Don’t Stop Me Now”_: incisive and brilliant tone placement.
+    - _Beyoncé – “Love on Top”_: radiant brightness as she modulates upwards.
+- **Dark, warm tone**
+    - _Norah Jones – “Don’t Know Why”_: rounded timbre, almost smoky.
+    - _Gregory Porter – “Hey Laura”_: baritone warmth, velvety resonance.
+- **Breathy timbre**
+    - _Billie Eilish – “Ocean Eyes”_: deliberately airy and intimate.
+    - _Damien Rice – “The Blower’s Daughter”_: hushed, breath-heavy delivery.
+- **Straight tone vs. vibrato**
+    - _Imogen Heap – “Hide and Seek”_: straight tone creates purity, nearly choral.
+    - _Céline Dion – “All by Myself”_: vibrato blooms at the end of sustained notes.
+---
+## **Ornamentation & Movement**
+- **Portamento (gentle slides)**
+    - _Judy Garland – “Somewhere Over the Rainbow”_: dreamy portamento in the opening leap.
+    - _Jeff Buckley – “Hallelujah”_: expressive, sliding note transitions.
+- **Melisma (runs on a single syllable)**
+    - _Whitney Houston – “I Will Always Love You”_: final “you” blossoms with melisma.
+    - _Stevie Wonder – “Overjoyed”_: agile runs woven naturally into phrasing.
+- **Coloratura (fast, elaborate agility)**
+    - _Maria Callas – “Casta Diva”_: operatic fireworks.
+    - _Jessye Norman – Handel’s “Rejoice Greatly”_: soaring, precise classical agility.
+- **Pop/R&B runs**
+    - _Christina Aguilera – “Ain’t No Other Man”_: heavy riffs and embellishments.
+    - _Usher – “Nice & Slow”_: signature smooth R&B melisma.
+---
+## **Expression & Style**
+- **Belting (powerful chest-dominant high notes)**
+    - _Idina Menzel – “Defying Gravity”_: belted climax (“Bring me down!”).
+    - _Steven Tyler – “Dream On”_: iconic male belt in the high register.
+- **Legato (smooth, connected)**
+    - _Sam Cooke – “A Change Is Gonna Come”_: soulful, flowing phrases.
+    - _Sarah McLachlan – “Angel”_: continuous breath and smooth lines.
+- **Staccato (detached, rhythmic)**
+    - _Lady Gaga – “Poker Face”_: clipped “po-po-po.”
+    - _Elvis Presley – “Jailhouse Rock”_: percussive vocal attack matches groove.
+- **Dynamics (extreme contrast)**
+    - _Michael Jackson – “Earth Song”_: whisper-to-shout build.
+    - _Florence Welch – “Shake It Out”_: soft beginnings explode into cathartic power.
+- **Projection (cutting through with clarity)**
+    - _Aretha Franklin – “Respect”_: effortless power over band.
+    - _Luciano Pavarotti – “La Donna è Mobile”_: operatic projection filling a hall.
+
+
+### [Video](https://youtu.be/Il7wN_7SSXA) Notes
+- Belting
+	- Chest Voice
+		- Dan Reynolds (Imagine Dragons)
+		- Tom Walker
+		- Dave Groll (Foo Fighters)
+	- Falsetto + Distortion (bratty, raspy)
+		- Robert Plant (Led Zeppelin)
+		- Axel Rose (Guns N' Roses)
+	- Mixed Voice
+		- Ed Sheeran
+		- Bruno Mars
+		- Beyonce
+	- Coaching the technique
+		- start with a thin layer of falsetto
+		- blend in chest voice
+			- use exercises to push up the mid-range voice - e.g., gee, mah, mum
+			- focus on "ey" vowel in the word "take"
+		- example at 5:37
