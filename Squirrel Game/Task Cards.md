@@ -17,7 +17,7 @@ kanban-plugin: board
 ## In-Progress
 
 - [ ] audio - more overworld tracks
-- [ ] audio - develop city/forest motif
+- [ ] [ ] audio - develop city/forest motif
 	<<<<<<< HEAD
 	=======
 - [ ] audio - more overworld tracks
@@ -26,7 +26,6 @@ kanban-plugin: board
 ## Done
 
 - [ ] audio - SFX
-- [ ] 
 - [ ] audio - simplify basement bgm
 - [ ] level design - block out city
 - [ ] model - dumpster
