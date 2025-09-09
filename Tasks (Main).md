@@ -1,41 +1,23 @@
 # Today
 
-- immediate
-	- think on: power density calculation, absorption plan, 
-	- message Isaac, Seana, Duncan
-	- purchase CGA 350, flowmeter, and O2 meter
-- Home
-	- Chelsea party
-		- alcohol
-		- snacks
-		- Kristen gift
-	- Update Chelsea to real internet ($108 instead of $90.59)
-	- check on how to sue for late return penalty from ReMax
-	- finalize bass rhythm practice notes
-	- look into Eric electric solutions
-		- what to ask the tube amp repair-person
-		- what tools could diagnose ground wiring problems in his home
-- Group meeting
-	- make slides
-	- subgroup
-		- Taylor, PyCon
-			- also what for MURI, just say "I'd like to collect travel reward for the on-site project review lunch and dinner, as per diem if possible"?
-		- ceramic pics/notes
-		- JP's suggestion + Ben L relevance in light of Rob prioritizing spin coating for next samples 
-		- power density for JP
-		- investigating absorption
-		- blackbody thermometer troubles
-			- impedance matching not possible for AC APD output
-				- fix with hardware modification to allow 50 ohms into AC
-			- bandwidth floor is 1 MHz—not DC—so CW calibration is difficult
-				- but maybe fixable with a beam chopper?
-					- how many spokes before diffraction begins playing a role
-					- current chopper controller seems to max out just under 3 kHz rotation (am I sure that's 'full rotations per second'?)
-						- if so, I think I'd need 1 MHz / 3 kHz = 333 spokes...but at what spoke sizes would the wavelength-dependence of diffraction interfere with calibration?  And does the open/closed ratio otherwise influence the frequency or any other factor of signal integrity?
-
+- game
+	- add teleporter
+	- tunnel
+		- apply textures to pillars/entrance covering rocks in blender
+		- get path CSG corridors/collision working
+		- mess with shader
+	- bring up LD58
+- Work
+	- Power to JP
+	- tell Isaac tomorrow
+	- Emma ordering
+	- Yuki, Duncan
 - Music
-	- Send recordings to Cynthia and Seana
-	- Kaya game audio sidechaining
+	- record for "voice types" video
+	- come up with exercises and language for Eric (and Seana) 
+
+
+- Tell Isaac time (and get LEDs going)
 - Emma ordering
 	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
 	- bandpass
@@ -44,10 +26,6 @@
 	- What's up with the boron-intermediate mechanism
 	- Read the .txt file
 	- (before meeting, talk about the lased samples with Ben)
-- Charge Chelsea
-	- internet ($90.59 / 2 = $45.30)
-	- power ($675.77 / 2 = $337.89)
-	- (got rent, but did I get the first month of rent and internet?)
 ### Tomorrow
 - talk with office about trip money
 

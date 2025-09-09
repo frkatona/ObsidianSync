@@ -7,6 +7,18 @@
 ---
 # Practice Notes
 
+## 2025-09-06 Notes
+- Ear training
+	- asdf
+- Voice training
+	- Chest (e.g., asdf)
+	- Head (e.g., asdf)
+	- Mixed (e.g., asdf)
+	- Falsetto (e.g., asdf)
+	- Mask (?)
+
+
+---
 ### 9/3 Notes
 - discussed a beatles/zeppelin medley for open mic (but not for the upcoming show because they don't want covers)
 - next week, there's a lot of free time b/c Heather is out of town (except Friday)
@@ -363,3 +375,4 @@
 
 ---
 
+[[General Voice Notes]]

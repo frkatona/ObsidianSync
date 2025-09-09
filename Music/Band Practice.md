@@ -1,63 +1,65 @@
-## 2025-09-03 Cynthia Practice Prep Notes
-- Resources
-	- Youtubers - Davie504, Adam Neely
-	- Tabs - Ultimate-Guitar.com, GProTab.net
-- Rhythm
-	- 1, 1/2, 1/4, 1/8, 1/16
-	- dotted, triplet
-	- syncopated
-	- son clave/tresillo
-- Techniques
-	- chugging
-	- hammer, pull, slide
-	- octaves
-	- mutes/rakes
-	- chromatic walks
-	- wide runs
-	- slaps
-- Theory
-	- Scales
-	- Accents, staccato vs legato
-	- Non-tonic focal notes - b3, 3, 5, 6, b7
-- Popular basslines
-	- 50s-60s Rock/Pop
-		- Jackson 5 - I Want You Back
-		- The Beatles - Come Together
-		- Cream - Sunshine of your Love
-		- Iron Butterfly - In a Gada Da Vida
-		- Otis Redding - Sitting on the dock of the Bay
-		- Ben E King - Stand By Me
-	- 70s-80s Rock/Pop
-		- Michael Jackson - Billie Jean, Beat It
-		- Queen - Little Thing Called Love
-		- Cheryl Lynn - Got to be Real
-		- Chic - Good Times
-		- Queen - Another One Bites the Dust
-		- Pink Floyd - Money
-		- War - Low Rider
-		- The Police - Message in a Bottle
-		- The Knack - My Sharona
-		- Guns N' Roses - Sweet Child O' Mine
-		- Eagles - Hotel California
-		- Black Sabbath - Iron Man
-		- Nirvana - Come As You Are
-	- 90s+ Rock/Pop
-		- Red Hot Chili Peppers - Can't Stop, Californication, Around the World
-		- Jet - Are You Gonna Be My Girl
-		- White Strips - Seven Nation Army
-		- Rage against the Machine - Killing in the Name Of
-		- MC Hammer - U Can't Touch This
-		- Gorillaz - Feel Good Inc
-	- Funk
-		- Wild Cherry - Play That Funky Music
-		- James Brown - I Feel Good
-		- Parliament - Flashlight
-		- Stevie Wonder - Master Blaster
-		- The Commodores - Brick House
-		- Stevie Wonder - Superstitious
-	- Jazz
-		- ?
+
 ---
+## 2025-09-06 Notes
+- Thinking of warm-up songs with more appropriate instrumentation that can be sent to Cynthia ahead of time
+	- Feeling Muse
+		- PJ Harvey - This is Love
+		- Rilo Kiley - Portions for Foxes
+		- The Doors - Love Her Madly
+	- 4am
+		- Cowboy Junkies - Sweet Jane
+		- Chris Isaak - Somebody's Crying
+		- Old 97's - Where The Road Goes
+	- Hoi Polloi
+		- 10,000 Maniacs - These Are Days
+		- Natalie Merchant - Carnival
+		- Indigo Girls - Closer to Fine
+
+### Reference track pool
+- Feeling Muse
+	- PJ Harvey
+	- Thom Yorke (?  I'm not familiar with a Thom Yorke track that resembles Feeling Muse)
+	- The Doors
+	- Jace Everett
+	- Patty Smith
+	- Elle King
+- 4 AM
+	- Cowboy Junkies
+	- Chris Issak
+	- Old 97s
+	- Sad Girl
+	- ~Alt Country Rock
+- Hoi Polloi
+	- 10,00 Maniacs
+	- Cranberries
+	- Natalie Merchant
+	- Indigo Girls
+	- Edie Brickell
+	- The Smiths
+	- Chappell Roan
+	- Paramore
+- General (Playlist)
+	- Chappell Roan - Good Luck, Babe
+	- Wet Leg - Chaise Longue
+	- Rilo Kiley - Portions for Foxes
+	- The Magnetic Fields - All My Little Words
+	- The Cars - My Best Friend's Girl
+	- PJ Harvey - One Line
+	- Radiohead - Karma Police
+	- Hurray For The Riff Raff - Living in the City
+	- The Smiths - Please, Please, Please, Let Me Get What
+	- Cowboy Junkies - Sweet Jane
+	- Old 97's - Weightless
+	- The Doors - The Crystal Ship
+	- Fleetwood Mac - Dreams
+	- The Temper Trap - Sweet Disposition
+	- Bella White - Dishes
+	- Edie Brickell - Circle
+	- Cowboy Junkies - Misguided Angel
+	- (18...80)
+
+## 2025-09-05 Cynthia Notes
+- Re-export Feeling Muse with more space at beginning (maybe sparser metronome drum hits, hard soft soft soft)
 ## 2025-09-01 Practice Minutes
 ### Attendees
 - Seana

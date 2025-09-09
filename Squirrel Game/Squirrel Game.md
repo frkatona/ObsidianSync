@@ -1,9 +1,26 @@
+- ### 2025-09-08 Meeting
+	- Anthony - terrain into main project, on github, terrain updates, music/audio updates
+	- Josh - new event blocking code
+	- Kaya - discussing Foregjo repo to replace bitbucket 
+		- new git commands
+			- git remote add codeberg ssh://git@codeberg.org/SciuridaeSandbox/s_4_2_1_sandbox.git
+			- git remote -v
+			- git pull codeberg
+			- git push codeberg
+		- health check for connection
+		- dithered transparency for when character takes up too much of camera
+	- to-do
+		- talk about audio updates
+		- talk about LD58
+	- home
+		- maybe make pull-switch and floor button for the new basement that Kaya made
+
 - ### 2025-09-01 Meeting
 	- shave the empty space off of fx in drive
 	- think on how to 'side-chain' the music when near bonfire
-	- wait on Kaya noting which sounds need a little tweak to be fully desireable
-		- make the glide sample more loopable (loop remainder)
-			- or make separate initial sound + loopable sound that doesn't have such a transient
+	- wait on Kaya noting which sounds need a little tweak to be fully desirable
+		- make the glide sample more loop-able (loop remainder)
+			- or make separate initial sound + loop-able sound that doesn't have such a transient
 			- maybe also other 'loop' tagged samples (loop reminder on the flre-lit-2_loop and also get it longer than 4 seconds)
  
  - ### 2025-06-03 Meeting

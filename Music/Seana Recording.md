@@ -1,3 +1,32 @@
+## 9/6/2025 Mixing Notes
+- Feeling Muse
+	- General
+		- Add bass intro?  Want to wait for Cynthia or for me to throw something together?
+		- Want the fake bass in?
+	- 0:05 - "me" rocky low end
+	- 1:15 - "A thousand kisses" rushed
+	- 0:29 - chorus starts a little rushed
+	- 0:49 - "destiny" s sound
+	- 0:58 - "enemy" low end rocky
+	- 1:04 - try to get more excited by the end of chorus
+	- 1:17 - a little too insincere in the sultry "happy birthday mr president" voice
+	- 1:30 - "this other thing" kinda bored
+	- 1:45 - "explode" shakey
+	- 1:55 - "fools" pitch correct?
+	- 2:00 - "wake" more emotion? same with "take" in next line?
+	- 2:15 - "explode" shakey
+- 4am
+	- General
+		- with or without bass?
+	- 0:30 - "whole" sounds good, but could it get even growlier?
+	- 1:14 - "11 AM" pitch unclear, little shakey
+	- 1:24 - "in" pitch unclear
+	- 1:35 - "scream a little, in the end" pitch shakey
+	- 1:58 - "behind"
+	- 2:04 - a little pitchy with "gonna hide away"
+	- 3:22 - "behind"
+	- 3:42 - "without" a bit under-enunciated
+
 ### 9/1/2025 Recording Session
 - Feeling Muse
 	- chorus rhythms
@@ -12,7 +41,7 @@
 		- ultimately a wash for unnatural over-performing
 	- take 2
 		- went back to bar 40
-		- chorus 2 shakey on pitch, but good character (see if it's newtone0salvageable)
+		- chorus 2 shakey on pitch, but good character (see if it's newtone-salvageable)
 		- went forward to bar 87
 		- choruses sometimes still rhythmically shakey at the end, imagine that hit for the rest (e.g., ~121) 
 	- separate takes
@@ -29,45 +58,4 @@
 - 4am
 	- figuring out chorus opening melody ("while in free fall" - maybe straight Ds, maybe D, C#, E, D)
 ---
-### Reference tracks
-- Feeling Muse
-	- PJ Harvey
-	- Thom Yorke
-	- The Doors
-	- Jace Everett
-	- Patty Smith
-	- Elle King
-- 4 AM
-	- Cowboy Junkies
-	- Chris Issak
-	- Old 97s
-	- Sad Girl
-	- ~Alt Country Rock
-- Hoi Polloi
-	- 10,00 Maniacs
-	- Cranberries
-	- Natalie Merchant
-	- Indigo Girls
-	- Edie Brickell
-	- The Smiths
-	- Chappell Roan
-	- Paramore
-- General (Playlist)
-	- Chappell Roan - Good Luck, Babe
-	- Wet Leg - Chaise Longue
-	- Rilo Kiley - Portions for Foxes
-	- The Magnetic Fields - All My Little Words
-	- The Cars - My Best Friend's Girl
-	- PJ Harvey - One Line
-	- Radiohead - Karma Police
-	- Hurray For The Riff Raff - Living in the City
-	- The Smiths - Please, Please, Please, Let Me Get What
-	- Cowboy Junkies - Sweet Jane
-	- Old 97's - Weightless
-	- The Doors - The Crystal Ship
-	- Fleetwood Mac - Dreams
-	- The Temper Trap - Sweet Disposition
-	- Bella White - Dishes
-	- Edie Brickell - Circle
-	- Cowboy Junkies - Misguided Angel
-	- (18...80)
+[[General Voice Notes]]

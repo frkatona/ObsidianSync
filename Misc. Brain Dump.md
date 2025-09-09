@@ -4,7 +4,6 @@
 - [x] ask Jackie about beers with party
 - algorithms to live by
 
-
 thinking of buying (removed from amazon cart)
 - cable tester (# Mackie Cable Tester, 5-way switch Battery-Powered Connector Test, Black, (MTest-1)) - $35 today (8/25/25)
 	- look used, try out Tim's
@@ -101,7 +100,7 @@ Work
 - FL delete 'd' vs e
 - put sample on k junction
 - focusrite scarlett mute speakers but not monitor
-- https://github.com/ur-whitelab/chemcrow-public
+- https://github.com/ur-whitelab/chemcrow-publicm
 
 ---
 ## FL Notes
