@@ -1,15 +1,44 @@
 # Today
 
-- schedule Kaya day
-- Tell Isaac time (and get LEDs going)
+- immediate
+	- think on: power density calculation, absorption plan, 
+	- message Isaac, Seana, Duncan
+	- purchase CGA 350, flowmeter, and O2 meter
+- Home
+	- Chelsea party
+		- alcohol
+		- snacks
+		- Kristen gift
+	- Update Chelsea to real internet ($108 instead of $90.59)
+	- check on how to sue for late return penalty from ReMax
+	- finalize bass rhythm practice notes
+	- look into Eric electric solutions
+		- what to ask the tube amp repair-person
+		- what tools could diagnose ground wiring problems in his home
+- Group meeting
+	- make slides
+	- subgroup
+		- Taylor, PyCon
+			- also what for MURI, just say "I'd like to collect travel reward for the on-site project review lunch and dinner, as per diem if possible"?
+		- ceramic pics/notes
+		- JP's suggestion + Ben L relevance in light of Rob prioritizing spin coating for next samples 
+		- power density for JP
+		- investigating absorption
+		- blackbody thermometer troubles
+			- impedance matching not possible for AC APD output
+				- fix with hardware modification to allow 50 ohms into AC
+			- bandwidth floor is 1 MHz—not DC—so CW calibration is difficult
+				- but maybe fixable with a beam chopper?
+					- how many spokes before diffraction begins playing a role
+					- current chopper controller seems to max out just under 3 kHz rotation (am I sure that's 'full rotations per second'?)
+						- if so, I think I'd need 1 MHz / 3 kHz = 333 spokes...but at what spoke sizes would the wavelength-dependence of diffraction interfere with calibration?  And does the open/closed ratio otherwise influence the frequency or any other factor of signal integrity?
+
 - Music
-	- Send Cynthia schedule
 	- Send recordings to Cynthia and Seana
-	- Kaya game audio
+	- Kaya game audio sidechaining
 - Emma ordering
 	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
 	- bandpass
-- Schedule Dr + MRI
 - Yuki questions
 	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?
 	- What's up with the boron-intermediate mechanism

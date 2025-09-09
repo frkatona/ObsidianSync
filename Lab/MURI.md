@@ -1,8 +1,14 @@
 ---
 
 ---
+### 9/4 Review summary notes
+- PDCs are advantageous because they tend to yield ceramics under more mild conditions than traditional powder-sintering routes (~500-1000 C vs ?) and are chemically versatile in the elements they incorporate and how they control their 
+- Ovens are still disadvantageous because they take a long time and ceramic systems are limited to heat-resistant substrates
+- Laser-based ceramic formation opens otherwise-impossible precision (i.e., direct writing), speed, and applications (e.g., additive manufacturing)
+- Ultra-high temperature refractory material formation is 
+
 ### 9/3 PSU meeting notes
-- Rob - setting up monthly meetings
+- Rob - working on setting up monthly meetings
 - Ben S - made a spreadsheet to consolidate sample synthesis details, characterization, and results
 - Rob - We gotta figure out what is absorbing, why we're able to thermalize
 	- '2 pulse idea' kinda didn't work out by next test
@@ -13,8 +19,7 @@
 - Rob - other substrates - metal, etc.
 	- what would we want for a paper?  properties or just that it happened
 	- JP - if we can show it, that's good enough
-- JP - take one sample, give it 100k pulses over square cm, back in the laser, same spot
-	- keep everything the same for another 
+- JP - take one sample, give it 100k pulses over square cm, XRD, put it back in the laser, repeat procedure on the same spot
 	- Ben L - but does it matter that you're letting it cool between attempts, so try it a different way as well - separate pulses - follow up
 	- **send "energy density per pulse" to JP**
 - Rob - can we compare this to what other people made e.g. polycarbosilane...what are the differences
@@ -26,13 +31,11 @@
 		- 50% power, 100 mm/min scan speed (replicate 1)
 		- 100% power, 30 mm/min scan speed (replicate 2)
 	- new ideas
-	- 
 		- 25% power, 100 mm/min scan speed, repeat passes until black
 		- 50% power, grid of increasing scan speeds, up to 1000 mm/min
 		- rep rate
 ### On-site notes
 - Alex brought up an interesting-sounding paper, something like "co2 laser rearrangement 33 sigmatropic shift multiphoton absorption ground state photochemistry"
-
 
 ### 8/26 thoughts
 - should someone reach out to Rob for next meeting and the data labeling ideas

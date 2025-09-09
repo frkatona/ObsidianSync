@@ -7,11 +7,7 @@
 - Alex Radosevich lasing (try all 3 laser types)
 - Meet with Isaac at 12 (do I have soylent for lunch?)
 	- Respond to Sandra about Sunday lunch place
-- Talk to Taylor about trip and dinner money
 - Send purchases to Emma
-- Invite Emma and Jackie to party
-- Visit Sadia
-- Send availability to Isaac
 
 - Read MURI folder papers
 - Submit receipts for trip (Ask Taylor how tax works...read the email docs)
