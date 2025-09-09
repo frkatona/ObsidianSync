@@ -204,22 +204,42 @@ This posture can be transferred to sitting and lying down
 
 ### Head Voice [Video](https://youtu.be/zM2GDKDLr8s) Notes
 - identify chest voice with speaking voice or a "hey" across street
-- identify head with imitating owl or a police siren or "pet talk" voice
+- identify head with imitating owl, police siren or pet/baby talk voice
 
 ### Head vs Chest [Video](https://youtu.be/zM2GDKDLr8s) Notes
 - Coaching
 	- vowel sound across the whole range and identify when (?)
 
+### Finding and Strengthening Male Chest Voice [Video](https://youtu.be/pfz2sdfP07A) Notes
+- Head voice, like falsetto, is often more a nice color rather a style
+- Machine Gun Kelley will pull his chest voice up higher than most people as a color
+	- but doing that for most people may risk harm
+
 ---
 Eric exercises
-- warmup exercises
+- pre-session
+	- hydration
+		- start drinking water at least an hour before performance
+		- avoid too much caffeine, alcohol, and ice cold drinks
+		- use humidifier if it helps
+- warmup
+	- discussion
+		- ordinary male vocal range is ~2-3 octaves covering somewhere around C2-C5 (this is for someone who can sing bass, baritone, and tenor, but the world record is something like 5-6 octaves of range)
+		- chest vs head (mixed, falsetto, fry) and passagio (flipping)
+		- vowels
 	- partially-occluded singing to minimize pressure difference across folds
 		- lip trill, humming, buzzing, kazoo-ing, straw phonation
 		- careful not to purse lips tightly or let air escape from the nose or sides of mouth
 		- be sure its at least a quarter note time to be deliberate and knowing with tone and character
 		- e.g., imperial march, full legato
 	- 5-tone scales on mee, mah, and ng
+	- breathing/support
+		- hand on stomach (?)
+	- "sighs" (?)
+	- stretch/roll neck, jaw, and shoulders
 - learning
 	- map out your voice
+		- find lowest and highest pitch that you can hold a note
+		- identify the "flip" spot between registers
 - practice
 	- siren from lowest to highest note
