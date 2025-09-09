@@ -121,23 +121,23 @@
 
 ### Exercise Sounds and Their Uses
 - - **“NG” (as in _sing_)**
-    - Promotes head resonance (mask vibration).
+    - Promotes HEAD resonance (mask vibration).
     - Helps close soft palate, reduce throat tension.
     - Common for sirens/slides to connect registers smoothly.
 - **“OO” (as in _food_)**
-    - Narrows the vocal tract, encouraging head voice and upper register.
+    - Narrows the vocal tract, encouraging HEAD voice and upper register.
     - Stabilizes pitch in passaggio.
     - Can reduce breathiness by encouraging rounded lips.
 - **“AH” (as in _father_)**
-    - Open vowel, chest-friendly.
+    - Open vowel, CHEST-friendly.
     - Good for resonance and projection work.
     - Can expose tension issues if the throat is tight.
 - **“EE” (as in _see_)**
-    - Bright, forward vowel that promotes mask resonance.
+    - Bright, forward vowel that promotes MASK resonance.
     - Useful for intonation training (easy to hear pitch center).
     - Can become nasal if overdone.
 - **“EH / AY” (as in _bed_ / _say_)**
-    - Transitional vowels — useful for smoothing between “AH” and “EE.”
+    - TRANSITIONAL vowels — useful for smoothing between “AH” and “EE.”
     - Common in vowel modification for higher pitches (e.g., “AH” shifting toward “UH” or “EH”).
 - **Lip trills / tongue trills (brrrr / rrrr)**
     - Release excess tension.
@@ -148,11 +148,41 @@
     - Gentle vocal fold closure.
     - Safe for cool-downs.
 
-- Closed vowels (oo, ee, ng) -> stabilize head voice and smooth transitions
+- Closed vowels (oo, ee, ng) -> stabilize HEAD voice and smooth TRANSITIONS
 - Open vowels (ah, eh, oh) -> build power, resonance, and projections
 - Semi-occluded sounds (trills, humming, straw phonation) -> release tension, improve efficiency
 ---
-### [Video](https://youtu.be/Il7wN_7SSXA) Notes
+
+Exercises
+- Chest voice belting
+	-  [counting loudly](https://www.google.com/search?sca_esv=2865fea3d3342d0d&cs=1&sxsrf=AE3TifPpA7kz0pdOarWnhjAxjg_-IB0PCg%3A1757354555348&q=counting+loudly&sa=X&ved=2ahUKEwipyYTw38mPAxX6F1kFHQODBAwQxccNegQIBBAB&mstk=AUtExfC8xca4UJaRHNKaQET9D-jKLvbf11f94dPf16snNtqSSZfIFu9DYj0611HWkMmmwALMlv8ZQe10xpm4vFydNCy8Q7qsjNnDktOiqPKwlznZbbQ_7_7QjJAbW6b6Ug26680AkqzDSeozEg8t1R9CF8WbYvCXzbX9Jj1mlTj7ET5mWzFJZiStG1-sjjZGQsoeYy4BKMrtIR_yLukC2-aGPBfwKGgJTNNNgs2nn2RKwATEsr_C2MPwJW5G41sXa2Q03V3YOlgH1rnk3z17w0bQLiVg&csui=3) with hand-on-chest vibration
+	- saying "[Hey there](https://www.google.com/search?sca_esv=2865fea3d3342d0d&cs=1&sxsrf=AE3TifPpA7kz0pdOarWnhjAxjg_-IB0PCg%3A1757354555348&q=Hey+there&sa=X&ved=2ahUKEwipyYTw38mPAxX6F1kFHQODBAwQxccNegQIBBAC&mstk=AUtExfC8xca4UJaRHNKaQET9D-jKLvbf11f94dPf16snNtqSSZfIFu9DYj0611HWkMmmwALMlv8ZQe10xpm4vFydNCy8Q7qsjNnDktOiqPKwlznZbbQ_7_7QjJAbW6b6Ug26680AkqzDSeozEg8t1R9CF8WbYvCXzbX9Jj1mlTj7ET5mWzFJZiStG1-sjjZGQsoeYy4BKMrtIR_yLukC2-aGPBfwKGgJTNNNgs2nn2RKwATEsr_C2MPwJW5G41sXa2Q03V3YOlgH1rnk3z17w0bQLiVg&csui=3)" on pitch
+	- [the "valley girl" accent](https://www.google.com/search?sca_esv=2865fea3d3342d0d&cs=1&sxsrf=AE3TifPpA7kz0pdOarWnhjAxjg_-IB0PCg%3A1757354555348&q=the+%22valley+girl%22+accent&sa=X&ved=2ahUKEwipyYTw38mPAxX6F1kFHQODBAwQxccNegQIBBAD&mstk=AUtExfC8xca4UJaRHNKaQET9D-jKLvbf11f94dPf16snNtqSSZfIFu9DYj0611HWkMmmwALMlv8ZQe10xpm4vFydNCy8Q7qsjNnDktOiqPKwlznZbbQ_7_7QjJAbW6b6Ug26680AkqzDSeozEg8t1R9CF8WbYvCXzbX9Jj1mlTj7ET5mWzFJZiStG1-sjjZGQsoeYy4BKMrtIR_yLukC2-aGPBfwKGgJTNNNgs2nn2RKwATEsr_C2MPwJW5G41sXa2Q03V3YOlgH1rnk3z17w0bQLiVg&csui=3) can help train the chest voice for belting
+
+[Passagio article](https://completesingers.com/technique/the-dreaded-passagio/)
+- Primero and Segundo Passagio - where singers transition from chest to mixed and mixed to head, respectively (~1-3 semitones each)
+
+[Support article](https://completesingers.com/technique/how-do-i-breathe-what-is-support/)
+"""
+our breathing and support system can only be accessed if your posture is correct.  This means:
+
+1. The back of the neck must be tall (as if you were being slightly suspended from the roof with a string attached to the back of your head)
+2. The chin, however, must not tuck itself into the neck. This will depress the larnyx.
+3. The chest must be out, but not puffed out. Think of your collar bone being a lot wider than you think it is.
+4. The pelvis should be tucked slightly forward. Always make sure you are doing this when you are keeping your chest broad and wide.
+5. The knees should be slightly bent.
+6. The ears should be over the shoulders.
+
+This posture can be transferred to sitting and lying down
+"""
+
+---
+# Video Notes
+
+### Short references
+- [Short](https://www.youtube.com/shorts/SrVtmUa3JPE?feature=share) - 6 ways to sing one note
+- [Video](https://youtu.be/q9DT49coKr4) - One Male Singer for each Belt Note, C4 - C6
+### Mixed Voice Belting [Video](https://youtu.be/Il7wN_7SSXA) Notes
 - Belting
 	- Chest Voice
 		- Dan Reynolds (Imagine Dragons)
@@ -172,6 +202,24 @@
 			- focus on "ey" vowel in the word "take"
 		- example at 5:37
 
+### Head Voice [Video](https://youtu.be/zM2GDKDLr8s) Notes
+- identify chest voice with speaking voice or a "hey" across street
+- identify head with imitating owl or a police siren or "pet talk" voice
+
 ### Head vs Chest [Video](https://youtu.be/zM2GDKDLr8s) Notes
 - Coaching
-	- vowel sound across the whole range and identify when you're 
+	- vowel sound across the whole range and identify when (?)
+
+---
+Eric exercises
+- warmup exercises
+	- partially-occluded singing to minimize pressure difference across folds
+		- lip trill, humming, buzzing, kazoo-ing, straw phonation
+		- careful not to purse lips tightly or let air escape from the nose or sides of mouth
+		- be sure its at least a quarter note time to be deliberate and knowing with tone and character
+		- e.g., imperial march, full legato
+	- 5-tone scales on mee, mah, and ng
+- learning
+	- map out your voice
+- practice
+	- siren from lowest to highest note

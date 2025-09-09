@@ -1,24 +1,31 @@
 # Today
 
-- schedule Kaya day
-- Tell Isaac time (and get LEDs going)
+- game
+	- add teleporter
+	- tunnel
+		- apply textures to pillars/entrance covering rocks in blender
+		- get path CSG corridors/collision working
+		- mess with shader
+	- bring up LD58
+- Work
+	- Power to JP
+	- tell Isaac tomorrow
+	- Emma ordering
+	- Yuki, Duncan
 - Music
-	- Send Cynthia schedule
-	- Send recordings to Cynthia and Seana
-	- Kaya game audio
+	- record for "voice types" video
+	- come up with exercises and language for Eric (and Seana) 
+
+
+- Tell Isaac time (and get LEDs going)
 - Emma ordering
 	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
 	- bandpass
-- Schedule Dr + MRI
 - Yuki questions
 	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?
 	- What's up with the boron-intermediate mechanism
 	- Read the .txt file
 	- (before meeting, talk about the lased samples with Ben)
-- Charge Chelsea
-	- internet ($90.59 / 2 = $45.30)
-	- power ($675.77 / 2 = $337.89)
-	- (got rent, but did I get the first month of rent and internet?)
 ### Tomorrow
 - talk with office about trip money
 
