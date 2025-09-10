@@ -3,6 +3,12 @@
 - PDCs are advantageous because they tend to yield ceramics under more mild conditions than traditional powder-sintering routes (~500-1000 C vs ?) and are chemically versatile in the elements they incorporate and how they control their 
 - Ovens are still disadvantageous because they take a long time and ceramic systems are limited to heat-resistant substrates
 - Laser-based ceramic formation opens otherwise-impossible precision (i.e., direct writing), speed, and applications (e.g., additive manufacturing)
+	- Also, metastable states and defect structures are uniquely available through pulsed photothermal pathways due to rapid quenching
+		- bear in mind that this rapid heating and quenching also induces intense thermal gradients, and thus high thermal stress, shrinkage, and cracking
+			- strategies to mitigating cracking include scanning in overlapping passes, reducing pulse energy, and using multi-layer polymer coatings (which distribute shrinkage) 
+	- Also, sensitive substrates that cannot withstand hot, long oven exposures (e.g., Mg at 1000 C) need not be exposed in photothermal procedures
+- Absorption challenges
+	- at 1064, Horcher et al (2024) added Al2O3/ZrO2 to their organosilazane to tune absorption 
 
 ### 9/3 PSU meeting notes
 - Rob - working on setting up monthly meetings

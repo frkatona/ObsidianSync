@@ -1,4 +1,11 @@
-## 9/6/2025 Mixing Notes
+## 2025-09-09 Recording Notes
+- started with Hoi Polloi warmup after general stretching/vocal warmups
+- 146 - 150ish - pitchy
+- "Polloi"s going high to low always off a bit
+	- remember to hit and hold that G (Hoi Polloi - C B G) --> ACTUALLY no, it's D, C#, A 
+	- largely a strong first take, but coming over tomorrow before band practice to start with spot checking
+
+## 2025-09-06 Mixing Notes
 - Feeling Muse
 	- General
 		- Add bass intro?  Want to wait for Cynthia or for me to throw something together?
@@ -27,7 +34,7 @@
 	- 3:22 - "behind"
 	- 3:42 - "without" a bit under-enunciated
 
-### 9/1/2025 Recording Session
+## 2025-09-01 Recording Session
 - Feeling Muse
 	- chorus rhythms
 - 4am
