@@ -1,11 +1,8 @@
----
 
----
 ### 9/4 Review summary notes
 - PDCs are advantageous because they tend to yield ceramics under more mild conditions than traditional powder-sintering routes (~500-1000 C vs ?) and are chemically versatile in the elements they incorporate and how they control their 
 - Ovens are still disadvantageous because they take a long time and ceramic systems are limited to heat-resistant substrates
 - Laser-based ceramic formation opens otherwise-impossible precision (i.e., direct writing), speed, and applications (e.g., additive manufacturing)
-- Ultra-high temperature refractory material formation is 
 
 ### 9/3 PSU meeting notes
 - Rob - working on setting up monthly meetings
