@@ -2,6 +2,8 @@
 - started with Hoi Polloi warmup after general stretching/vocal warmups
 - 146 - 150ish - pitchy
 - "Polloi"s going high to low always off a bit
+	- remember to hit and hold that G (Hoi Polloi - C B G) --> ACTUALLY no, it's D, C#, A 
+	- largely a strong first take, but coming over tomorrow before band practice to start with spot checking
 
 ## 2025-09-06 Mixing Notes
 - Feeling Muse
