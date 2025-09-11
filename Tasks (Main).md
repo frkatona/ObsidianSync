@@ -5,6 +5,12 @@
 	- Summarize laser papers, absorption, and mechanism for tomorrow's meeting
 	- Next step for thermometer?  chopper?
 	- Emma ordering
+	- GM
+		- 3 slide hypothesis
+		- subgroup
+			- ordering
+			- MURI images
+			- chopper discussion
 - Music
 	- record "voice types" video
 	- finalize exercises and language for Eric (and Seana)

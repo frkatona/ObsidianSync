@@ -1,4 +1,26 @@
 
+### Experimental conditions to try once we have samples
+- single line (how far out does it reach?  what resolution do we have?  does it correspond to the same line made on a piece of steel or something under the same conditions?)
+- one-shot
+- defocused beam
+- scan rate/pulse rate such that there is no overlap
+- laser -> XRD -> laser over the same space
+	- iterate over same space
+- thermocouple
+- in air
+
+### 9/10 Meeting Notes
+- Ben S.: probably no laser stuff until the JP spin coating gets figured out...but no polymer until the glovebox problem gets figured out
+- Tainara SEM images
+	- inhomogeneity
+- ***JP wants to know the power averaged over every single pulse over the area of the sample surface (use pulse power, number of pulses, and scanned area)***
+	- I explained that the distance between the lines is big compared to the spot size and so this number won't capture what JP is looking for, but he wants it nonetheless
+	- bring value in "per hundred micron"...I guess to be safe, bring value also across the entire surface
+- Ben S - new samples are ~100 to 150 um, but we'll spin coat going forward
+- JP - we're getting much more conversion than the beam size, so let's test it with a single line
+- Ben Lear - etch metal to make sure that the size/focus is actually what we think it is (at least that the stock values are accurate, i.e., 100 um) 
+- JP - "the finest coating that would be considered functional is 5-10 microns"
+- Rob - try PCOD (precursor without boron cage) again
 ### 9/4 Review summary notes
 - PDCs are advantageous because they tend to yield ceramics under more mild conditions than traditional powder-sintering routes (~500-1000 C vs ?) and are chemically versatile in the elements they incorporate and how they control their 
 - Ovens are still disadvantageous because they take a long time and ceramic systems are limited to heat-resistant substrates
@@ -9,6 +31,7 @@
 	- Also, sensitive substrates that cannot withstand hot, long oven exposures (e.g., Mg at 1000 C) need not be exposed in photothermal procedures
 - Absorption challenges
 	- at 1064, Horcher et al (2024) added Al2O3/ZrO2 to their organosilazane to tune absorption 
+	- Wilden and Fisher (2007) mention that only thin coatings/fibers at slow ramp rates and long dwell times are possible because of (1) degassing during pyrolysis and (2) residual stresses within the components 
 
 ### 9/3 PSU meeting notes
 - Rob - working on setting up monthly meetings
