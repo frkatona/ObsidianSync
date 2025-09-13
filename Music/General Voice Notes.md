@@ -225,8 +225,47 @@ Eric exercises
 - warmup
 	- discussion
 		- ordinary male vocal range is ~2-3 octaves covering somewhere around C2-C5 (this is for someone who can sing bass, baritone, and tenor, but the world record is something like 5-6 octaves of range)
-		- chest vs head (mixed, falsetto, fry) and passagio (flipping)
-		- vowels
+		- chest vs head 
+			- chest (aka, "low resonance")
+				- general speaking voice; "hey" like bad dog
+				- biggest vibrations felt in the chest
+				- described as having "dark," "warm," "full" tone
+				- BUT its usage is limited as pitch increases and its overuse can impart a heavy or muffled quality
+			- head (aka, "high resonance")
+				- "hoo" like an owl
+				- vibrations sometimes felt in cheeks, nose, or forehead (sometimes back of neck, sometimes difficult to notice other than reduction in chest vibrations)
+				- described as having a "bright" or "light" quality and is easier to project
+				- BUT its usage is limited as pitch decreases and it feels comparatively hollow
+			- Movement
+				- resonance is moved by shaping the spaces in your body
+				- most people report feeling a "flip" as they sing across a pitch range that forces them transfer between these resonances (low -> high or high -> low), known as a "passagio"
+			- (mixed, falsetto, fry) and passagio (flipping)
+		- placement and vowels
+				- specific muscles and body spaces (e.g., soft palate position, throat tension, vocal folds) control voice quality, but trying to manipulate them directly and deliberately is challenging.  Instead, their manipulation is taught in the form of "vowels" (which prioritize different muscles) and "placement" (imaginary positioning of the voice location or direction)
+				- vowels
+					- ah ("fawn")
+					- eh ("felt")
+					- ee ("feel")
+					- oh ("foe")
+					- oo ("food")
+					- ng ("sing")
+				- placement
+					- forward
+						- buzzing near the front of the face (lips, teeth, etc.)
+						- achieves a clarity/brightness/projection that cuts through other noise
+						- feel it in your nose and cheeks when you hum "ng"
+					- back (aka, "covered)
+						- feels deep in the throat or withdrawn
+						- achieves "warmth"
+						- feel it sitting deeper in your throat when you say "ah" in a yawning voice
+			- start with closed, foward vowels (**ee** and **oo**) to find the high, forward resonance
+				- (sound placement ?)
+					- prevent vowels from  "sinking back into the throat"
+				- (resonance ?)
+			- gradually move up more open vowels (**ah** and **oh**) as you warm up
+			- descending
+				- eh like "dress"
+			- finish with the same pitch on each vowel (ah eh ee oh oo)
 	- partially-occluded singing to minimize pressure difference across folds
 		- lip trill, humming, buzzing, kazoo-ing, straw phonation
 		- careful not to purse lips tightly or let air escape from the nose or sides of mouth
@@ -235,6 +274,7 @@ Eric exercises
 	- 5-tone scales on mee, mah, and ng
 	- breathing/support
 		- hand on stomach (?)
+		- pretend to blow on a candle such that the flame tilts but doesn't flicker
 	- "sighs" (?)
 	- stretch/roll neck, jaw, and shoulders
 - learning

@@ -1,4 +1,5 @@
-
+ ## 2025-09-06 Notes
+ - cut instruments at the last bar of Verse 2
 ---
 ## 2025-09-06 Notes
 - Thinking of warm-up songs with more appropriate instrumentation that can be sent to Cynthia ahead of time
