@@ -325,3 +325,8 @@ Eric exercises
 		- identify the "flip" spot between registers
 - practice
 	- siren from lowest to highest note
+
+My range: 
+- Low: F2
+- Passagio: ~D#4 - F5
+- High: C6

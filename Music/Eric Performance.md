@@ -271,6 +271,16 @@
 	1. G, D
 3. some F# and A endings
 4. Bendy on the A# I think
+### 15. Ragged
+	1. Verse
+		1. G Bb D
+	2. Prechorus
+		1. A-C D
+	3. Chorus
+		1. Bb C/G G
+		2. D
+	4. End
+		1. G
 ### **xx She's So Fine** (nevermind, just keep it acoustic)
 1. asdf
 
@@ -279,11 +289,7 @@
 ## WIP
 ### 1. She's Come to Me (WIP)
 	1. Intro
-### 2. Ragged (WIP)
-	1. Intro
-		1. E G D 
-	2. Chorus
-		1. C G F
+
 ---
 ### 3. Atrium (WIP)
 	1. asdf
