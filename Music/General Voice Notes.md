@@ -61,6 +61,48 @@
     - _Aretha Franklin – “Respect”_: effortless power over band.
     - _Luciano Pavarotti – “La Donna è Mobile”_: operatic projection filling a hall.
 ---
+# Singer Focus
+### 1. **Adele**
+- Powerful belts
+- Emotional vibrato
+- Rich lower register
+### 2. **Billie Eilish**
+- Whispery intimacy
+- Breath-heavy tone
+- Subtle dynamics
+### 3. **Bruno Mars**
+- Smooth falsetto
+- Agile runs
+- Vintage soul brightness
+### 4. **SZA**
+- Raspy warmth
+- Conversational phrasing
+- Fluid register shifts
+### 5. **The Weeknd**
+- Ethereal falsetto
+- Nasal clarity
+- Controlled melisma
+### 6. **Lady Gaga**
+- Chameleon-like versatility
+- Chest-dominant belts
+- Dramatic phrasing
+### 7. **Harry Styles**
+- Husky resonance
+- Relaxed delivery
+- Classic rock inflection
+### 8. **Halsey**
+- Breath-infused edge
+- Raw vulnerability
+- Talk-sing articulation
+### 9. **Sam Smith**
+- Silky falsetto
+- Emotional breaks
+- Gospel-inspired phrasing
+### 10. **Rosalía**
+- Flamenco ornamentation
+- Crisp percussive vowels
+- Expressive dynamic shifts
+---
 ## Errors and coaching
 ### 1. **Breath and Support Issues**
 - shallow, chest-only breathing

@@ -18,16 +18,6 @@ thinking of buying (removed from amazon cart)
 	- look used, try out Tim's
 - CO2 [tank](https://www.amazon.com/VEVOR-Aluminum-Cylinder-Adjustable-Dispensing/dp/B0DXKZ14SY?sr=8-1) for soda stream replacement - $138 
 
-Home
-- Clean room
-- set up plates, table, cut cake
-- Set up music (laptop?)
-- Order pizza (how much? what time pickup?  6:00?)
-Work
-- Tell Ben S time
-- Lase (set up laser/chamber more?)
-- Meet with Isaac
-
 ### Blender video editing [video](https://youtu.be/n77Viu93pYI)
 - after opening new video editor project, add a new window as a dope sheet and select View -> Sync Visible Range in both it and the sequencer
 - show thumbnails and waveforms
@@ -47,7 +37,6 @@ Work
 	 - current anime season
 		 - [ ] Kaiju no 8 [S02](https://www.miruro.to/watch?id=178754)
 	 - older anime
-		 - [ ] Hajime no Ippo
 		 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
  - Play 
 	 - [ ] Outer Wilds DLC
@@ -108,6 +97,15 @@ Work
 - put sample on k junction
 - focusrite scarlett mute speakers but not monitor
 - https://github.com/ur-whitelab/chemcrow-publicm
+- music pack jam ([shrimpo](https://datafruits.fm/shrimpos/fall-fruix-2025))
+- Jain - Come (music video from Seana, lots of VFX)
+- 9/12 Polyfjord Blender VFX video (30 min)
+- Sophia music - https://www.tunemymusic.com/share/Lk6gS7JTkl
+- [physics of music video](https://youtu.be/tCsl6ZcY9ag)
+- Hank Green
+	- [Electricity About to be Like Housing](https://youtu.be/39YO-0HBKtA)
+	- [Caffeine](https://youtu.be/p-Dy2pcdBSU)
+- how to use color palette and chrome sphere for vfx?
 
 ---
 ## FL Notes

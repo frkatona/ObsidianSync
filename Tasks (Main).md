@@ -1,16 +1,18 @@
 # Today
 
+- Silas email response
+- schedule Ben lethal company
+- Katie deposit spreadsheet
+- lawn
+- oil to CRV
+- prep for Eric recording
+	- upload new recorded songs to soundcloud
+-
 - Work
-	- Power to JP
+	- Power (pulse and averaged across section)
 	- Summarize laser papers, absorption, and mechanism for tomorrow's meeting
 	- Next step for thermometer?  chopper?
 	- Emma ordering
-	- GM
-		- 3 slide hypothesis
-		- subgroup
-			- ordering
-			- MURI images
-			- chopper discussion
 - Music
 	- record "voice types" video
 	- finalize exercises and language for Eric (and Seana)
