@@ -1,59 +1,39 @@
 # Today
 
-- game
-	- add teleporter
-	- tunnel
-		- apply textures to pillars/entrance covering rocks in blender
-		- get path CSG corridors/collision working
-		- mess with shader
-	- bring up LD58
 - Work
 	- Power to JP
-	- tell Isaac tomorrow
+	- Summarize laser papers, absorption, and mechanism for tomorrow's meeting
+	- Next step for thermometer?  chopper?
 	- Emma ordering
-	- Yuki, Duncan
+	- GM
+		- 3 slide hypothesis
+		- subgroup
+			- ordering
+			- MURI images
+			- chopper discussion
 - Music
-	- record for "voice types" video
-	- come up with exercises and language for Eric (and Seana) 
+	- record "voice types" video
+	- finalize exercises and language for Eric (and Seana)
+- Stop at post office
 
-
-- Tell Isaac time (and get LEDs going)
 - Emma ordering
-	- crossed polarizers, o2 meter, cga 350 regulator, 350 adapter, flowmeter
-	- bandpass
+	- crossed polarizers (see if sapphire is locally stressed), o2 meter, cga 350 regulator, 350 adapter, flowmeter
+	- bandpass filter
 - Yuki questions
-	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?
+	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?...given that these materials are already being made.  Because the framing device implies that the utility of the research is a novelty, not just a time/cost savings
 	- What's up with the boron-intermediate mechanism
 	- Read the .txt file
 	- (before meeting, talk about the lased samples with Ben)
 ### Tomorrow
-- talk with office about trip money
+- follow up with Taylor about trip money
+- make eye appointment
 
-asdf
-- buy longer USB
 - grab lighting cables from downstairs (MIDI box, power cable, usb, whatever plugs into box
 	- replacement balanced cable for left speaker (test if it's the cable or connection)
 - consider how to make lights better
 	- box?
 	- LEDs under-desk, behind TV, around door (connected to  light switch)
 	- get lightswitch light
-- buy what I need to fix toilet and other bathroom problems
-# Monday
-- things that are interesting about PCD lasing
-	- normal conditions generating overpowered, exploded char
-	- sample 1 gooey section (lowest angle, only gooey at top)
-	- the sapphire gets easily engraved at 1064 nm somehow
-	- the metal substrate has oxide-looking colors despite >1h of purge
-	- the 2x lase looks more uniform and less layered than the 1x
-
-crossed polarizers to see if sapphire is locally stressed
-
-### Sandra tabs
-- https://www.sciencedirect.com/science/article/abs/pii/S0001868698000876?utm
-- https://en.wikipedia.org/wiki/Contact_angle
-- https://pubs.acs.org/doi/10.1021/la049410h
-- https://pubmed.ncbi.nlm.nih.gov/17448435/
-- https://www.apexicindia.com/technologies/contact-angle-measurement-technology
 
 ### MURI buy
 - amazon [port ball valve](https://www.amazon.com/DAN-SPEED-Valve-Stainless-1000WOG/dp/B0B8HBRFJ2/144-5641468-3674104)
@@ -62,27 +42,9 @@ crossed polarizers to see if sapphire is locally stressed
 - cga 350 regulator flow rate
 # Soon
 
-
-- MURI
-	- what do with next sample from papers and put in onedrive before next meeting
-
-- [ ] schedule MRI
-- [ ] Follow up with Sadia, Kaya
-- [ ] Get reading on thermometer
-- [ ] Order regulator, airflow, O2 sensor, and bandpass-filter
-	- [ ] do I need more optics?
-- [ ] Check Sandra paper stuff
-- [ ] Make notes for Yuki comps
-
-- [ ] follow up with Jackie about what time she's taking protein
-
 - tomatoes
-	- Try grass clippings, shredded leaves, wood chips, straw or compost
 	- companion plants like basil, marigolds, mint, nasturtium
 	- silicone ties to the fence
-
-- PyCon paperwork + MURI dinner
-- Order Thor 532 band stop
 	
 Questions for Yuki comps
 - Intro
@@ -177,12 +139,6 @@ Questions for Yuki comps
 			- adhesion, delamination, spalling, porosity
 
 - Work
-	- [ ] Start PyCon purchasing paperwork
-	- [ ] Blackbody thermometer
-		- [ ] Check Thor parts against the spreadsheet
-		- [ ] Build
-		- [ ] Order missing parts (bandpass or bandstop)
-	- [ ] Sandra angles, findings + recommendation
 	- [ ] Lase Alex's powder
 	- [ ] Buy
 		- [ ] fuel gas regulator + adapter

@@ -12,6 +12,8 @@
 	- to-do
 		- talk about audio updates
 		- talk about LD58
+			- Plan: Kaya and Anthony will meet in person and Josh will contribute remotely when he can (~4-8 hours a day when possible)
+			- Maybe message 
 	- home
 		- maybe make pull-switch and floor button for the new basement that Kaya made
 
