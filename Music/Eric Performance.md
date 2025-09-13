@@ -99,7 +99,7 @@
 	- Roadhouse Blues bass
 ---
 # Eric originals notes
-### 1. **Cover-up Song** (conspiracy) (C#m)
+### 1. **Cover-up Song** (C#m)
 	1. Intro (~8 bars) “low stuff”
 		1. Wait
 	2. Pre-chorus (~8 bars) “high stuff”
@@ -124,6 +124,7 @@
 			1. real D# E C#
 	12. Verse chords (outro instrumental)
 ### 2. **Revolving Door** (A#)
+	(political)
 	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
 				1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
 	2. Verse 1
@@ -137,6 +138,7 @@
 	6. Post chorus instrumental
 		1. play 3x but hard cut before the E
 ### **3. Hypno-state (Dm)**
+	(political)
 	1. Intro
 		1. D (but just let guitar go for ~16 measures)
 	2. Verse 1 
@@ -153,7 +155,24 @@
 		2. Some weird stuff and then chromatic walk up from ~B
 	8. Chorus
 		1. Hold D(sus)
-### **4. Landline (halfway between pennsyltucky and {-})**
+### 4. **Cliffhanger** (formerly "Do Not Fall Away")
+1. Intro (asdf)
+2. Verse
+	1. D, C, G, G
+3. Chorus
+	1. F, D, 
+	2. C, G, A#
+4. Instrumental
+	1. E, G, D#, B (x3)
+	2. A, A#, G, F, D
+	3. D (high) for a long time
+	4. A for a bit
+5. asdf
+	1. E, F#, G, ?
+	2. asdf, F#
+### 5. **Landline**
+	(political)
+	(halfway between pennsyltucky and {-})**
 	1. Intro
 	2. Verse 1
 		1. D, F, D, F + G
@@ -174,7 +193,75 @@
 	9. Outro
 		1. vocalizations with A#, A
 		2. End on D
-### **5. It's Not Alright (F#) (downer, possibly skip for thematic cohesion)**
+
+### 6. **Pain, Panic, Worry, and Woe**
+1. Intro ()
+	1. B, E....F#
+2. Verse
+	1. B, E
+	2. F#
+3. Chorus
+	1. G, D, A, C....G, D, C/G
+4. Verse
+5. Chorus
+6. Bridge
+	1. C/G slides up chromatically:
+	2. E, G, C, A
+7. Solo (~1 bar)
+8. Intro reprise
+### 7. **Atrium**
+1. Intro (asdf)
+	1. asdf G F, D
+2. Verse 1
+	1. G, D
+3. some F# and A endings
+4. Bendy on the A# I think
+### **8. Ragged**
+	1. Verse
+		1. G Bb D
+	2. Prechorus
+		1. A-C D
+	3. Chorus
+		1. Bb C/G G
+		2. D
+	4. Verse
+	5. 8 bar bass solo
+	6. End
+		1. G
+15. sadf
+	1. "love **slow** blue"
+---
+### 9. **Oblivion** (supposedly A major, first phone recording)
+	1. Intro (come in right after the flicker after like 4 seconds)
+		- A, G -> E, D -> G, A
+	- Verse
+		- A, G, D
+	- Chorus
+		- F#, A -> D, E
+		- D, E, A, A7 ("they keep running from the light" or just holding "light" into the next)
+	- Verse
+	- Instrumental
+		- F# (or E), B (or A) --> Anthony vocalize 'light' with guitar melody --> you will forget how this goes
+		- B, C# -> D, ?, A
+		- repeat then walk down to E
+	- Verse (muted version)
+		- F#, A, E
+
+### 10. **On Hold** (mostly just talked about it)
+1. Intro (come in after one measure?  When it gets loud?)
+	1. E, G, 
+2. Verse
+3. Chorus
+### 11. **Kick Yer Feet** (cowboy hat ridiculous song)**
+1. Intro
+	1. G, D -> G
+2. Verse
+	1. G, C (repeat), D turnarounds
+3. ???
+	1. bunch of bass
+
+### **12. It's Not Alright** (F#)
+	(downer, possibly skip for thematic cohesion)**
 	1. Intro
 		1. F#, A, E, D (playful, slow)
 	2. Verse 1
@@ -195,94 +282,22 @@
 	10. Outro
 		1. E phrases ending with F#, G turnaround
 		2. end with sitting on an F# a few strums then E
-### **6. Oblivion (supposedly A major, first phone recording)
-	1. Intro (come in right after the flicker after like 4 seconds)
-		- A, G -> E, D -> G, A
-	- Verse
-		- A, G, D
-	- Chorus
-		- F#, A -> D, E
-		- D, E, A, A7 ("they keep running from the light" or just holding "light" into the next)
-	- Verse
-	- Instrumental
-		- F# (or E), B (or A) --> Anthony vocalize 'light' with guitar melody --> you will forget how this goes
-		- B, C# -> D, ?, A
-		- repeat then walk down to E
-	- Verse (muted version)
-		- F#, A, E
-### 7. On Hold (mostly just talked about it)
-1. Intro (come in after one measure?  When it gets loud?)
-	1. E, G, 
-2. Verse
-3. Chorus
-### **8. Kick Yer Feet (cowboy hat ridiculous song)**
-1. Intro
-	1. G, D -> G
-2. Verse
-	1. G, C (repeat), D turnarounds
-3. ???
-	1. bunch of bass
-### **9. Pain, Panic, Worry, and Woe
-1. Intro ()
-	1. B, E....F#
-2. Verse
-	1. B, E
-	2. F#
-3. Chorus
-	1. G, D, A, C....G, D, C/G
-4. Verse
-5. Chorus
-6. Bridge
-	1. C/G slides up chromatically:
-	2. E, G, C, A
-7. Solo (~1 bar)
-8. Intro reprise
-### **10. Do Not Fall Away
-1. Intro (asdf)
-2. Verse
-	1. D, C, G, G
-3. Chorus
-	1. F, D, 
-	2. C, G, A#
-4. Instrumental
-	1. E, G, D, B (x3)
-	2. A, A#, G, F, D
-	3. D (high) for a long time
-	4. A for a bit
-5. asdf
-	1. E, F#, G, ?
-	2. asdf, F#
 
-### **11. Cabin Song ('kinda 12 bar blues, bluegrass song')
+### **13. Cabin Song ('kinda 12 bar blues, bluegrass song')
 1. Verse
 2. Chorus ("Train rolls on")
 
-### **12. 'Another Country Song I have'
-1. Intro (asdf)
-### **13. 'You're not Paris Hilton'
+### **14. 'Capable of Sin'
 1. Intro (asdf)
 	1. G (brief C or D, but a ton of G)
 2. Outro
 	1. D 
-### **14. Atrium
-1. Intro (asdf)
-	1. asdf G F, D
-2. Verse 1
-	1. G, D
-3. some F# and A endings
-4. Bendy on the A# I think
-### 15. Ragged
-	1. Verse
-		1. G Bb D
-	2. Prechorus
-		1. A-C D
-	3. Chorus
-		1. Bb C/G G
-		2. D
-	4. End
-		1. G
+
 ### **xx She's So Fine** (nevermind, just keep it acoustic)
 1. asdf
+
+### xx. 'Another Country Song I have'
+1. Intro (asdf)
 
 ---
 ---
