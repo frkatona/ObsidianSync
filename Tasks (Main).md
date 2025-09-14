@@ -1,5 +1,6 @@
 # Today
 
+- Practice simple chord songs for IOOF (and/or practice drums)
 - Silas email response
 - schedule Ben lethal company
 - Katie deposit spreadsheet

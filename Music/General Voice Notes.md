@@ -328,5 +328,5 @@ Eric exercises
 
 My range: 
 - Low: F2
-- Passagio: ~D#4 - F5
+- Passagio: D#4 - F5
 - High: C6

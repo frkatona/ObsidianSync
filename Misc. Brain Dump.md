@@ -1,3 +1,8 @@
+### IOOF Jam Songs
+- What's Up
+- Jolene
+- Have You Ever Seen the Rain
+
 ### Seana meeting notes
 - is it still original open mic?
 - her version
