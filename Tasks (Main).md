@@ -1,23 +1,26 @@
 # Today
 
-- Practice simple chord songs for IOOF (and/or practice drums)
-- Silas email response
-- schedule Ben lethal company
-- Katie deposit spreadsheet
-- lawn
-- oil to CRV
-- prep for Eric recording
-	- upload new recorded songs to soundcloud
--
+- Home
+	- mow lawn
+	- Katie deposit spreadsheet
+	- Kaya game
+	- oil to CRV (check inspection)
+	- schedule Ben lethal company
+	- Zack/Martina wedding details
+		- registry
+		- airbnb? hotel? car? driving back?
+		- Ponyo?  Jess
+	- Groceries
+	- music
+		- upload new Eric recorded songs to soundcloud for practice
+		- concretize identification, exercises, warmups, test covers for Eric voice
+			- record 'voice types' video with diverse practice people/skills
 - Work
+	- respond emails (Silas, Devindi, )
 	- Power (pulse and averaged across section)
 	- Summarize laser papers, absorption, and mechanism for tomorrow's meeting
 	- Next step for thermometer?  chopper?
 	- Emma ordering
-- Music
-	- record "voice types" video
-	- finalize exercises and language for Eric (and Seana)
-- Stop at post office
 
 - Emma ordering
 	- crossed polarizers (see if sapphire is locally stressed), o2 meter, cga 350 regulator, 350 adapter, flowmeter
