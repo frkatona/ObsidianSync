@@ -125,7 +125,7 @@
 - Singing sharp (often from excess tension or pushing)
 	- Slow scale work, sustaining notes before moving up or down
 - “Sliding” unintentionally between notes
-	- Mental trick: for flatness → “think higher/lighter”; for sharpness → “relax and aim lower
+	- Mental trick: for flatness → “think higher/lighter”; for sharpness → “relax and aim lower"
 ### 4. **Register Breaks**
 - Sudden cracks between chest and head voice
 	- Sirens (gliding from low to high on “ng” or “oo”) to smooth passaggio
@@ -296,17 +296,14 @@ Eric exercises
 						- buzzing near the front of the face (lips, teeth, etc.)
 						- achieves a clarity/brightness/projection that cuts through other noise
 						- feel it in your nose and cheeks when you hum "ng"
-					- back (aka, "covered)
+					- back (aka, "covered")
 						- feels deep in the throat or withdrawn
 						- achieves "warmth"
 						- feel it sitting deeper in your throat when you say "ah" in a yawning voice
 			- start with closed, foward vowels (**ee** and **oo**) to find the high, forward resonance
-				- (sound placement ?)
-					- prevent vowels from  "sinking back into the throat"
-				- (resonance ?)
+					- prevent vowels from "sinking back into the throat"
 			- gradually move up more open vowels (**ah** and **oh**) as you warm up
-			- descending
-				- eh like "dress"
+			- descending (eh)
 			- finish with the same pitch on each vowel (ah eh ee oh oo)
 	- partially-occluded singing to minimize pressure difference across folds
 		- lip trill, humming, buzzing, kazoo-ing, straw phonation
