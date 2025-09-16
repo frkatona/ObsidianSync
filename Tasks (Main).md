@@ -1,9 +1,7 @@
 # Today
 
 - Home
-	- mow lawn
 	- Katie deposit spreadsheet
-	- Kaya game
 	- oil to CRV (check inspection)
 	- schedule Ben lethal company
 	- Zack/Martina wedding details
@@ -16,9 +14,13 @@
 		- concretize identification, exercises, warmups, test covers for Eric voice
 			- record 'voice types' video with diverse practice people/skills
 - Work
-	- respond emails (Silas, Devindi, )
-	- Power (pulse and averaged across section)
-	- Summarize laser papers, absorption, and mechanism for tomorrow's meeting
+	- Rotators (Devindi, Isaac, Lan, Silas (Literature))
+		- Alex samples
+		- Literature
+			- Photothermal - Katie Haas, Me, Ceramic
+			- Ceramic - Colombo, 
+	- JP Power (pulse and averaged across section)
+	- Summarize laser papers, absorption, and mechanism for meeting
 	- Next step for thermometer?  chopper?
 	- Emma ordering
 

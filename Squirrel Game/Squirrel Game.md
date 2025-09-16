@@ -1,7 +1,19 @@
+- ### 2025-09-15 Meeting
+	- Josh
+		- controls/event blocking updates, shows on screen, will work on debugging maybe more
+	- Anthony
+		- made bell/button/throw switch
+		- josh suggested putting them into my branched project both to see how it will all look and to be able to distribute it from everyone pulling the branch
+		- kaya says maybe there'll be git complaints, let her know if it happens (and then just put on drive)
+	- Kaya
+		- updated the basement flying blocks and tuned up a down-draft section behind the starting floor
+		- made cool texture for the 'camera too close to player' effect
+
 - ### 2025-09-08 Meeting
 	- Anthony - terrain into main project, on github, terrain updates, music/audio updates
 	- Josh - new event blocking code
-	- Kaya - discussing Foregjo repo to replace bitbucket 
+	- Kaya
+		- discussing Foregjo repo to replace bitbucket 
 		- new git commands
 			- git remote add codeberg ssh://git@codeberg.org/SciuridaeSandbox/s_4_2_1_sandbox.git
 			- git remote -v

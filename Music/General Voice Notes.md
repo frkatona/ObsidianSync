@@ -103,14 +103,14 @@
 - Crisp percussive vowels
 - Expressive dynamic shifts
 ---
-## Errors and coaching
+# Errors and coaching
 ### 1. **Breath and Support Issues**
 - shallow, chest-only breathing
 	- emphasize diaphragmatic/low breathing (lie on your back and feel your stomach rise)
+	- imagery: "sip air low into the belly," "inflate like a tire at the bottom, not the top"
 - running out of air too soon
 	- hiss to learn airflow control
 - forcing air out ("pushing") instead of a controlled release
-	- imagery: "sip air low into the belly," "inflate like a tire at the bottom, not the top"
 ### 2. **Tension in the Body**
 - tight jaw or raised shoulder
 	- jaw release exercises (gentle massage, dropping jaw silently)
@@ -192,7 +192,7 @@
 
 - Closed vowels (oo, ee, ng) -> stabilize HEAD voice and smooth TRANSITIONS
 - Open vowels (ah, eh, oh) -> build power, resonance, and projections
-- Semi-occluded sounds (trills, humming, straw phonation) -> release tension, improve efficiency
+- Semi-occluded sounds (trills, humming, straw phonation, z/v) -> release tension, find resonance while folds are cushioned by neutral pressure
 ---
 
 Exercises
