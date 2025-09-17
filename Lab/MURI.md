@@ -7,14 +7,16 @@
 - laser -> XRD -> laser over the same space
 	- iterate over same space
 - thermocouple
-- in air
+- open to ambient atmosphere
 
+### 9/17 Meeting Notes
+- asdf
 ### 9/10 Meeting Notes
 - Ben S.: probably no laser stuff until the JP spin coating gets figured out...but no polymer until the glovebox problem gets figured out
 - Tainara SEM images
 	- inhomogeneity
-- ***JP wants to know the power averaged over every single pulse over the area of the sample surface (use pulse power, number of pulses, and scanned area)***
-	- I explained that the distance between the lines is big compared to the spot size and so this number won't capture what JP is looking for, but he wants it nonetheless
+- ***JP wants to know the power averaged over every pulse over the area of the sample surface (use pulse power, number of pulses, and scanned area)***
+	- the distance between the lines is big compared to the spot size and so this number may not capture what I understand JP to be looking for, but he would like it anyway
 	- bring value in "per hundred micron"...I guess to be safe, bring value also across the entire surface
 - Ben S - new samples are ~100 to 150 um, but we'll spin coat going forward
 - JP - we're getting much more conversion than the beam size, so let's test it with a single line

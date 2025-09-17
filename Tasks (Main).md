@@ -2,13 +2,14 @@
 
 - Home
 	- Katie deposit spreadsheet
+	- Groceries
+	- read Sophia's project
 	- oil to CRV (check inspection)
 	- schedule Ben lethal company
 	- Zack/Martina wedding details
 		- registry
 		- airbnb? hotel? car? driving back?
-		- Ponyo?  Jess
-	- Groceries
+		- Ponyo?  Jess?
 	- music
 		- upload new Eric recorded songs to soundcloud for practice
 		- concretize identification, exercises, warmups, test covers for Eric voice
