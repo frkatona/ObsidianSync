@@ -1,3 +1,33 @@
+## 2025-09-16 Recording Notes
+- warmups --> feeling a little stuffy but powering through it
+- practice take 1
+	- sadness/madness interval jumps a little off
+		- madness in the final chorus sounded strong
+	- "hoi polloi" downs still like 09/09
+	- 'pretending' sultriness
+- take 1 (floor)
+	- 'me and that's enough' pretty weak
+	- nice vibrato on "pol-oi"
+	- excessive vibrato on some other chorus ending notes
+	- some cracking as well
+- take 2
+- take 3
+	- sadness madness sounded good in prechorus 
+	- 'hoi polloi' interval largely good 
+	- less emotive
+- going to try spot checking original take 1 (from 9/9) to swap out parts from today's take 3
+	- bar 35 (hoi polloi timing/slide)...same with final 'hoi polloi' of section
+	- bar 51 "for too long"
+		- maybe long is sharp?  return with piano
+	- prechoruses madness/sadness
+	- choruses hoi polloi timing and down interval
+	- bar 90 - first word start (fixable? better than alt take anyway, move it up to fix)
+	- bar 95 - crunch (prolly best in take 1)
+	- 107 - is 'feel' low?
+	- 147 and that's enough (best in take 3)
+	- outro laughed out
+## 2025-09-10 Recording Notes
+- take not quite as strong as previous night, coming over next week
 ## 2025-09-09 Recording Notes
 - started with Hoi Polloi warmup after general stretching/vocal warmups
 - 146 - 150ish - pitchy

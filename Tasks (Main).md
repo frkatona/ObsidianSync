@@ -17,7 +17,7 @@
 	- Rotators (Devindi, Isaac, Lan, Silas (Literature))
 		- Alex samples
 		- Literature
-			- Photothermal - Katie Haas, Me, Ceramic
+			- Photothermal - Katie, Joe, Me
 			- Ceramic - Colombo, 
 	- JP Power (pulse and averaged across section)
 	- Summarize laser papers, absorption, and mechanism for meeting
