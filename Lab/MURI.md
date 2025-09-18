@@ -7,14 +7,34 @@
 - laser -> XRD -> laser over the same space
 	- iterate over same space
 - thermocouple
-- in air
+- open to ambient atmosphere
+- PCOD
 
+### 9/17 Meeting Notes
+- Asma presentation
+	- simulated the PCD polymer change
+	- MD at 1000, 1500, and 2000 K after 250 ps
+		- 1000 K - (not very significant decomp) - 5 species (evolved? created?)
+			- "system largely stable, only minor fragments observed"
+		- 1500 K - 'significant' decomposition begins - 30 species
+			- "significant fragmentation"..."medium clusters + boron hydrides form"
+		- 2000 K - 'extensive' decomposition/degradation - 70 species
+			- "many small molecules and clusters"
+	- Ben S - we see the degradation begin earlier in the monomer than in the polymer
+		- Adri responds with simulation to pursue this
+- Kevindi - PCOD
+	- Oven treated film looks nice
+	- FIB and high-mag CTEM and SAED analyses
+		- B4C, SiC, C observed, no (crystalline) SiO2 was observed (but tough to say about amorphous SiO2)
+		- EELS map of cross section - Boron layer on the bottom ~1 micron, O2 on the top ~1 micron, Carbon distributed across, but with more in the top ~0.5 micron
+			- Rob - Si might be missing because it's tough to see with EELS, but we can go back over with EDS
+				- C tends to form at the top because of its low surface energy (Adri - carbon is a great surface former) 
 ### 9/10 Meeting Notes
 - Ben S.: probably no laser stuff until the JP spin coating gets figured out...but no polymer until the glovebox problem gets figured out
 - Tainara SEM images
 	- inhomogeneity
-- ***JP wants to know the power averaged over every single pulse over the area of the sample surface (use pulse power, number of pulses, and scanned area)***
-	- I explained that the distance between the lines is big compared to the spot size and so this number won't capture what JP is looking for, but he wants it nonetheless
+- ***JP wants to know the power averaged over every pulse over the area of the sample surface (use pulse power, number of pulses, and scanned area)***
+	- the distance between the lines is big compared to the spot size and so this number may not capture what I understand JP to be looking for, but he would like it anyway
 	- bring value in "per hundred micron"...I guess to be safe, bring value also across the entire surface
 - Ben S - new samples are ~100 to 150 um, but we'll spin coat going forward
 - JP - we're getting much more conversion than the beam size, so let's test it with a single line
