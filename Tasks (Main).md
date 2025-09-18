@@ -14,6 +14,23 @@
 		- concretize identification, exercises, warmups, test covers for Eric voice
 			- record 'voice types' video with diverse practice people/skills
 - Work
+	- Group meeting
+		- do 3 slides (thermometer? beam size?)
+	- Subgroup
+		- projects for my babies
+			- Duncan
+				- "to what extent have we taken ambient curing for granted in CB PDMS properties"
+				- also, Flory PChem; entropy, etc.
+			- Alex
+				- "what is the role of CB-PDMS thickness?"
+				- Ben had a similar-but-slightly-better idea too
+			- Isaac
+				- hunting down that "CB escape" effect that we thought we saw
+				- asdf
+				- maybe pursuing surface-temperature locked CB PDMS formation (i.e., put CB-PDMS in water)
+			- Devindi
+			- Lan
+			- Silas
 	- Rotators (Devindi, Isaac, Lan, Silas (Literature))
 		- Alex samples
 		- Literature
