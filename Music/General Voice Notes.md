@@ -224,6 +224,7 @@ This posture can be transferred to sitting and lying down
 ### Short references
 - [Short](https://www.youtube.com/shorts/SrVtmUa3JPE?feature=share) - 6 ways to sing one note
 - [Video](https://youtu.be/q9DT49coKr4) - One Male Singer for each Belt Note, C4 - C6
+- [Video](https://youtu.be/QtcEdzy4W0c) - Shy singing strains the voice and encourages bad habits 
 ### Mixed Voice Belting [Video](https://youtu.be/Il7wN_7SSXA) Notes
 - Belting
 	- Chest Voice
@@ -264,6 +265,7 @@ Eric exercises
 		- start drinking water at least an hour before performance
 		- avoid too much caffeine, alcohol, and ice cold drinks
 		- use humidifier if it helps
+	- neck and shoulder stretches and rolls
 - warmup
 	- discussion
 		- ordinary male vocal range is ~2-3 octaves covering somewhere around C2-C5 (this is for someone who can sing bass, baritone, and tenor, but the world record is something like 5-6 octaves of range)

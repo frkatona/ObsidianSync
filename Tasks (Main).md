@@ -1,22 +1,29 @@
 # Today
 
 - Home
-	- Katie deposit spreadsheet
-	- Groceries
-	- read Sophia's project
+	- Party
+		- buy alcohol, food? (ask chelsea what she planned, if she told anybody)
+		- set up speaker, get ponyo used to it
+		- sadia friday (?) flake (?) and rsvp
+		- Yuki 
+	- Katie money (message?  ask Chelsea to ask about paying back for Zack?  Check my own venmo)
 	- oil to CRV (check inspection)
 	- schedule Ben lethal company
+	- Amazon CO2 tank
 	- Zack/Martina wedding details
 		- registry
 		- airbnb? hotel? car? driving back?
 		- Ponyo?  Jess?
-	- music
+	- Music
+		- Seana Hoi Polloi
+		- FL Thurs
+			- songwriting?
 		- upload new Eric recorded songs to soundcloud for practice
 		- concretize identification, exercises, warmups, test covers for Eric voice
 			- record 'voice types' video with diverse practice people/skills
 - Work
 	- Group meeting
-		- do 3 slides (thermometer? beam size?)
+		- respond Lan
 	- Subgroup
 		- projects for my babies
 			- Duncan
@@ -51,9 +58,8 @@
 	- Read the .txt file
 	- (before meeting, talk about the lased samples with Ben)
 ### Tomorrow
-- follow up with Taylor about trip money
+- ask Eric about something by the cafe that throws out under-carpet material for sound dampening
 - make eye appointment
-
 - grab lighting cables from downstairs (MIDI box, power cable, usb, whatever plugs into box
 	- replacement balanced cable for left speaker (test if it's the cable or connection)
 - consider how to make lights better

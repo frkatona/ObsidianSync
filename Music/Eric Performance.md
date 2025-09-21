@@ -7,16 +7,23 @@
 ---
 # Practice Notes
 
+## 2025-09-21
+- I think I mis-wrote the online Revolving Door notes: should be A# F#, not F# A# for the intro/verses
 ## 2025-09-06 Notes
-- Ear training
-	- asdf
 - Voice training
-	- Chest (e.g., asdf)
-	- Head (e.g., asdf)
-	- Mixed (e.g., asdf)
-	- Falsetto (e.g., asdf)
-	- Mask (?)
-
+	- Eric's voice was still hurting from a fire's smoke the night before, so both this and the recording was postponed
+- Organized top 8 setlist candidates for our October Arena show
+	- Cover-up Song
+	- Revolving Door
+	- Hypno-state
+	- Cliffhanger
+	- Landline
+	- Pain, Panic, Worry, and Woe
+	- Atrium 
+	- Ragged
+- NEXT TIME
+	- Voice training/exercises
+	- Record Atrium for practicing (the only song of the 8 setlist songs not yet recorded on my phone)
 
 ---
 ### 9/3 Notes
