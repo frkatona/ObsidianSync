@@ -19,6 +19,10 @@
 - Per diem for MURI on-site dinner (8/7)
 - Reach out to Dr. Maslak about chemistry game
 ---
+### 9/22 Yuki Practice
+- Deadline 'sometime before December', wants to take it sometime in November
+- Mechanism
+	- Adri's idea that boron hydrides are used as hydrogen storage; here are boron hydrides...if I drove off these species, how reactive would the boron be...much more based on his calculation, releasing a ton of heat and carrying the reaction far enough
 ### 8/28 Group Meeting
 - ask about preferences/best practices/format for standardizing purchases requests
 - to-do

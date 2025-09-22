@@ -10,6 +10,15 @@
 - open to ambient atmosphere
 - PCOD
 
+Absorption mechanisms to explore:
+- non-linear effects (two-photon absorption)
+	- (1997) Maruo and Ikuta - 3D microfab by 1-photon absorbed polymerization
+		- foundational 2PA paper
+- defect-assisted absorption
+- avalanche ionization
+- photochemical initiation
+- substrate absorption
+
 ### 9/17 Meeting Notes
 - Asma presentation
 	- simulated the PCD polymer change

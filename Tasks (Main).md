@@ -1,27 +1,31 @@
 # Today
 
 - Home
-	- Party
-		- buy alcohol, food? (ask chelsea what she planned, if she told anybody)
-		- set up speaker, get ponyo used to it
-		- sadia friday (?) flake (?) and rsvp
-		- Yuki 
-	- Katie money (message?  ask Chelsea to ask about paying back for Zack?  Check my own venmo)
 	- oil to CRV (check inspection)
 	- schedule Ben lethal company
-	- Amazon CO2 tank
+	- Amazon CO2 tank OR find a place to buy dry ice
 	- Zack/Martina wedding details
 		- registry
 		- airbnb? hotel? car? driving back?
 		- Ponyo?  Jess?
 	- Music
 		- Seana Hoi Polloi
-		- FL Thurs
-			- songwriting?
-		- upload new Eric recorded songs to soundcloud for practice
+		- practice new Eric songs (ask when next practice day could be)
+		- remind Tim to hydrate, discuss finding range and passagio
 		- concretize identification, exercises, warmups, test covers for Eric voice
 			- record 'voice types' video with diverse practice people/skills
 - Work
+	- Ethynyl silane
+		- more lasing
+		- ask Tainara how she'd want the sample
+	- Line tests
+		- Take microscope images of fine dots
+		- Try again, but pursue as small of dots as possible
+		- Perform through the acrylic
+		- Ask tainara to check with SEM
+	- Make parts list for improved chamber
+		- glass (non-tempered--annealed)
+		- soft washer
 	- Group meeting
 		- respond Lan
 	- Subgroup
@@ -39,11 +43,6 @@
 			- Devindi
 			- Lan
 			- Silas
-	- Rotators (Devindi, Isaac, Lan, Silas (Literature))
-		- Alex samples
-		- Literature
-			- Photothermal - Katie, Joe, Me
-			- Ceramic - Colombo, 
 	- JP Power (pulse and averaged across section)
 	- Summarize laser papers, absorption, and mechanism for meeting
 	- Next step for thermometer?  chopper?
