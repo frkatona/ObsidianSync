@@ -66,6 +66,39 @@
 	- LEDs under-desk, behind TV, around door (connected to  light switch)
 	- get lightswitch light
 
+
+### Scot reply
+Well...no. There were 5 gun-related bills approved to move from committee to the PA House floor:
+- 1099 - require guns contain enough metal to be detected (attempt to outlaw undetectable, untraceable 'ghost guns', spurred by recent, high profile attacks and assassinations [1][2][3])  
+- 1593 - close the 'long gun' loophole in getting background checks (spurred by mass shootings and the trafficking and homicide statistics [4][5][6])  
+- 1859 - let courts temporarily take guns from someone actively threatening to hurt people or themselves (i.e., Extreme Risk Protection Orders (ERPO), aka "Red Flag" laws) (spurred by high profile instances of mass shootings preceded by clear warning signs [7][8])
+- 1866 - ban devices that accelerate a gun's rate of fire (i.e., machine gun converters, 'Glock switches') (spurred by exponential growth of devices recovered by the ATF in recent years, their ties to gang violence, and the lethality leading to recent mass shootings and cop killings [9][10][11][12])
+- 706 -  Waves $20 fee for a concealed carry license for veterans [13].  This is the only bill expected to pass, even by other bills' authors [14].
+
+It's helpful to note that, even for the bill's opponents in the committee and House, the prevailing rationale seems to be less that the bills represent an encroachment on our rights and more that they are "repetitive" [14] in light of similar existing federal laws (though that's not strictly accurate either, since ERPO and background check loopholes have failed to see any federal reform for the decades they've been making rounds in the news cycle).  "Gun rationing" is the scare phrase I see in social media 
+  
+
+
+If I'm too liberal to take seriously on these counts, I recommend Conversative icon Justice Antonin Scalia's writing in the 2008 DC v. Heller opinion [15].  
+
+I'm
+
+[1] https://www.npr.org/2024/12/10/nx-s1-5223368/luigi-mangione-united-healthcare-ceo-ghost-gun  
+[2] https://www.latimes.com/california/story/2019-11-21/santa-clarita-shooting-45-caliber-gun-saugus-high-attack-a-ghost-gun-sheriff-says  
+[3] https://everytownlaw.org/case/seeking-justice-for-the-families-of-two-virginia-high-schoolers-killed-by-classmate-using-a-polymer80-inc-ghost-gun-the-shooter-purchased-online/
+[4] https://scdailygazette.com/2025/06/17/10-years-after-the-charleston-massacre-sc-lawmakers-still-wont-close-the-loophole/
+[5] https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.305822
+[6] https://pubmed.ncbi.nlm.nih.gov/26212633/
+[7] https://www.cnn.com/2018/02/14/us/nikolas-cruz-florida-shooting-suspect
+[8] https://www.nbcnews.com/news/us-news/gunman-fedex-shooting-legally-purchased-assault-rifles-used-attack-police-n1264428
+[9] https://www.atf.gov/news/press-releases/united-states-attorney-and-atf-discuss-emerging-threat-machinegun-conversion-devices
+[10] https://www.usnews.com/news/us/articles/2024-09-26/glock-pistols-are-popular-among-criminals-because-theyre-easily-modified-report-says
+[11] https://www.thetrace.org/2022/04/sacramento-mass-shooting-auto-sear-machine-gun/
+[12] https://www.houstonpublicmedia.org/articles/news/criminal-justice/2021/10/13/410787/hpd-cop-killer-used-illegal-switch-to-make-gun-fully-automatic/
+[13] https://www.pahouse.com/InTheNews/NewsRelease/?id=140286#:~:text=House%20Bill%20413%20(Prime%20sponsor,and%20consultation%20with%20the%20sheriff.
+[14] https://www.pennlive.com/news/2025/09/following-recent-shootings-pa-house-committee-approves-gun-bills-on-party-line-votes.html
+[15] https://supreme.justia.com/cases/federal/us/554/570/
+
 ### MURI buy
 - amazon [port ball valve](https://www.amazon.com/DAN-SPEED-Valve-Stainless-1000WOG/dp/B0B8HBRFJ2/144-5641468-3674104)
 - https://www.mcmaster.com/
