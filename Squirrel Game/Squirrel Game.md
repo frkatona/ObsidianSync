@@ -1,3 +1,15 @@
+
+- ### 2025-09-22 Meeting
+		- idea: pull video into DVR and use "Color Palette" mode to inform design
+		- Anthony
+			- messed with a few ways to make the roughness map glyph appear cool in Godot similar to Blender's Eevee, including SSR, reflection probe, and SDF-global illumination, but seemingly the best was to just add a small, colored spotlight at an angle next to the object
+			- made a new candidate for creepy basement sounds by taking an orchestra-guitar piece I made, adding some Casette2 wow/flutter, and automating time stretch for like 10x its length
+				- Kaya was interested in having that time manipulation happen in real time and so I should explore solutions for that including FMod
+				- She also is just generally interested in FMod again, so maybe just pull it in either way
+		- Talk about LD plans a little more
+			- Josh still interested in joining, if only remote and if only for some of the weekend
+			- Kaya will talk to Bryan about possibilities, but was open to coming over here, even if only for a day
+		
 - ### 2025-09-15 Meeting
 	- Josh
 		- controls/event blocking updates, shows on screen, will work on debugging maybe more
