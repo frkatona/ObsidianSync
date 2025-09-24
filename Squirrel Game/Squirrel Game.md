@@ -9,6 +9,11 @@
 		- Talk about LD plans a little more
 			- Josh still interested in joining, if only remote and if only for some of the weekend
 			- Kaya will talk to Bryan about possibilities, but was open to coming over here, even if only for a day
+		- To-do for next week and LD:
+			- Dial in style more
+				- Ucupaint 2.3.5 [1 min demo](https://youtu.be/bFvtmByQP3s)
+				- Ucupaint biggger [moltenbolt tutorial](https://youtu.be/8_apXIn0g5w)
+				- 
 		
 - ### 2025-09-15 Meeting
 	- Josh

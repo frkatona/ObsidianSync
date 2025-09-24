@@ -259,7 +259,7 @@ This posture can be transferred to sitting and lying down
 	- but doing that for most people may risk harm
 
 ---
-Eric exercises
+### Eric exercises
 - pre-session
 	- hydration
 		- start drinking water at least an hour before performance
@@ -304,6 +304,7 @@ Eric exercises
 						- feel it sitting deeper in your throat when you say "ah" in a yawning voice
 			- start with closed, foward vowels (**ee** and **oo**) to find the high, forward resonance
 					- prevent vowels from "sinking back into the throat"
+					- use the "Singer's Smile" to open oral cavity and produce brighter sounds - lift eyebrows and cheeks
 			- gradually move up more open vowels (**ah** and **oh**) as you warm up
 			- descending (eh)
 			- finish with the same pitch on each vowel (ah eh ee oh oo)
@@ -313,11 +314,20 @@ Eric exercises
 		- be sure its at least a quarter note time to be deliberate and knowing with tone and character
 		- e.g., imperial march, full legato
 	- 5-tone scales on mee, mah, and ng
-	- breathing/support
-		- hand on stomach (?)
-		- pretend to blow on a candle such that the flame tilts but doesn't flicker
+	- breath
+		- breathing
+			- "belly breathing"/"sing from diaphragm"
+			- lie down and place a book-like weight on stomach and raise it up for a few seconds at a time --> try to move it the same distance when standing
+		- control ("support")
+			- pretend to blow on a candle such that the flame tilts but doesn't flicker
 	- "sighs" (?)
 	- stretch/roll neck, jaw, and shoulders
+	- nasality and the soft palette
+		- nasality arises from predominant resonation in the nasal cavity  
+		- feel the top back of your mouth with the thumb while you yawn or make a surprised inhaled gasp
+		- exercise with a sustained 'ng' switching to an 'ah' and noting that all or none of either sound is blocked by holding your nose closed
+			- once the sound is out of the nasal cavity, experiment with resonance/placement (Singgeek likes to push it further back for more pharynx than some people, producing a prominent vibration in her head,  and she considers the normal way to be too much oral cavity)
+			- Pure oral cavity can sound like Kermit the frog, and deliberate face scrunching can help fix this
 - learning
 	- map out your voice
 		- find lowest and highest pitch that you can hold a note

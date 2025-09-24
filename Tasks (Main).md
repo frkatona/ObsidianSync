@@ -49,7 +49,12 @@
 	- Emma ordering
 
 - Emma ordering
-	- crossed polarizers (see if sapphire is locally stressed), o2 meter, cga 350 regulator, 350 adapter, flowmeter
+	- engraving cards
+		- steel - https://www.amazon.com/Stainless-Business-Sublimation-Engraving-Customer/dp/B09QKQFM4M?sr=8-1
+		- aluminum - https://www.amazon.com/Aluminium-Engraving-Multipurpose-Personalized-Thickness/dp/B0DXPZPFBQ?sr=8-11
+	- crossed polarizers (see if sapphire is locally stressed) - https://www.amazon.com/Polarized-8x11inches-Polarizer-Polarizing-Educational/dp/B08Q7B62JH?sr=8-2
+	- RX100 IV 10x macro lens  -  https://www.amazon.com/Definition-Element-Close-Up-Cyber-shot-DSC-RX100/dp/B07DVQQT1F?utm_
+	- , o2 meter, cga 350 regulator, 350 adapter, flowmeter
 	- bandpass filter
 - Yuki questions
 	- I think one was 'what exactly is the advantage of photothermal in these systems'...or maybe of PCD?...given that these materials are already being made.  Because the framing device implies that the utility of the research is a novelty, not just a time/cost savings

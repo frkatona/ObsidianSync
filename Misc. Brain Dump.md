@@ -3,18 +3,21 @@
 - Jolene
 - Have You Ever Seen the Rain
 
-### Seana meeting notes
-- is it still original open mic?
-- her version
-	- entry point
-	- what elements are being pitched/ignored (colors, sizing)
-- Henry's version (Eric)
-	- readability of bottom text
-	- 
-- Henry's version (skull)
-	- open mic same line or same size
-	- day of the week
-	- day and time where sign-ups are
+### DaVinci Resolve Notes
+- YT [color management](https://youtu.be/hgVqUATQSMg) for phone
+	- color space transform for Pixel 8 Pro
+		- "input space is" rec2020 HLG
+		- "output" rec709
+
+### music videos to note or remove
+- 5 songs for guys
+	- Lovely Day (B2-E4; comfortably chest-centric) 
+	- Breakfast at Tiffany's (B2-D4; also pretty chesty)
+	- Let Her Go (D3-E4; small range with bright voices)
+	- Love Yourself (B2-B3)
+	- Chasing Cars (E3-D4)
+- Vocal resonance
+	- resonators: larynx, pharynx, oral cavity, nasal cavity
 ---
 - Ben recommended: (1) algorithms to live by, (2) super mario optimization
 
@@ -85,6 +88,7 @@ thinking of buying (removed from amazon cart)
 	- [LibGodot](https://youtu.be/L06KBOWCsSk)
 	- [Andor Luthen Speech](https://youtu.be/-3RCme2zZRY)
 	- Josh recommended YT video on Godot signals - https://youtu.be/w6jXgaWHo1s
+	- Yt Crystals Upconversion - https://youtu.be/7WT0qZdHT5M
 
 [](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/
