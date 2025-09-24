@@ -11,13 +11,24 @@
 - PCOD
 
 Absorption mechanisms to explore:
-- non-linear effects (two-photon absorption)
-	- (1997) Maruo and Ikuta - 3D microfab by 1-photon absorbed polymerization
-		- foundational 2PA paper
+- two-photon absorption
 - defect-assisted absorption
 - avalanche ionization
 - photochemical initiation
 - substrate absorption
+
+### 9/24 Meeting Notes
+- Discuss
+	- laser param measurement
+		- spot size - probably is actually 100+ micron minimum
+	- pulse energy
+		- having difficulty measuring a single pulse
+			- may be below the threshold of the energy meter (~0.6 mJ)
+			- would like to try borrowing a faster meter or estimating from power
+		- test my high frequency observations by seeing if there's comparable total power or total engraving if I increase scan rate proportionately with frequency
+	- would like to test frequency agreement while I'm at it with some low-energy diffuse reflectance onto the new photodiodes
+	- Alex's sample
+		- how would you like sample prepared/brought
 
 ### 9/17 Meeting Notes
 - Asma presentation
