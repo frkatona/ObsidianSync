@@ -11,13 +11,34 @@
 - PCOD
 
 Absorption mechanisms to explore:
-- non-linear effects (two-photon absorption)
-	- (1997) Maruo and Ikuta - 3D microfab by 1-photon absorbed polymerization
-		- foundational 2PA paper
+- two-photon absorption
 - defect-assisted absorption
 - avalanche ionization
 - photochemical initiation
 - substrate absorption
+
+### 9/24 Meeting Notes
+- Discuss
+	- laser param measurement
+		- spot size - probably is actually 100+ micron minimum
+	- pulse energy
+		- having difficulty measuring a single pulse
+			- may be below the threshold of the energy meter (~0.6 mJ)
+			- would like to try borrowing a faster meter or estimating from power
+		- test my high frequency observations by seeing if there's comparable total power or total engraving if I increase scan rate proportionately with frequency
+	- would like to test frequency agreement while I'm at it with some low-energy diffuse reflectance onto the new photodiodes
+	- Alex's sample
+		- how would you like sample prepared/brought
+- Tainara - periodicity in SEM of lased annealed PCD samples
+	- ripple map and microstructural sine pattern
+	- 20% power did not have the same periodic microstructure as 10% power
+	- Ben L and JP discussing the origin of the raised edges in the "PCD annealed 3" sample
+		- Ben wonders if the floor of the sample image is the densified material 
+		- JP thinks the higher ridges are 'foam'
+	- 50% has 'honeycomb-like' structure
+- Ben L and Rob want to see the PCOD and (other) sample (before we even get known/uniform thickness) lased with a single line to see how that compares to the anodized Al sizes
+- Kevindi presented her CTEM Diffraction EELS cross section data (just for JP I think, it was from last week)
+- I present at the big MURI meeting the month after this one (Ben S is this one)
 
 ### 9/17 Meeting Notes
 - Asma presentation
