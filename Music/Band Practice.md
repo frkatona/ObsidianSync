@@ -1,8 +1,52 @@
- ## 2025-09-06 Notes
- - cut instruments at the last bar of Verse 2
----
+## 2025-09-24 Practice Minutes
+### Attendees
+- Seana
+- Cynthia
+- Anthony
+### Time
+- start: 5:00
+- end: 6:30
+### Agenda
+- Practice
+	- Feeling Muse (warmup: PJ Harvey - This is Love)
+	- Hoi Polloi (warmup: Cowboy Junkies - Sweet Jane)
+	- 4am (warmup: Indigo Girls - Closer to Fine)
+### Previous business
+- n/a
+###  Discussion
+- Vocal range estimation
+	- Seana - B2 to G5
+	- Cynthia C3 to G5
+- Changes need to be made to the files online:
+	- the last verse in Hoi Polloi should be {p}
+	- verse 3 in Feeling Muse should be {p}
+		- this was noted at last practice, but missed
+- Homework
+	- Anthony
+		- update the website material (mentioned above)
+		- try Cynthia's Maestro-exported MIDI file for Feeling Muse bass
+		- Cynthia wanted Anthony to try to re-evaluate if a triple meter could be more appropriate for Feeling Muse 
+	- Cynthia
+		- continue working on integrating the bass runs she had worked on the last week
+		- update the group when she can verify her schedule for next week's practice 
+	- Seana
+		- Anthony thought down the intensities of this Hoi Polloi version was inconsistent with other versions, so he's asking Seana to write down her intended intensities, or otherwise verify that the intensities reflected in some specific existing recording match the ideal vision 
+		- Anthony was hoping that the 'warmup' cover song exercise would be more directed at articulable character in the proposed songs, so he's asking Seana to listen to whichever 3 songs she'd prefer this week and write down what specific character she hopes to emulate from each
+			- e.g., weight (breathy/intimate, belty, silky etc.), power (intense, dynamic), resonance/placement (nasally, throaty, twangy, husky, chesty, warm/rich, etc.),  skillful (runs, glides, range, or vibrato), dramatic phrasing, relaxed delivery, expressive (raw/vulnerable, whiny, meek, proud, submissive), talk-sing articulation, crisp/percussive, soulful, ethereal, pacing
+		- Report to the group if the same three warmup cover songs (This is Love, Sweet Jane, Closer to Fine) have the character she's looking for or what new three songs would be better
+		- Think on what needs to change about Hoi Polloi before Cynthia can be given directions on harmonizing
+### Next practice
+- Tentatively next Wednesday
+	- possibly early evening start time (~4:30, 5:00 PM)
+- Songs
+	- Same 3 (Feeling Muse, Hoi Polloi, 4am)
+- Food plans
+	- TBD, but ideal if Seana will be coming straight from work. Discuss more this week
+- Other participants - Sid and Mike considering joining next Wednesday.  Steve unknown
+
 ## 2025-09-06 Notes
 - Thinking of warm-up songs with more appropriate instrumentation that can be sent to Cynthia ahead of time
+-  cut instruments at the last bar of Verse 2
 	- Feeling Muse
 		- PJ Harvey - This is Love
 		- Rilo Kiley - Portions for Foxes
@@ -100,5 +144,34 @@
 ### Next practice
 - Tentatively next Wednesday (2025-09-10) at Anthony's place in Lemont
 - Time? (7:00 to 9:30 PM again?  earlier start?)
+- Songs?
+- Food plans?
+
+
+---
+# Practice Notes Template
+## yyyy-mm-dd Practice Minutes
+### Attendees
+- asdf
+### Time
+- start: asdf
+	- 1/4: asdf
+	- 1/2: asdf
+	- 3/4: asdf
+- projected end: asdf
+### Agenda
+- asdf
+- Practice
+	- asdf
+	- asdf
+	- asdf
+- asdf
+### Previous business
+- n/a
+###  Discussion
+- asdf
+### Next practice
+- asdf
+- Time asdf
 - Songs?
 - Food plans?

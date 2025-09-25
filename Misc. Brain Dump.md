@@ -18,6 +18,9 @@
 	- Chasing Cars (E3-D4)
 - Vocal resonance
 	- resonators: larynx, pharynx, oral cavity, nasal cavity
+- open mic
+	- come up with better sign language for mixing levels
+	- improve the microphone graphic and print it
 ---
 - Ben recommended: (1) algorithms to live by, (2) super mario optimization
 
