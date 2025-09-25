@@ -1,4 +1,16 @@
-### 7/25
+### 2025-09-25 Notes
+- Start with vocal warmups
+- Go over song notes
+	- Everybody's Looking
+		- Resing to make it better without the obvious autotune sound
+			- check to see how much could be brought back just from re-newtoning
+		- Check the creative license on the drum parts and the bass motif aren't overstepping 
+	- Ducks with Blood
+		- mostly good I think, just some minor mixing notes for me
+		- but I'd be interested to hear what Tim's belting voice sounds like if he wanted to try it here
+	- Hammer's Gonna Fall
+---
+### 2025-07-25
 - Hammer's Gonna Fall mix fix
 	- trying to bounce swear version ("vox2") with acoustics (no electric guitar except solo) for radio
 	- added more highs/mids/stereo separation there for the real acoustic guitar
@@ -6,11 +18,12 @@
 	- [x] 1:10 (guitars sound out of time with each other)
 	- [x] 1:45ish (fixed out of time guitars)
 ---
-### 6/27 Notes
+### 2025-06-27 Notes
 - Lots of Ducks available
 	- add a solo at 8-16 bar break (117?)
 - inspiration bands ghost funk orchestra (walk like a motherfucker), bronco
-### 6/14 Notes
+---
+### 2025-06-14 Notes
 - Hammer's Gonna Fall
 	- shortened intro to 8 bars (from 12)
 	- spliced in profanity
@@ -22,7 +35,7 @@
 	- to-do
 		- [ ] make vocal presence cut better through guitar (sounds ok at the end after the guitar cuts out)
 ---
-### 6/13 Notes
+### 2025-06-13 Notes
 - Song 1: Everybody's Looking
 - Song 2: The Hammer's Gonna Fall (Real Hard Today)
 
