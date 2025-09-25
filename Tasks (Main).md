@@ -15,6 +15,9 @@
 		- concretize identification, exercises, warmups, test covers for Eric voice
 			- record 'voice types' video with diverse practice people/skills
 - Work
+	- Ben at GM:
+		- ask asbury about his instruments 
+		- test the consecutive beam spot size change by inserting some dead space: "how many dots do yo uhave to skip to have it repeat the pattern?"
 	- Ethynyl silane
 		- more lasing
 		- ask Tainara how she'd want the sample
