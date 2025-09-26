@@ -27,6 +27,20 @@
 			 - and it only goes through all that 2x (not 8x)
 		 - second part is (2x) instead of (3x)
 		 - The first sustained note in each prechorus lasts slightly longer than I expect (like 2.5 bars instead of 3?)
+
+Thanks again for having me over for practice today!  As discussed, here's the setlist from my notes if you'd like to figure out your favorite order.  Remember it's just a 30 min set, so I'd imagine we'll be lucky to fit in 7
+1) Revolving Door
+2) Coverup
+3) Hypnostate
+4) Cliffhanger (Do Not Fall Away)
+5) Landline
+6) Pain Panic Worry and Woe
+7) Atrium
+8) Ragged
+
+Also, (music portfolio website with Coverup)
+
+Also, vocal notes on what we discussed, specific exercises, and reminder not to skimp on the basics (hydrate, stretch, etc.)
 ## 2025-09-21
 - I think I mis-wrote the online Revolving Door notes: should be A# F#, not F# A# for the intro/verses
 ## 2025-09-06 Notes
