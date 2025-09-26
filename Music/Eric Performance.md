@@ -7,6 +7,13 @@
 ---
 # Practice Notes
 
+## 2025-09-26
+ - Vocal warmups
+	 - range: E2 to E4, head voice around C5 (or 6?), G5 downward passagio
+	 - E4 seems to be the passagio where voice cracks
+		 - noticed as the high note in Coverup (they're so PROUD)
+		 - it sounded painful the first few times, but then after a few iterations sounded strong, so it's attainable with some warming up
+	 - walk away with some actual exercises
 ## 2025-09-21
 - I think I mis-wrote the online Revolving Door notes: should be A# F#, not F# A# for the intro/verses
 ## 2025-09-06 Notes
@@ -118,7 +125,7 @@
 		1. Low C#’s
 	5. Chorus (“They’re so proud to boast”)
 		1. E, F#, C#
-	6. falsetto voice
+	6. falsetto voice (AK backup sing here)
 		1. D#, E, C#
 	7. Verse 2
 	8. Pre-chorus
@@ -126,7 +133,7 @@
 	10. Instrumental (~2:40)
 		1. B->C#, F#, A
 		2. B->C#, E, F#
-	11. falsetto voice
+	11. falsetto voice (AK backup sing here)
 		1. D, D#, C
 			1. real D# E C#
 	12. Verse chords (outro instrumental)
