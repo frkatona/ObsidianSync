@@ -1,9 +1,11 @@
 # Today
 
 - Home
-	- Eric notes
+	- Eric to-do this weekend
 		- Edit down Atrium recording and upload it to the SC playlist
-		- Transcribe the missing tracks (Atrium, )
+		- Transcribe basic song-helper chords for the missing tracks (Atrium, Pain PWW, Ragged, Do Not Fall Away)
+		- Edit in song edits listed in  the Eric Performance notes 
+		- Write how I think each starts with bass to confirm with Eric Monday
 	- oil to CRV (check inspection)
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice

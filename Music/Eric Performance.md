@@ -127,61 +127,61 @@
 ---
 # Eric originals notes
 ### 1. **Cover-up Song** (C#m)
-	1. Intro (~8 bars) “low stuff”
-		1. Wait
-	2. Pre-chorus (~8 bars) “high stuff”
-		1. High C#
-	3. Verse 1 (“Newspaper reporters”)
-		1. Low C#
-		2. High C#’s
-	4. Verse 1 (“Newspaper reporters”)
-		1. Low C#’s
-	5. Chorus (“They’re so proud to boast”)
-		1. E, F#, C#
-	6. falsetto voice (AK backup sing here)
-		1. D#, E, C#
-	7. Verse 2
-	8. Pre-chorus
-	9. Chorus
-	10. Instrumental (~2:40)
-		1. B->C#, F#, A
-		2. B->C#, E, F#
-	11. falsetto voice (AK backup sing here)
-		1. D, D#, C
-			1. real D# E C#
-	12. Verse chords (outro instrumental)
+1. Intro (~8 bars) “low stuff”
+	1. Wait
+2. Pre-chorus (~8 bars) “high stuff”
+	1. High C#
+3. Verse 1 (“Newspaper reporters”)
+	1. Low C#
+	2. High C#’s
+4. Verse 1 (“Newspaper reporters”)
+	1. Low C#’s
+5. Chorus (“They’re so proud to boast”)
+	1. E, F#, C#
+6. falsetto voice (AK backup sing here)
+	1. D#, E, C#
+7. Verse 2
+8. Pre-chorus
+9. Chorus
+10. Instrumental (~2:40)
+	1. B->C#, F#, A
+	2. B->C#, E, F#
+11. falsetto voice (AK backup sing here)
+	1. D, D#, C
+		1. real D# E C#
+12. Verse chords (outro instrumental)
 ### 2. **Revolving Door** (A#)
-	(political)
-	1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
-				1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
-	2. Verse 1
-		1. A#, F#
-	3. Chorus (“right in front of our eyes”)
-		1. F#, D
-	4. Post-chorus instrumental
-		1. D→B (slide), E, F# (x2)
-		2. E again before the chorus F#
-	5. Chorus
-	6. Post chorus instrumental
-		1. play 3x but hard cut before the E
-### **3. Hypno-state (Dm)**
-	(political)
-	1. Intro
-		1. D (but just let guitar go for ~16 measures)
-	2. Verse 1 
-		1. D playing around (lots of earlier Dm pentatonic licks)
-	3. Pre-chorus
-		1. Bb, D...finish on C
-	4. Chorus
-		1.  D, E->F, G, A#, C
-		2. last time, hold last two chords 2x just like other original 
-	5. Verse 2
-	6. Chorus
-	7. Outro
-		1. Bb, A, F, E->G (but just mess around in Dm pent)
-		2. Some weird stuff and then chromatic walk up from ~B
-	8. Chorus
-		1. Hold D(sus)
+(political)
+1. Intro - solo piano, ‘slow, creepy carnival’ 3/4 (real = A# and F#)
+			1. D#, B (4 bars each, x4) → silence for Eric’s virtuoso section
+2. Verse 1
+	1. A#, F#
+3. Chorus (“right in front of our eyes”)
+	1. F#, D
+4. Post-chorus instrumental
+	1. D→B (slide), E, F# (x2)
+	2. E again before the chorus F#
+5. Chorus
+6. Post chorus instrumental
+	1. play 3x but hard cut before the E
+### 3. Hypno-state (Dm)
+(political)
+1. Intro
+	1. D (but just let guitar go for ~16 measures)
+2. Verse 1 
+	1. D playing around (lots of earlier Dm pentatonic licks)
+3. Pre-chorus
+	1. Bb, D...finish on C
+4. Chorus
+	1.  D, E->F, G, A#, C
+	2. last time, hold last two chords 2x just like other original 
+5. Verse 2
+6. Chorus
+7. Outro
+	1. Bb, A, F, E->G (but just mess around in Dm pent)
+	2. Some weird stuff and then chromatic walk up from ~B
+8. Chorus
+	1. Hold D(sus)
 ### 4. **Cliffhanger** (formerly "Do Not Fall Away")
 1. Verse
 	1. D, C, G, G
@@ -199,28 +199,28 @@
 	4. A for a bit, A#, G
 6. Chorus
 ### 5. **Landline**
-	(political)
-	(halfway between pennsyltucky and {-})**
-	1. Intro
-	2. Verse 1
-		1. D, F, D, F + G
-	3. Chorus
-		1. G, Bb, C, G (E->F) (x3)
-		2. last time, go from the C into slidey-post chorus
-	4. Slidey post-chorus 
-		1. (a lot like the Hypnostate Chorus...just kinda jam as though it's Cm starting on F)
-		2. slidey (F to G# to F to C)
-		3. F-->G, A#, F, C x2
-		4. A (~4 bars) G->F->E->D
-	5. Verse 2 (slower)
-	6. Chorus
-	7. Slidey part
-		1. kinda like the chorus just a little bit
-		2. A
-	8. Verse chords
-	9. Outro
-		1. vocalizations with A#, A
-		2. End on D
+(political)
+(halfway between pennsyltucky and {asdf})
+1. Intro
+2. Verse 1
+	1. D, F, D, F + G
+3. Chorus
+	1. G, Bb, C, G (E->F) (x3)
+	2. last time, go from the C into slidey-post chorus
+4. Slidey post-chorus 
+	1. (a lot like the Hypnostate Chorus...just kinda jam as though it's Cm starting on F)
+	2. slidey (F to G# to F to C)
+	3. F-->G, A#, F, C x2
+	4. A (~4 bars) G->F->E->D
+5. Verse 2 (slower)
+6. Chorus
+7. Slidey part
+	1. kinda like the chorus just a little bit
+	2. A
+8. Verse chords
+9. Outro
+	1. vocalizations with A#, A
+	2. End on D
 
 ### 6. **Pain, Panic, Worry, and Woe**
 1. Intro ()
@@ -260,25 +260,25 @@
 	1. Walk C, B, A-B-C-D
 	2. D, F, G, D
 ### **8. Ragged**
-	1. Verse
-		1. G Bb D
-	2. Prechorus
-		1. A-C D
-	3. Chorus
-		1. Bb C/G G
-		2. D
-	4. Verse
-		1. instrumental chords
-		2. VANHALEN BASSLINE WEIRDNESS
-		3. then lyrics start
-	5. Chorus
-	6. 8 bar bass solo
-	7. Verse
-	8. Outro
-		1. D (hold for a while)
-		2. G
-15. sadf
-	1. "love **slow** blue"
+1. Verse
+	1. G Bb D
+2. Prechorus
+	1. A-C D
+3. Chorus
+	1. Bb C/G G
+	2. D
+4. Verse
+	1. instrumental chords
+	2. Van Halen string slide fill thing on bass
+	3. then lyrics start
+5. Chorus
+6. 8 bar bass solo
+7. Verse
+8. Outro
+	1. D (hold for a while)
+	2. G
+9. sadf
+10. "love **slow** blue"
 ---
 ### 9. **Oblivion** (supposedly A major, first phone recording)
 	1. Intro (come in right after the flicker after like 4 seconds)
