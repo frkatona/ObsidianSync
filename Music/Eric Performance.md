@@ -10,23 +10,36 @@
 ## 2025-09-26
  - Vocal warmups
 	 - range: E2 to E4, head voice around C5 (or 6?), G5 downward passagio
-	 - E4 seems to be the passagio where voice cracks
+	 - E4 passagio (voice cracking in Coverup)
 		 - noticed as the high note in Coverup (they're so PROUD)
 		 - it sounded painful the first few times, but then after a few iterations sounded strong, so it's attainable with some warming up
 	 - walk away with some actual exercises
+	 - "Anymore" in Hypno-state the "more" hits a C (4?) that isn't quite resonating enough to belt
+ - Revolving Door
+	 - piano will be played but I'll be using the keys for the intro
+	 - finish rewriting A# to F# instead of vice versa
+	 - Bb in the instrumental should a B
+	 - Change first instrumental to 2x instead of 3x 
+ - hypno-state
+	 - wind down slow for the very last note
+	 - instrumental corrections
+		 - first line , the F-D transition is fast then hold the D until a C
+			 - and it only goes through all that 2x (not 8x)
+		 - second part is (2x) instead of (3x)
+		 - The first sustained note in each prechorus lasts slightly longer than I expect (like 2.5 bars instead of 3?)
 ## 2025-09-21
 - I think I mis-wrote the online Revolving Door notes: should be A# F#, not F# A# for the intro/verses
 ## 2025-09-06 Notes
 - Voice training
 	- Eric's voice was still hurting from a fire's smoke the night before, so both this and the recording was postponed
 - Organized top 8 setlist candidates for our October Arena show
-	- Cover-up Song
 	- Revolving Door
+	- Cover-up Song
 	- Hypno-state
 	- Cliffhanger
 	- Landline
 	- Pain, Panic, Worry, and Woe
-	- Atrium 
+	- Atrium
 	- Ragged
 - NEXT TIME
 	- Voice training/exercises
@@ -170,20 +183,21 @@
 	8. Chorus
 		1. Hold D(sus)
 ### 4. **Cliffhanger** (formerly "Do Not Fall Away")
-1. Intro (asdf)
-2. Verse
+1. Verse
 	1. D, C, G, G
-3. Chorus
-	1. F, D, 
-	2. C, G, A#
-4. Instrumental
+2. Chorus
+	1. F-->D, C, G, A# (x4)
+	2. A, G, F->E-> D
+3. Verse
+4. Chorus
+	1. same first part
+	2. A, A#, 
+5. Instrumental
 	1. E, G, D#, B (x3)
 	2. A, A#, G, F, D
 	3. D (high) for a long time
-	4. A for a bit
-5. asdf
-	1. E, F#, G, ?
-	2. asdf, F#
+	4. A for a bit, A#, G
+6. Chorus
 ### 5. **Landline**
 	(political)
 	(halfway between pennsyltucky and {-})**
@@ -222,14 +236,29 @@
 	1. C/G slides up chromatically:
 	2. E, G, C, A
 7. Solo (~1 bar)
+	1. just hold the A
 8. Intro reprise
 ### 7. **Atrium**
-1. Intro (asdf)
-	1. asdf G F, D
-2. Verse 1
+1. Chorus/Intro
+	1. D, G, A#, D
+2. Verses
 	1. G, D
-3. some F# and A endings
-4. Bendy on the A# I think
+	2. A#, A
+3. Bridge 1
+	1. G, D, G, A
+	2. G, D, G, D
+	3. D
+	4. G, D, A, G
+	5. G, D, G, D-->E-->D
+	6. D
+	7. G, D, G, A
+	8. G, D, (play around a bit, probably sit on D)
+	9. D
+4. Verse
+5. Chorus
+6. Outro
+	1. Walk C, B, A-B-C-D
+	2. D, F, G, D
 ### **8. Ragged**
 	1. Verse
 		1. G Bb D
@@ -239,9 +268,15 @@
 		1. Bb C/G G
 		2. D
 	4. Verse
-	5. 8 bar bass solo
-	6. End
-		1. G
+		1. instrumental chords
+		2. VANHALEN BASSLINE WEIRDNESS
+		3. then lyrics start
+	5. Chorus
+	6. 8 bar bass solo
+	7. Verse
+	8. Outro
+		1. D (hold for a while)
+		2. G
 15. sadf
 	1. "love **slow** blue"
 ---
