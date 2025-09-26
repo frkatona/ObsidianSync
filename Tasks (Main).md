@@ -1,6 +1,9 @@
 # Today
 
 - Home
+	- Eric notes
+		- Edit down Atrium recording and upload it to the SC playlist
+		- Transcribe the missing tracks (Atrium, )
 	- oil to CRV (check inspection)
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice

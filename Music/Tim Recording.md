@@ -24,8 +24,9 @@
 		- 31 breathiness could be a bit more intimate, less unsure
 		- life gets you down ~67 I wouldn't let the inflection droop
 	- Ducks with Blood
-		- mostly good I think, just some minor mixing notes for me
-		- but I'd be interested to hear what Tim's belting voice sounds like if he wanted to try it here
+		- Tim thinks it's good, so just notes to self:
+			- mostly good I think, just some minor mixing notes for me
+			- but I'd be interested to hear what Tim's belting voice sounds like if he wanted to try it here
 - Sent out 
 
 	- The War Ain't Over

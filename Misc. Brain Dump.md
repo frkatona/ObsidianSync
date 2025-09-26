@@ -3,6 +3,10 @@
 - Jolene
 - Have You Ever Seen the Rain
 
+Ben text:
+
+Sure!  I mean, depending on the conference and my mood, I might keep the abstract description as simple/tantalizing as "hobbyist pulsed laser engraver."  But probably something like "1064 nm, 0.8 mJ pulses focused to 50 um and scanned across the sample surface at a rate corresponding to roughly 1 cm^2 / min under H2-balanced argon"
+
 ### DaVinci Resolve Notes
 - YT [color management](https://youtu.be/hgVqUATQSMg) for phone
 	- color space transform for Pixel 8 Pro
