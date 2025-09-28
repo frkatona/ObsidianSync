@@ -339,3 +339,37 @@ My range:
 - Low: F2
 - Passagio: D#4 - F5
 - High: C6
+
+---
+Here’s a varied list of **well-known voices** you can use as “targets” when practicing vocal resonance placement through impressions. I’ve grouped them by the dominant resonance they’re associated with, so you can experiment by imitating them and feel where the sound “sits” in your own body:
+### **Nasal / Forward Placement**
+- **Fran Drescher** (The Nanny) – exaggerated, nasal, instantly recognizable.
+- **Jerry Seinfeld** – conversational, nasal with twang.
+- **Gilbert Gottfried** – sharp, piercing nasal resonance.
+- **SpongeBob SquarePants (Tom Kenny)** – bright, forward, youthful nasal quality.
+### **Chest / Throaty Resonance**
+- **James Earl Jones** – deep, rich, resonant in the chest.
+- **Morgan Freeman** – warm, grounded resonance.
+- **Vin Diesel** – gravelly, low chest placement.
+- **John Goodman** – full, hearty, chesty tone.
+### **Pharyngeal / Back Resonance**
+- **Alan Rickman** – slow, dark, back-placed resonance.
+- **Snagglepuss (Daws Butler)** – “exit, stage left” with wide pharyngeal quality.
+- **Benedict Cumberbatch (as Smaug)** – cavernous, pharyngeal resonance.
+- **Cher** – singing and speaking voice often sits in the back.
+### **Laryngeal / Compressed Placement**
+- **Mickey Mouse (Walt Disney/Wayne Allwine)** – high, tight laryngeal focus.
+- **Kermit the Frog (Jim Henson)** – squeezed but warm laryngeal tone.
+- **Michael Jackson** – airy, high-set placement.
+- **Steve Buscemi** – slightly pinched, forward-laryngeal resonance.
+### **Mixed / Unique Signatures**
+- **Robin Williams** – agile, shifting placement across registers.
+- **Christopher Walken** – unusual resonance with clipped phrasing.
+- **Matthew McConaughey** – relaxed chest with nasal twang overlay.
+- **Oprah Winfrey** – commanding chest resonance with forward brightness.
+- **Patrick Stewart** – balanced pharyngeal + chest, highly resonant.
+### **Cartoonish Extremes (Great for Play)**
+- **Homer Simpson (Dan Castellaneta)** – chesty with nasal overtones.
+- **Looney Tunes’ Elmer Fudd (Arthur Q. Bryan)** – forward, nasal, speech-quirked.
+- **Stewie Griffin (Seth MacFarlane)** – pharyngeal + nasal hybrid.
+- **Shaggy (Casey Kasem)** – throaty, slightly nasal, laid-back resonance.

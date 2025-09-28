@@ -3,9 +3,32 @@
 - Jolene
 - Have You Ever Seen the Rain
 
-Ben text:
+### Vibe code song warmup helper prompt draft
+I'm in the concept and early design stage stage of a webpage and I'd like your feedback on its helpfulness and simplicity/clarity of purpose.  I'd like to streamline vocal warmups and vocal self-evaluation for beginners through a stylish, interactive, step-by-step process where a columnar roadmap of steps presented as tabs such that the state within that roadmap are visible, but not intrusive.  Otherwise, the major visual elements on the webpage would be the current task in the step and the relevant interactive tool within the step.  For concepts that may be confusing to a beginner (e.g., passagio), a non-intrusive question mark icon would sit near the relevant words and reveal a snippet of helper text on hover.  
 
-Sure!  I mean, depending on the conference and my mood, I might keep the abstract description as simple/tantalizing as "hobbyist pulsed laser engraver."  But probably something like "1064 nm, 0.8 mJ pulses focused to 50 um and scanned across the sample surface at a rate corresponding to roughly 1 cm^2 / min under H2-balanced argon"
+The warmup steps would include (1) Stretches, (2) Arpeggios, and (3) Sirens, while the self-evaluation would include (4) Range and (5) Passaggio Determinations.  All steps should be available to click between at will, but the user should feel visually guided to use them in the given order and for the allotted time (where applicable).  
+
+The Stretches tasks would include neck (head rolls), shoulders (arm windmills), back (torso twists), and jaw (yawns).  Images of each will be on screen, as well as a timer which counts down from 2 minutes on click, simply directing the user to perform each at will for that time (no additional micro-managing).  After the timer finishes, the button to the next session would gently flash.
+
+The Arpeggios tasks would include humming, lip trills, and vowels.  A piano would appear on the screen stretching from C3 to C5 with the A3 note highlighted.  The user would be prompted to select a comfortable starting note, triggering audio of the 5 note scale arpeggio.  A "repeat" button would repeat the arpeggio, and left and right arrow buttons flanking that button would trigger the arpeggio a semitone down or up, respectively.  While the keyboard is on screen, a checkbox would be visible titled "single note" which would make single notes play in place of the arpeggios.  Also visible while the the keyboard is on screen would be a series of thin bars running along the bottom of the keyboard visualizing the ranges corresponding to the ranges of six major voice types.  When a note is played, any bar overlapping that note would briefly and subtly change color.   Another timer for 3 minutes would be on screen.
+
+
+The Sirens task would show a vertical bar which fills and empties at a rate of about 6 seconds per cycle, prompting the user to move their voice from their lowest to highest notes with even volume and timbre.  A timer for 1 minute would be on screen.
+
+The Range and Passaggio tasks would use the same keyboard visual as the Arpeggios.  I'm still conceptualizing the best way to have the user know when their voice has weakened or strained sufficiently to return as they stray from their comfortable range.  Similarly, I'm unsure how specifically to have them navigate finding their passaggio, though I feel it's important to include  
+
+
+side thoughts
+- Should sirens start in arpeggios (slides)?
+- soft palette lifting with "mmm-ah"
+- Suggest a vowel for up vs down or "mee may mah moh moo"?
+- Revealed hint text would suggest an intuitive visualization where applicable (e.g., try to imagine your voice here causing a candle flame to lean away from you without flickering)
+- Beyond emulating artists, imitate environmental sounds and do character voices while trying to actively focus on the location of sympathetic vibrations in your head, neck, and body, or any other feeling
+	- singer ideas? 
+	- environment?
+	- character ideas?  
+		- Nasally - Urkle, Spongebob
+		- Kermit?
 
 ### DaVinci Resolve Notes
 - YT [color management](https://youtu.be/hgVqUATQSMg) for phone

@@ -1,6 +1,10 @@
 # Today
 
 - Home
+	- respond Sophia
+	- send eric text
+	- post office poster
+	- double check with Henry that Eric and I can have first 30 min if we show up on time
 	- Eric to-do this weekend
 		- Edit down Atrium recording and upload it to the SC playlist
 		- Transcribe basic song-helper chords for the missing tracks (Atrium, Pain PWW, Ragged, Do Not Fall Away)
@@ -21,8 +25,8 @@
 			- record 'voice types' video with diverse practice people/skills
 - Work
 	- Ben at GM:
-		- ask asbury about his instruments 
-		- test the consecutive beam spot size change by inserting some dead space: "how many dots do yo uhave to skip to have it repeat the pattern?"
+		- ask asbury about his power meter 
+		- test the consecutive beam spot size change by inserting some dead space: "how many dots do you have to skip to have it repeat the pattern?"
 	- Ethynyl silane
 		- more lasing
 		- ask Tainara how she'd want the sample

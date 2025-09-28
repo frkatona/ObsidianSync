@@ -9,8 +9,8 @@
 
 ## 2025-09-26
  - Vocal warmups
-	 - range: E2 to E4, head voice around C5 (or 6?), G5 downward passagio
-	 - E4 passagio (voice cracking in Coverup)
+	 - range: E2 to E3, head voice around C5 (or 6?), G5 downward passagio
+	 - E3 passagio (voice cracking in Coverup)
 		 - noticed as the high note in Coverup (they're so PROUD)
 		 - it sounded painful the first few times, but then after a few iterations sounded strong, so it's attainable with some warming up
 	 - walk away with some actual exercises
@@ -28,7 +28,9 @@
 		 - second part is (2x) instead of (3x)
 		 - The first sustained note in each prechorus lasts slightly longer than I expect (like 2.5 bars instead of 3?)
 
-Thanks again for having me over for practice today!  As discussed, here's the setlist from my notes if you'd like to figure out your favorite order.  Remember it's just a 30 min set, so I'd imagine we'll be lucky to fit in 7
+---
+### 9/27 Text
+Thanks again for having me over for practice yesterday! As discussed, here's the setlist from my notes if you'd like to figure out your favorite order. It's just a 30 min set, so I imagine we'll be lucky to fit most of them in
 1) Revolving Door
 2) Coverup
 3) Hypnostate
@@ -38,9 +40,13 @@ Thanks again for having me over for practice today!  As discussed, here's the se
 7) Atrium
 8) Ragged
 
-Also, (music portfolio website with Coverup)
+Also, I'd already been thinking that it'd be nice to have a place other than soundcloud or discord where I could put the most recent versions of the tracks I've been recording with people for them to listen to or download, so I figured I could pivot to that idea eventually from this demo webpage I threw together if you wanted to advertise your tracks before the show - https://frkatona.github.io/Subpages/SongPlayer/portfolio.  Let me know if it behaves strangely and I'll fix it (probably, maybe, eventually)
 
-Also, vocal notes on what we discussed, specific exercises, and reminder not to skimp on the basics (hydrate, stretch, etc.)
+And I'll just share a quick recap on the vocal notes as well.  It seemed like the main source of strain had to do with using head voice, either "mixing" it with your chest voice as you approached your "passaggio" without warming up (somewhere around the E3 of "they're so PROUD" in "Coverup Song"), or in trying to jump straight into it like when we tried singing Led Zeppelin and you instinctively wanted to belt it.  But given a few seconds, you were able to perform the "siren", gliding all the way up from your lowest note to your highest note through the passaggio (hitting all the way up C5 I believe) and back down without any obvious cracking, so it's definitely something that you'll be able to master with some practice.
+
+Be sure not to skimp on the basics (stay hydrated; stretch out your neck, jaw, and shoulders) and then feel free to practice that siren maybe 5-10 times in one or two sessions a day, trying to focus on that feeling of your voice 'flipping' as you cross over from pure chest to mixed voice, and feeling your chest stop vibrating as you go into pure head.  I'm sure you'd be good to perform the classic 5-note arpeggios like you said you wanted to, and you can find a million good videos to follow along to if you just search "vocal warmup" on YouTube.  The lip trills feel strange, but I have it on good authority they are possibly the most helpful variation.
+
+---
 ## 2025-09-21
 - I think I mis-wrote the online Revolving Door notes: should be A# F#, not F# A# for the intro/verses
 ## 2025-09-06 Notes
