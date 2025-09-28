@@ -1,10 +1,10 @@
 # Today
 
 - Home
-	- respond Sophia
-	- send eric text
 	- post office poster
+	- tomatoes
 	- double check with Henry that Eric and I can have first 30 min if we show up on time
+	- sharing maestro phone app projects
 	- Eric to-do this weekend
 		- Edit down Atrium recording and upload it to the SC playlist
 		- Transcribe basic song-helper chords for the missing tracks (Atrium, Pain PWW, Ragged, Do Not Fall Away)

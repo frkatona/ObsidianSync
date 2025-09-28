@@ -1,3 +1,4 @@
+
 ## 2025-09-24 Practice Minutes
 ### Attendees
 - Seana

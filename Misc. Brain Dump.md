@@ -2,7 +2,15 @@
 - What's Up
 - Jolene
 - Have You Ever Seen the Rain
-
+---
+### MCB talk to Seana
+- Discord Channels
+- Busy next weekend
+- Warmup website
+- Warmup cover songs
+	- New? Old? Rehearse ahead of time?  Scrap? 
+	- Vocal characters
+- band "direction" 
 ### Vibe code song warmup helper prompt draft
 I'm in the concept and early design stage stage of a webpage and I'd like your feedback on its helpfulness and simplicity/clarity of purpose.  I'd like to streamline vocal warmups and vocal self-evaluation for beginners through a stylish, interactive, step-by-step process where a columnar roadmap of steps presented as tabs such that the state within that roadmap are visible, but not intrusive.  Otherwise, the major visual elements on the webpage would be the current task in the step and the relevant interactive tool within the step.  For concepts that may be confusing to a beginner (e.g., passagio), a non-intrusive question mark icon would sit near the relevant words and reveal a snippet of helper text on hover.  
 
@@ -101,6 +109,8 @@ thinking of buying (removed from amazon cart)
 - https://zen-browser.app/download/
 - https://www.masteringthemix.com/products/eq-academy
 - [well posed vs ill posed problem](https://www.statisticshowto.com/well-posed-ill/)
+- https://en.wikipedia.org/wiki/Barkhausen_stability_criterion
+- https://en.wikipedia.org/wiki/Nyquist_stability_criterion
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
@@ -119,6 +129,7 @@ thinking of buying (removed from amazon cart)
 	- [Andor Luthen Speech](https://youtu.be/-3RCme2zZRY)
 	- Josh recommended YT video on Godot signals - https://youtu.be/w6jXgaWHo1s
 	- Yt Crystals Upconversion - https://youtu.be/7WT0qZdHT5M
+	- https://youtu.be/NSB6JrP--F4
 
 [](https://www.youtube.com/@Blargis3d)
 - https://leetcode.com/problems/longest-common-prefix/description/
@@ -145,6 +156,10 @@ thinking of buying (removed from amazon cart)
 	- [Electricity About to be Like Housing](https://youtu.be/39YO-0HBKtA)
 	- [Caffeine](https://youtu.be/p-Dy2pcdBSU)
 - how to use color palette and chrome sphere for vfx?
+- https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies
+- https://www.usatoday.com/story/news/nation/2025/02/12/tesla-cybertrucks-inspire-backlash-amid-elon-musks-political-work/78358688007/
+- go-to tenor gifs to favorite
+- sharpening mower blades
 
 ---
 ## FL Notes

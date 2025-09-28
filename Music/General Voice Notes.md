@@ -336,9 +336,9 @@ This posture can be transferred to sitting and lying down
 	- siren from lowest to highest note
 
 My range: 
-- Low: F2
+- Low: F2 (stable, E2 in 'Oh, Paul' - "PART OF THE way")
 - Passagio: D#4 - F5
-- High: C6
+- High: C6 (maybe C#5 in 'Set Time' - "be free-ee-ee, free-ee-EE")
 
 ---
 Here’s a varied list of **well-known voices** you can use as “targets” when practicing vocal resonance placement through impressions. I’ve grouped them by the dominant resonance they’re associated with, so you can experiment by imitating them and feel where the sound “sits” in your own body:

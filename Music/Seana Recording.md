@@ -1,3 +1,27 @@
+## 2025-09-28 Notes
+- Detected vocal range from songs
+	- Hoi Polloi
+		- Low (of your FACE) - A3
+		- High (SAD-ness) - F#4 — ("strong" sustained at E4)
+		- Range = 9
+	- Feeling Muse
+		- **LOW (front of ME) - E3**
+		- **HIGH (might ex-PLODE) - G4**
+		- **RANGE = 15**
+	- 4am
+		- Low (I can't keep) - G3
+			- maybe...Seana is pretty weak on pitch with the breathy syllables
+		- High (slow IT down) - D4
+		- Range = 7
+	- Live for the Road
+		- Low (THIS ROUNDS on me) - G3
+		- High (live for the road) - D4
+		- Range = 7
+	- Careful with my Heart
+		- Low (mess-Y) - B3
+		- High (de-FINED) - G4
+		- Range = 
+
 ## 2025-09-16 Recording Notes
 - warmups --> feeling a little stuffy but powering through it
 - practice take 1
