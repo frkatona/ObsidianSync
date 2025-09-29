@@ -5,9 +5,27 @@
  - [ ] Transcribe originals into the website
  - [ ] Get everything I need onto the surface to do a run-through rehearsal
 ---
-# Practice Notes
+## 2025-09-29 Recording Notes
+- Plan
+	- Discussion
+		- My meeting at 2:00 - let's get set up in time
+		- Henry confirmed we can take the first two spots next week
+		- My notes for Ragged or lacking, but I added timings for the songs based on recordings and we probably won't even get to Atrium
+		- Order whenever you want
+		- Any special ideas otherwise in terms of effects, instruments, etc.?
+		- What to record today
+			-  see if voice sounds good enough for polished Cover-up Song takes?
+			- Next song?
+				- I would propose Pain Panic (short/digestible and immensely catchy, conceptually simple but with lots to play with, seems nicely within your chest range)
+				- What songs run into the passaggio the least?  Would sound least strained?
+				- What songs are most important/iconic in advertising a show?
+	- Start with warmups
+		- Show off warmup website
+	- Find range and passaggio
+	- Recording
+	- Show off portfolio website
 
-## 2025-09-26
+## 2025-09-26 Practice Notes
  - Vocal warmups
 	 - range: E2 to E3, head voice around C5 (or 6?), G5 downward passaggio
 	 - E3 passagio (voice cracking in Coverup)
@@ -20,16 +38,17 @@
 	 - finish rewriting A# to F# instead of vice versa
 	 - Bb in the instrumental should a B
 	 - Change first instrumental to 2x instead of 3x 
- - hypno-state
-	 - wind down slow for the very last note
+ - Hypno-state
+	 - Prechorus - the first sustained note in each lasts slightly longer than I expect (like 2.5 bars instead of 3?)
 	 - instrumental corrections
 		 - first line , the F-D transition is fast then hold the D until a C
 			 - and it only goes through all that 2x (not 8x)
 		 - second part is (2x) instead of (3x)
-		 - The first sustained note in each prechorus lasts slightly longer than I expect (like 2.5 bars instead of 3?)
+	 - wind down slow for the very last note
+	 
 
 ---
-### 9/27 Text
+## 9/27 Text Draft
 Thanks again for having me over for practice yesterday! As discussed, here's the setlist from my notes if you'd like to figure out your favorite order. It's just a 30 min set, so I imagine we'll be lucky to fit most of them in
 1) Revolving Door
 2) Coverup
