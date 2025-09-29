@@ -222,7 +222,10 @@ This posture can be transferred to sitting and lying down
 # Video Notes
 
 ### Short references
-- [Short](https://www.youtube.com/shorts/SrVtmUa3JPE?feature=share) - 6 ways to sing one note
+- [Short](https://www.youtube.com/shorts/SrVtmUa3JPE?feature=share) - 6 qualities 1 pitch
+- [Short](https://www.youtube.com/shorts/nKpcCctvgV8?feature=share) - 4 qualities 1 pitch
+- [Short](https://www.youtube.com/shorts/g_-ONzrQPV0?feature=share) - head voice vs falsetto recommending "gee" to sing highest
+- [Short](https://www.youtube.com/shorts/W0orYeFd6sY?feature=share) - visual for relative resonance localization in example chest/head/falsetto
 - [Video](https://youtu.be/q9DT49coKr4) - One Male Singer for each Belt Note, C4 - C6
 - [Video](https://youtu.be/QtcEdzy4W0c) - Shy singing strains the voice and encourages bad habits 
 ### Mixed Voice Belting [Video](https://youtu.be/Il7wN_7SSXA) Notes

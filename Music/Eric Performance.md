@@ -9,7 +9,7 @@
 
 ## 2025-09-26
  - Vocal warmups
-	 - range: E2 to E3, head voice around C5 (or 6?), G5 downward passagio
+	 - range: E2 to E3, head voice around C5 (or 6?), G5 downward passaggio
 	 - E3 passagio (voice cracking in Coverup)
 		 - noticed as the high note in Coverup (they're so PROUD)
 		 - it sounded painful the first few times, but then after a few iterations sounded strong, so it's attainable with some warming up
@@ -184,7 +184,7 @@ Be sure not to skimp on the basics (stay hydrated; stretch out your neck, jaw, a
 5. Chorus
 6. Post chorus instrumental
 	1. play 3x but hard cut before the E
-### 3. Hypno-state (Dm)
+### 3. **Hypno-state (Dm)**
 (political)
 1. Intro
 	1. D (but just let guitar go for ~16 measures)
@@ -301,20 +301,20 @@ Be sure not to skimp on the basics (stay hydrated; stretch out your neck, jaw, a
 10. "love **slow** blue"
 ---
 ### 9. **Oblivion** (supposedly A major, first phone recording)
-	1. Intro (come in right after the flicker after like 4 seconds)
-		- A, G -> E, D -> G, A
-	- Verse
-		- A, G, D
-	- Chorus
-		- F#, A -> D, E
-		- D, E, A, A7 ("they keep running from the light" or just holding "light" into the next)
-	- Verse
-	- Instrumental
-		- F# (or E), B (or A) --> Anthony vocalize 'light' with guitar melody --> you will forget how this goes
-		- B, C# -> D, ?, A
-		- repeat then walk down to E
-	- Verse (muted version)
-		- F#, A, E
+- Intro (come in right after the flicker after like 4 seconds)
+	- A, G -> E, D -> G, A
+- Verse
+	- A, G, D
+- Chorus
+	- F#, A -> D, E
+	- D, E, A, A7 ("they keep running from the light" or just holding "light" into the next)
+- Verse
+- Instrumental
+	- F# (or E), B (or A) --> Anthony vocalize 'light' with guitar melody --> you will forget how this goes
+	- B, C# -> D, ?, A
+	- repeat then walk down to E
+- Verse (muted version)
+	- F#, A, E
 
 ### 10. **On Hold** (mostly just talked about it)
 1. Intro (come in after one measure?  When it gets loud?)
@@ -330,27 +330,27 @@ Be sure not to skimp on the basics (stay hydrated; stretch out your neck, jaw, a
 	1. bunch of bass
 
 ### **12. It's Not Alright** (F#)
-	(downer, possibly skip for thematic cohesion)**
-	1. Intro
-		1. F#, A, E, D (playful, slow)
-	2. Verse 1
-		1. F#, A, E, D
-	3. Chorus 1 (2x)
-		1. G, D, Am, Am
-	4. Verse 2
-	5. Chorus 2 (4x)
-		1. 4 measures
-		2. end on B
-	6. Post-chorus shuffle
-		1. 'shuffle' between E and G
-		2. walk down C, B, A (just a moment) and repeat shuffle from top
-	7. Verse 3
-		1. Keep doing post chorus shuffle
-	8. Chorus 3
-	9. Post-chorus shuffle
-	10. Outro
-		1. E phrases ending with F#, G turnaround
-		2. end with sitting on an F# a few strums then E
+(downer, possibly skip for thematic cohesion)
+1. Intro
+	1. F#, A, E, D (playful, slow)
+2. Verse 1
+	1. F#, A, E, D
+3. Chorus 1 (2x)
+	1. G, D, Am, Am
+4. Verse 2
+5. Chorus 2 (4x)
+	1. 4 measures
+	2. end on B
+6. Post-chorus shuffle
+	1. 'shuffle' between E and G
+	2. walk down C, B, A (just a moment) and repeat shuffle from top
+7. Verse 3
+	1. Keep doing post chorus shuffle
+8. Chorus 3
+9. Post-chorus shuffle
+10. Outro
+	1. E phrases ending with F#, G turnaround
+	2. end with sitting on an F# a few strums then E
 
 ### **13. Cabin Song ('kinda 12 bar blues, bluegrass song')
 1. Verse
@@ -375,11 +375,9 @@ Be sure not to skimp on the basics (stay hydrated; stretch out your neck, jaw, a
 	1. Intro
 
 ---
-### 3. Atrium (WIP)
-	1. asdf
 ### 4. Wanderlust (WIP) (Beatles-esque weird)
-	1. Verse 1
-		1. G, D, F
+1. Verse 1
+	1. G, D, F
 
 ---
 ---
