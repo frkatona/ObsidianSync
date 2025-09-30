@@ -24,6 +24,10 @@
 		- concretize identification, exercises, warmups, test covers for Eric voice
 			- record 'voice types' video with diverse practice people/skills
 - Work
+	- Try Ben's galvo laser idea
+		- through acrylic?
+	- Lase Ethynyl Silane
+	- 
 	- Ben at GM:
 		- ask asbury about his power meter 
 		- test the consecutive beam spot size change by inserting some dead space: "how many dots do you have to skip to have it repeat the pattern?"
