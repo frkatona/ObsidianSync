@@ -1,39 +1,40 @@
 # Today
 
 - Home
-	- post office poster
-	- tomatoes
-	- double check with Henry that Eric and I can have first 30 min if we show up on time
-	- sharing maestro phone app projects
-	- Eric to-do this weekend
-		- Edit down Atrium recording and upload it to the SC playlist
-		- Transcribe basic song-helper chords for the missing tracks (Atrium, Pain PWW, Ragged, Do Not Fall Away)
-		- Edit in song edits listed in  the Eric Performance notes 
-		- Write how I think each starts with bass to confirm with Eric Monday
-	- oil to CRV (check inspection)
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice
 	- Zack/Martina wedding details
 		- registry
 		- airbnb? hotel? car? driving back?
 		- Ponyo?  Jess?
+	- Abi party ponyo plans
 	- Music
-		- Seana Hoi Polloi
-		- practice new Eric songs (ask when next practice day could be)
-		- remind Tim to hydrate, discuss finding range and passagio
-		- concretize identification, exercises, warmups, test covers for Eric voice
-			- record 'voice types' video with diverse practice people/skills
+		- band practice
+			- picking something up for food/drink 
+			- ask to sing in choir bit on Coverup Song
+			- what are we hoping to accomplish?  in what time?
+				- when does Sid need back?  Is Seana going to Wine Co.?  Will I be out by 8 for Warhammer?
+			- should we practice less often?
+			- offer tomatoes
+			- explore sharing maestro phone app projects
+		- Eric
+			- write in the songs (1) where to come in bassline and (2) where to sing
 - Work
-	- Try Ben's galvo laser idea
-		- through acrylic?
-	- Lase Ethynyl Silane
-	- 
-	- Ben at GM:
-		- ask asbury about his power meter 
-		- test the consecutive beam spot size change by inserting some dead space: "how many dots do you have to skip to have it repeat the pattern?"
-	- Ethynyl silane
-		- more lasing
-		- ask Tainara how she'd want the sample
+	- For MURI meeting
+		- Check Tainara's scan rates email to see if I can correct anything
+		- Make presentation
+			- spot size with Ben's' galvo laser idea (flood fill over gap)
+				- still need to compare how those smaller dots in the ramp compare to just using lower power
+			- think on/ look up how the effective resolution may go down with power
+		- In lab
+			- Re-do Ben's spot size + gap test, but through acrylic
+			- Lase Ethynyl Silane
+				- bring both samples and the virgin powder
+				- IR the powder
+				- write up the laser condition description (include the structure from Alex's presentation)
+		- Email Asbury's group
+		- buy the adapter
+		- Read more on non-linear absorption processes
 	- Line tests
 		- Take microscope images of fine dots
 		- Try again, but pursue as small of dots as possible

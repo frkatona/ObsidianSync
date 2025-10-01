@@ -158,6 +158,8 @@ thinking of buying (removed from amazon cart)
 - https://www.usatoday.com/story/news/nation/2025/02/12/tesla-cybertrucks-inspire-backlash-amid-elon-musks-political-work/78358688007/
 - go-to tenor gifs to favorite
 - sharpening mower blades
+- https://www.colour-science.org/
+- pixel update notes
 
 ---
 ## FL Notes
