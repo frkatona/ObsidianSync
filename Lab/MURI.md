@@ -17,6 +17,9 @@ Absorption mechanisms to explore:
 - photochemical initiation
 - substrate absorption
 
+### 10/1 Meeting Notes
+- Ben S notes on the paper, discussing the decomposition mechanism with JP, seeking what is findable with TGA-mS
+
 ### 9/24 Meeting Notes
 - Discuss
 	- laser param measurement
