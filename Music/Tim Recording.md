@@ -4,7 +4,7 @@
 - Go over song notes
 	- Everybody's Looking
 		- Re-sing to make it better without the obvious autotune sound
-			- check to see how much could be brought back just from re-newtoning
+			- check to see how much could be brought back just from re-NewTone-ing
 		- Check the creative license on the drum parts and the bass motif aren't overstepping 
 		- New takes are about as good vocally, but should present more/better tuning opportunities
 	- Hammer's Gonna Fall
@@ -17,7 +17,7 @@
 	- Anger and a Prayer (new track)
 		- 77 BPM seemed good, but kept drifting, so gonna come back to it another time and play (other song)
 	- Citizen Beware (new track)
-		- good track for head voice in the verses I thinkcv
+		- good track for head voice in the verses I think
 		- guitar maybe a little out of sync at bar ~53, 57, very around 74 when guitar plays staccato
 		- good power around 65 and 70
 		- voice a bit lost at like 21-25, 28

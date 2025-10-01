@@ -3,6 +3,12 @@
 - Jolene
 - Have You Ever Seen the Rain
 ---
+### website notes
+- to-do
+	- set time from the manifest (or otherwise extract on page load)
+	- play button color and more clear in UI (big, center, visible on load from mobile)
+	- download link
+
 ### Vibe code song warmup helper prompt draft
 I'm in the concept and early design stage stage of a webpage and I'd like your feedback on its helpfulness and simplicity/clarity of purpose.  I'd like to streamline vocal warmups and vocal self-evaluation for beginners through a stylish, interactive, step-by-step process where a columnar roadmap of steps presented as tabs such that the state within that roadmap are visible, but not intrusive.  Otherwise, the major visual elements on the webpage would be the current task in the step and the relevant interactive tool within the step.  For concepts that may be confusing to a beginner (e.g., passagio), a non-intrusive question mark icon would sit near the relevant words and reveal a snippet of helper text on hover.  
 

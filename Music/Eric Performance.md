@@ -8,7 +8,7 @@
 ## 2025-09-29 Recording Notes
 - Plan
 	- Discussion
-		- My meeting at 2:00 - let's get set up in time
+		- My meeting at 3:00 - let's get set up in time
 		- Henry confirmed we can take the first two spots next week
 		- My notes for Ragged or lacking, but I added timings for the songs based on recordings and we probably won't even get to Atrium
 		- Order whenever you want
@@ -20,10 +20,15 @@
 				- What songs run into the passaggio the least?  Would sound least strained?
 				- What songs are most important/iconic in advertising a show?
 	- Start with warmups
+		- Water, stretches, sirens, arpeggios
 		- Show off warmup website
 	- Find range and passaggio
 	- Recording
 	- Show off portfolio website
+	- Ask Sylvie about preferences for attribution/credit
+	- Think on vocal doubling or expanding fx (nectar etc.) for the Sylive part at the end or including own vocals
+	- Ask Seana and Cynthia to sing "liars" to approach Eric's hope for a "church choir effect"
+	- Cover up song - check verses for pitch
 
 ## 2025-09-26 Practice Notes
  - Vocal warmups
@@ -54,9 +59,9 @@ Thanks again for having me over for practice yesterday! As discussed, here's the
 2) Coverup
 3) Hypnostate
 4) Cliffhanger (Do Not Fall Away)
-5) Landline
-6) Pain Panic Worry and Woe
-7) Atrium
+5) Atrium
+6) Landline
+7) Pain Panic Worry and Woe
 8) Ragged
 
 Also, I'd already been thinking that it'd be nice to have a place other than soundcloud or discord where I could put the most recent versions of the tracks I've been recording with people for them to listen to or download, so I figured I could pivot to that idea eventually from this demo webpage I threw together if you wanted to advertise your tracks before the show - https://frkatona.github.io/Subpages/SongPlayer/portfolio.  Let me know if it behaves strangely and I'll fix it (probably, maybe, eventually)
