@@ -29,6 +29,9 @@
 	- Think on vocal doubling or expanding fx (nectar etc.) for the Sylive part at the end or including own vocals
 	- Ask Seana and Cynthia to sing "liars" to approach Eric's hope for a "church choir effect"
 	- Cover up song - check verses for pitch
+	- 'Paris Hilton' song might be preferred over landline or something
+	- landline check back on the "intro reprise section"
+	- check bridge of do not fall away
 
 ## 2025-09-26 Practice Notes
  - Vocal warmups
