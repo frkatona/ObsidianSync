@@ -1,3 +1,27 @@
+### Concepts
+- hobbyist collection
+	- stamps, stickers, baseball cards
+	- critters (pokemon?)
+	- curator (art?)
+	- pawn shop
+- evidence
+	- detective/private eye
+- money
+	- debt collector
+	- busker, homeless
+	- savings (newspaper clippings/coupons)
+- game parts
+	- card game
+	- jigsaw puzzle
+- scavenger (hunter/gatherer)
+- pieces of self
+	- voltron?
+- funnel/bottleneck
+- upgrades (a la mobile games)
+- Tooth fairy
+	- kids <7
+	- horror version
+		- 
 ### before
 - shopping - soda, healthy snacks
 - clothes - washed
@@ -28,6 +52,7 @@
 - Sunday
 	- push test builds
 	- test multiplayer with third parties
+
 
 
 
