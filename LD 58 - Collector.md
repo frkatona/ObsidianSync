@@ -1,8 +1,10 @@
-### modeling to-do
+### modeling/animating to-do
 - fairy re-do for good player character
 	- wand, wings
 	- hair
 	- jiggle dress
+- kid
+	- need new anim for interact w/ player?
 ### audio to-do
 - music
 	- title music
@@ -24,6 +26,11 @@
 			- match found
 			- player ready (both other players and local player?)
 
+### notes to self
+- maybe 3 rounds of increasing impactfulness of interactives:
+	- round 1 - turn off/on lights
+	- round 2 - introduce parents; switch parents directions
+	- round 3 - switch paths (like trolley tracks, opening one = closing another) and kill switches
 ### Concepts
 - hobbyist collection
 	- stamps, stickers, baseball cards
@@ -47,7 +54,6 @@
 - Tooth fairy
 	- kids <7
 	- horror version
-		- 
 ### before
 - shopping - soda, healthy snacks
 - clothes - washed
