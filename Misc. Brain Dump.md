@@ -1,3 +1,12 @@
+### post LD
+- respond MURI email
+- schedule time with Devindi
+- read cover letter
+- check out abetterrouteplanner app
+- trash
+- look up usage of assault in "sexual assault" (vs "sexual battery"?) 
+- look up MRI day
+- mark my/Yuki's MURI presentation in calendar
 ### IOOF Jam Songs
 - What's Up
 - Jolene
@@ -19,6 +28,8 @@ I understand, and I'm sorry to have made you feel bad.  It seems like there's so
 	- set time from the manifest (or otherwise extract on page load)
 	- play button color and more clear in UI (big, center, visible on load from mobile)
 	- download link
+
+
 
 ### Physics 70 years [video](https://youtu.be/d_o4k0eLoMI) notes
 - 1950s - computer simulation started around 1950s

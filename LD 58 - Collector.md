@@ -1,4 +1,27 @@
-### modeling/animating to-do
+### final countdown to-do
+- countdown timer + end screen (show scores/winner/back-to-menu)
+- input camera direction
+- volume - escape key into volume slider (or mute in the corner)
+- fix 90 degree interactable bookshelf rotation offset runtime bug (at least the one in the right building)
+- maybe
+	- hook polish
+	- trap logic
+		- move the trigger further away, think on a more ideal position, create maybe 2x around what might be seen as the most desirable tooth collection routes
+		- make it obvious they are dangerous  when they're raised (metallic shader, time-varying emission, ambient sound effect?)
+	- house witch patrol path doesn't repeat after first pass 
+		- maybe keep that, but have her stare down one of the important doors time for like the latter half to disrupt the flow of the round
+	- where are we on the lights budget?  can we add another interactable floor lamp to the right building or outside?
+	- sound fx when outside (reverb outside vs low-pass inside?)
+	- hook up sounds/animations (at least death, anything else? )
+		- Kaya was hoping for more sound fx of basically any kind as well
+	- get teeth more readable (outline shader?)
+	- kid/dad models
+		- fix idle animations or remove
+
+### then
+- figure out LD team thing 
+
+modeling/animating to-do
 - fairy re-do for good player character
 	- [x] wand, wings
 	- [x] hair/hat
@@ -8,6 +31,7 @@
 	- [ ] anvil drop
 - kid
 	- need new anim for interact w/ player?
+- Josh wants some paintings on the walls
 ---
 ### audio to-do
 - music
@@ -30,7 +54,11 @@
 		- multiplayer
 			- [x] match found
 			- [x] match starting
-- [ ] script effects with Godot's audio bus
+- [x] script effects with Godot's audio bus
+	- (nevermind, audio bus effects don't get transferred for some reason)
+	- (same with action inputs from the input editor)
+	- though maybe I could just write down my ideal audio bus settings and then see if the last build can just dial it in manually?
+- Kaya wants some more interesting sounds, anything will do
 ---
 ### other to-do
 - add more obstacles
@@ -38,7 +66,6 @@
 	- wand/hat
 - main menu?
 	- getting separate audio into main menu, lobby, and game?
-	- why is audio so much louder outside of game?
 - how to play, controls intro?
 - fix input vs camera direction
 - volume slider
