@@ -1,6 +1,10 @@
 # Today
 
 - Home
+	- Eric show
+		- test phone link with surface
+		- rehearse set standing with mic/tablet stand
+		- test how far phone can connect to laptop for FL Remote
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice
 	- Zack/Martina wedding details
