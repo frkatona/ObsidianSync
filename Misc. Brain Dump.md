@@ -19,18 +19,13 @@
 - Camera 12MP -> 48 MP; 2x optical zoom
 - Emeregency SOS/crash detection via satellite
 - Peak brightness 1200 -> 2000 nits (outdoor)
-
-
-I understand, and I'm sorry to have made you feel bad.  It seems like there's something fundamentally different about what you and I hope to get out of practice.  We can talk more when you stop by, but I should probably just step back and let Sid take over guitar and just offer whatever sound equipment and support you need for your shows
-
+---
 ### website notes
 - to-do
 	- set time from the manifest (or otherwise extract on page load)
 	- play button color and more clear in UI (big, center, visible on load from mobile)
 	- download link
-
-
-
+---
 ### Physics 70 years [video](https://youtu.be/d_o4k0eLoMI) notes
 - 1950s - computer simulation started around 1950s
 - MRIs
@@ -42,7 +37,7 @@ I understand, and I'm sorry to have made you feel bad.  It seems like there's so
 	- 1970s-80s-90s - tons of fundamental particles predicted and found
 	- 1995 - Bose Einstein condensate
 	- 2012 - Higgs Boson
-
+---
 ### Vibe code song warmup helper prompt draft
 I'm in the concept and early design stage stage of a webpage and I'd like your feedback on its helpfulness and simplicity/clarity of purpose.  I'd like to streamline vocal warmups and vocal self-evaluation for beginners through a stylish, interactive, step-by-step process where a columnar roadmap of steps presented as tabs such that the state within that roadmap are visible, but not intrusive.  Otherwise, the major visual elements on the webpage would be the current task in the step and the relevant interactive tool within the step.  For concepts that may be confusing to a beginner (e.g., passagio), a non-intrusive question mark icon would sit near the relevant words and reveal a snippet of helper text on hover.  
 
