@@ -2,22 +2,26 @@
 
 ---
 ### Lab
-- [x] Blackbody thermometer work
-- Respond Ben laser email
-- Alex Radosevich lasing (try all 3 laser types)
-- Meet with Isaac at 12 (do I have soylent for lunch?)
-	- Respond to Sandra about Sunday lunch place
-- Send purchases to Emma
+- [ ] take Alex sample to Tainara
+	- [ ] send her details of the material and preparation
+- [ ] begin writing report with Ben S and Tainara
+- [ ] Respond to Silas coding
+- [ ] Send purchases to Emma
+- UFBB thermometer work
+	- [x] set up basic version
+	- [ ] troubleshoot bandwidth problem
+- [ ] Get CO2 laser set up
 
-- Read MURI folder papers
-- Submit receipts for trip (Ask Taylor how tax works...read the email docs)
-	- [x] AirBnB receipt ($1011.09 vs $138/day * 6 days = $828)
-	- [x] PyCon ticket receipt ($125)
-	- [x] Travel [mileage](https://www.irs.gov/tax-professionals/standard-mileage-rates) (289 mi * $0.70/mi = $202.30)
-	- [x] Per Diem x meals x days (2x $60 + 4x $80 = $440)
-	- total = $1595.30
-- Per diem for MURI on-site dinner (8/7)
-- Reach out to Dr. Maslak about chemistry game
+- Review MURI folder papers
+- Dr. Maslak about chemistry game
+---
+### 10/9 Group Meeting
+- Buy HDMI USB-C adapter?
+- Git learning tool
+- Show off tooth game 
+- Lethal company?
+- Subgroup
+	- Meeting with Nabankur, Akachukwu
 ---
 ### 9/22 Yuki Practice
 - Deadline 'sometime before December', wants to take it sometime in November
