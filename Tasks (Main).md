@@ -1,19 +1,19 @@
 # Today
 
 - Home
-	- try 1080ti, dry nice clothes
-	- Music videos (review bass in Eric's set, upload smaller versions of other performers)
+	- Silas arduino homework
+	- start the MURI report
+		- do Ben S or Tainara have details in the OneDrive?
+	- PURCHASES
+		- GM - hdmi adapter
+	- check status of the reimbursement?
+- Been putting off
 	- Respond Emily
-	- Wedding
-		- Wedding registry
-		- Talk to Kristen/Harry about wedding (carpooling, staying over?)
-	- Get more Soylent
-	- Alex message
+	- Wedding gift
+	- Gift
 
-- Silas arduino homework
 - Talk to Ben S about the paper, follow up with Tainara about XRD
 - Emma purchasing
-
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice
 	- Zack/Martina wedding details
