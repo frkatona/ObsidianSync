@@ -1,10 +1,19 @@
 # Today
 
 - Home
-	- Eric show
-		- test phone link with surface
-		- rehearse set standing with mic/tablet stand
-		- test how far phone can connect to laptop for FL Remote
+	- try 1080ti, dry nice clothes
+	- Music videos (review bass in Eric's set, upload smaller versions of other performers)
+	- Respond Emily
+	- Wedding
+		- Wedding registry
+		- Talk to Kristen/Harry about wedding (carpooling, staying over?)
+	- Get more Soylent
+	- Alex message
+
+- Silas arduino homework
+- Talk to Ben S about the paper, follow up with Tainara about XRD
+- Emma purchasing
+
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice
 	- Zack/Martina wedding details
@@ -21,8 +30,6 @@
 			- should we practice less often?
 			- offer tomatoes
 			- explore sharing maestro phone app projects
-		- Eric
-			- write in the songs (1) where to come in bassline and (2) where to sing
 - Work
 	- For MURI meeting
 		- Check Tainara's scan rates email to see if I can correct anything

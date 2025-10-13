@@ -1,3 +1,63 @@
+
+### Database notes
+- "Key Value" database (most basic)
+	- fast (<ms), but limited space and no queries/joins/etc.
+	- usually most used as a cache to speed delivery
+- "Wide Column"
+	- can scale horizontally
+	- best for time-series, historical records, high write/low read
+- Relational
+	- scheme
+- mysql under youtube and facebook
+
+
+### 10/10 Nabankur meeting
+- has met with Alex and (?) and ran some simulations and wanted to talk about what we're up to
+- 1
+	- P25108 polymer with cif (?) crystal structure (Akachukwu says "hexa ethynyl disilane", something like NUF1IM as a published structure)
+	- SiCH-based polymer, did some NAQMD simulations by exciting one electron from HOMO, evaluating for 1.2 ps, analyzing the initiating reactions of the system
+  2
+	- calculated band participation numbers for each band
+- 3
+	- Density of states - occupancy at each band level
+		- hole sits on the Si atoms, forming bonds initially
+- 4
+	- partial (until 500 fs) shows bonds, then bonds blow apart by 1.2 ps b/c it's too hot
+- 5: Si-Si bond breaking
+	- Si-Si crosslinks break around 58 fs after t0
+	- then around 360 fs the Si are are forming with carbons
+- C-C bonds are pretty stable until around 350 fs when they form bonds with the other atoms
+	- around 404 fs, some C-C are still intact
+- 7: Si-C bond formation
+	- 296 fs some kind of condensation reaction which stays stable until close to 500 fs
+		- so there's a window of ~200 fs where the bonds form without being broken?
+- 8: Bond overlap
+	- permanent bond breaking and formation seen for the three bonds monitored previously
+	- Si-Si bond overlap goes to 0 from 0 to 200 fs and never goes up
+	- C-C goes from 2 to 1 at ~150 fs and then goes to 0 around 400 fs
+	- Si-C is 0 until it goes to 1 around 275 fs (graph ends at ~500 fs)
+- Diffusion of elements
+	- first h2 released at 871 fs.  Although H bonding shifts from one Si/C to another SiC/C before that from around 600 fs
+	- there's a plateau of condensation below 600 fs, and then H2 seems to diffuse substantially afterwards
+- Potential energy
+	- a plateau of energy between 150 and 350 fs
+- Bandgap
+	- sharp drop at 100 fs indicating the systme undwent change in electronic structure signifying passage through a conical intersection which is a point degeneracy where two potential energy surfaces touch
+- Temperature
+	- T of Si is highest, switches to NVT at around 400 fs
+	- drops at 350 fs where the highest condensation of the system could be expected after which the system temperature increases rapidly
+- System evolving over time
+- Silicon-carbon initial condensation
+	- Si shows tetraveanetasdfasdf
+- Bond Overlap
+	- bond overlap  of different Si-C bonds indicate different bonds forming around 250 fs and different bonds breaking around that time due to rearrangement as seen in previous figures
+- Key takeaways
+	- screencaptured
+Akachukwu will send the other compond for me to lase if we find something good with XRD
+- otherwise will just keep chasing the polymer version of the compound 
+
+
+send Sophia 3b1br
 ### post LD
 - respond MURI email
 - schedule time with Devindi
@@ -138,6 +198,9 @@ thinking of buying (removed from amazon cart)
 - [well posed vs ill posed problem](https://www.statisticshowto.com/well-posed-ill/)
 - https://en.wikipedia.org/wiki/Barkhausen_stability_criterion
 - https://en.wikipedia.org/wiki/Nyquist_stability_criterion
+- Open source tools list
+	- drawing - https://excalidraw.com/
+	- penpot, ardour, applflowy, drone (ci/cd), 
 - YT
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
@@ -162,8 +225,17 @@ thinking of buying (removed from amazon cart)
 	- Ian Hubert - [talking about art in the woods](https://youtu.be/6LWZqmba0uw)
 	- AI replacing humans going poorly - https://youtu.be/QX1Xwzm9yHY
 	- FL Studio Emphasis [overview video](https://youtu.be/U3zeQ2A7xNI)
+	- [Rhythm Guitar Tips](https://www.youtube.com/watch?v=Uo70TeO6B9E)
+	- [12k hours blender user tips](https://youtu.be/n677HB7GbpQ)
+	- [Blender Hades Modeling Inside Look](https://www.youtube.com/watch?v=cYJ6d1ifSqA)
+	- [Stop Growing Lawns](https://www.youtube.com/watch?v=KLYMjPNppRQ )
+	- [Hidden Gems on Ali Express](https://youtu.be/VyqljSodp6k)
+	- [Marquees Brownlee Android Update](https://youtu.be/j7W2v_FmCuE)
+	- ["Hotspot texturing for the omnisiah"](https://youtu.be/qU7EjGv3iiE)
+	- 
 
 [](https://www.youtube.com/@Blargis3d)
+- https://learngitbranching.js.org/?locale=en_US
 - https://leetcode.com/problems/longest-common-prefix/description/
 - 3DP - "snap-fit joints"
 - https://wokwi.com/rust
