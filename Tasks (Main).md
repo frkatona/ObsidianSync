@@ -1,6 +1,7 @@
 # Today
 
 - Home
+	- Respond Jackie, Josh
 	- Silas arduino homework
 	- start the MURI report
 		- do Ben S or Tainara have details in the OneDrive?
