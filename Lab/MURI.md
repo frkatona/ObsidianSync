@@ -1,5 +1,6 @@
 
 ### Experimental conditions to try once we have samples
+- {**remember to weigh**}
 - single line (how far out does it reach?  what resolution do we have?  does it correspond to the same line made on a piece of steel or something under the same conditions?)
 - one-shot
 - defocused beam
@@ -16,10 +17,24 @@ Absorption mechanisms to explore:
 - avalanche ionization
 - photochemical initiation
 - substrate absorption
-
+- dielectric breakdown
+---
+### 10/15 Meeting Notes
+- Pre-notes
+	- Ask Ben S for a thin tube of precursor
+	- Discuss the paper
+- Annual review paper
+	- mostly will come from me and Tainara
+	- should be 1.5-2 pages
+	- probably like two figures: one is XRDs and the other is the laser processing
+	- wants it by "early next week" since he won't be able to look at anything this weekend
+- Rob - Ben S maybe transformed some PCD to boron carbide just from performing Raman spec (tough to say if there's no 'thermal' contribution because the Raman does heat the stage)
+- Adri/Rob/BenS discussed simulations with the monomer pertaining to their paper
+- Rob hooking me and Ben S up with Greg at Brookhaven who wants to do x-ray in-situ with the laser
+---
 ### 10/1 Meeting Notes
 - Ben S notes on the paper, discussing the decomposition mechanism with JP, seeking what is findable with TGA-mS
-
+---
 ### 9/24 Meeting Notes
 - Discuss
 	- laser param measurement
@@ -42,7 +57,7 @@ Absorption mechanisms to explore:
 - Ben L and Rob want to see the PCOD and (other) sample (before we even get known/uniform thickness) lased with a single line to see how that compares to the anodized Al sizes
 - Kevindi presented her CTEM Diffraction EELS cross section data (just for JP I think, it was from last week)
 - I present at the big MURI meeting the month after this one (Ben S is this one)
-
+---
 ### 9/17 Meeting Notes
 - Asma presentation
 	- simulated the PCD polymer change
@@ -62,6 +77,7 @@ Absorption mechanisms to explore:
 		- EELS map of cross section - Boron layer on the bottom ~1 micron, O2 on the top ~1 micron, Carbon distributed across, but with more in the top ~0.5 micron
 			- Rob - Si might be missing because it's tough to see with EELS, but we can go back over with EDS
 				- C tends to form at the top because of its low surface energy (Adri - carbon is a great surface former) 
+---
 ### 9/10 Meeting Notes
 - Ben S.: probably no laser stuff until the JP spin coating gets figured out...but no polymer until the glovebox problem gets figured out
 - Tainara SEM images
@@ -74,6 +90,7 @@ Absorption mechanisms to explore:
 - Ben Lear - etch metal to make sure that the size/focus is actually what we think it is (at least that the stock values are accurate, i.e., 100 um) 
 - JP - "the finest coating that would be considered functional is 5-10 microns"
 - Rob - try PCOD (precursor without boron cage) again
+---
 ### 9/4 Review summary notes
 - PDCs are advantageous because they tend to yield ceramics under more mild conditions than traditional powder-sintering routes (~500-1000 C vs ?) and are chemically versatile in the elements they incorporate and how they control their 
 - Ovens are still disadvantageous because they take a long time and ceramic systems are limited to heat-resistant substrates
@@ -85,7 +102,7 @@ Absorption mechanisms to explore:
 - Absorption challenges
 	- at 1064, Horcher et al (2024) added Al2O3/ZrO2 to their organosilazane to tune absorption 
 	- Wilden and Fisher (2007) mention that only thin coatings/fibers at slow ramp rates and long dwell times are possible because of (1) degassing during pyrolysis and (2) residual stresses within the components 
-
+---
 ### 9/3 PSU meeting notes
 - Rob - working on setting up monthly meetings
 - Ben S - made a spreadsheet to consolidate sample synthesis details, characterization, and results
@@ -103,7 +120,7 @@ Absorption mechanisms to explore:
 	- **send "energy density per pulse" to JP**
 - Rob - can we compare this to what other people made e.g. polycarbosilane...what are the differences
 - Ben L - once we can reliably get the thing we want, try in ambient atmosphere
-
+---
 ### 8/28 thoughts
 - Sample conditions
 	- repeat
@@ -116,6 +133,7 @@ Absorption mechanisms to explore:
 ### On-site notes
 - Alex brought up an interesting-sounding paper, something like "co2 laser rearrangement 33 sigmatropic shift multiphoton absorption ground state photochemistry"
 
+---
 ### 8/26 thoughts
 - should someone reach out to Rob for next meeting and the data labeling ideas
 - Ask Ben S about the sapphire substrate to help avoid shattering
