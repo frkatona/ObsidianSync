@@ -1,5 +1,6 @@
 # Today
 
+<<<<<<< HEAD
 - Work
 	- MURI
 		- start the MURI report (do Ben S or Tainara have details in the OneDrive?)
@@ -16,6 +17,15 @@
 			- lightbox
 			- thermometer
 		- try again PEGDA
+=======
+- Home
+	- Respond Jackie, Josh
+	- Silas arduino homework
+	- start the MURI report
+		- do Ben S or Tainara have details in the OneDrive?
+	- PURCHASES
+		- GM - hdmi adapter
+>>>>>>> origin/main
 	- check status of the reimbursement?
 - Home
 	- Been putting off
