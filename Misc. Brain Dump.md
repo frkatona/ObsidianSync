@@ -232,7 +232,8 @@ thinking of buying (removed from amazon cart)
 	- [Hidden Gems on Ali Express](https://youtu.be/VyqljSodp6k)
 	- [Marquees Brownlee Android Update](https://youtu.be/j7W2v_FmCuE)
 	- ["Hotspot texturing for the omnisiah"](https://youtu.be/qU7EjGv3iiE)
-	- 
+	- [Good React (js) tutorial](https://youtu.be/E8lXC2mR6-k) 
+	- [Computerphile SQL injection](https://youtu.be/ciNHn38EyRc)
 
 [](https://www.youtube.com/@Blargis3d)
 - https://learngitbranching.js.org/?locale=en_US
