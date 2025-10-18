@@ -1,4 +1,36 @@
-
+### Outer Wilds notes
+- Tasks
+	- look for underwater vault (presumably in the reservoir post-dam)
+	- explore nightmare world (hurry to explore before dam breaks)
+		- get tool first
+		- explore the second nightmare world that is above water post- dam
+	- get lantern for first building's slides 
+- Notes
+	- get to reservoir faster with the dolly in the first entrypoint
+- Longer-term questions
+	- what is newly accessible post-dam
+		- high-water downstream
+		- low-water around reservoir
+		- where do the two even out?
+		- can the wave be surfed?  (maybe that's why there's a boat in the reservoir)
+	- how to get to the building before the dam's baffles
+	- dam break questions
+		- when and why do the baffles come out
+		- what happens when the station shakes
+### Chord progression notes
+- Royal road
+	- IV - V - iii - vi
+- Diminished Dominant Creep-up
+	- I - bii(dim) - ii - V7
+	- (more broadly, to bridge any two chords a whole step apart)
+- Lonely heart
+	- I - bVI(7) - IV
+- Get to the FOUR (aka 'minor v variations')
+	- I | III7 | | vi | v - I7| IV
+	- IV | III | vi | v - I7 |
+	- ALSO add a passing bvi between vi and v
+- Transition1
+	- I - bIII - IV - V
 ### Database notes
 - "Key Value" database (most basic)
 	- fast (<ms), but limited space and no queries/joins/etc.

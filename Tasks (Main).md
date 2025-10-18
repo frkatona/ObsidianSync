@@ -1,15 +1,16 @@
 # Today
 
-<<<<<<< HEAD
 - Work
 	- MURI
-		- start the MURI report (do Ben S or Tainara have details in the OneDrive?)
+		- start the MURI report (share link in onedrive with Tainara)
 			- make images/icons
 			- remake the 100 um2 image updated to 50 um beam diameter
-			- white buildup
-			- reach out to Asbury group about laser power
-			- how have CO2 lasers been used in photothermal ceramic literature
-			- reach out to TJ about finding whatever parameter to simulate thermal transfer
+		- Is the "Ben Stovall" google photos album in the onedrive links doc?
+			- probably just move all images to the onedrive folder anyway
+		- white buildup
+		- reach out to Asbury group about laser power
+		- how have CO2 lasers been used in photothermal ceramic literature
+		- reach out to TJ about finding whatever parameter to simulate thermal transfer
 		- galvo laser power vs rep rate
 		- CO2 details
 		- PURCHASES
@@ -17,17 +18,9 @@
 			- lightbox
 			- thermometer
 		- try again PEGDA
-=======
 - Home
-	- Respond Jackie, Josh
-	- Silas arduino homework
-	- start the MURI report
-		- do Ben S or Tainara have details in the OneDrive?
-	- PURCHASES
-		- GM - hdmi adapter
->>>>>>> origin/main
-	- check status of the reimbursement?
-- Home
+	- Laundry
+	- Groceries (pick up provolone, oatmeal)
 	- Been putting off
 		- Gift realtor
 
