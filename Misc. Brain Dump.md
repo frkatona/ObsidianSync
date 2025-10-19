@@ -1,19 +1,15 @@
+
+Repair request for the humidifier and get gift
 ### Outer Wilds notes
 - Tasks
-	- look for underwater vault (presumably in the reservoir post-dam)
-	- explore nightmare world (hurry to explore before dam breaks)
-		- get tool first
-		- explore the second nightmare world that is above water post- dam
-	- get lantern for first building's slides 
+	- start with first house, put out its lights, go through alternative house to eliminate owls post dam
 - Notes
-	- get to reservoir faster with the dolly in the first entrypoint
+	- get to reservoir faster with the dolly in the first entry point
 - Longer-term questions
-	- what is newly accessible post-dam
-		- high-water downstream
-		- low-water around reservoir
-		- where do the two even out?
-		- can the wave be surfed?  (maybe that's why there's a boat in the reservoir)
-	- how to get to the building before the dam's baffles
+	- Nightmare world 1 - how do I not get caught at the trap house?
+	- can the wave be surfed?  (maybe that's why there's a boat in the reservoir)
+	- What's up with the bell vision from the end of nightmare house 2's boat ride?
+	- burnt pass on wall-mirror in the basement of nightmare crypt #2
 	- dam break questions
 		- when and why do the baffles come out
 		- what happens when the station shakes
