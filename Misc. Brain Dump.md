@@ -1,5 +1,13 @@
-
-Repair request for the humidifier and get gift
+- write paper (email Tainara about draft)
+- respond Zack
+- practice guitar part
+- send kody money
+- Repair request for the humidifier and get gift
+### John guitar for OMN (If You Could Only See (A#m) - "Raw But Defined")
+1. Instrumental
+	1. 3rd string: 5 (wiggle) - 10(s)8 - 13(s)15
+2. Pre-chorus
+	1. 2nd string, 4th fret  + 3rd string octave bend
 ### Outer Wilds notes
 - Tasks
 	- start with first house, put out its lights, go through alternative house to eliminate owls post dam
@@ -25,6 +33,8 @@ Repair request for the humidifier and get gift
 	- I | III7 | | vi | v - I7| IV
 	- IV | III | vi | v - I7 |
 	- ALSO add a passing bvi between vi and v
+- Line cliche
+	- vi - bVI+ - I 6/4 - \#iv^o - IV
 - Transition1
 	- I - bIII - IV - V
 ### Database notes
