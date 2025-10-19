@@ -1,8 +1,12 @@
 # Today
 
-<<<<<<< HEAD
 - Work
+
 	- MURI
+		- Annual Report
+			- Ask Yuki when she's meeting with Ben to discuss the figures
+			- Tell Tainara about my draft in the onedrive
+			- Ask Ben S if we should all combine, and also for video link, and also for sample for TPP
 		- start the MURI report (do Ben S or Tainara have details in the OneDrive?)
 			- make images/icons
 			- remake the 100 um2 image updated to 50 um beam diameter
@@ -17,22 +21,13 @@
 			- lightbox
 			- thermometer
 		- try again PEGDA
-=======
 - Home
-	- Respond Jackie, Josh
-	- Silas arduino homework
 	- start the MURI report
 		- do Ben S or Tainara have details in the OneDrive?
-	- PURCHASES
-		- GM - hdmi adapter
->>>>>>> origin/main
 	- check status of the reimbursement?
-- Home
 	- Been putting off
 		- Gift realtor
 
-- Talk to Ben S about the paper, follow up with Tainara about XRD
-- Emma purchasing
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice
 	- Zack/Martina wedding details
