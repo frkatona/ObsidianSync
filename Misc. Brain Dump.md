@@ -3,7 +3,7 @@
 - practice guitar part
 - send kody money
 - Repair request for the humidifier and get gift
-### John guitar for OMN (If You Could Only See (A#m) - "Raw But Defined")
+### John guitar for OMN (If You Could Only See (A#m) - "Raw But Defined" - [UG link](https://tabs.ultimate-guitar.com/tab/tonic/if-you-could-only-see-chords-389994))
 1. Instrumental
 	1. 3rd string: 5 (wiggle) - 10(s)8 - 13(s)15
 2. Pre-chorus
