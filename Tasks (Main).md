@@ -19,6 +19,7 @@
 			- thermometer
 		- try again PEGDA
 - Home
+	- Venmo 108 from Chelsea (Nov. internet) and 900 to Chelsea (Nov. rent) 
 	- Laundry
 	- Groceries (pick up provolone, oatmeal)
 	- Been putting off

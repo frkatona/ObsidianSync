@@ -210,10 +210,17 @@ thinking of buying (removed from amazon cart)
 	 - older anime
 		 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
  - Play 
-	 - [ ] Outer Wilds DLC
+	 - [ ] Hades
+	 - [ ] Hollow Knight --> Silksong
+	 - [ ] Undertale --> Deltarune
+	 - [ ] Darkest Dungeon
+	 - [ ] Rain World
+	 - [ ] Return of the Obra Dinn
  - Code
+	 - [ ] Song scroller with more complete feature set and UI
 	 - [ ] Color grade with sliders in Marimo
 ### Closed Tabs
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
 - what is `pip install -e`?
@@ -272,6 +279,8 @@ thinking of buying (removed from amazon cart)
 	- ["Hotspot texturing for the omnisiah"](https://youtu.be/qU7EjGv3iiE)
 	- [Good React (js) tutorial](https://youtu.be/E8lXC2mR6-k) 
 	- [Computerphile SQL injection](https://youtu.be/ciNHn38EyRc)
+	- [making digitcore sounds Vital](https://youtu.be/y4w_mNuhxmw)
+	- 
 
 [](https://www.youtube.com/@Blargis3d)
 - https://learngitbranching.js.org/?locale=en_US
