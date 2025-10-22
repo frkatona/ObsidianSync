@@ -1,4 +1,42 @@
----
+- write paper (email Tainara about draft)
+- respond Zack
+- practice guitar part
+- send kody money
+- Repair request for the humidifier and get gift
+### John guitar for OMN (If You Could Only See (A#m) - "Raw But Defined" - [UG link](https://tabs.ultimate-guitar.com/tab/tonic/if-you-could-only-see-chords-389994))
+1. Instrumental
+	1. 3rd string: 5 (wiggle) - 10(s)8 - 13(s)15
+2. Pre-chorus
+	1. 2nd string, 4th fret  + 3rd string octave bend
+### Outer Wilds notes
+- Tasks
+	- start with first house, put out its lights, go through alternative house to eliminate owls post dam
+- Notes
+	- get to reservoir faster with the dolly in the first entry point
+- Longer-term questions
+	- Nightmare world 1 - how do I not get caught at the trap house?
+	- can the wave be surfed?  (maybe that's why there's a boat in the reservoir)
+	- What's up with the bell vision from the end of nightmare house 2's boat ride?
+	- burnt pass on wall-mirror in the basement of nightmare crypt #2
+	- dam break questions
+		- when and why do the baffles come out
+		- what happens when the station shakes
+### Chord progression notes
+- Royal road
+	- IV - V - iii - vi
+- Diminished Dominant Creep-up
+	- I - bii(dim) - ii - V7
+	- (more broadly, to bridge any two chords a whole step apart)
+- Lonely heart
+	- I - bVI(7) - IV
+- Get to the FOUR (aka 'minor v variations')
+	- I | III7 | | vi | v - I7| IV
+	- IV | III | vi | v - I7 |
+	- ALSO add a passing bvi between vi and v
+- Line cliche
+	- vi - bVI+ - I 6/4 - \#iv^o - IV
+- Transition1
+	- I - bIII - IV - V---
 
 ---
 Yuki Notes
@@ -253,7 +291,8 @@ thinking of buying (removed from amazon cart)
 	- [Hidden Gems on Ali Express](https://youtu.be/VyqljSodp6k)
 	- [Marquees Brownlee Android Update](https://youtu.be/j7W2v_FmCuE)
 	- ["Hotspot texturing for the omnisiah"](https://youtu.be/qU7EjGv3iiE)
-	- 
+	- [Good React (js) tutorial](https://youtu.be/E8lXC2mR6-k) 
+	- [Computerphile SQL injection](https://youtu.be/ciNHn38EyRc)
 
 [](https://www.youtube.com/@Blargis3d)
 - https://learngitbranching.js.org/?locale=en_US
