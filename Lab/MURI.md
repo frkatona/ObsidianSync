@@ -19,6 +19,17 @@ Absorption mechanisms to explore:
 - substrate absorption
 - dielectric breakdown
 ---
+### 10/22 Meeting Notes
+- Pre-notes
+	- anything left to edit for the review paper?
+	- ask Ben S about samples (PCOD he talked about, PCD thick, and spin-coated PCD)
+- Notes
+	- remind Ben S to give me sample before he leaves
+	- Ben S and Tainara are running TGA DSC on something for kinetics
+	- spin coating has progressed, need to figure out who to talk to about ellipsometry
+	- Next week, no Rob (not meeting?)
+		- week after, we'll discuss laser images to try to nail down paper content
+
 ### 10/15 Meeting Notes
 - Pre-notes
 	- Ask Ben S for a thin tube of precursor
