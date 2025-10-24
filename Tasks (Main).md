@@ -3,7 +3,7 @@
 - Work
 	- rotators
 		- respond to one looking to start this week
-		- remind Ben to check the availability poll
+		- remind Ben to put the zoom meeting in his calendar
 	- MURI
 		- Ben sample (PCOD, spin coating updates, thick sample)
 		- Tainara XRD
