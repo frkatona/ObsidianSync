@@ -36,7 +36,28 @@
 - Line cliche
 	- vi - bVI+ - I 6/4 - \#iv^o - IV
 - Transition1
-	- I - bIII - IV - V
+	- I - bIII - IV - V---
+
+---
+Yuki Notes
+- general
+	- asasdf
+
+Slides
+1. ONR wants better high temperature materials
+	1. (story) lots of talking about stuff before I care about it
+2. Thermal protection challenges underly this interest
+	1. (story) turbojet vs ramjet - unclear what the point is
+		1. is the whole point to show that things get hot?
+		2. (clarified that it's to show that there are reasons for both UHTCs and the more modest capabilities of B4C)
+		3. Kristen's point: "delete 2000K"
+3. Carbide ceramics are a good starting point
+	1. Ben's point: "remake the melting temperature chart, but add lines to show where the engines lie on the chart"
+4. B4C 
+	1. Kristen's question "what is 15R"?
+5. There are constraints on how we apply ceramic coatings today
+6. Photothermal heat may offer a solution
+7. 
 ### Database notes
 - "Key Value" database (most basic)
 	- fast (<ms), but limited space and no queries/joins/etc.

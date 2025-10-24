@@ -4,10 +4,12 @@ Yeah, I remember thinking at some point last year that AI is in a perfect spot w
 
 
 - Work
+	- rotators
+		- respond to one looking to start this week
+		- remind Ben to check the availability poll
 	- MURI
-		- start the MURI report (share link in onedrive with Tainara)
-			- make images/icons
-			- remake the 100 um2 image updated to 50 um beam diameter
+		- Ben sample (PCOD, spin coating updates, thick sample)
+		- Tainara XRD
 		- Is the "Ben Stovall" google photos album in the onedrive links doc?
 			- probably just move all images to the onedrive folder anyway
 		- white buildup
@@ -22,30 +24,16 @@ Yeah, I remember thinking at some point last year that AI is in a perfect spot w
 			- thermometer
 		- try again PEGDA
 - Home
+	- respond Zack
 	- Venmo 108 from Chelsea (Nov. internet) and 900 to Chelsea (Nov. rent) 
-	- Laundry
-	- Groceries (pick up provolone, oatmeal)
 	- Been putting off
 		- Gift realtor
 
-- Talk to Ben S about the paper, follow up with Tainara about XRD
-- Emma purchasing
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice
-	- Zack/Martina wedding details
-		- registry
-		- airbnb? hotel? car? driving back?
-		- Ponyo?  Jess?
-	- Abi party ponyo plans
 	- Music
-		- band practice
-			- picking something up for food/drink 
-			- ask to sing in choir bit on Coverup Song
-			- what are we hoping to accomplish?  in what time?
-				- when does Sid need back?  Is Seana going to Wine Co.?  Will I be out by 8 for Warhammer?
-			- should we practice less often?
-			- offer tomatoes
-			- explore sharing maestro phone app projects
+		- ask to sing in choir bit on Coverup Song
+		- explore sharing maestro phone app projects
 - Work
 	- For MURI meeting
 		- Check Tainara's scan rates email to see if I can correct anything
