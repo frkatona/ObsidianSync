@@ -1,5 +1,8 @@
 # Today
 
+Yeah, I remember thinking at some point last year that AI is in a perfect spot where it gets you started, but it's still lacking when you're approaching the project complexity where the satisfaction of struggling for productive creativity really starts to emerge.  But it still hasn't gotten to the point where it doesn't need a steady 
+
+
 - Work
 	- rotators
 		- respond to one looking to start this week
