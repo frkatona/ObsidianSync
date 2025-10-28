@@ -2,18 +2,24 @@
 
 ---
 ### Lab
-- [ ] take Alex sample to Tainara
-	- [ ] send her details of the material and preparation
-- [ ] begin writing report with Ben S and Tainara
-- [ ] Respond to Silas coding
 - [ ] Send purchases to Emma
 - UFBB thermometer work
 	- [x] set up basic version
 	- [ ] troubleshoot bandwidth problem
 - [ ] Get CO2 laser set up
+- [ ] Review MURI folder papers
+- [ ] Dr. Maslak about chemistry game
+---
+### 10/23 Group Meeting
+- to-do
+	- talk about CO2 laser
+	- ask Ben about photos 
+		- how much can I spend on lightbox, lens
+		- does he have a good example
+	- tell 
+- Yuki presentation notes
+	- 
 
-- Review MURI folder papers
-- Dr. Maslak about chemistry game
 ---
 ### 10/9 Group Meeting
 - Buy HDMI USB-C adapter?

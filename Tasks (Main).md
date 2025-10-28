@@ -26,25 +26,22 @@ before presentation
 - read papers
 
 - Work
-	- rotators
-		- respond to one looking to start this week
-		- remind Ben to check the availability poll
+
 	- MURI
-		- Ben sample (PCOD, spin coating updates, thick sample)
-		- Tainara XRD
-		- Is the "Ben Stovall" google photos album in the onedrive links doc?
-			- probably just move all images to the onedrive folder anyway
-		- white buildup
+		- check lightburn default pulse width
+		- think on variable light transmittance example for Yuki's comps
 		- reach out to Asbury group about laser power
 		- how have CO2 lasers been used in photothermal ceramic literature
 		- reach out to TJ about finding whatever parameter to simulate thermal transfer
 		- galvo laser power vs rep rate
-		- CO2 details
+		- CO2 laser details
 		- PURCHASES
 			- gas/chamber
 			- lightbox
 			- thermometer
 		- try again PEGDA
+	- remind Ben to put the zoom meeting in his calendar
+	- find a better local microcontroller simulator for Silas (https://all3dp.com/2/best-arduino-simulators-online-offline/)
 - Home
 	- respond Zack
 	- message Seana
