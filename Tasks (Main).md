@@ -1,7 +1,29 @@
 # Today
 
-Yeah, I remember thinking at some point last year that AI is in a perfect spot where it gets you started, but it's still lacking when you're approaching the project complexity where the satisfaction of struggling for productive creativity really starts to emerge.  But it still hasn't gotten to the point where it doesn't need a steady 
+- ask ben where the raman heat cell thing is 
+- 
+- add yt videos to phone
+- pack
+	- bed (inflatable mattress)
+	- bedding (blanket/pillows)
+	- toothbrush, deoderant, adderall
+	- soylent
+	- drumsticks
+	- surface
+	- flask
+	- computer (interface? speaker?)
+	- costume
 
+- Respond Zack
+- Laundry (start now)
+- ytmp3 downloads to phone
+
+before presentation
+- learn default pulse width
+- learn temperature (get bluetooth set up with esp32 and the temperature sensor)
+- figure out CO2 laser operational details
+- try PEGDA in the gas chamber (with/without thermal paste)
+- read papers
 
 - Work
 	- rotators
@@ -25,6 +47,7 @@ Yeah, I remember thinking at some point last year that AI is in a perfect spot w
 		- try again PEGDA
 - Home
 	- respond Zack
+	- message Seana
 	- Venmo 108 from Chelsea (Nov. internet) and 900 to Chelsea (Nov. rent) 
 	- Been putting off
 		- Gift realtor

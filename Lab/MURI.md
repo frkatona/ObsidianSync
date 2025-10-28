@@ -19,6 +19,35 @@ Absorption mechanisms to explore:
 - substrate absorption
 - dielectric breakdown
 ---
+### 10/27 Presentation Notes
+- [x] PCOD - un-functionalized PCD
+- [ ] purchases?
+- [ ] re-made irradiance value from the doc figure
+- [ ] considering BB thermometer, maybe just get the band filters and a ADC and don't worry about calibration/verification
+
+- Outline
+	- Background
+		- desired ending materials
+		- why lasers (pyrolysis usually needs 1650 C)
+			- substrate sensitivity
+			- speed
+			- reduced complexity
+		- why these starting materials
+			- polymeric - (1) control in processing, e.g. foldability; additive manufacturing; (2) control of  atomic proximity
+	- Techniques
+		- literature where people used lasers
+		- types of lasers
+	- Results
+		- B4C conversion
+	- Discussion
+		- mechanism (both in general and for B4C)
+			- literature discussions
+			- possibilities (non-linear, athermal, etc.)
+			- ways of testing
+	- Future
+		- Current studies limited by thickness control --> Spin coating
+		- Blackbody thermometer
+
 ### 10/22 Meeting Notes
 - Pre-notes
 	- anything left to edit for the review paper?

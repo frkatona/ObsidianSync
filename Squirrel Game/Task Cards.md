@@ -17,10 +17,9 @@ kanban-plugin: board
 ## In-Progress
 
 - [ ] audio - more overworld tracks
-- [ ] [ ] audio - develop city/forest motif
+- [ ] [ ] [ ] audio - develop city/forest motif
 	<<<<<<< HEAD
 	=======
-- [ ] audio - more overworld tracks
 
 
 ## Done
