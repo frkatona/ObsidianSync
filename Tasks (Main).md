@@ -1,22 +1,18 @@
 # Today
-
-- ask ben where the raman heat cell thing is 
-- 
-- add yt videos to phone
-- pack
-	- bed (inflatable mattress)
-	- bedding (blanket/pillows)
-	- toothbrush, deoderant, adderall
-	- soylent
-	- drumsticks
-	- surface
-	- flask
-	- computer (interface? speaker?)
-	- costume
+- MURI meeting 
+- ask ben where the Raman heat cell thing is
+- purchases
+	- add on cheap NMR tubes
+	- and 3.3 V thermocouple - https://www.amazon.com/HiLetgo-MAX6675-Thermocouple-Temperature-Arduino/dp/B01HT871SO/ref=sr_1_1?sr=8-1
+- Look into oxidants etc. from Ben meeting
+- follow up with Asbury student
+	- once I have power meter, place PCD above it
+	- or just use power detector with the YAG and use a thermocouple
 
 - Respond Zack
-- Laundry (start now)
-- ytmp3 downloads to phone
+- mail in ballots --> vote Marie's candidate (Judge Brandon Neuman for Superior Corut)
+
+
 
 before presentation
 - learn default pulse width
@@ -44,10 +40,11 @@ before presentation
 	- find a better local microcontroller simulator for Silas (https://all3dp.com/2/best-arduino-simulators-online-offline/)
 - Home
 	- respond Zack
-	- message Seana
 	- Venmo 108 from Chelsea (Nov. internet) and 900 to Chelsea (Nov. rent) 
 	- Been putting off
 		- Gift realtor
+		- maintenance request for back door and basement outlet
+		- wd40 gate
 
 	- schedule Ben lethal company
 	- Amazon CO2 tank OR find a place to buy dry ice

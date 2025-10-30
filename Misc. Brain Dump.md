@@ -1,26 +1,3 @@
-- write paper (email Tainara about draft)
-- respond Zack
-- practice guitar part
-- send kody money
-- Repair request for the humidifier and get gift
-### John guitar for OMN (If You Could Only See (A#m) - "Raw But Defined" - [UG link](https://tabs.ultimate-guitar.com/tab/tonic/if-you-could-only-see-chords-389994))
-1. Instrumental
-	1. 3rd string: 5 (wiggle) - 10(s)8 - 13(s)15
-2. Pre-chorus
-	1. 2nd string, 4th fret  + 3rd string octave bend
-### Outer Wilds notes
-- Tasks
-	- start with first house, put out its lights, go through alternative house to eliminate owls post dam
-- Notes
-	- get to reservoir faster with the dolly in the first entry point
-- Longer-term questions
-	- Nightmare world 1 - how do I not get caught at the trap house?
-	- can the wave be surfed?  (maybe that's why there's a boat in the reservoir)
-	- What's up with the bell vision from the end of nightmare house 2's boat ride?
-	- burnt pass on wall-mirror in the basement of nightmare crypt #2
-	- dam break questions
-		- when and why do the baffles come out
-		- what happens when the station shakes
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
@@ -57,7 +34,8 @@ Slides
 	1. Kristen's question "what is 15R"?
 5. There are constraints on how we apply ceramic coatings today
 6. Photothermal heat may offer a solution
-7. 
+
+---
 ### Database notes
 - "Key Value" database (most basic)
 	- fast (<ms), but limited space and no queries/joins/etc.
@@ -69,7 +47,7 @@ Slides
 	- scheme
 - mysql under youtube and facebook
 
-
+---
 ### 10/10 Nabankur meeting
 - has met with Alex and (?) and ran some simulations and wanted to talk about what we're up to
 - 1
