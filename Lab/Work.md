@@ -10,6 +10,20 @@
 - [ ] Review MURI folder papers
 - [ ] Dr. Maslak about chemistry game
 ---
+### 10/28 Serenity Meeting
+- Ben ideas for solution phase photothermal experiments
+	- amide formation (amine + carboxylic acid using photothermal agent)
+		- of major interest to pharma companies
+		- start with maybe acetic acid, maybe any primary or secondary amine would be fine
+		- agent maybe CB... doesn't matter that it wouldn't
+	- dispersed systems like how Nate was oxidizing CB to dissolve in water (reflux it in nitric acid)
+		- take graphene and an oxidant more mild than nitric acid and lase that to see if it'll oxidize photothermally --> see if we get any graphene oxide signatures (check nate's thesis, ben thinks he just looked at IR for carbonyl stretches)
+		- mindful of forming NO2 and NO if we use nitric acid 
+	- to-do
+		- buy some cheap NMR tubes (or ask kristen if there are many cheapies lying around) to see what conditions explode them
+		- get serenity trained on NMR
+		- read Nate's thesis for graphene and general literature for good oxides and other reactants
+
 ### 10/23 Group Meeting
 - to-do
 	- talk about CO2 laser

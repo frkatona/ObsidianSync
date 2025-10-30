@@ -1,3 +1,19 @@
+- ### 2025-10-28 Minigame Notes
+	- think on fishing game as per Kaya's 10/28 message in the development channel
+	- card game
+		- fix
+			- how to get a background box not interfere with the click
+			- make only the top card clickable (can't click multiple cards at once)
+				- or make them spawn further away from each other
+		- distinguish between cards
+			- e.g., assign number to center of the card's graphic
+		- maintain state for the game (what  cards in what hand)
+		- 
+		- aesthetics
+			- make card sprites animate
+				- a pixelated character moves inside with other sprite frames?
+				- animated gshader material?
+
 
 - ### 2025-10-20 Meeting
 	- note to self:
