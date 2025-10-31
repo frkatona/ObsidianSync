@@ -1,19 +1,3 @@
-10/29 Yuki Notes
-- Tainara's diffusion equation
-- Manuscript (figure bank)
-	- spin coating + thickness
-	- characterization
-	- laser parameters
-	- multiple substrates (glass, sapphire, polymer, air (?), carbon)
-	- schematic of laser system
-- Six figures
-	- schematic
-	- threshold thickness
-	- laser parameter matrix
-		- (x2, including microscopy/misc. imaging/periodicity)
-	- different substrates
-	- characterizing substrates (microstructure at the interface)
-	- show difference with conventional (like glass melts or coat in polymer and it warps)
 
 ### Chord progression notes
 - Royal road
