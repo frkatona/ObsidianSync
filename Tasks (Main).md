@@ -2,8 +2,9 @@
 - MURI meeting 
 - ask ben where the Raman heat cell thing is
 - purchases
-	- add on cheap NMR tubes
-	- and 3.3 V thermocouple - https://www.amazon.com/HiLetgo-MAX6675-Thermocouple-Temperature-Arduino/dp/B01HT871SO/ref=sr_1_1?sr=8-1
+	- [x] add on cheap NMR tubes (got them from upstairs)
+	- [ ] and 3.3 V thermocouple - https://www.amazon.com/HiLetgo-MAX6675-Thermocouple-Temperature-Arduino/dp/B01HT871SO/ref=sr_1_1?sr=8-1
+	- [ ] camera tripod - https://www.amazon.com/Auleda-Camera-Aluminum-Compatible-Wireless/dp/B0DKJFW6Q8/ref=sr_1_6?crid=STCWEY61ZAH3&dib=eyJ2IjoiMSJ9.91URRfK3WPQLOc1RYDMf1PYzeZft2opJDnimrOudm1TIOPbfQgIhN9bA4zX5_8Ky-Pp35rwnCGzZDqopfI0V21XyhxY1l9_oGGGG1uJEwjpulufAb-kGaSE6W0LUkSYsgDi-hKXUMGAlZ8j8u4AmNaU4ih3nHuBRzMW0QqhU3WfdWcdQNw2iDJIWxo633YBdZZJsWNLW9UUDrNNA1Zdv1u8i_-McTHMXsbxnsRBrAWo.I_RRKVq1JqLgyOgZ38C-8QaB1vzVk4JG1GK3T2Yl0pk&dib_tag=se&keywords=camera+tripod&qid=1761754690&sprefix=camera+tripod%2Caps%2C133&sr=8-6
 - Look into oxidants etc. from Ben meeting
 - follow up with Asbury student
 	- once I have power meter, place PCD above it

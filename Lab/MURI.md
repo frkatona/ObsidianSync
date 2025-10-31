@@ -47,7 +47,7 @@ Absorption mechanisms to explore:
 	- Future
 		- Current studies limited by thickness control --> Spin coating
 		- Blackbody thermometer
-
+---
 ### 10/22 Meeting Notes
 - Pre-notes
 	- anything left to edit for the review paper?
@@ -58,7 +58,7 @@ Absorption mechanisms to explore:
 	- spin coating has progressed, need to figure out who to talk to about ellipsometry
 	- Next week, no Rob (not meeting?)
 		- week after, we'll discuss laser images to try to nail down paper content
-
+---
 ### 10/15 Meeting Notes
 - Pre-notes
 	- Ask Ben S for a thin tube of precursor
