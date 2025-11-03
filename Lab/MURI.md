@@ -18,6 +18,24 @@ Absorption mechanisms to explore:
 - photochemical initiation
 - substrate absorption
 - dielectric breakdown
+
+---
+### 10/29 MURI Meeting Notes (just AK, TC, BS, YF)
+- Tainara's diffusion equation
+- Manuscript - possible figures
+	- spin coating + thickness
+	- characterization
+	- laser parameters
+	- multiple substrates (glass, sapphire, polymer, air (?), carbon)
+	- schematic of laser system
+- Candidate figure order
+	1) schematic
+	2) threshold thickness
+	3) laser parameter matrix
+	4) including microscopy/misc. imaging/periodicity)
+	5) different substrates
+	6) characterizing substrates (microstructure at the interface)
+	7) show difference with conventional (like glass melts or coat in polymer and it warps)
 ---
 ### 10/27 Presentation Notes
 - [x] PCOD - un-functionalized PCD
@@ -47,7 +65,7 @@ Absorption mechanisms to explore:
 	- Future
 		- Current studies limited by thickness control --> Spin coating
 		- Blackbody thermometer
-
+---
 ### 10/22 Meeting Notes
 - Pre-notes
 	- anything left to edit for the review paper?
@@ -58,7 +76,7 @@ Absorption mechanisms to explore:
 	- spin coating has progressed, need to figure out who to talk to about ellipsometry
 	- Next week, no Rob (not meeting?)
 		- week after, we'll discuss laser images to try to nail down paper content
-
+---
 ### 10/15 Meeting Notes
 - Pre-notes
 	- Ask Ben S for a thin tube of precursor
