@@ -10,6 +10,12 @@
 - [ ] Review MURI folder papers
 - [ ] Dr. Maslak about chemistry game
 ---
+### 11/3 Serenity Meeting
+- Nate's thesis talks about the CB:OH oxidizing reaction (capralactone) around page 71
+	- look for the Sn(oct)2 and capralactone
+	- find nitric acid (65%) (procedure "adapted from Li et al (ref. 85)), sonicating 5 g CB and 50 mL 65% nitric acid for 30 min then refluxing at 100 C for 24h (care for orange NOx vapors)...then cooling ot room temp and adding 50 mL distilled water to CB-COOH and vacuum filtering  
+	- try ATR for CB
+
 ### 10/28 Serenity Meeting
 - Ben ideas for solution phase photothermal experiments
 	- amide formation (amine + carboxylic acid using photothermal agent)

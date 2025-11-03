@@ -1,5 +1,4 @@
 # Today
-- MURI meeting 
 - ask ben where the Raman heat cell thing is
 - purchases
 	- [x] add on cheap NMR tubes (got them from upstairs)
