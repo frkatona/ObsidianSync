@@ -9,13 +9,14 @@
 	- once I have power meter, place PCD above it
 	- or just use power detector with the YAG and use a thermocouple
 
-- sign patents
+- sign patents (read recent email)
+- watch kaya video
 - Respond Zack, Harry (esp32/acid day...not saturday except morning)
 - pay mtnittany bills
 - refill Ar/H2 cylinder
 - Take gift card to realtor
 - check around prices for insurance
-- reach out to Imran about practicing (possibly show on Nov 21?  Did he reach out?)
+- reach out to Imran about lunch
 - Find the MIDI-DMX adapter...think on how to best control the Arena DMX
 
 before presentation
