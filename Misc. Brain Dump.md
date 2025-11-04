@@ -1,20 +1,5 @@
 
-### Joan MIDI
-- message
-	- aw I should've brought my extra FCB1010 controller to lend you.  Though it is for sure its own set of headaches programming its outputs.  
-- scripting
-	- ideas
-		- existing software to send DMX programs with mouse + keyboard
-		- existing software to send DMX programs with MIDI input + MIDI sends from FL 
-		- VFX script -> Z-game editor
-			- [x] step 1: get a knob to go to a set value on MIDI key press
-			- [ ] step 2: get it to decay down to a resting value
 
-respond Kaya, Zack
-Take gift card to realtor
-respond to Serenity about Monday rotation
-check around prices for insurance
-reach out to Imran about practicing (possibly show on Nov 21?  Did he reach out?)
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi

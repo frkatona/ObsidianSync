@@ -9,10 +9,14 @@
 	- once I have power meter, place PCD above it
 	- or just use power detector with the YAG and use a thermocouple
 
-- Respond Zack
-- mail in ballots --> vote Marie's candidate (Judge Brandon Neuman for Superior Corut)
-
-
+- sign patents
+- Respond Zack, Harry (esp32/acid day...not saturday except morning)
+- pay mtnittany bills
+- refill Ar/H2 cylinder
+- Take gift card to realtor
+- check around prices for insurance
+- reach out to Imran about practicing (possibly show on Nov 21?  Did he reach out?)
+- Find the MIDI-DMX adapter...think on how to best control the Arena DMX
 
 before presentation
 - learn default pulse width
@@ -22,7 +26,6 @@ before presentation
 - read papers
 
 - Work
-
 	- MURI
 		- check lightburn default pulse width
 		- think on variable light transmittance example for Yuki's comps

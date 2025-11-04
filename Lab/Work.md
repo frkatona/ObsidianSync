@@ -10,6 +10,25 @@
 - [ ] Review MURI folder papers
 - [ ] Dr. Maslak about chemistry game
 ---
+
+### 11/3 closed tabs
+- Papers
+	- [(2022) - Defected-assisted nonlinear absorption...](https://www.sciencedirect.com/science/article/pii/S0022231321006566?fr=RR-2&ref=pdf_download&rr=9885445648a7f939)
+- wiki/google/terms
+	- tunable laser, Fabry-Perot Interferometer, Electron Avalanche, Corona Discharge, Nonlinear Optics, Electrical Breakdown, Fiber Laser, Optical Amplifier, Laser Diode, Flash Photolysis
+- COMSOL - [Diffusion Length and Timescales](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer)
+
+### 11/3 Li Chen Coding Notes
+- Exercise: Palindrome
+	- Looping (while --> for --> nesting)
+	- Arrays
+	- print vs println
+		- just using the w3schools, so "cout"
+
+- (Exercise - more variable control)
+- Exercise: Fibonacci
+
+
 ### 11/3 Serenity Meeting
 - Nate's thesis talks about the CB:OH oxidizing reaction (capralactone) around page 71
 	- look for the Sn(oct)2 and capralactone
