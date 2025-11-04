@@ -9,10 +9,7 @@
 	- once I have power meter, place PCD above it
 	- or just use power detector with the YAG and use a thermocouple
 
-- Respond Zack
-- mail in ballots --> vote Marie's candidate (Judge Brandon Neuman for Superior Corut)
-
-
+- Respond Zack, Imran
 
 before presentation
 - learn default pulse width
@@ -22,7 +19,6 @@ before presentation
 - read papers
 
 - Work
-
 	- MURI
 		- check lightburn default pulse width
 		- think on variable light transmittance example for Yuki's comps
