@@ -20,6 +20,16 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 11/5 MURI Meeting Notes (no JP or Ben L)
+- start - Adri and Rob talking about paper being submitted
+- Ben S paper figure outline
+	- Rob has suggestions
+		- Figure 1: throw in SEM ("here's B4C (XRD & SEM), we made it") 
+		- Figure 2: sample properties, e.g. thickness
+		- Figure 3: maybe mechanism; maybe simulation
+		- Figure 4: different substrates
+		- Figure 5: Ben S was thinking to compare to if you tried (and failed) with conventional heating on sensitive substrates...Rob says 'maybe doesn't fit for the main text', though I thought he was the one that wanted something like that as special flashy spin for the paper, so I'm not sure
+---
 ### 10/29 MURI Meeting Notes (just AK, TC, BS, YF)
 - Tainara's diffusion equation
 - Manuscript - possible figures
