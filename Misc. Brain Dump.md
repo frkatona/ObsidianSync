@@ -18,7 +18,7 @@
 	- I - bIII - IV - V---
 
 ---
-### Games to play
+### Games to finally play/beat
 - Clair Obscur: Expedition 33
 - Heroes of Might and Magic
 - Silksong
@@ -32,6 +32,7 @@
 - Shovel Knight
 - Doom Eternal
 - Disco Elysium
+- Hotline Miami
 
 ---
 ### Yuki Practice Talk Notes
