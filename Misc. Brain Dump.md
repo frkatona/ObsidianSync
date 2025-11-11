@@ -18,9 +18,23 @@
 	- I - bIII - IV - V---
 
 ---
-Yuki Notes
-- general
-	- asasdf
+### Games to play
+- Clair Obscur: Expedition 33
+- Heroes of Might and Magic
+- Silksong
+- Balatro
+- Animal Well
+- Undertale -> Deltarune
+- Satisfactory
+- Helldivers 2
+- Octopath Traveler
+- Stray
+- Shovel Knight
+- Doom Eternal
+- Disco Elysium
+
+---
+### Yuki Practice Talk Notes
 
 Slides
 1. ONR wants better high temperature materials
