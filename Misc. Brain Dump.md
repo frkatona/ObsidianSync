@@ -16,12 +16,10 @@
 	- vi - bVI+ - I 6/4 - \#iv^o - IV
 - Transition1
 	- I - bIII - IV - V---
+- Tritone subs
+- Using parallel modes for mode mixture
 
 ---
-Yuki Notes
-- general
-	- asasdf
-
 Slides
 1. ONR wants better high temperature materials
 	1. (story) lots of talking about stuff before I care about it
@@ -286,6 +284,8 @@ thinking of buying (removed from amazon cart)
 	- [Dan Worral - Transient Designers](https://youtu.be/cCGwZ7Re4VU)
 	- [Inside Hades 3D Designing](https://youtu.be/cYJ6d1ifSqA)
 	- [iphone17 pro teardown](https://youtu.be/O2hSlsvB8nA)
+	- [free DMX lighting controller software](https://www.youtube.com/shorts/pliVPYhEPmw?feature=share)
+		- also "lighting for a band" for how key/fill/side/rear lights are usually placed and which ones are best stylized with patterns and colors
 	- 
 
 [](https://www.youtube.com/@Blargis3d)
