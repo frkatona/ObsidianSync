@@ -20,6 +20,28 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 11/12 MURI Meeting Notes (no JP)
+- Seyedmahmoud's ppt: "Shooting Zr in Methane + Oxygen Molecules - NVE Simulations"
+	- Zr atoms at mach 3, T = 500, 800, and 1000 K to make different structures at ~600 ps steps
+	- after ~100 ps, the curvature changes and the 800K ends up at slightly higher final temp (not 1000 K for some reason)
+	- PE diagram (asdf)
+	- Zr-C and Zr-O bonds at 600 ps (didn't catch the relationship)
+	- RDF Diagram (idk what this means)
+- Ben S says he and Tainara may have figured out constant thicknesses
+	- Tainara says she's having charge problems though
+- Ben S says he wants to hand over some PCOD to lase again
+	- note to self: check the balanced Ar levels
+- Ben S and Rob want to try testing as a high-T adhesive (polymer sticking slides together)
+	- why glass and not sapphire?  (nvm, rob says we're doing sapphire)
+	- Rob wants to also explore the composition down the cross section (suspects a carbon rich surface with BC4 underneath)
+		- discussion about doing Raman; FIB and EDS
+		- Tainara says about 3 um for FIB, Ben L says FIB might take hours so caution
+- Ben L talking about other paper scope and discussion points
+	- exploring mechanism
+		- if there are interwoven components in the polymer then the laser could blow them away while the furnace slow-ramp maintains them
+	- patterning (remember Konstatinou TPP PDC paper with 400 nm line widths)
+	- Maybe make another box to fc
+---
 ### 11/5 MURI Meeting Notes (no JP or Ben L)
 - start - Adri and Rob talking about paper being submitted
 - Ben S paper figure outline
