@@ -20,6 +20,25 @@
 - Using parallel modes for mode mixture
 
 ---
+### Games to finally play/beat
+- Clair Obscur: Expedition 33
+- Heroes of Might and Magic
+- Silksong
+- Balatro
+- Animal Well
+- Undertale -> Deltarune
+- Satisfactory
+- Helldivers 2
+- Octopath Traveler
+- Stray
+- Shovel Knight
+- Doom Eternal
+- Disco Elysium
+- Hotline Miami
+
+---
+### Yuki Practice Talk Notes
+
 Slides
 1. ONR wants better high temperature materials
 	1. (story) lots of talking about stuff before I care about it

@@ -1,3 +1,11 @@
+- ### 2025-11-10 Notes
+	- Qs
+		- resource saving in the second discord script
+	- to-do before
+		- use controls to distribute HandSlot nodes evenly
+	- to-do
+		- maybe make those hex tiles for Kaya's minigame thing
+---
 - ### 2025-10-28 Minigame Notes
 	- think on fishing game as per Kaya's 10/28 message in the development channel
 	- card game
@@ -14,7 +22,7 @@
 				- a pixelated character moves inside with other sprite frames?
 				- animated gshader material?
 
-
+---
 - ### 2025-10-20 Meeting
 	- note to self:
 		- ideas for squirrel mini games
@@ -24,7 +32,7 @@
 		- tell Josh about Echoes of the Eye
 		- talk to Kaya about Gimp
 	- Kaya's webrtc thing isn't quite working on Windows to show and tell, but it's looking good on Mac and should just need a docker container and some setup script
-
+---
 - ### 2025-09-22 Meeting
 		- idea: pull video into DVR and use "Color Palette" mode to inform design
 		- Anthony
@@ -39,8 +47,7 @@
 			- Dial in style more
 				- Ucupaint 2.3.5 [1 min demo](https://youtu.be/bFvtmByQP3s)
 				- Ucupaint biggger [moltenbolt tutorial](https://youtu.be/8_apXIn0g5w)
-				- 
-		
+---
 - ### 2025-09-15 Meeting
 	- Josh
 		- controls/event blocking updates, shows on screen, will work on debugging maybe more
@@ -51,7 +58,7 @@
 	- Kaya
 		- updated the basement flying blocks and tuned up a down-draft section behind the starting floor
 		- made cool texture for the 'camera too close to player' effect
-
+---
 - ### 2025-09-08 Meeting
 	- Anthony - terrain into main project, on github, terrain updates, music/audio updates
 	- Josh - new event blocking code
@@ -71,7 +78,7 @@
 			- Maybe message 
 	- home
 		- maybe make pull-switch and floor button for the new basement that Kaya made
-
+---
 - ### 2025-09-01 Meeting
 	- shave the empty space off of fx in drive
 	- think on how to 'side-chain' the music when near bonfire
@@ -79,7 +86,7 @@
 		- make the glide sample more loop-able (loop remainder)
 			- or make separate initial sound + loop-able sound that doesn't have such a transient
 			- maybe also other 'loop' tagged samples (loop reminder on the flre-lit-2_loop and also get it longer than 4 seconds)
- 
+ ---
  - ### 2025-06-03 Meeting
 	 - To-do
 		 - scatter blender objects (flora, buildings, etc.) in a terrain world
@@ -92,8 +99,7 @@
 		 - start with procedural noise (~19:30)
 		 - vegetation placement techniques - manual, proton scatter, simple grass textured, "Asset Placer" (commercial)
 	 - Meeting notes
-
-
+---
  - test terrain game
 	 - add some blender objects
 		 - scatter trees and flora (bushes, grass, flowers)
