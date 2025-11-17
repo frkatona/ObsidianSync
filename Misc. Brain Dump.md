@@ -1,5 +1,4 @@
 
-
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
@@ -18,6 +17,13 @@
 	- I - bIII - IV - V---
 - Tritone subs
 - Using parallel modes for mode mixture
+---
+### Sylvie recording buy guide
+- interface (used?)
+- mic (~$15?)
+	- use the sm7b's + preamp + whatever from work
+	- just use audacity at work
+- software?
 
 ---
 ### Games to finally play/beat
