@@ -14,6 +14,40 @@ Alex paper notes
 - 
 ---
 
+### Yuki Notes
+- p4
+	- same slide title (probably intentional)
+- p5
+	- some animations might flow better grouped together
+	- thin black border on images like these square ones would look nice
+	- unclear why "no-field" is hyphenated
+	- capitalization inconsistent
+	- unclear if that final cracked icon that gets animated in is meant to appear last
+- p6
+	- I like how explicitly you establish how each problem is solved
+- p10
+	- in the slide title, I might choose a different word than "optimal."  It's the kind of word that gets committees in the mood to ask really abstract questions.  maybe something like "PCD is an attractive candidate for single-source B4C precursor"
+- p13
+	- I might ask why you chose to highlight that section of the temperature vs time graph.  It doesn't seem like it quite reached the baseline yet...is there something special about the curves at that time? 
+	- I can't tell what the O2 icon is.  Are those little blue circles supposed to be electrons?  It's probably better to remove them if they're not conveying something helpful
+	- the rest of the presentation seems to prefer the chemical formulae over full names like boron trioxide and boric acid
+	- does it need to adsorb to the surface to react?  I figured it was more like...oxygen molecules in the air are constantly colliding with the PCD surface, but a reaction can only happen if there's enough kinetic energy...so if the PCD is hot while the O2 is colliding with it, it will form an oxide...but if the PCD transforms into an oxygen-stable product in such a short time that most nearby O2 molecules were still bouncing around, then maybe we don't need to worry about them.  
+- p14
+	- I think it's fine to ballpark a big temperature since we really don't know and we're deliberately being optimistic here, but I can't tell what 'n' is referring to, or where 1.78 cm2/s came from, or why we'd assume the diffusion layer thickness is 5 mm, or even what a "diffusion layer" is
+	- I'm not sure what Chapman-Enskog Theory is for, but I would've started with a simpler approach (e.g., https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)/27%3A_The_Kinetic_Theory_of_Gases/27.04%3A_The_Frequency_of_Collisions_with_a_Wall)
+- p18
+	- even in future work, be sure you're sufficiently motivating your experiments.  Lead with the gap and then fill the gap in.  So for this slide, for example, but sure to convey at the outset that (and probably why) there is a concern about substrates, why your method addresses it, and then how you intend to test it
+- p19 
+	- maybe strange that some of the most compelling data is in the 'future' section, but I would need to hear how you present it 
+- p20
+	- inconsistency in capitalization and font color
+	- like in my slide 18 comment, I'll mention again to make sure when you present this that the 'gap' or practical concern is clearly conveyed before you mention what parameters you would be changing.  Again, I'll have to hear you present it, but I should be able to tell specially why I would care about a temperature vs penetration dial
+- p22
+	- this slide is called future work, but so is p17, and there are more slides later with the same name.  I would consolidate 'future work' together into one section
+- p23
+	- "gradient" and again make sure you lead with the gap
+- p24
+	- I still think periodicity will be a difficult sell.  Do you feel comfortable not only discussing what periodicity is and what that tell us about our product, but why that is important to us? 
 ### 11/3 closed tabs
 - Papers
 	- [(2022) - Defected-assisted nonlinear absorption...](https://www.sciencedirect.com/science/article/pii/S0022231321006566?fr=RR-2&ref=pdf_download&rr=9885445648a7f939)

@@ -1,10 +1,15 @@
+- ### 2025-11-17 Notes
+	- to-do before
+		- fishing / card updates (implement some slay the spire)
+	- think on
+		- prototyping hex tiles for Kaya's minigame
+		- pick-up emote animations like Kaya had mused on again briefly during RV
+---
 - ### 2025-11-10 Notes
 	- Qs
 		- resource saving in the second discord script
 	- to-do before
 		- use controls to distribute HandSlot nodes evenly
-	- to-do
-		- maybe make those hex tiles for Kaya's minigame thing
 ---
 - ### 2025-10-28 Minigame Notes
 	- think on fishing game as per Kaya's 10/28 message in the development channel
