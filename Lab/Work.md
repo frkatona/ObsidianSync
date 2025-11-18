@@ -9,6 +9,9 @@
 - [ ] Get CO2 laser set up
 - [ ] Review MURI folder papers
 - [ ] Dr. Maslak about chemistry game
+
+Alex paper notes
+- 
 ---
 
 ### 11/3 closed tabs
@@ -27,7 +30,6 @@
 
 - (Exercise - more variable control)
 - Exercise: Fibonacci
-
 
 ### 11/3 Serenity Meeting
 - Nate's thesis talks about the CB:OH oxidizing reaction (capralactone) around page 71

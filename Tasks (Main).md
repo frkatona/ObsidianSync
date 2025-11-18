@@ -1,5 +1,30 @@
 # Today
-- ask ben where the Raman heat cell thing is
+- read comps inside proposal
+- Rotations (Alex, Serenity, Tien)
+- Group meeting
+	- responding to Nabanankur email
+	- ask ben where the Raman heat cell thing is
+	- maybe new sample (REORDER CYLINDER)
+	- what rotators have been up to
+		- arduino
+			- Silas bluetooth temperature
+			- Tien Chin input/output and coding exercises
+		- CO2 laser (pics)
+		- Serenity - CB IR
+		- underwater CB PDMS (pics)
+
+ideas with PDMS:
+- get a polymer that is solid and lase to cross link without melting it
+	- 'have it be cold'
+- metal substrate
+- Kristen boron particles 
+- Alex maybe use a standard for PDMS to solve normalization peak being too absorbant
+	- maybe a standard that's 'small and not volatile' like azo benzene (that's something that's not absorptive) and it'll go cis trans if it absorbs which would change color
+		- maybe check under laser solo first because if it absorbs and changes in situ, it might come back fast from the heat
+- Other serenity idea was the amine and carboxylic acid, just use ones lying around
+
+- get back to Kristenabout movie (saturday night) and talk to Harry 
+
 - purchases
 	- [x] add on cheap NMR tubes (got them from upstairs)
 	- [ ] and 3.3 V thermocouple - https://www.amazon.com/HiLetgo-MAX6675-Thermocouple-Temperature-Arduino/dp/B01HT871SO/ref=sr_1_1?sr=8-1
