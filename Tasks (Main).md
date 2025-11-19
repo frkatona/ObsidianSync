@@ -1,30 +1,33 @@
 # Today
-<<<<<<< HEAD
+Work
+- respond Alex
 - read comps inside proposal
-- Rotations (Alex, Serenity, Tien)
-- Group meeting
-	- responding to Nabanankur email
-	- ask ben where the Raman heat cell thing is
-	- maybe new sample (REORDER CYLINDER)
-	- what rotators have been up to
-		- arduino
-			- Silas bluetooth temperature
-			- Tien Chin input/output and coding exercises
-		- CO2 laser (pics)
-		- Serenity - CB IR
-		- underwater CB PDMS (pics)
+- check in with cylinder
+- rotation (Serenity)
+	- think more on Serenity KBr water problem (buy higher grade KBr?  try cooling in vacuum/inert)
+- Respond to Nabanankur email
+- Find scale to recommend to Jackie
+- assemble Raman heating cell (either get it running or find what parts might be needed)
 
-ideas with PDMS:
+rotator/undergrad PDMS research ideas with Ben:
 - get a polymer that is solid and lase to cross link without melting it
 	- 'have it be cold'
 - metal substrate
-- Kristen boron particles 
-- Alex maybe use a standard for PDMS to solve normalization peak being too absorbant
+
+- Kristen boron particles
+	- Did I say I was going to read about this?  Did she send a paper?
+- Alex maybe use a standard for PDMS to solve normalization peak being too absorbent
 	- maybe a standard that's 'small and not volatile' like azo benzene (that's something that's not absorptive) and it'll go cis trans if it absorbs which would change color
 		- maybe check under laser solo first because if it absorbs and changes in situ, it might come back fast from the heat
 - Other serenity idea was the amine and carboxylic acid, just use ones lying around
+- 11/19 thought - get liquid N2 and try to grind chilled pristine PDMS (maybe even pristine pre-polymer) to see if it'll look normal in ATR and then maybe with KBr 
 
-- get back to Kristenabout movie (saturday night) and talk to Harry 
+Home
+- ask Chelsea about acid
+- respond
+	- Seyed
+	- Sadia
+- ESP-DMX (find alligator clips)
 
 =======
 

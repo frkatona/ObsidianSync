@@ -20,6 +20,11 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 11/19 MURI Meeting Notes
+- Ben S - Spin coating is ready (will pass off after meeting)
+	- Rob - last step for the spin coating is to figure out the model and use for the ellipsometry
+	- Ben S - can see some rings/waviness in some samples, maybe can make it better if it starts spinning "first" (?)
+
 ### 11/12 MURI Meeting Notes (no JP)
 - Seyedmahmoud's ppt: "Shooting Zr in Methane + Oxygen Molecules - NVE Simulations"
 	- Zr atoms at mach 3, T = 500, 800, and 1000 K to make different structures at ~600 ps steps
