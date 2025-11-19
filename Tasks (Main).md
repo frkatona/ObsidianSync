@@ -28,6 +28,10 @@ Home
 	- Seyed
 	- Sadia
 - ESP-DMX (find alligator clips)
+- Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
+- Make list of usual stage lights (starting: "par" lights)
+- Watch [HoMaM gameplay](https://youtu.be/hGW_Pis4b0I)
+- 
 
 =======
 
