@@ -1,11 +1,10 @@
 # Today
 Work
-- respond Alex
+- respond Alex, Nabanankur, Sadia
 - read comps inside proposal
 - check in with cylinder
 - rotation (Serenity)
 	- think more on Serenity KBr water problem (buy higher grade KBr?  try cooling in vacuum/inert)
-- Respond to Nabanankur email
 - Find scale to recommend to Jackie
 - assemble Raman heating cell (either get it running or find what parts might be needed)
 
