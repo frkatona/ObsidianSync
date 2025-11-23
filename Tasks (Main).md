@@ -1,11 +1,33 @@
 # Today
+Home
+- Groceries
+	- dog food + greenies
+	- chicken (dog + me)
+	- milk + creamer
+- DMX ESP32 adapter
+	- makeshift XLR female (1 to 3 from right to left)
+		- 1 (GROUND) = blue  
+		- 2 (RS485 B) = yellow
+		- 3 (RS485 A) = green
+	- Troubleshooting
+		- why does cGPT have some output going to the DE/RE pins of the 485 module when I see others just pulling them  high or leaving them empty?
+	- Serial communications differences
+		- synchronous-ness
+		- transmission distance (UART = 15 m, I2C = 1 m, SPI = 0.2 m)
+		- power consumption (SPI = lowest)
+		- wire count (SPI >=4 wires)
+		- data rate (UART = 20 Kbps, I2C = 1 Mbps, SPI = 25 Mbps)
+		- packet acknowledgement (only guaranteed for UART)
+		- receive-ability (I2c = half-duplex, SPI = full duplex)
+	- Did I buy extra I2C (I2S?) 3.5 mm stereo DAC boards? Can esp32 store sufficient samples for my drum sampler project?
+- respond
+	- Seyed
+	- Sadia
+- Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
 Work
-- respond Alex, Nabanankur, Sadia
-- read comps inside proposal
+- Ask Tainara about data for Nabankur
 - check in with cylinder
-- rotation (Serenity)
-	- think more on Serenity KBr water problem (buy higher grade KBr?  try cooling in vacuum/inert)
-- Find scale to recommend to Jackie
+- Order cell for IR
 - assemble Raman heating cell (either get it running or find what parts might be needed)
 
 rotator/undergrad PDMS research ideas with Ben:
@@ -21,16 +43,7 @@ rotator/undergrad PDMS research ideas with Ben:
 - Other serenity idea was the amine and carboxylic acid, just use ones lying around
 - 11/19 thought - get liquid N2 and try to grind chilled pristine PDMS (maybe even pristine pre-polymer) to see if it'll look normal in ATR and then maybe with KBr 
 
-Home
-- ask Chelsea about acid
-- respond
-	- Seyed
-	- Sadia
-- ESP-DMX (find alligator clips)
-- Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
-- Make list of usual stage lights (starting: "par" lights)
-- Watch [HoMaM gameplay](https://youtu.be/hGW_Pis4b0I)
-- 
+
 
 =======
 
