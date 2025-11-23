@@ -26,6 +26,13 @@
 - software?
 
 ---
+### Gift Ideas
+- False Knees comics/stickers ($7-15 each) - [store](https://store.falseknees.com/collections/comics)
+- Lockpick
+- ESP32 stuff
+- Otomatone
+
+---
 ### Games to finally play/beat
 - Clair Obscur: Expedition 33
 - Heroes of Might and Magic
