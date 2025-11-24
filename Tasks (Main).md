@@ -1,9 +1,10 @@
 # Today
 Home
-- Groceries
-	- dog food + greenies
-	- chicken (dog + me)
-	- milk + creamer
+- Squirrel show and tell
+	- music vs blender vs card game
+	- Kaya esp32
+		- WiFi --> OS question
+		- share github
 - DMX ESP32 adapter
 	- makeshift XLR female (1 to 3 from right to left)
 		- 1 (GROUND) = blue  
@@ -20,14 +21,25 @@ Home
 		- packet acknowledgement (only guaranteed for UART)
 		- receive-ability (I2c = half-duplex, SPI = full duplex)
 	- Did I buy extra I2C (I2S?) 3.5 mm stereo DAC boards? Can esp32 store sufficient samples for my drum sampler project?
+	- Groceries
+	- milk + creamer
+- Notes for Tim's texting plan
+	- FCC's Political Robocalls/Robotexts Rules ([link](https://www.fcc.gov/rules-political-campaign-calls-and-texts?utm))
+	- Messagedesk SMS / TCPA Text Message Compliance Checklist ([link](https://www.messagedesk.com/blog/tcpa-compliance))
+	- Thoughts
+		- Does Tim have records of explicit consent/opt-in
+		- Is there an easy way to do automate "respond x to opt out" and when is that good enough, rather than asking to opt in?  Is a response that isn't an opt-out considered an opt-in?
+		- Texting from software (Google Voice, etc.)
+		- Automating RSVP sends and consolidating responses
+			- RSVPify/Partiful/Evant vs Google Form vs Mobilize (do any have CSV download?)
+- Tire
 - respond
 	- Seyed
-	- Sadia
 - Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
 Work
-- Ask Tainara about data for Nabankur
 - check in with cylinder
 - Order cell for IR
+- Cleary email 
 - assemble Raman heating cell (either get it running or find what parts might be needed)
 
 rotator/undergrad PDMS research ideas with Ben:

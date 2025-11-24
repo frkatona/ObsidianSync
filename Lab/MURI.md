@@ -20,6 +20,14 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 11/24 MURI Meeting Notes (Monthly - Akachukwu)
+- not much evidence of success for the bigger molecules
+- hexamethylsilane seems to be polymerizing based on GC
+	- blue shift when uv treated
+	- red shift in tolune relative to THF (maybe this stretches Si-Si bond, making the photochemistry easier)
+- pitched some alternative synthetic strategies he's going to try, including this weird SiH2 triple bonded square
+- Rob - hydrides are really helpful for the transformation, the boron-boron bond gets made and reshuffles to make a boron carbide..."these kinds of hydrides are really important for the process"
+
 ### 11/19 MURI Meeting Notes
 - Ben S - Spin coating is ready (will pass off after meeting)
 	- Rob - last step for the spin coating is to figure out the model and use for the ellipsometry
