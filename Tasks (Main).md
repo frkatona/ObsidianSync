@@ -21,8 +21,9 @@ Home
 		- packet acknowledgement (only guaranteed for UART)
 		- receive-ability (I2c = half-duplex, SPI = full duplex)
 	- Did I buy extra I2C (I2S?) 3.5 mm stereo DAC boards? Can esp32 store sufficient samples for my drum sampler project?
-	- Groceries
-	- milk + creamer
+	- [this timestamp](https://youtu.be/exAWzMfmwQ8?t=558) demonstrates combining the ESP32 logic with a DC adapter
+- Groceries
+- milk + creamer
 - Notes for Tim's texting plan
 	- FCC's Political Robocalls/Robotexts Rules ([link](https://www.fcc.gov/rules-political-campaign-calls-and-texts?utm))
 	- Messagedesk SMS / TCPA Text Message Compliance Checklist ([link](https://www.messagedesk.com/blog/tcpa-compliance))
