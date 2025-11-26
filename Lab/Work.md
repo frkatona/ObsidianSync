@@ -14,7 +14,7 @@ Alex paper notes
 - 
 ---
 
-### Yuki Notes
+### Yuki Comps Notes (part 1) 
 - p4
 	- same slide title (probably intentional)
 - p5
@@ -48,6 +48,43 @@ Alex paper notes
 	- "gradient" and again make sure you lead with the gap
 - p24
 	- I still think periodicity will be a difficult sell.  Do you feel comfortable not only discussing what periodicity is and what that tell us about our product, but why that is important to us? 
+
+### Yuki Comps Notes (part 2)
+- p25
+	- I'm still unsure why we care about uniformity (try to lead with a compelling motivation).  I'm also unsure what this data tells us about it—what does it matter if there is more more periodicity at the edges or in "protruding regions" or with differential "intensity"?
+- p26
+	- If any slide is named "future work", make sure no other slide is named "future work"
+	- should something be in that green box?
+	- I'm unsure what "perfect laser parameter" means, but "perfect" is another word that I would stay away from in front of a committee
+	- I figured the reason we looked at periodicity already had something to do about uniformity, so why is that here?  And what about uniformity?  Are there not better ways to evaluate uniformity?  What are those ways and why is this better?
+	- What does the bottom arrow mean?  What are the "protrusions" and do we want them removed or are we concerned that they are being removed?  
+	- (I know I've said it an annoying number of times, but "lead with a compelling motivation" should be the first thing in your mind when setting up the narrative/structure/flow)
+- p27
+	- I like how you bring this slide back and how you animate in the darker layer
+	- Do you really want to talk about these though?  Do you understand these systems (what makes them good candidates, especially such a weird system like a "bottle-brush grafted nanoparticle"?  what gap they're filling?  How similar/different their mechanisms of transformation might be?)
+- p28
+	- include figures, even if they're basic
+	- what is recombining with carbon or boron?  the hydrogen?
+	- What's happening to the boron while the hydrogen is busy forming H2?  Is it just vacant and negatively charged?
+	- Do you know what the energies associated with these bonds being broken and formed are?  What is the total enthalpy of the process?  How much energy is in a laser pulse
+	- Most importantly, why do you believe this?  What observations have you made?  And what other common possibilities from literature have you ruled out from those observations?
+- p29
+	- just like with "optimize" and "perfect," stay away from "proves" in favor of something like "supports" or "suggests" or "demonstrates"
+	- Why does it matter if/when small hydrocarbons are releasing?  Does that not happen in other mechanisms?
+	- Can you explain (or at least discuss) anywhere there is a peak or noise or doublet/triplet or anything that could reasonably be called a feature (or even noise) in each of these graphs?  
+		- what is v3 and v4?  Why do some peaks seem to go below the baseline?
+	- since the reaction you proposed has so many steps, why don't you see multiple features/peaks in your TGA?  And why is the weight loss so gradual?  Do you know the oven's ramp rate?  What is the relevance of the DTG peaking at like 250?  What's happening at 250 exactly?
+	- Are the bottom graph and right graph supposed to be showing the same thing?  Is one just a reference?  If so, can you explain all the ways the graphs are different?
+- p30
+	- Why does it matter that hydrogen is being released early?  And the figure seems to suggest that the real important thing is that hydrogen is being released both early and late...so why is it doing that and why is that important to your mechanism?  
+	- Why show an image of the TGA-MS, but not of the earlier instruments?
+- p31
+	- why do you care about the temperature?  What does it solve or how does it help us?
+	- What are the common ways that researchers measure temperature, and why can we not just use those? 
+	- What is a "dichroic beamsplitter tree"?  How does an "avalanche photodiode" work?  What are those triangle-with-a-line symbols in the illustration?  What do the colored rectangles represent?  
+	- Why does the oscilloscope need to be 1 GHz?  What does it mean to "digitize" a signal (what does the analog signal look like and how does it get converted?)?  How do you plan on fitting to a blackbody?  
+	- What temperature would the system need to be for the transformation to take place?
+	  
 ### 11/3 closed tabs
 - Papers
 	- [(2022) - Defected-assisted nonlinear absorption...](https://www.sciencedirect.com/science/article/pii/S0022231321006566?fr=RR-2&ref=pdf_download&rr=9885445648a7f939)

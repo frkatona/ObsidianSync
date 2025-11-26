@@ -1,12 +1,39 @@
 # Today
+Home
+- https://www.firmoo.com/all-products.html
+- tabs
+	- apply polymer chemist
+	- wfh jobs, schedule inspection
+	- cardio exercises easy on knees
+	- reply seyer email
+- fix Bolt window washer, schedule inspection
+- DMX ESP32 adapter
+	- fix and style UI
+		- XY pad
+		- liquid glass attempt
+		- is it broken or waiting for a connection?  or maybe requires a library?
+			- maybe solve by having it connect to my phone's hotspot?
+			- ask AI about intense libraries like 3js (1) how much space they would take up in the filesystem and (2) how taxing they would be on an ordinary mobile device and (3) how simple it would be to simply disable them by default with an easy to find "improved graphics" button 
+		- apply this simple-looking breathing pattern [codepen](https://codepen.io/VoXelo/pen/myVpoLm)
+		- use this style background and buttons/animations [codepen](https://codepen.io/tofjadesign/pen/pvgPdvy)
+	- Did I buy extra I2C (I2S?) 3.5 mm stereo DAC boards? Can esp32 store sufficient samples for my drum sampler project?
+	- [this timestamp](https://youtu.be/exAWzMfmwQ8?t=558) demonstrates combining the ESP32 logic with a DC adapter
+- Groceries
+- milk + creamer
+- Notes for Tim's texting plan
+	- FCC's Political Robocalls/Robotexts Rules ([link](https://www.fcc.gov/rules-political-campaign-calls-and-texts?utm))
+	- Messagedesk SMS / TCPA Text Message Compliance Checklist ([link](https://www.messagedesk.com/blog/tcpa-compliance))
+	- Thoughts
+		- Does Tim have records of explicit consent/opt-in
+		- Is there an easy way to do automate "respond x to opt out" and when is that good enough, rather than asking to opt in?  Is a response that isn't an opt-out considered an opt-in?
+		- Texting from software (Google Voice, etc.)
+		- Automating RSVP sends and consolidating responses
+			- RSVPify/Partiful/Evant vs Google Form vs Mobilize (do any have CSV download?)
+- Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
 Work
-- respond Alex
-- comment Yuki
 - check in with cylinder
-- rotation (Serenity)
-	- think more on Serenity KBr water problem (buy higher grade KBr?  try cooling in vacuum/inert)
-- Respond to Nabanankur email
-- Find scale to recommend to Jackie
+- Order cell for IR
+- Cleary email 
 - assemble Raman heating cell (either get it running or find what parts might be needed)
 
 rotator/undergrad PDMS research ideas with Ben:

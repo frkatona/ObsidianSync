@@ -26,6 +26,53 @@
 - software?
 
 ---
+### Gift Ideas
+- False Knees comics/stickers ($7-15 each) - [store](https://store.falseknees.com/collections/comics)
+- Lockpick
+- ESP32 stuff
+- Otomatone
+
+---
+### latent esp DMX info
+- general webserver [RNT page](https://randomnerdtutorials.com/esp32-web-server-beginners-guide/)
+- spiffs webserver [RNT page](https://randomnerdtutorials.com/esp32-web-server-spiffs-spi-flash-file-system/)
+- $20 esp32 dmx LED shield [sparkfun](https://www.sparkfun.com/sparkfun-esp32-thing-plus-dmx-to-led-shield.html)
+- 
+
+---
+### Notes / resources for Chelsea data vis
+- Ben's "Using ChatGPT‑4 to Teach the Design of Data Visualizations"
+- Ben's data vis [website](https://www.data-meets-design.com/docs/generaldesign/consistencyandcontrast/)
+- monochrome style codepen [example](https://codepen.io/OathanRex/pen/KwVPyoe)
+
+---
+### FL 25.2 Notes
+- Fruity Slicer 2 - simplified slicex interface ("halfway between fruity slicer and slicex")
+- FL Remote - python script macro buttons
+- click + hold + type values into fields (e.g., port, track, etc.)
+- Saving piano roll score as --> drag+drop to file explorer (update is includes the channel name now)
+- Chord stamp tool includes "automatic chord"
+- Misc. - Emphasis DC offset fix, Directwave octave mover, Fruity Compressor sidechain, Kepler retrigger LFO phase with note-on et al, Sampler loop start + end controls and more advances view window (zoom controls), Loop Starter additional genres + key selector, "Patcherize all" in mixer slot fx, piano roll velocity section mouse responsiveness improvement, extract stems offers 'send to separate mixer tracks', 
+
+---
+### nicely phrased explanation of DB on YT
+ TL;DR - A 3 dB SPL increase = twice the loudness. Humans tend to perceive twice the loudness at 10 dB due to the way of how our auditory systems work. 
+ 
+ A 3 dB increase in sound intensity is actually twice as loud. And that 3 dB is true whether it's a 70-to-73 dB increase or whether it's a 115-to-118 dB increase. If you increase the sound intensity by 3 dB, the volume is twice as loud. This is because decibels are measured on a logarithmic scale instead of a linear one. PERCEIVED volume is different. Humans tend to sense a doubling of volume at 10 dB, but that's a function of how our auditory systems work. 
+ 
+ An apparent scaling of amp Wattage to get double the perceived loudness might be from 20W to 100W, at which point I'm thinking that you're already nearly deaf and are just looking to finish the job. A 1 Watt amp in a small room can effect over 90 dB of SPL, assuming a reasonably efficient speaker.
+ 
+---
+### Serial communications differences
+- synchronous-ness
+- transmission distance (UART = 15 m, I2C = 1 m, SPI = 0.2 m)
+- power consumption (SPI = lowest)
+- wire count (SPI >=4 wires)
+- data rate (UART = 20 Kbps, I2C = 1 Mbps, SPI = 25 Mbps)
+- packet acknowledgement (only guaranteed for UART)
+- receive-ability (I2c = half-duplex, SPI = full duplex)
+
+---
 ### Games to finally play/beat
 - Clair Obscur: Expedition 33
 - Heroes of Might and Magic

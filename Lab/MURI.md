@@ -20,6 +20,28 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 11/24 MURI Meeting Notes (Monthly - Akachukwu + Nabanankur)
+#### Akachukwu
+- not much evidence of success for the bigger molecules
+- hexamethylsilane seems to be polymerizing based on GC
+	- blue shift when uv treated
+	- red shift in tolune relative to THF (maybe this stretches Si-Si bond, making the photochemistry easier)
+- pitched some alternative synthetic strategies he's going to try, including this weird SiH2 triple bonded square
+- Rob - hydrides are really helpful for the transformation, the boron-boron bond gets made and reshuffles to make a boron carbide..."these kinds of hydrides are really important for the process"
+- ---
+#### Nabanankur
+- non-adiabatic quantum molecular dynamics simulations
+- software = QXMD developed by collaborators at another university
+- uses "surface-hopping" - combines time dependent DFT (simulate electron transitions) with (?) to study non-adiabatic molecular dynamics
+- Silicon-based polymers (two focused on with funky names referred to as, P vs N)
+- 'Participation numbers' determined for each HOMO and LUMO state alongside the delta E
+	- LUMO +11 seems to be the ideal band to excite the electron at 5.22 eV (maybe 250ish nm?)
+- Density of States and band energies across the first 1000 femtoseconds show electron-hole recombination in <400 fs
+- Complete/partial trajectory
+	- N polymer also seems to condense within about 500 fs
+- Aiichiro - "one photon absorbed by every two molecules is very strong photons" (?)
+	- Alex - we need strong lasers and longer reaction times
+---
 ### 11/19 MURI Meeting Notes
 - Ben S - Spin coating is ready (will pass off after meeting)
 	- Rob - last step for the spin coating is to figure out the model and use for the ellipsometry
