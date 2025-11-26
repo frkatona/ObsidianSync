@@ -1,25 +1,21 @@
 # Today
 Home
-- Squirrel show and tell
-	- music vs blender vs card game
-	- Kaya esp32
-		- WiFi --> OS question
-		- share github
+- https://www.firmoo.com/all-products.html
+- tabs
+	- apply polymer chemist
+	- wfh jobs, schedule inspection
+	- cardio exercises easy on knees
+	- reply seyer email
+- fix Bolt window washer, schedule inspection
 - DMX ESP32 adapter
-	- makeshift XLR female (1 to 3 from right to left)
-		- 1 (GROUND) = blue  
-		- 2 (RS485 B) = yellow
-		- 3 (RS485 A) = green
-	- Troubleshooting
-		- why does cGPT have some output going to the DE/RE pins of the 485 module when I see others just pulling them  high or leaving them empty?
-	- Serial communications differences
-		- synchronous-ness
-		- transmission distance (UART = 15 m, I2C = 1 m, SPI = 0.2 m)
-		- power consumption (SPI = lowest)
-		- wire count (SPI >=4 wires)
-		- data rate (UART = 20 Kbps, I2C = 1 Mbps, SPI = 25 Mbps)
-		- packet acknowledgement (only guaranteed for UART)
-		- receive-ability (I2c = half-duplex, SPI = full duplex)
+	- fix and style UI
+		- XY pad
+		- liquid glass attempt
+		- is it broken or waiting for a connection?  or maybe requires a library?
+			- maybe solve by having it connect to my phone's hotspot?
+			- ask AI about intense libraries like 3js (1) how much space they would take up in the filesystem and (2) how taxing they would be on an ordinary mobile device and (3) how simple it would be to simply disable them by default with an easy to find "improved graphics" button 
+		- apply this simple-looking breathing pattern [codepen](https://codepen.io/VoXelo/pen/myVpoLm)
+		- use this style background and buttons/animations [codepen](https://codepen.io/tofjadesign/pen/pvgPdvy)
 	- Did I buy extra I2C (I2S?) 3.5 mm stereo DAC boards? Can esp32 store sufficient samples for my drum sampler project?
 	- [this timestamp](https://youtu.be/exAWzMfmwQ8?t=558) demonstrates combining the ESP32 logic with a DC adapter
 - Groceries
@@ -33,9 +29,6 @@ Home
 		- Texting from software (Google Voice, etc.)
 		- Automating RSVP sends and consolidating responses
 			- RSVPify/Partiful/Evant vs Google Form vs Mobilize (do any have CSV download?)
-- Tire
-- respond
-	- Seyed
 - Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
 Work
 - check in with cylinder
