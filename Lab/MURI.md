@@ -24,6 +24,9 @@ Absorption mechanisms to explore:
 - Ben S - Spin coating is ready (will pass off after meeting)
 	- Rob - last step for the spin coating is to figure out the model and use for the ellipsometry
 	- Ben S - can see some rings/waviness in some samples, maybe can make it better if it starts spinning "first" (?)
+- Seyed has updates about his 'mach 3' Zr simulation
+- Ben S has a paper that shows a polycarbosilane H2 elimination in a similar way to the mechanism we're supposing for PCD --> B4C (doi ~10.1021 at pubs.acs.orgj)
+	- Rob and JP are excited for Ben S to look up if we can find some deuterated COD to repeat the NMR in this experiment to evaluate the mechanism similar to this paper
 
 ### 11/12 MURI Meeting Notes (no JP)
 - Seyedmahmoud's ppt: "Shooting Zr in Methane + Oxygen Molecules - NVE Simulations"

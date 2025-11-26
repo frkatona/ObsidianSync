@@ -1,7 +1,7 @@
 # Today
 Work
 - respond Alex
-- read comps inside proposal
+- comment Yuki
 - check in with cylinder
 - rotation (Serenity)
 	- think more on Serenity KBr water problem (buy higher grade KBr?  try cooling in vacuum/inert)
@@ -25,8 +25,9 @@ rotator/undergrad PDMS research ideas with Ben:
 Home
 - ask Chelsea about acid
 - respond
-	- Seyed
-	- Sadia
+	- [ ] Seyed
+	- [x] Sadia
+- groceries
 - ESP-DMX (find alligator clips)
 
 =======
@@ -37,7 +38,6 @@ Home
 	- Respond
 		- [x] Yuki
 		- [x] Jackie
-		- [ ] Seyed
 	- [ ] Godot script
 	- [ ] Order glasses 
 	- [x] finalize OLED
