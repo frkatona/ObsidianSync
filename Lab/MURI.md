@@ -20,6 +20,15 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 11/26
+- I brought the lased samples from last week, all of which arguably turned out successfully (much more detail online)
+	- Ben's PCOD didn't change (no scan lines either because I used lower power)
+	- Ben's adhesives turned black and adhered, though there were obvious microfractures
+	- Kavindi's transformed, but one was crumbly (remind her which one) 
+- Ben S - "we got some values, so we should be imminent on" the known thickness samples
+- Rob thinking of applying/proposing for us to use the XRay Syncrotron
+	- I mentioned I needed some samples to try on the CW, Ben S nodded
+
 ### 11/24 MURI Meeting Notes (Monthly - Akachukwu + Nabanankur)
 #### Akachukwu
 - not much evidence of success for the bigger molecules

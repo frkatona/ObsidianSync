@@ -89,6 +89,11 @@
 - Disco Elysium
 - Hotline Miami
 
+### Shows/Movies
+- Ben recommended "waiting for guffman"
+- One Piece
+- Boruto
+
 ---
 ### Yuki Practice Talk Notes
 
