@@ -49,7 +49,13 @@ rotator/undergrad PDMS research ideas with Ben:
 - Other serenity idea was the amine and carboxylic acid, just use ones lying around
 - 11/19 thought - get liquid N2 and try to grind chilled pristine PDMS (maybe even pristine pre-polymer) to see if it'll look normal in ATR and then maybe with KBr 
 
-
+Home
+- ask Chelsea about acid
+- respond
+	- [ ] Seyed
+	- [x] Sadia
+- groceries
+- ESP-DMX (find alligator clips)
 
 =======
 
@@ -59,7 +65,6 @@ rotator/undergrad PDMS research ideas with Ben:
 	- Respond
 		- [x] Yuki
 		- [x] Jackie
-		- [ ] Seyed
 	- [ ] Godot script
 	- [ ] Order glasses 
 	- [x] finalize OLED

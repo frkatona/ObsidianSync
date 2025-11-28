@@ -20,6 +20,15 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 11/26
+- I brought the lased samples from last week, all of which arguably turned out successfully (much more detail online)
+	- Ben's PCOD didn't change (no scan lines either because I used lower power)
+	- Ben's adhesives turned black and adhered, though there were obvious microfractures
+	- Kavindi's transformed, but one was crumbly (remind her which one) 
+- Ben S - "we got some values, so we should be imminent on" the known thickness samples
+- Rob thinking of applying/proposing for us to use the XRay Syncrotron
+	- I mentioned I needed some samples to try on the CW, Ben S nodded
+
 ### 11/24 MURI Meeting Notes (Monthly - Akachukwu + Nabanankur)
 #### Akachukwu
 - not much evidence of success for the bigger molecules
@@ -46,6 +55,9 @@ Absorption mechanisms to explore:
 - Ben S - Spin coating is ready (will pass off after meeting)
 	- Rob - last step for the spin coating is to figure out the model and use for the ellipsometry
 	- Ben S - can see some rings/waviness in some samples, maybe can make it better if it starts spinning "first" (?)
+- Seyed has updates about his 'mach 3' Zr simulation
+- Ben S has a paper that shows a polycarbosilane H2 elimination in a similar way to the mechanism we're supposing for PCD --> B4C (doi ~10.1021 at pubs.acs.orgj)
+	- Rob and JP are excited for Ben S to look up if we can find some deuterated COD to repeat the NMR in this experiment to evaluate the mechanism similar to this paper
 
 ### 11/12 MURI Meeting Notes (no JP)
 - Seyedmahmoud's ppt: "Shooting Zr in Methane + Oxygen Molecules - NVE Simulations"
