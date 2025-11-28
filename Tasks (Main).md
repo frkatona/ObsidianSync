@@ -1,5 +1,9 @@
 # Today
 Home
+- FL Thurs track
+- Laundry
+- Ponyo - (1) food, (2) prop door and turn on heated blanket in my room, (3) take on walk
+- gift for Sunday
 - https://www.firmoo.com/all-products.html
 - tabs
 	- apply polymer chemist
@@ -18,8 +22,6 @@ Home
 		- use this style background and buttons/animations [codepen](https://codepen.io/tofjadesign/pen/pvgPdvy)
 	- Did I buy extra I2C (I2S?) 3.5 mm stereo DAC boards? Can esp32 store sufficient samples for my drum sampler project?
 	- [this timestamp](https://youtu.be/exAWzMfmwQ8?t=558) demonstrates combining the ESP32 logic with a DC adapter
-- Groceries
-- milk + creamer
 - Notes for Tim's texting plan
 	- FCC's Political Robocalls/Robotexts Rules ([link](https://www.fcc.gov/rules-political-campaign-calls-and-texts?utm))
 	- Messagedesk SMS / TCPA Text Message Compliance Checklist ([link](https://www.messagedesk.com/blog/tcpa-compliance))
@@ -31,8 +33,6 @@ Home
 			- RSVPify/Partiful/Evant vs Google Form vs Mobilize (do any have CSV download?)
 - Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
 Work
-- check in with cylinder
-- Order cell for IR
 - Cleary email 
 - assemble Raman heating cell (either get it running or find what parts might be needed)
 
