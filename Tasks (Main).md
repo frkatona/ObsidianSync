@@ -1,12 +1,14 @@
 # Today
 Home
-- prep party - get the lock-pick working (security pins?  cones?)
-- open mic
-	- get template on laptop + basic performance beats + FL Remote buttons mapped + starter Remote script macro
+- music
+	- performance
+		- make perfomance beat template and get it on laptop
+		- Get a proof of concept FL Remote script macro working
+		- Brainstorm desirable scripts for a performance
+			- button --> DMX routine --> 
+- game
+	- get card game up OR make music
 - respond Sey
-- 
-
-
 - eyes
 	- call eye people or buy from https://www.firmoo.com/all-products.html
 - tabs
@@ -23,12 +25,13 @@ Home
 			- set up macros in IL Remote
 		- looper
 			- listen to some inspiration (tame impala?)
+- Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
+- 
 
 Work
 - Cleary email 
 - assemble Raman heating cell (either get it running or find what parts might be needed)
 
-- Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
 
 rotator/undergrad PDMS research ideas with Ben:
 - get a polymer that is solid and lase to cross link without melting it
