@@ -17,6 +17,7 @@
 	- I - bIII - IV - V---
 - Tritone subs
 - Using parallel modes for mode mixture
+
 ---
 Sylvie SM7b recording at work
 
