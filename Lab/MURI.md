@@ -20,7 +20,21 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
-### 11/26
+### 12/3 MURI Meeting Notes (Adri attendance)
+- Adri and Rob discussing their paper (re)submission
+- Rob says Ben S still not quite there with laying down known thickness, but he'll ask about the known thickness of samples as well as the standard PCD for Greg
+- Discussed the images taken from last week's experiments (PCD-adhesive, PCOD, and SiO2-grafted PCD) with a fuller attendance
+	- Adri hopes there's a way to evaluate the resolution of this change, understanding how far past the black material any kind of chemical transformation has influenced
+		- I told him IR microscope and AFM are possible, but it's tough to be sure (I can ***ask Ben about his opinion on feasibility at group meeting***)
+		- JP says that he'd just crack it open and put the cross section under SEM
+			- afterwards, I wondered if even careful cracking/cutting might dislodge any transformed material before SEM was possible
+- I believe JP said he can find some unfrosted sapphire to give to Ben S for the next PCD adhesive test
+- We discussed the confinement of sample between glass slides and controlling for that confinement and the pressure at the sample
+	- Adri proposed using weights on the glass slide
+- Adri asked what the highest possible temperature we could be getting to and I said maybe something like 2000 K
+- Ben L arrived and we discussed a simpler UV-Vis colorimetry approach for seeing if there's any chemical luminescence happening, or if it's something you could fit to a more basic blackbody
+
+### 11/26 MURI Meeting Notes
 - I brought the lased samples from last week, all of which arguably turned out successfully (much more detail online)
 	- Ben's PCOD didn't change (no scan lines either because I used lower power)
 	- Ben's adhesives turned black and adhered, though there were obvious microfractures
