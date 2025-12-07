@@ -22,6 +22,13 @@
 Sylvie SM7b recording at work
 
 ---
+### Harry Hologram Ideas
+- Pepper's Ghost (~$20, [wiki](https://en.wikipedia.org/wiki/Pepper%27s_ghost))
+- Persistence of Vision (LED wands/fans)
+- Ultrasonic mister + projector
+- 
+
+---
 ### Now You See Me 1
 - diagonal windows
 - why not just use a plant for the bank?
