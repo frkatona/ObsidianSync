@@ -13,7 +13,8 @@
 Alex paper notes
 - 
 ---
-
+### 12/6 thoughts
+- induction furnace with conductive carbon and metal particles
 ### Yuki Comps Notes (part 1) 
 - p4
 	- same slide title (probably intentional)

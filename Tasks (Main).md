@@ -2,13 +2,15 @@
 Home
 - music
 	- performance
-		- make perfomance beat template and get it on laptop
+		- make performance beat template and get it on laptop
 		- Get a proof of concept FL Remote script macro working
 		- Brainstorm desirable scripts for a performance
 			- button --> DMX routine --> 
+	- lighting
+		- Go to Arena on a weekday, get a ladder, and power cables,  make sure each fixture has a dmx, and reset the fixtures for individual addressability
 - game
 	- get card game up OR make music
-- respond Sey
+- respond Sey, Zack
 - eyes
 	- call eye people or buy from https://www.firmoo.com/all-products.html
 - tabs
