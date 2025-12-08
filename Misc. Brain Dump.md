@@ -19,13 +19,51 @@
 - Using parallel modes for mode mixture
 
 ---
-### Sylvie recording buy guide
-- interface (used?)
-- mic (~$15?)
-	- use the sm7b's + preamp + whatever from work
-	- just use audacity at work
-- software?
+Sylvie SM7b recording at work
+
 ---
+### Harry Hologram Ideas
+- Pepper's Ghost (~$20, [wiki](https://en.wikipedia.org/wiki/Pepper%27s_ghost))
+- Persistence of Vision (LED wands/fans)
+- Ultrasonic mister + projector
+- 
+
+---
+### Now You See Me 1
+- diagonal windows
+- why not just use a plant for the bank?
+- how'd they get the audience bank details
+- why frame morgan freeman
+- magic cards
+- why steal the vault after
+---
+### Public Home WiFi Risks
+- clients probably not from each other, so anyone can
+	- see what devices are online
+	- probe them for open ports
+	- attempt to connect to shared folders or IoT devices, possibly exploiting unpatched services (chromecast APIs, IoT cameras, etc.)
+- Man-in-the-Middle Attacks
+	- intercept unencrypted traffic, injecting malicious content into webpages
+	- redirect DNS to fake login portals and phishing sites
+	- duplicate the network name (evil twin attack) and silently route the traffic through their device
+	- Even HTTPS encrypted traffic allow actors to track which sites you visit, attempt SSL stripping, harvest metadata, and manipulate captive portal redirects
+- DNS manipulation (if the bar's DNS is compromised)
+	- DNS hijacking - send you malicious versions of the sites
+	- DNS logging - tracking domain lookups
+- Captive Portals (Forced Traffic Injection)
+	- ?
+- Router admin likely has high control and visibility
+	- may enforce bandwidth throttling, block ports, track devices
+	- may have firewall settings to block gaming ports, VPN protocols, etc.
+- IOT devices in general
+	- usually unencrypted, broadcast their existence automatically, assume the network is trusted, and do not require authentication (including things like cameras)
+- Not to mention
+	- speed throttling/congestion, disconnects, latency, device limits
+- Possible security solutions
+	- travel router / firewall box - creates a private LAN behind a trusted firewall
+	- 24/7 use of full-tunnel VPN - mitigate MITM, DNS hijacking, local packet sniffing
+	- disable UPnP, DLNS, printer sharing, file sharing
+
 ### Tim's Texting Plan Notes
 - FCC's Political Robocalls/Robotexts Rules ([link](https://www.fcc.gov/rules-political-campaign-calls-and-texts?utm))
 - Messagedesk SMS / TCPA Text Message Compliance Checklist ([link](https://www.messagedesk.com/blog/tcpa-compliance))

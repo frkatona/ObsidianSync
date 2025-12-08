@@ -13,14 +13,31 @@ Home
 - respond Sey, Zack
 - eyes
 	- call eye people or buy from https://www.firmoo.com/all-products.html
+- Ask about game jam for the three next weekends ('next' is Red and Zack Nyce)
 - tabs
 	- apply polymer chemist
 	- wfh jobs, schedule inspection
 	- cardio exercises easy on knees
 - fix Bolt window washer, schedule inspection
-- consider going to Gwen and/or Steve tonight (5 and 7:30)
 - Music plans
 	- Lighting
+		- Create alternative sketch to take DMX commands from QLC+
+		- Create basic routine sets for Arena (assuming front wash PARs, back wash pars, moving heads, and a hazer)
+			- (1) Clean Verse
+				- front - warm white at 70%
+				- back - dim blue wash
+				- movers - static gobo texture with slow pan
+			- (2) Big Chorus
+				- front - brighter white/amber
+				- back - complementary color (e.g., red/purple) at 100%
+				- movers - faster sweeping beams
+			- (3) Breakdown
+				- front - dim/off
+				- back - moody single color (e.g., cyan)
+				- movers - slow circle movement, no strobing
+			- (4) Strobe Hit
+				- brief, aggressive strobes or white pops from PARS + movers, triggered manually for drum fills and endings
+		- Show early to Arena to test 
 	- Performance (Arena/MCB)
 		- performance mode
 			- make drums
