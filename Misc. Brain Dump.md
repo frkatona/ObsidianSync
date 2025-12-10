@@ -19,9 +19,6 @@
 - Using parallel modes for mode mixture
 
 ---
-Sylvie SM7b recording at work
-
----
 ### Harry Hologram Ideas
 - Pepper's Ghost (~$20, [wiki](https://en.wikipedia.org/wiki/Pepper%27s_ghost))
 - Persistence of Vision (LED wands/fans)

@@ -1,7 +1,7 @@
 # Today
 Home
-- respond undergrad girl, Sey, Zack
-- Ask Yuki if she'd like to practice comps
+- respond Yuki, Sey, Zack
+- Read Yunhee
 - music
 	- performance
 		- make performance beat template and get it on laptop
