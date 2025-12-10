@@ -1,3 +1,13 @@
+- ### 2025-12-08 Notes
+	- Kaya likes the "Space Krill for the Moon Whale" song
+	- talked about alternatives to the Arduino API's 'map()' function
+		- just dividing, match, lerp, remap
+		- purely as a tangent, Kaya talked about being reminded of monads
+	- Bryan came
+		- he's making a cool little granular sand cellular automota thing inspired by his digging through mulch
+		- talked about openwebui for his GPT credits
+	- Kaya talked about deriving utility from just rolling through the global scope functions ([here](https://docs.godotengine.org/en/stable/classes/class_%40globalscope.html))
+
 - ### 2025-11-17 Notes
 	- to-do before
 		- fishing / card updates (implement some slay the spire)

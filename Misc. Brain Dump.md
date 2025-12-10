@@ -346,16 +346,24 @@ thinking of buying (removed from amazon cart)
 	 - older anime
 		 - [ ] My Life as a Vending Machine [S01](https://www.miruro.tv/watch?id=153360&ep=1)
  - Play 
-	 - [ ] Hades
+	 - [x] Hades
 	 - [ ] Hollow Knight --> Silksong
 	 - [ ] Undertale --> Deltarune
 	 - [ ] Darkest Dungeon
 	 - [ ] Rain World
 	 - [ ] Return of the Obra Dinn
+	 - [ ] Heroes of Might and Magic 3
  - Code
 	 - [ ] Song scroller with more complete feature set and UI
 	 - [ ] Color grade with sliders in Marimo
 ### Closed Tabs
+- danger amorphous vs crystalline silica
+- tonicize rhythm [video](https://youtu.be/5ud-fwdalu0)
+- 3dp iron and other exotic materials [video](https://youtu.be/J8PZWkjt65Q)
+- Blender 5.0 - what's new [video](https://youtu.be/4wEqD-jK0DU) and animation focus [video](https://youtu.be/s3kcPME65ic)
+- fighter jets c++ [video](https://youtu.be/Gv4sDL9Ljww)
+- myopia
+- amazon chicken wire
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 - [Tiger VNC](https://tigervnc.org/)
 - [Selenium](https://pypi.org/project/selenium/)
@@ -423,9 +431,10 @@ thinking of buying (removed from amazon cart)
 	- [iphone17 pro teardown](https://youtu.be/O2hSlsvB8nA)
 	- [free DMX lighting controller software](https://www.youtube.com/shorts/pliVPYhEPmw?feature=share)
 		- also "lighting for a band" for how key/fill/side/rear lights are usually placed and which ones are best stylized with patterns and colors
-	- 
-
-[](https://www.youtube.com/@Blargis3d)
+	- [level design Quake mod](https://youtu.be/hyBAQPCMiCE)
+	- limited slip differential [explainer](https://youtu.be/1B1FNs5bgrE)
+- https://en.wikipedia.org/wiki/Refractive_index
+- [Blargis 3d](https://www.youtube.com/@Blargis3d)
 - https://learngitbranching.js.org/?locale=en_US
 - https://leetcode.com/problems/longest-common-prefix/description/
 - 3DP - "snap-fit joints"

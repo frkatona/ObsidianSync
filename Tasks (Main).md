@@ -1,5 +1,7 @@
 # Today
 Home
+- respond undergrad girl, Sey, Zack
+- Ask Yuki if she'd like to practice comps
 - music
 	- performance
 		- make performance beat template and get it on laptop
@@ -7,10 +9,10 @@ Home
 		- Brainstorm desirable scripts for a performance
 			- button --> DMX routine --> 
 	- lighting
+		- PCB the esp32 - DMX circuit
 		- Go to Arena on a weekday, get a ladder, and power cables,  make sure each fixture has a dmx, and reset the fixtures for individual addressability
 - game
 	- get card game up OR make music
-- respond Sey, Zack
 - eyes
 	- call eye people or buy from https://www.firmoo.com/all-products.html
 - Ask about game jam for the three next weekends ('next' is Red and Zack Nyce)
