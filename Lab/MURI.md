@@ -20,6 +20,19 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 12/10 Meeting Notes
+- I spoke to Dean at the MSC who says we should be able to use the UTM with the oven for lap shear
+- Ben S
+	- says he has some material to pass to me (a "first pass") for the thickness attempts
+	- CTEM and STEM images show a 3-layer structure: graphitic C, small B4C crystallite, and large B4C crystallite layer
+	- SAED (e- diffraction) pattern remains the same in both layers for B4C + graphite
+	- EELS shows locations of B and C 
+		- in the regions they are co-localized at a 3 (maybe 4) to 1 ratio
+		- but the dark areas seem to predominate and they are what, graphite?
+- Ben L says our lab could probably do a good job with image analysis of boron and carbide segmentation with our techniques
+- Tainara has some laser sample stuff
+	- Kissinger plot showing 194 kJ/mol effective Ea
+---
 ### 12/3 MURI Meeting Notes (Adri attendance)
 - Adri and Rob discussing their paper (re)submission
 - Rob says Ben S still not quite there with laying down known thickness, but he'll ask about the known thickness of samples as well as the standard PCD for Greg
@@ -33,7 +46,7 @@ Absorption mechanisms to explore:
 	- Adri proposed using weights on the glass slide
 - Adri asked what the highest possible temperature we could be getting to and I said maybe something like 2000 K
 - Ben L arrived and we discussed a simpler UV-Vis colorimetry approach for seeing if there's any chemical luminescence happening, or if it's something you could fit to a more basic blackbody
-
+---
 ### 11/26 MURI Meeting Notes
 - I brought the lased samples from last week, all of which arguably turned out successfully (much more detail online)
 	- Ben's PCOD didn't change (no scan lines either because I used lower power)
@@ -42,7 +55,7 @@ Absorption mechanisms to explore:
 - Ben S - "we got some values, so we should be imminent on" the known thickness samples
 - Rob thinking of applying/proposing for us to use the XRay Syncrotron
 	- I mentioned I needed some samples to try on the CW, Ben S nodded
-
+---
 ### 11/24 MURI Meeting Notes (Monthly - Akachukwu + Nabanankur)
 #### Akachukwu
 - not much evidence of success for the bigger molecules

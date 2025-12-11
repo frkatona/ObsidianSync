@@ -11,10 +11,9 @@ Home
 	- lighting
 		- PCB the esp32 - DMX circuit
 		- Go to Arena on a weekday, get a ladder, and power cables,  make sure each fixture has a dmx, and reset the fixtures for individual addressability
+		- does anywhere have a fog machine?
 - game
 	- get card game up OR make music
-- eyes
-	- call eye people or buy from https://www.firmoo.com/all-products.html
 - Ask about game jam for the three next weekends ('next' is Red and Zack Nyce)
 - tabs
 	- apply polymer chemist
