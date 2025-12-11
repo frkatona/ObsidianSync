@@ -1,6 +1,7 @@
 # Today
 Home
-- respond Yuki, Sey, Zack
+- buy some epoxy/CA/glass to metal glue
+- respond Sey, Zack
 - Read Yunhee
 - music
 	- performance
