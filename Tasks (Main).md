@@ -1,7 +1,13 @@
 # Today
 Home
-- respond Yuki, Sey, Zack
-- Read Yunhee
+- Website
+	- links
+		- maybe clips?
+	- polishing labels
+	- arrows between sections
+- Drums guy (remember name)
+- Blender file
+- respond Sey, Zack
 - music
 	- performance
 		- make performance beat template and get it on laptop

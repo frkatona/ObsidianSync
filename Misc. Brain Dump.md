@@ -23,7 +23,12 @@
 - Pepper's Ghost (~$20, [wiki](https://en.wikipedia.org/wiki/Pepper%27s_ghost))
 - Persistence of Vision (LED wands/fans)
 - Ultrasonic mister + projector
-- 
+---
+### Samples website notes
+- combine articulation and expressiveness (some overlap, e.g., ethereal)
+- check the 'syncopated' tracks are really syncopated (e.g., Blinding Lights) 
+---
+don't be so Cincinnati
 
 ---
 ### Now You See Me 1
