@@ -20,8 +20,19 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 12/17 Meeting Notes
+- Self:
+	- Ben S mentioned to me over text that he'd have PCD sample for me today
+	- Yuki is back tomorrow, so we'll lase the material together
+	- I spoke to Dean at the MSC who says we should be able to use the UTM with the oven for lap shear
+- Tainara and Ben S discuss the DSC, it may be inaccessible for a few days
+- Adri and Rob discuss the first paper
+- Ben S says today he'll give me various known thickness samples
+	- REMEMBER FOR TAINARA this time - ask for it on sapphire, or at least cut the glass slide down to a few cm long
+- Tainara took some SEM images with some weird-looking ~5um layer beneath the polymer/ceramic 
+	- Rob wondered initially if the polymer is interacting with the substrate, but is pretty convinced that it's just something to do with the substrate...how deep is the one-sided frosting on the sapphire? 
+---
 ### 12/10 Meeting Notes
-- I spoke to Dean at the MSC who says we should be able to use the UTM with the oven for lap shear
 - Ben S
 	- says he has some material to pass to me (a "first pass") for the thickness attempts
 	- CTEM and STEM images show a 3-layer structure: graphitic C, small B4C crystallite, and large B4C crystallite layer
