@@ -19,8 +19,13 @@
 - Using parallel modes for mode mixture
 
 ---
+### Singing warmup addition idea
+- include snippets of example songs to rehearse in singing warmup with the 53ana expression list
+- give the snippets multiple tags and try to find as many combinations as possible 
+---
 ### Harry Hologram Ideas
-- Pepper's Ghost (~$20, [wiki](https://en.wikipedia.org/wiki/Pepper%27s_ghost))
+- Pepper's Ghost (~$20, [wiki](https://en.wikipedia.org/wiki/Pepper%27s_ghost), [example video](https://youtu.be/lPvHifetWe8))
+	- have display components, just need case (housing + acrylic reflector)
 - Persistence of Vision (LED wands/fans)
 - Ultrasonic mister + projector
 ---

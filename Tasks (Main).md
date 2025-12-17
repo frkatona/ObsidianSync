@@ -1,13 +1,35 @@
 # Today
 Home
+- Zach Sunday - cancel or move MCB open mic; tell mom
+- Chelsea credit/debit
+	- Rent (December) - paid
+	- Sewage/Water/etc.
+		- Probably the $307.54 (/2 = $153.77) paid on Oct 31 on top of the $1800 rent
+	- Power - $564.22 / 2 = $282.11
+	- Internet (December) - $112 /2 = $56
+	- Pay her for groceries
+- apply jobs
+	- machine learning job
+		- update resume
+		- take new picture for website
+		- do a basic machine learning exercise
+		- move unlisted projects into the website
+		- learn about Ben's data vis influence and Emma's ML contribution
+- Practice guitar
+- Call to ask about hospital double charge
+	- why is there a "doctor" and "hospital" component for the MRI?
+	- didn't I already pay the MRI?
 - Website
-	- links
-		- maybe clips?
-	- polishing labels
 	- arrows between sections
-- Drums guy (remember name)
-- Blender file
+	- remove "agility" for overlap with "precision"
+		- also search for which characters are all assigned to the same examples to hunt down redundancies
+- Export basic t-pose OR bake textures OR make add-on 
 - respond Sey, Zack
+- wash out fog machine
+- solder the dmx perf board
+- try continuous hi-hat
+
+Work
 - music
 	- performance
 		- make performance beat template and get it on laptop
@@ -17,10 +39,9 @@ Home
 	- lighting
 		- PCB the esp32 - DMX circuit
 		- Go to Arena on a weekday, get a ladder, and power cables,  make sure each fixture has a dmx, and reset the fixtures for individual addressability
+		- does anywhere have a fog machine?
 - game
 	- get card game up OR make music
-- eyes
-	- call eye people or buy from https://www.firmoo.com/all-products.html
 - Ask about game jam for the three next weekends ('next' is Red and Zack Nyce)
 - tabs
 	- apply polymer chemist
@@ -53,9 +74,9 @@ Home
 		- looper
 			- listen to some inspiration (tame impala?)
 - Figure out filezilla (sharing between computers and pulling from seedbox to Chelsea's computer)
-- 
 
 Work
+- buy some epoxy/CA/glass to metal glue
 - Cleary email 
 - assemble Raman heating cell (either get it running or find what parts might be needed)
 
