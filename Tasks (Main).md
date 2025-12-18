@@ -1,6 +1,7 @@
 # Today
 Home
 - Zach Sunday - cancel or move MCB open mic; tell mom
+- Tell Yuki what time
 - Chelsea credit/debit
 	- Rent (December) - paid
 	- Sewage/Water/etc.

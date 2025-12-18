@@ -33,7 +33,10 @@
 - combine articulation and expressiveness (some overlap, e.g., ethereal)
 - check the 'syncopated' tracks are really syncopated (e.g., Blinding Lights) 
 ---
-don't be so Cincinnati
+Columbo
+- don't be so Cincinnati
+12 Angry Men
+- it's a very sad thing to mean nothing
 
 ---
 ### Now You See Me 1
