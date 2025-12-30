@@ -17,8 +17,62 @@
 	- I - bIII - IV - V---
 - Tritone subs
 - Using parallel modes for mode mixture
+---
+
 
 ---
+### Neural Net Demo - 2D Racing Game Outline
+- Make  track
+	- procedural from spline
+- Make car + controller and test with player controls
+	- inertial (acceleration, deceleration, turn-rate)
+- Illustrate 'vision'
+	- raytrace collision hits in 3-5 directions from driver's seat
+- create lose condition
+	- collision with walls
+- debugging/QoL tools
+	- UI with timer + node activation leading to the direction being pressed
+- AI
+	- creating node structure + initial guesses
+	- evaluating cost
+	- visualizing ghost racers through the learning process
+	- employing a 'best of generation' pruning technique?  What are the options here?
+---
+### BG3 tips
+- bypass the launcher by right-clicking the game name in your library, selecting Properties>General and putting "--skip-launcher" (without quotes) in Launch Options
+- lots of rewarded curiosity: 
+	- spells like disguise self and speak with animals (e.g., disguise self --> speak with dead)
+	- alternative paths (jumping, breakable/illusory walls, holes)
+		- use bludgeoning on breakable walls
+- vendor discounts based on charisma of character that initiates conversation
+- re-spec at a relatively small price becomes available after a few hours
+- hotkeys
+	- 'Left-Alt' highlights on-screen items
+	- 'T' while hovering over a mob inspects them
+	- shift+C to hide all
+- "\*" means it hasn't been looted yet
+- some important differences from DnD
+	- casters can swap prepared spells any time outside of combat
+	- multi-classed wizards can learn spells from scrolls up to their total spellcasting level (as opposed to wizard level)
+- lots of things like traps and switches can be triggered by shooting them from a distance
+- keep a shovel on a character
+- click and drag can move things around or move things on top of each other (opening paths, creating climbable stacks, blocking LoS, etc.)
+	- e.g., have characters carry around crates to reliably start fights with height this way
+- some spells let you re-cast for free, but sometimes it creates a new button the right side for that action
+- can toggle to non-lethal attacks (but only works on melee)
+- de-facto teleport companions to your side out of combat by fast traveling to and from camp (useful if you have more mobility than they do to e.g., jump to a ledge)
+- instead of drinking potions, drop them and then throw to shatter on the ground and apply to all characters in range
+	- also works on negative/damaging potions and enemies, but all potions used this way work on everyone they hit
+	- similarly with dipping weapons for a coating (poisons etc.,)...also works with candles for fire coating
+- vendor cash-on-hand and inventories refresh after some number of long rests
+- don't knock enemies into the abyss if you intend to loot them
+- ungrouped/unseen characters can operate outside the turn-based combat until they join with an attack or become visible to enemies 
+- Inventory management
+	- click an armor slot to shot all the items that can go on the slot from global inventory
+	- shift+click and ctrl+click to select multiple
+	- drag items onto character portrait to give it to them
+	- send all camping supplies straight to camp (only place they're needed)
+
 ### Singing warmup addition idea
 - include snippets of example songs to rehearse in singing warmup with the 53ana expression list
 - give the snippets multiple tags and try to find as many combinations as possible 
@@ -367,6 +421,15 @@ thinking of buying (removed from amazon cart)
 	 - [ ] Song scroller with more complete feature set and UI
 	 - [ ] Color grade with sliders in Marimo
 ### Closed Tabs
+- Machine Learning
+	- https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html#id5
+	- https://jdlm.info/articles/2019/01/01/driverless-race-car-deep-learning.html
+	- https://nsrishankar.github.io/files/docs/projects/AI_DDPG_Outrun.pdf
+	- https://en.wikipedia.org/wiki/Variance
+	- https://www.kaggle.com/code/anthonykatona/exercise-model-validation/edit
+	- https://yann.lecun.com/exdb/mnist/
+	- https://www.geeksforgeeks.org/deep-learning/fully-connected-layer-vs-convolutional-layer/
+	- http://neuralnetworksanddeeplearning.com/chap1.html
 - danger amorphous vs crystalline silica
 - tonicize rhythm [video](https://youtu.be/5ud-fwdalu0)
 - 3dp iron and other exotic materials [video](https://youtu.be/J8PZWkjt65Q)
