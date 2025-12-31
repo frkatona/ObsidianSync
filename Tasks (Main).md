@@ -1,5 +1,23 @@
 # Today
 Home
+- NY trip prep/packing
+	- toiletries - toothbrush/paste, deoderant
+	- clothes
+	- entertainment
+		- electronics
+			- laptop, phone charger, ESP32 kit
+			- microphone, interface, speaker, cable bags, DMX LED
+		- drum sticks, tambourine/shakers
+	- Rx
+	- Soda
+- Drums
+	- figure out why bell zone isn't working
+	- try the MIDI cable - evaluate hat closedness continuousness
+	- add the patch to connect the rubber cymbal
+	- respond Chuck
+- ML game
+- Zach Sunday - cancel or move MCB open mic; tell mom
+- Ask Yuki about lab tomorrow
 - Yuki practice notes
 - Dog notes
 	- Monitoring: bouncy, unnecessary (playful) movements
@@ -30,7 +48,7 @@ Home
 	- remove "agility" for overlap with "precision"
 		- also search for which characters are all assigned to the same examples to hunt down redundancies
 - Export basic t-pose OR bake textures OR make add-on 
-- respond Sey, Zack
+- respond Zack, maybe ask Sey about where to play his games or see his art 
 - wash out fog machine
 - solder the dmx perf board
 - try continuous hi-hat
