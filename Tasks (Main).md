@@ -1,6 +1,11 @@
 # Today
 Home
-- Zach Sunday - cancel or move MCB open mic; tell mom
+- Yuki practice notes
+- Dog notes
+	- Monitoring: bouncy, unnecessary (playful) movements
+	- Active/Interrupted Playing: make the dogs return on command
+	- Check when unsure: put the more-likely aggressor on-leash and see if the other approaches them.  Swap roles as well if certainty is needed
+- Advertise Zach's show in omn
 - Tell Yuki what time
 - Chelsea credit/debit
 	- Rent (December) - paid
