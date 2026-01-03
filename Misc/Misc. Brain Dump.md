@@ -1,4 +1,3 @@
-
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
@@ -17,9 +16,6 @@
 	- I - bIII - IV - V---
 - Tritone subs
 - Using parallel modes for mode mixture
----
-
-
 ---
 ### Neural Net Demo - 2D Racing Game Outline
 - Make  track

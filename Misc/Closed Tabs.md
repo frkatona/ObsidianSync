@@ -83,6 +83,7 @@
 		- also "lighting for a band" for how key/fill/side/rear lights are usually placed and which ones are best stylized with patterns and colors
 	- [level design Quake mod](https://youtu.be/hyBAQPCMiCE)
 	- limited slip differential [explainer](https://youtu.be/1B1FNs5bgrE)
+	- Heisenberg still difficult to explain [video](https://youtu.be/c-Q5r3THR3M)
 - https://en.wikipedia.org/wiki/Refractive_index
 - [Blargis 3d](https://www.youtube.com/@Blargis3d)
 - https://learngitbranching.js.org/?locale=en_US
@@ -118,3 +119,7 @@
 - pixel update notes
 - Google Pixel 8 PRO Focus and Exposure Lock for photo and video
 - buy dry ice near me
+- [github special md formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests)
+- 12tone Linkin Park [video](https://www.youtube.com/watch?v=f9sQSJqOwiA), also vertical vs horizontal harmony
+- Subornation of perjury
+- removing dealer sticker from car

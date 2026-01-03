@@ -1,14 +1,11 @@
 # Today
 Home
+- pick up adderall
 - warranty time-sensitive
-	- wash out fog machine
+	- wash out fog machine (Hakuta Fog Machine not fogging)
 	- walmart tv dead pixel column
 - how many gemini credits do I have left
 - clear drive for chelsea
-- Drums
-	- figure out why bell zone isn't working
-	- try the MIDI cable - evaluate hat closedness continuousness
-	- add the patch to connect the rubber cymbal
 - Pay Dec. electricity
 - Chelsea credit/debit
 	- Rent (December) - paid
@@ -24,18 +21,28 @@ Home
 		- do a basic machine learning exercise
 		- move unlisted projects into the website
 		- learn about Ben's data vis influence and Emma's ML contribution
-- Practice guitar
 - Call to ask about hospital double charge
 	- why is there a "doctor" and "hospital" component for the MRI?
 	- didn't I already pay the MRI?
-- Website
+- vocal warmup website
 	- arrows between sections
 	- remove "agility" for overlap with "precision"
 		- also search for which characters are all assigned to the same examples to hunt down redundancies
-- Export basic t-pose OR bake textures OR make add-on 
+- deliver gift card
+- game
+	- Export basic t-pose OR bake textures OR make add-on
+	- ML game - figure out matrix multiplication step, expand scope to a backprop. application
 - respond Zack, maybe ask Sey about where to play his games or see his art 
-- solder the dmx perf board
-- try continuous hi-hat
+- olive oil smoke point/how hot
+- music
+	- Practice guitar
+	- solder the dmx perf board
+	- Drums
+		- figure out why bell zone isn't working
+		- try the MIDI cable - evaluate hat closedness continuousness
+		- add the patch to connect the rubber cymbal
+		- try continuous hi-hat
+	- X18 pre-amp settings
 
 Work
 - music
@@ -87,6 +94,7 @@ Work
 - buy some epoxy/CA/glass to metal glue
 - Cleary email 
 - assemble Raman heating cell (either get it running or find what parts might be needed)
+- cure some pdms on the bottom of a container to help carry samples, measure something at the same height as the samples to focus the galvo to
 
 
 rotator/undergrad PDMS research ideas with Ben:
