@@ -1,3 +1,6 @@
+# Tasks
+- task 1 #notdoneyet
+- 
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
@@ -19,9 +22,9 @@
 ---
 ### BG3 easy run achievements
 - Act 0
-	- Defeat Commander Zhalk on the nautiloid
+	- [x] Defeat Commander Zhalk on the nautiloid
 - Anytime
-	- kill a character with an unarmed strike
+	- [x] kill a character with an unarmed strike
 	- multiclass into every class (no withers) (JUST BUY A MERCENARY AT LEVEL 12)
 	- long rest with only alcohol
 	- earn 100 g from playing music
