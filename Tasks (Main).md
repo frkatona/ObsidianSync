@@ -1,6 +1,6 @@
 # Today
 Home
-- pick up adderall
+- pick up adderall, respond John
 - warranty time-sensitive
 	- wash out fog machine (Hakuta Fog Machine not fogging)
 	- walmart tv dead pixel column
@@ -8,11 +8,17 @@ Home
 - clear drive for chelsea
 - Pay Dec. electricity
 - Chelsea credit/debit
-	- Rent (December) - paid
+	- December
+		- Rent - paid
+		- Power - $564.22 / 2 = $282.11
+		- Internet - $112 /2 = $56
+	- January
+		- Rent - $1825 (/2 = $912.50)
+			- (water included)
+		- Power - $683.04 (/2 = $341.52)
+		- Internet - $112 /2 = $56
 	- Sewage/Water/etc.
 		- Probably the $307.54 (/2 = $153.77) paid on Oct 31 on top of the $1800 rent
-	- Power - $564.22 / 2 = $282.11
-	- Internet (December) - $112 /2 = $56
 	- Pay her for groceries
 - apply jobs
 	- machine learning job

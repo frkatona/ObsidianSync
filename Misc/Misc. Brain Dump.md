@@ -17,6 +17,21 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
+### BG3 easy run achievements
+- Act 0
+	- Defeat Commander Zhalk on the nautiloid
+- Anytime
+	- kill a character with an unarmed strike
+	- multiclass into every class (no withers) (JUST BUY A MERCENARY AT LEVEL 12)
+	- long rest with only alcohol
+	- earn 100 g from playing music
+	- defeat 20 opponents drunk
+- Act II
+	- Kill the Surgeon before surgery
+- Act III
+	- knock dragon out of the sky in wyrmway
+
+---
 ### Neural Net Demo - 2D Racing Game Outline
 - Make  track
 	- procedural from spline
