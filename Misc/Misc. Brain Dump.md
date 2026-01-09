@@ -1,6 +1,4 @@
-# Tasks
-- task 1 #notdoneyet
-- 
+
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
@@ -20,6 +18,63 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
+### ML notes/terms
+- Early fundamental discoveries
+	- 1763 - Bayes posthumously publishes "An Essay Towards Solving a Problem in the Doctrine of Chances"
+	- 1812 - Laplace publishes what is now called Bayes' theorem
+	- 1913 - Markov chains
+- 1940s
+	- Donald Hebb publishes his theory of biological neuron behavior - "Neurons that fire together, wire together"
+	- Warren McCulloch and Walter Pitts propose computational modeling of neurons
+- 1950s
+	- Alan Turing publishes "Computing Machinery and Intelligence" paper, considering how to evaluate machine "thought" and proposing the Turing Test and Imitation Game
+	- Arthur Samuel uses ML to play checkers
+	- Frank Rosenblatt invents the perceptron
+- 1960s
+	- "learning machines" modeled on neurons are developed using punch-tape memory ("Cybertron") developed by Raytheon Company
+	- Nils Nilsson publishes "Learning Machines," using machines to classify patterns
+	- Alexey Ivakhenko trains a "deep network" with hidden layers and a narrowing architecture
+	- a primitive backpropagation emerges and proceeds to be left in a box for 20 years
+- 1970s
+	- 'AI winter' of pessimism about machine learning effectiveness
+	- Early 'convolutional' networks
+	- backpropagation is improved in Linnainmaa in a master's thesis, but with no proposed relationship with neural networks and it is forgotten again
+- 1980s
+	- backpropagation re-discovered, but for real this time, applied to NN by Rumelhart, Hinton, and Williams 
+	- Stevo Bozinovski reports his training methods for a network that recognized 40 handwritten characters (26 letters, 10 digits, 4 special symbols) from a computer (demo [YT video](https://youtu.be/FwFduRA_L6Q))
+- 1990s
+	- recurrent neural networks (RNNs) and support-vector machines (SVMs) become popular
+- 2000s
+	- kernel methods (SVC, etc.) and unsupervised methods become widespread
+- 2010s
+	- deep learning becomes "feasible", then integral to many software services and applications, spurring huge advances in vision and text processing
+- 2020s
+	- generative AI: advanced chatbots and text-to-image models
+- exploration-exploitation dilemma - search for optimal balance between new actions and using current knowledge
+- gradient descent -> stochastic gradient descent -> adaptive moment estimation
+- layer-by-layer pretraining - initializing a model with suitable features (weights)
+- cross-entropy
+- reinforcement learning
+- supervised/unsupervised learning
+- evolutionary algorithms: (1) evolutionary strategies, (2) evolutionary programming, and (3) genetic algorithms
+- genetic algorithm
+- depth and composition - distinguishing feature of NNs over GLMs which arise from hidden layers
+- clustering
+- Bayes
+- Markov decision process and Markov chain
+- perceptron - an algorithm for supervised learning of binary classifiers
+	- classifier (binary, linear)
+	- predictor function
+	- feature vector
+	- criticized in the 90s as being structurally-identical to a generalized linear model of statistics (GLM framework published in 1972,  [wiki](https://en.wikipedia.org/wiki/Generalized_linear_model))
+		- weights -> coefficients
+		- bias -> intercept
+		- activation function -> link function
+		- training -> maximum likelihood estimation
+- autoencoder
+- misc
+	- (1995) Gartner hype cycle - [wiki](https://en.wikipedia.org/wiki/Gartner_hype_cycle)
+	- optimal control - [wiki](https://en.wikipedia.org/wiki/Optimal_control)
 ### BG3 easy run achievements
 - Act 0
 	- [x] Defeat Commander Zhalk on the nautiloid
@@ -86,7 +141,57 @@
 	- shift+click and ctrl+click to select multiple
 	- drag items onto character portrait to give it to them
 	- send all camping supplies straight to camp (only place they're needed)
+---
+### CUI Notes
+- dcsa.mil [link](https://securityawareness.dcsa.mil/cui/story.html) (32 ~1 min video slides with occasional questions)
+- Controlled Unclassified Information - from 2010 executive order
+- 'for official use only' (FOUO) designation is deprecated
+- knowledge objectives
+	- purpose and location of ISOO and DOD CUI registries
+	- decontrol, safeguarding, destruction
+	- identify/report security incidents
+- (4) no audio
+- unclassified information is only CUI if there is a law/policy prescribing safeguarding or dissemination control
+	- agencies must not disseminate CUI because of FOIA
+- The 'authorized holder' is responsible for determining if info is CUI and marking it as such
+- NDA is optional (according to CUI Notice 2020-03), but the Secretary of Defense has directed the issuance of a DOD CUI NDA
+- (9) all government, civilian, and contractors must take the ISOO Registry assessment
+- (11) Marking requirements
+	- CUI Basic - policy does not set handling controls, so default to the registry guidelines
+	- CUI Specified (SP) - specific to the information with rules set by the policy
+		- don't use any abbreviation that uses SP to avoid confusion with this
+- (12) marking CUI documents
+	- make sure it is actually CUI
+	- add a header and footer saying "CUI" 
+	- add "designation indicator" (controlled by; categories; control types; POC) to the first page or cover of all documents
+- (13) portion markings (not required) - U (unclassified) vs CUI
+- (14) Limited Dissemination Controls (LDC) - part of designation indicator showing how it can be disseminated
+- (18) when portions of a document are CUI but other portions are higher classification, the banner text of the document will read the highest level classification applicable (e.g., top secret)
+- (19) mark CUI in the banner and footer of emails (use portion markers as applicable, i.e., for 'co-mingled' documents)
+	- to ask more questions about markings, contact the Security Manager or Component Program Manager
+- (21) no audio
+	- decontrol of CUI documents will occur when the contents no longer require safeguarding
+	- agencies must "promptly" decontrol CUI and notify all holders when doing so, who will then remove their CUI markings
+- (22) pre-publication review required
+	- see DoD instruction 5230.09 and DoD instruction 5230.29
+- (24) keep CUI documents in locked containers unless the building itself has security measures against unauthorized readers
+- (25) for information systems, the network configuration is "moderate confidentiality" (NIST 800-171 for non-federal systems, NIST 800-53 for federal)
+- (26) CUI can be distributed through mail or online (online requires TLS) 
+	- don't fax unless the sender knows the receiver is ready to intercept it or it's going to a secured location
+- (27) destroying CUI
+	- first process through the Records Management procedures
+	- make it unreadable and irrecoverable (guidance provided in DoDM 5200.01-V3)
+- (28) who can access CUI
+	- not need-to-know (NTK) like classified
+	- basically anyone who isn't restricted by a law/policy/LDC (limited dissemination control) and means to further any 'lawful government purpose', though agencies can place more limits found in Table 2 of DoDI 5200.48
+	- might be that raw data is kept CUI until it is worked up to determine if it is really CUI
+- (30) security incidents (unauthorized disclosure (UD))
+	- improper marking or otherwise risking unauthorized disclosure
+	- when it happens, no formal security inquiry is necessary unless disciplinary action will be taken
+	- UD of some CUI, like export-controlled technical data, may result in civil and criminal sanctions
+	- report mishandling to the UD Program Management office (PMO) and the Military Department Counterintelligence (CI) organization
 
+---
 ### Singing warmup addition idea
 - include snippets of example songs to rehearse in singing warmup with the 53ana expression list
 - give the snippets multiple tags and try to find as many combinations as possible 
@@ -623,5 +728,445 @@ You don’t need these right away, but talk to me if you'd like to learn more ab
 *note that what I've referred to as a "group" in these messages you will usually see called a "server"*
 
 **And again: all of these features are free.  Do not pay for anything.**
+
+---
+
+## github markdown syntax playground
+
+```stl
+
+solid cube_corner
+
+  facet normal 0.0 -1.0 0.0
+
+    outer loop
+
+      vertex 0.0 0.0 0.0
+
+      vertex 1.0 0.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+    endloop
+
+  endfacet
+
+  facet normal 0.0 0.0 -1.0
+
+    outer loop
+
+      vertex 0.0 0.0 0.0
+
+      vertex 0.0 1.0 0.0
+
+      vertex 1.0 0.0 0.0
+
+    endloop
+
+  endfacet
+
+  facet normal -1.0 0.0 0.0
+
+    outer loop
+
+      vertex 0.0 0.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+      vertex 0.0 1.0 0.0
+
+    endloop
+
+  endfacet
+
+  facet normal 0.577 0.577 0.577
+
+    outer loop
+
+      vertex 1.0 0.0 0.0
+
+      vertex 0.0 1.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+    endloop
+
+  endfacet
+
+endsolid
+
+```
+
+  
+
+```stl
+
+solid Mesh
+
+  facet normal 0.0 0.0 1.0
+
+    outer loop
+
+      vertex 1.0 0.0 0.0
+
+      vertex 0.0 1.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+    endloop
+
+  endfacet
+
+endsolid Mesh
+
+```
+
+  
+
+```mermaid
+
+graph TD;
+
+    A-->B;
+
+    A-->C;
+
+    B-->D;
+
+    C-->D;
+
+```
+
+  
+
+```mermaid
+
+graph LR;
+
+    a1((a1))-->b1((b1));
+
+    a2((a2))-->b1;
+
+    a3((a3))-->b1;
+
+    a1-->b2((b2));
+
+    a2-->b2;
+
+    a3-->b2;
+
+    a1-->b3((b3));
+
+    a2-->b3;
+
+    a3-->b3;
+
+    a1-->b4((b4));
+
+    a2-->b4;
+
+    a3-->b4;
+
+    b1-->c1((c1));
+
+    b2-->c1;
+
+    b3-->c1;
+
+    b4-->c1;
+
+    b1-->c2((c2));
+
+    b2-->c2;
+
+    b3-->c2;
+
+    b4-->c2;
+
+```
+
+  
+
+```geojson
+
+{
+
+  "type": "FeatureCollection",
+
+  "features": [
+
+    {
+
+      "type": "Feature",
+
+      "id": 1,
+
+      "properties": {
+
+        "ID": 0
+
+      },
+
+      "geometry": {
+
+        "type": "Polygon",
+
+        "coordinates": [
+
+          [
+
+              [-90,35],
+
+              [-90,30],
+
+              [-85,30],
+
+              [-85,35],
+
+              [-90,35]
+
+          ]
+
+        ]
+
+      }
+
+    }
+
+  ]
+
+}
+
+```
+
+```mermaid
+
+erDiagram
+
+    CUSTOMER ||--o{ ORDER : places
+
+    ORDER ||--|{ ORDER_ITEM : contains
+
+    PRODUCT ||--o{ ORDER_ITEM : includes
+
+    CUSTOMER {
+
+        string id
+
+        string name
+
+        string email
+
+    }
+
+    ORDER {
+
+        string id
+
+        date orderDate
+
+        string status
+
+    }
+
+    PRODUCT {
+
+        string id
+
+        string name
+
+        float price
+
+    }
+
+    ORDER_ITEM {
+
+        int quantity
+
+        float price
+
+    }
+
+```
+
+  
+
+```mermaid
+
+treemap-beta
+
+"Section 1"
+
+    "Leaf 1.1": 12
+
+    "Section 1.2"
+
+      "Leaf 1.2.1": 12
+
+"Section 2"
+
+    "Leaf 2.1": 20
+
+    "Leaf 2.2": 25
+
+```
+
+  
+
+```mermaid
+
+xychart-beta
+
+    title "Sales Revenue"
+
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+
+    y-axis "Revenue (in $)" 4000 --> 11000
+
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+
+```
+
+  
+
+```mermaid
+
+---
+
+config:
+
+  kanban:
+
+    ticketBaseUrl: 'https://github.com/mermaid-js/mermaid/issues/#TICKET#'
+
+---
+
+kanban
+
+  Todo
+
+    [Create Documentation]
+
+    docs[Create Blog about the new diagram]
+
+  [In progress]
+
+    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]
+
+  id9[Ready for deploy]
+
+    id8[Design grammar]@{ assigned: 'knsv' }
+
+  id10[Ready for test]
+
+    id4[Create parsing tests]@{ ticket: 2038, assigned: 'K.Sveidqvist', priority: 'High' }
+
+    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }
+
+  id11[Done]
+
+    id5[define getData]
+
+    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: 2036, priority: 'Very High'}
+
+    id3[Update DB function]@{ ticket: 2037, assigned: knsv, priority: 'High' }
+
+  
+
+  id12[Can't reproduce]
+
+    id3[Weird flickering in Firefox]
+
+```
+
+  
+
+```mermaid
+
+gitGraph
+
+    commit
+
+    branch develop
+
+    checkout develop
+
+    commit
+
+    commit
+
+    checkout main
+
+    merge develop
+
+    commit
+
+    branch feature
+
+    checkout feature
+
+    commit
+
+    commit
+
+    checkout main
+
+    merge feature
+
+```
+
+  
+
+```mermaid
+
+classDiagram
+
+    Animal <|-- Duck
+
+    Animal <|-- Fish
+
+    Animal <|-- Zebra
+
+    Animal : +int age
+
+    Animal : +String gender
+
+    Animal: +isMammal()
+
+    Animal: +mate()
+
+    class Duck{
+
+      +String beakColor
+
+      +swim()
+
+      +quack()
+
+    }
+
+    class Fish{
+
+      -int sizeInFeet
+
+      -canEat()
+
+    }
+
+    class Zebra{
+
+      +bool is_wild
+
+      +run()
+
+    }
+
+```
+
+  
+
+https://mermaid.live/edit
 
 

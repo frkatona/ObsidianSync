@@ -1,12 +1,17 @@
 # Today
 Home
-- pick up adderall, respond John
+- make better to-do with tasks
+- make FL Weds for Vivian
+- Practice ETB
+- respond
+	- Zack (see if he's on snapchat?)
+	- Justine
+	- ask Sey about where to play his games or see his art
 - warranty time-sensitive
 	- wash out fog machine (Hakuta Fog Machine not fogging)
 	- walmart tv dead pixel column
 - how many gemini credits do I have left
 - clear drive for chelsea
-- Pay Dec. electricity
 - Chelsea credit/debit
 	- December
 		- Rent - paid
@@ -38,7 +43,6 @@ Home
 - game
 	- Export basic t-pose OR bake textures OR make add-on
 	- ML game - figure out matrix multiplication step, expand scope to a backprop. application
-- respond Zack, maybe ask Sey about where to play his games or see his art 
 - olive oil smoke point/how hot
 - music
 	- Practice guitar
