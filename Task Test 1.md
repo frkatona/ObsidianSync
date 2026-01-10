@@ -1,7 +1,3 @@
-
-<%*
-  let testday = tp.date.now("YYYY-MM-DD", 10, tp.file.title, "YYYY-MM-DD")
-%>
 # to-do list
 - [ ] pick up drugs 📅 2026-01-06
 - [ ] sell drugs 📅 2026-01-11 

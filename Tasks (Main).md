@@ -1,9 +1,9 @@
 # Today
 Home
-- make better to-do with tasks
-- make FL Weds for Vivian
-- Practice ETB
-- respond
+- [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11 
+- [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
+- [ ] Practice ETB 🔁 every day 
+- respond 
 	- Zack (see if he's on snapchat?)
 	- Justine
 	- ask Sey about where to play his games or see his art
@@ -18,10 +18,10 @@ Home
 		- Power - $564.22 / 2 = $282.11
 		- Internet - $112 /2 = $56
 	- January
-		- Rent - $1825 (/2 = $912.50)
+		- Rent - paid - $1825 (/2 = $912.50)
 			- (water included)
 		- Power - $683.04 (/2 = $341.52)
-		- Internet - $112 /2 = $56
+		- Internet - paid - $112 /2 = $56
 	- Sewage/Water/etc.
 		- Probably the $307.54 (/2 = $153.77) paid on Oct 31 on top of the $1800 rent
 	- Pay her for groceries

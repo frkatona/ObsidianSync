@@ -62,6 +62,7 @@
 - clustering
 - Bayes
 - Markov decision process and Markov chain
+- full-batch vs mini-batch gradient descent (Sebastian Lague ~22:00)
 - perceptron - an algorithm for supervised learning of binary classifiers
 	- classifier (binary, linear)
 	- predictor function
@@ -75,6 +76,7 @@
 - misc
 	- (1995) Gartner hype cycle - [wiki](https://en.wikipedia.org/wiki/Gartner_hype_cycle)
 	- optimal control - [wiki](https://en.wikipedia.org/wiki/Optimal_control)
+---
 ### BG3 easy run achievements
 - Act 0
 	- [x] Defeat Commander Zhalk on the nautiloid
@@ -88,7 +90,30 @@
 	- Kill the Surgeon before surgery
 - Act III
 	- knock dragon out of the sky in wyrmway
-
+	- 
+---
+### BG3 minmaxing
+- daily routine
+	- camp party spells
+		- Cleric
+			- Poison resistance (x2)
+			- Warding bond (x1)
+		- Ranger
+			- Longstrider (ritual)
+		- Wizard
+			- Warding Bond
+			- Death Ward
+			- Freedom of Movement
+			- Aid
+		- Misc (self? don't have?)
+			- Speak with Dead
+			- Detect Thoughts
+			- See Invisibility
+			- Elixers (Hill Giants, etc.)
+	- traveling party spells
+		- summon familiar/mage hand
+		- summon hexblade or pact weapon
+		- (remember toggle ranged)
 ---
 ### Neural Net Demo - 2D Racing Game Outline
 - Make  track
