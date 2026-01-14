@@ -8,6 +8,7 @@ Home
 - finish notes on Yuki's slides
 - play Kaya's game
 - groceries
+- tell Ben about the spin coater and glovebox and moisture analyzer I wrote his name on
 
 - respond 
 	- Zack (see if he's on snapchat?)
