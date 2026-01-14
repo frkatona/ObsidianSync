@@ -1,3 +1,4 @@
 ```tasks
-due 
+due after yesterday
+sort by due
 ```

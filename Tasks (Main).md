@@ -1,8 +1,14 @@
 # Today
 Home
-- [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11 
+- [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
+- ask Ben/Yuki what to do about MURI Meeting tomorrow
+- tell Tian-shin about desk situation
+- finish notes on Yuki's slides
+- play Kaya's game
+- groceries
+
 - respond 
 	- Zack (see if he's on snapchat?)
 	- Justine
@@ -20,7 +26,7 @@ Home
 	- January
 		- Rent - paid - $1825 (/2 = $912.50)
 			- (water included)
-		- Power - $683.04 (/2 = $341.52)
+		- Power - paid - $683.04 (/2 = $341.52)
 		- Internet - paid - $112 /2 = $56
 	- Sewage/Water/etc.
 		- Probably the $307.54 (/2 = $153.77) paid on Oct 31 on top of the $1800 rent

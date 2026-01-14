@@ -1,3 +1,14 @@
+### 2026-01-12 Notes
+- Josh messed with some 401k stuff and comcast
+- Kaya kept going with websockets multiplayer network synchronizer
+- Ideas for neural network project
+	- Kaya
+		- hover over network lines to see weights 
+	- Josh
+		- train them in parallel
+		- colony sim
+	- idle game, ...
+
 ### 2026-01-09 Notes
 - Kaya is pretty deep in rebuilding network sync from scratch with websockets, "probably head down for a few weeks," though it seems to be going well so far (she's well versed in websockets from previous projects compared to webRTC)
 - maybe experiment with another jam game or two before diving back in

@@ -18,6 +18,46 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
+### Yuki slides notes
+- General
+	- asdf
+0) I would still slightly prefer the motivation first (slide 2)
+1) not clear if there is a problem/gap quite yet (presumably you'll talk about it)
+2) generally a clear slide, but bear in mind, like I said before, that if you haven't talked about proper chemistry (invoking papers, crystal structures, electronic states, etc.) for a few slides, they may grow antsy to push questions onto you.  One avenue of questioning I could see here is: why do 'early transition metal' carbides share these properties?  How can you tell from looking at the composition of a material what it's properties are going to be? Are all carbides ceramics?  How can you tell if a metal-containing material will be metallic or ceramic or something else?
+3) generally looks good, but be prepared to answer questions about four digit Miller indices.  Also "extreme" energy is the kind of ambiguous phrasing that may invite questions about specifics.  What context do you know that qualifies 4.6 eV as "extreme"?  How much bond energy is there in some other more ordinary, non-"extreme" bonds?
+4) small style issues: inconsistent capitalization, strange to bring rightmost image first, "no-field" hyphenation, add a black outline to the square images
+5) an image of a substrate being destroyed or otherwise some practical example (e.g., "you just can't use something like lead or glass which suffers thermal damage at the temperatures you NEED for this transformation to work if you use an oven")
+	1) also, be sure you can respond to questions about all that nanoparticle stuff (what is electron-phonon scattering?  does the electric field pull that far away from the nucleus?  they probably won't be happy with any answer like "I don't know, I didn't make the image" because you chose to use the image and so you're responsible for being able to communicate anything confusing about it)
+6) just similar style comments to slide 5
+7) this seems re-used from the slide 5, so I don't know how it demonstrates, communicates, or evidences any claim about using lasers, but presumably you'll be able to talk about it
+8) maybe a better slide title would allude that these are just the first good candidates that came to mind.  I'd otherwise worry that you'd invite questions about if these are the most optimal possible precursors.  Either way I suppose you'll need to be prepared to briefly discuss why these specifically are good ideas.  (the nightmare scenario is that one of your committee members can think of a better candidate off the top of their heads and you can't at least discuss the reasons why it's good or bad)
+9) "the optimal" feels bold enough to invite criticism.  To make any commentary on it being good relative to other possible precursors, you would want to be able to mention what specific other precursors you know and why they are indisputably worse than PCD.  So something like "an attractive candidate" would be preferred in my opinion.  
+10) at this slide, I might question the cost-effectiveness of this method compared to the way that we currently apply ceramic coatings if we need to keep it in a vacuum
+	1) someone might also wonder from the video why the spot 'looks' so much bigger than the 100 um diameter in the label
+11) I'd prefer a slide title phrase more like "Laser processing of PCD into B4C was supported by XRD and SEM"
+12) Do you know what assumptions went into Ben's 10 ns number?  I wouldn't be surprised if it was a very rough estimate, and even if it wasn't, I might expect you to be able to discuss how you know the temperature vs time decay will be so sharp...without math or a paper citation, how do you know it wouldn't take 500 ns or 5 seconds or 5 minutes?
+13) how do sites/cm2 /m3 cancel to nanoseconds?
+14) the paper citation is weird.  are there authors?
+	1) also maybe this would make sense to show before the calculation you made to say "one possibility is that it will simply oxidize, which we know *from literature* happens between 500 and 800 C" and then "but here, *the math* shows that the rapid nature of the heat may actually outpace the collisions with O2 at the surface"... "so we collected *this data* which shows thermal dissipation is still not quite rapid enough to mitigate oxidation in air"
+	2) also style: different fonts in the slide title
+15) asdf
+16) asdf
+
+17) I'd modify the phrasing of the slide title to something like "Spectroscopy and pyrometry may help inform reaction dynamics"
+	1) the slide contents in general are confusing to me: pump-probe spectroscopy could be interesting (though I don't understand why you want to use it here), and it's ok to propose experiments that you don't follow through on, but can you discuss it in depth?  How it works, and most importantly what specific data you expect to get?  Is there something about the 'reaction dynamics' of B4C formation that isn't known but is important for you to know?  How specifically will it help you?
+	2) I also don't know what the first reference has to do with this slide
+	3) I also don't know what the graphs are.  What "collision time" are we talking about?  Why is it abbreviated to "CW"?  Like "collision window"?
+18) This 'scenario 1' slide confuses me as well.  Are you suggesting on this slide that the B4C is being formed and then oxidizing?  How is it an ultra-high temperature ceramic if it oxidizes at these temperatures?  And "wrong thermal window" and "wrong collision time" are difficult phrases to understand your meaning.  I still don't know what collision time means here, but do the phrases mean "what it looks like when the collision time is too long" and "what it looks like when the heat diffuses too slowly"
+	1) if we're talking about the 17 ns from the "objective 1" slide, does it really matter if a single oxygen molecule collides with a cm^2 surface? When we're comparing it to 10^15 "sites," wouldn't even 1000 collisions be almost indistinguishable from 0 collisions?
+19)  I'd change the slide title to something like "Nanosecond thermometry is difficult with conventional instrumentation"
+	1) I still don't know that it's a good idea for you to include this in your comps, but I will be sure to bring questions for you.  An obvious one that I bet they will ask is, why specifically can you not use any of the several existing types of thermometers to accomplish this?  What's wrong with a thermocouple?  What's wrong with a $50 pyrometer for Amazon?  Or a $1000 pyrometer from an analytical chemistry store?  They'll expect specifics
+20) Setting aside my confusion over the content of these last few slides, I do think I like the 'objective' -> 'scenario' structure you are using.  "I want to know something, here are the tests I plan on doing, here are my hypotheses for what I'll find" is a good, easily-followed flow.  But I'll have to listen to the practice talk to see if I will be able to understand the logic.
+21) I think I see the point of everything on this slide.  Nice!  My criticisms are all minor: I think you mean "gradients" (not "gradience"), keep the capitalization consistent, vertically center the values in the table and make them waste less space, include the unit for thermal conductivity, and is "coefficient" a typo as well?  I usually just see it as "thermal conductivity."  And I like the idea of having the measuring tape art over just having the words "measurement interference", but depending on what you mean, there's probably a better image.  If you mean like how glass messes with Tainara's XRD, I'd maybe suggest a side-view of a thin film on a slide...then a photon entering the thin film an angle from the top and bouncing off the top of the slide instead of the top of the film
+22) Are you sure that SiC line in your XRD from the previous slide is truly a peak?  I thought that SiC line was drawn to show the opposite: that there is no discernable SiC signal at the position you would expect to see it if any SiC appeared. I know Tainara said that the glass messes with her XRD measurements, but I'm not seeing the problem in the previous slide's XRD figure
+
+also 14 - why am I supposing we have 10^15 sites/cm^2?
+
+---
 ### ML notes/terms
 - Early fundamental discoveries
 	- 1763 - Bayes posthumously publishes "An Essay Towards Solving a Problem in the Doctrine of Chances"
@@ -114,6 +154,8 @@
 		- summon familiar/mage hand
 		- summon hexblade or pact weapon
 		- (remember toggle ranged)
+- remember
+	- str club + titanstring on ranger
 ---
 ### Neural Net Demo - 2D Racing Game Outline
 - Make  track
@@ -586,6 +628,36 @@ thinking of buying (removed from amazon cart)
 		- that come with the new Kontakt bass player
 - [x] Try out Jacob Collier's free choir plugin
 ---
+### j'accuse song sprint notes
+
+2026-01-13 SWS - wikipedia - publishing of article "J'Accuse"
+
+- open letter to French president Felix Faure written by Emile Zola concerning "the Dreyfus affair" accusing the government of antisemitism 
+- Alfred Dreyfus, French army officer wrongfully life-sentenced to penal servitude for espionage (1894)
+- letter printed front page, causing a sensation within France and abroad
+- Zola prosecuted for libel and found guilty (1898) (though the suit was apparently the intention, as he intended to make an accusation so bold that it would require escalation)
+  - Zola was murdered (1902) after he fled to England by CO poisoning from a blocked chimney
+- Madame Marie Bastian, a French spy working at the German Embassy, found a suspicious document and passed it to a Commandant in French military counterintelligence, which handwriting experts (and not much else) linked to Dreyfus in a secret miltary court-martial in which he was denied the right to exame the evidence against him
+- army stripped him of rank in a humiliating ceremony and shipped him off to Devil's Island, a penal colony in French Guiana
+- the head of counter-espionage found evidence that the real culprit was an Army major named Ferdinand Esterhazy, but high-ranking officials suppressed the new evidence, acquitted Esterhazy in a two day sham trial, and laid additional charges against Dreyfus with forged documents
+- public backlash led to his retrial, though he was found guilty again (1899), but then pardoned
+- annulment of the pardoned guilty verdict came in 1906 when he was awarded the Legion of Honor, said to be given for enduring "an unparalleled martyrdom"
+
+counting down several --> island of devils
+counter intelligence --> in a very real sense
+libelous, why won't you tell us, 
+something this smells of, a hell of a share of success
+dress your friends down so you can cover them up
+
+---
+felt the bag in my mouth with a flag you've unfurled
+waking up, getting whipped across half the world
+
+falling down stairs, say a prayer to your gods
+again and again and against all the odds
+
+
+
 ## YT Audio Comment Response
 '''
 Well, who I think it's good for is people with a simple 2x2 interface and an SM7B. No other preamps or anything else. This is for two reasons. 
