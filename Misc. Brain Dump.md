@@ -17,9 +17,24 @@
 	- I - bIII - IV - V---
 - Tritone subs
 - Using parallel modes for mode mixture
+- ---
+- charlie puth drowns his voice in fx while recording because he's self-conscious (says "Alecia Keys goes raw because she's a great singer, but he can't")
 ---
 
-
+### Ceramic Notes
+- (2022) Johnson et al. "Analysis of...relationship...porosity, deformation, and crack growth during compression..." - [link](https://www.sciencedirect.com/science/article/abs/pii/S0921509322010243)
+	- for parts loaded in tension and shear, voids/defects created during manufacturing result in lower strength, ductility, and fatigue life
+		- e.g., porosity created from entrapped H2 gas, [keyholing effects](https://algolaser.com/blogs/how-to/laser-and-material-interaction-the-keyhole-effect), incomplete fusion
+			- keyholing in metals above ~1 MW/cm2 (article about metals with a UV laser, discusses Fresnel absorption, "inverse Bremsstrahlung absorption," pressure balances, and stabilization considerations)
+	- in contrast, porosity is often intentional to increase strength-to-weight ratios and resilience for materials loaded compression (e.g., lattices/foams)
+	- graceful vs catastrophic failure
+	- asdf
+- Eigenstrains - any mechanical deformation not caused by external mechanical stress (e.g., thermal expansion, crystal defects, pre-existing plastic strains, multiple phases)
+	- non-uniform distribution of eigenstrains (e.g., in a composite material) lead to corresponding eigenstresses
+- Jan 30 Recording Notes
+	- Priya wants to do more SEM, TEM, and AFM to get a better understanding of things like defects, porosity, grain boundaries; Mike said that spectroscopy is just too much easier to deploy; Rob says we'll do both eventually
+	- Mike suggests looking into some specific groups for the state and direction of PDCs: [Kathy Lu](https://scholar.google.com/citations?user=_pGNR98AAAAJ&hl=en), "HRL" (?), Paulo Columbo
+	- Rob says that "Marco Massa" (?) gave a great talk on in situ DIC (?) on pyrolyzed samples 
 ---
 ### Neural Net Demo - 2D Racing Game Outline
 - Make  track
