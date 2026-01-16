@@ -1,36 +1,36 @@
 # Today
 Home
-- NY trip prep/packing
-	- toiletries - toothbrush/paste, deoderant
-	- clothes
-	- entertainment
-		- electronics
-			- laptop, phone charger, ESP32 kit
-			- microphone, interface, speaker, cable bags, DMX LED
-		- drum sticks, tambourine/shakers
-	- Rx
-	- Soda
-- Drums
-	- figure out why bell zone isn't working
-	- try the MIDI cable - evaluate hat closedness continuousness
-	- add the patch to connect the rubber cymbal
-	- respond Chuck
-- ML game
-- Zach Sunday - cancel or move MCB open mic; tell mom
-- Ask Yuki about lab tomorrow
-- Yuki practice notes
-- Dog notes
-	- Monitoring: bouncy, unnecessary (playful) movements
-	- Active/Interrupted Playing: make the dogs return on command
-	- Check when unsure: put the more-likely aggressor on-leash and see if the other approaches them.  Swap roles as well if certainty is needed
-- Advertise Zach's show in omn
-- Tell Yuki what time
+- [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11
+- [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
+- [ ] Practice ETB 🔁 every day 
+- ask Ben/Yuki what to do about MURI Meeting tomorrow
+- tell Tian-shin about desk situation
+- finish notes on Yuki's slides
+- play Kaya's game
+- groceries
+- tell Ben about the spin coater and glovebox and moisture analyzer I wrote his name on
+
+- respond 
+	- Zack (see if he's on snapchat?)
+	- Justine
+	- ask Sey about where to play his games or see his art
+- warranty time-sensitive
+	- wash out fog machine (Hakuta Fog Machine not fogging)
+	- walmart tv dead pixel column
+- how many gemini credits do I have left
+- clear drive for chelsea
 - Chelsea credit/debit
-	- Rent (December) - paid
+	- December
+		- Rent - paid
+		- Power - $564.22 / 2 = $282.11
+		- Internet - $112 /2 = $56
+	- January
+		- Rent - paid - $1825 (/2 = $912.50)
+			- (water included)
+		- Power - paid - $683.04 (/2 = $341.52)
+		- Internet - paid - $112 /2 = $56
 	- Sewage/Water/etc.
 		- Probably the $307.54 (/2 = $153.77) paid on Oct 31 on top of the $1800 rent
-	- Power - $564.22 / 2 = $282.11
-	- Internet (December) - $112 /2 = $56
 	- Pay her for groceries
 - apply jobs
 	- machine learning job
@@ -39,19 +39,27 @@ Home
 		- do a basic machine learning exercise
 		- move unlisted projects into the website
 		- learn about Ben's data vis influence and Emma's ML contribution
-- Practice guitar
 - Call to ask about hospital double charge
 	- why is there a "doctor" and "hospital" component for the MRI?
 	- didn't I already pay the MRI?
-- Website
+- vocal warmup website
 	- arrows between sections
 	- remove "agility" for overlap with "precision"
 		- also search for which characters are all assigned to the same examples to hunt down redundancies
-- Export basic t-pose OR bake textures OR make add-on 
-- respond Zack, maybe ask Sey about where to play his games or see his art 
-- wash out fog machine
-- solder the dmx perf board
-- try continuous hi-hat
+- deliver gift card
+- game
+	- Export basic t-pose OR bake textures OR make add-on
+	- ML game - figure out matrix multiplication step, expand scope to a backprop. application
+- olive oil smoke point/how hot
+- music
+	- Practice guitar
+	- solder the dmx perf board
+	- Drums
+		- figure out why bell zone isn't working
+		- try the MIDI cable - evaluate hat closedness continuousness
+		- add the patch to connect the rubber cymbal
+		- try continuous hi-hat
+	- X18 pre-amp settings
 
 Work
 - music
@@ -103,6 +111,7 @@ Work
 - buy some epoxy/CA/glass to metal glue
 - Cleary email 
 - assemble Raman heating cell (either get it running or find what parts might be needed)
+- cure some pdms on the bottom of a container to help carry samples, measure something at the same height as the samples to focus the galvo to
 
 
 rotator/undergrad PDMS research ideas with Ben:

@@ -1,5 +1,5 @@
 ## 2025-09-28 Notes
-- Detected vocal range from songs
+- Detected vocal range from songs (A3 - G4)
 	- Hoi Polloi
 		- Low (of your FACE) - A3
 		- High (SAD-ness) - F#4 — ("strong" sustained at E4)

@@ -1,0 +1,125 @@
+- Machine Learning
+	- https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html#id5
+	- https://jdlm.info/articles/2019/01/01/driverless-race-car-deep-learning.html
+	- https://nsrishankar.github.io/files/docs/projects/AI_DDPG_Outrun.pdf
+	- https://en.wikipedia.org/wiki/Variance
+	- https://www.kaggle.com/code/anthonykatona/exercise-model-validation/edit
+	- https://yann.lecun.com/exdb/mnist/
+	- https://www.geeksforgeeks.org/deep-learning/fully-connected-layer-vs-convolutional-layer/
+	- http://neuralnetworksanddeeplearning.com/chap1.html
+- danger amorphous vs crystalline silica
+- tonicize rhythm [video](https://youtu.be/5ud-fwdalu0)
+- 3dp iron and other exotic materials [video](https://youtu.be/J8PZWkjt65Q)
+- Blender 5.0 - what's new [video](https://youtu.be/4wEqD-jK0DU) and animation focus [video](https://youtu.be/s3kcPME65ic)
+- fighter jets c++ [video](https://youtu.be/Gv4sDL9Ljww)
+- myopia
+- amazon chicken wire
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
+- [Tiger VNC](https://tigervnc.org/)
+- [Selenium](https://pypi.org/project/selenium/)
+- what is `pip install -e`?
+- https://threejs.org/manual/#en/installation
+- 3B1Br and Sebastian Lague Neural Network videos
+- wiki islamic holidays
+- setting frames to video length blender
+- youtube [vibe coding microsoft](https://www.youtube.com/watch?v=eo9UKLqfjhI)
+- hotkeys for obsidian commit and push
+- esp button clicker game
+- coding adventures: rasterizer
+- w3 python reference list and string methods
+- https://en.wikipedia.org/wiki/In-band_signaling
+- https://www.instructables.com/Tales-From-the-Chip-LM386-Audio-Amplifier/
+- https://en.wikipedia.org/wiki/Amplifier#:~:text=An%20amplifier%20is%20defined%20as,power%20gain%20greater%20than%20one.&text=An%20amplifier%20can%20be%20either,in%20almost%20all%20electronic%20equipment.
+- https://www.youtube.com/watch?v=aRdiiWpA0AA
+- [special search characters](https://www.digitalthirdcoast.com/blog/5-easy-symbols-google-work)
+- https://zen-browser.app/download/
+- https://www.masteringthemix.com/products/eq-academy
+- [well posed vs ill posed problem](https://www.statisticshowto.com/well-posed-ill/)
+- https://en.wikipedia.org/wiki/Barkhausen_stability_criterion
+- https://en.wikipedia.org/wiki/Nyquist_stability_criterion
+- Open source tools list
+	- drawing - https://excalidraw.com/
+	- penpot, ardour, applflowy, drone (ci/cd), 
+- YT
+	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
+	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
+	- [Andre Kelley DoD](https://youtu.be/IroPQ150F6c)
+	- [Every type of capacitor](https://youtu.be/Fwng7mRuOVw)
+	- [simulating 256 bytes RAM](https://www.youtube.com/watch?v=HGkuRp5HfH8)
+	- Ben Eater [8-bit Computer](https://youtu.be/HyznrdDSSGM?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+	- [shadow math ](https://youtu.be/MuvuxHXLzls)
+	- Ample Bass [1](https://youtu.be/2WrbDEUMPU0) and [2](https://youtu.be/bfB4tkRIp8M)
+	- [Walking Basslines on Keyboard](https://www.youtube.com/watch?v=1ohTb1El06o)
+	- [DIY Mass Spec](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
+	- [Lighting in Godot](https://www.youtube.com/watch?v=aRdiiWpA0AA)
+	- Legal Eagle - [Supreme Court Trans Rights](https://youtu.be/S80ivPamBoM)
+	- Legal Eagle - [Religious Parents](https://youtu.be/Go3-HnVxres)
+	- [LibGodot](https://youtu.be/L06KBOWCsSk)
+	- [Andor Luthen Speech](https://youtu.be/-3RCme2zZRY)
+	- Josh recommended YT video on Godot signals - https://youtu.be/w6jXgaWHo1s
+	- Yt Crystals Upconversion - https://youtu.be/7WT0qZdHT5M
+	- https://youtu.be/NSB6JrP--F4
+	- [Complete guide to recording in FL Studio](https://youtu.be/qTh4COvhIs0)
+	- music - [kishi bashi](https://youtu.be/5BiirTWso0s) (sophia recommendation) 
+	- Ian Hubert - [talking about art in the woods](https://youtu.be/6LWZqmba0uw)
+	- AI replacing humans going poorly - https://youtu.be/QX1Xwzm9yHY
+	- FL Studio Emphasis [overview video](https://youtu.be/U3zeQ2A7xNI)
+	- [Rhythm Guitar Tips](https://www.youtube.com/watch?v=Uo70TeO6B9E)
+	- [12k hours blender user tips](https://youtu.be/n677HB7GbpQ)
+	- [Blender Hades Modeling Inside Look](https://www.youtube.com/watch?v=cYJ6d1ifSqA)
+	- [Stop Growing Lawns](https://www.youtube.com/watch?v=KLYMjPNppRQ )
+	- [Hidden Gems on Ali Express](https://youtu.be/VyqljSodp6k)
+	- [Marquees Brownlee Android Update](https://youtu.be/j7W2v_FmCuE)
+	- ["Hotspot texturing for the omnisiah"](https://youtu.be/qU7EjGv3iiE)
+	- [Good React (js) tutorial](https://youtu.be/E8lXC2mR6-k) 
+	- [Computerphile SQL injection](https://youtu.be/ciNHn38EyRc)
+	- [making digitcore sounds Vital](https://youtu.be/y4w_mNuhxmw)
+	- [pixel art animation reinvented](https://youtu.be/HsOKwUwL1bE)
+	- [10 best new AI updates in DaVinci](https://youtu.be/D33F1tktokg)
+	- [Dan Worral - Transient Designers](https://youtu.be/cCGwZ7Re4VU)
+	- [Inside Hades 3D Designing](https://youtu.be/cYJ6d1ifSqA)
+	- [iphone17 pro teardown](https://youtu.be/O2hSlsvB8nA)
+	- [free DMX lighting controller software](https://www.youtube.com/shorts/pliVPYhEPmw?feature=share)
+		- also "lighting for a band" for how key/fill/side/rear lights are usually placed and which ones are best stylized with patterns and colors
+	- [level design Quake mod](https://youtu.be/hyBAQPCMiCE)
+	- limited slip differential [explainer](https://youtu.be/1B1FNs5bgrE)
+	- Heisenberg still difficult to explain [video](https://youtu.be/c-Q5r3THR3M)
+- https://en.wikipedia.org/wiki/Refractive_index
+- [Blargis 3d](https://www.youtube.com/@Blargis3d)
+- https://learngitbranching.js.org/?locale=en_US
+- https://leetcode.com/problems/longest-common-prefix/description/
+- 3DP - "snap-fit joints"
+- https://wokwi.com/rust
+- https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_3d_shader.html
+- mounting onto acrylic -face -photo
+- https://www.w3schools.com/cpp/cpp_functions_lambda.asp
+- https://github.com/google-gemini/gemini-cli
+- chemical composition of dirt
+- UCUPaint latest version
+- Silo TV Series
+- https://da4all.github.io/toolkit/
+- FL delete 'd' vs e
+- put sample on k junction
+- focusrite scarlett mute speakers but not monitor
+- https://github.com/ur-whitelab/chemcrow-publicm
+- music pack jam ([shrimpo](https://datafruits.fm/shrimpos/fall-fruix-2025))
+- Jain - Come (music video from Seana, lots of VFX)
+- 9/12 Polyfjord Blender VFX video (30 min)
+- Sophia music - https://www.tunemymusic.com/share/Lk6gS7JTkl
+- [physics of music video](https://youtu.be/tCsl6ZcY9ag)
+- Hank Green
+	- [Electricity About to be Like Housing](https://youtu.be/39YO-0HBKtA)
+	- [Caffeine](https://youtu.be/p-Dy2pcdBSU)
+- how to use color palette and chrome sphere for vfx?
+- https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies
+- https://www.usatoday.com/story/news/nation/2025/02/12/tesla-cybertrucks-inspire-backlash-amid-elon-musks-political-work/78358688007/
+- go-to tenor gifs to favorite
+- sharpening mower blades
+- https://www.colour-science.org/
+- pixel update notes
+- Google Pixel 8 PRO Focus and Exposure Lock for photo and video
+- buy dry ice near me
+- [github special md formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests)
+- 12tone Linkin Park [video](https://www.youtube.com/watch?v=f9sQSJqOwiA), also vertical vs horizontal harmony
+- Subornation of perjury
+- removing dealer sticker from car

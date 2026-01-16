@@ -17,24 +17,156 @@
 	- I - bIII - IV - V---
 - Tritone subs
 - Using parallel modes for mode mixture
-- ---
-- charlie puth drowns his voice in fx while recording because he's self-conscious (says "Alecia Keys goes raw because she's a great singer, but he can't")
 ---
-
-### Ceramic Notes
-- (2022) Johnson et al. "Analysis of...relationship...porosity, deformation, and crack growth during compression..." - [link](https://www.sciencedirect.com/science/article/abs/pii/S0921509322010243)
-	- for parts loaded in tension and shear, voids/defects created during manufacturing result in lower strength, ductility, and fatigue life
-		- e.g., porosity created from entrapped H2 gas, [keyholing effects](https://algolaser.com/blogs/how-to/laser-and-material-interaction-the-keyhole-effect), incomplete fusion
-			- keyholing in metals above ~1 MW/cm2 (article about metals with a UV laser, discusses Fresnel absorption, "inverse Bremsstrahlung absorption," pressure balances, and stabilization considerations)
-	- in contrast, porosity is often intentional to increase strength-to-weight ratios and resilience for materials loaded compression (e.g., lattices/foams)
-	- graceful vs catastrophic failure
+### Yuki slides notes
+- General
 	- asdf
-- Eigenstrains - any mechanical deformation not caused by external mechanical stress (e.g., thermal expansion, crystal defects, pre-existing plastic strains, multiple phases)
-	- non-uniform distribution of eigenstrains (e.g., in a composite material) lead to corresponding eigenstresses
-- Jan 30 Recording Notes
-	- Priya wants to do more SEM, TEM, and AFM to get a better understanding of things like defects, porosity, grain boundaries; Mike said that spectroscopy is just too much easier to deploy; Rob says we'll do both eventually
-	- Mike suggests looking into some specific groups for the state and direction of PDCs: [Kathy Lu](https://scholar.google.com/citations?user=_pGNR98AAAAJ&hl=en), "HRL" (?), Paulo Columbo
-	- Rob says that "Marco Massa" (?) gave a great talk on in situ DIC (?) on pyrolyzed samples 
+0) I would still slightly prefer the motivation first (slide 2)
+1) not clear if there is a problem/gap quite yet (presumably you'll talk about it)
+2) generally a clear slide, but bear in mind, like I said before, that if you haven't talked about proper chemistry (invoking papers, crystal structures, electronic states, etc.) for a few slides, they may grow antsy to push questions onto you.  One avenue of questioning I could see here is: why do 'early transition metal' carbides share these properties?  How can you tell from looking at the composition of a material what it's properties are going to be? Are all carbides ceramics?  How can you tell if a metal-containing material will be metallic or ceramic or something else?
+3) generally looks good, but be prepared to answer questions about four digit Miller indices.  Also "extreme" energy is the kind of ambiguous phrasing that may invite questions about specifics.  What context do you know that qualifies 4.6 eV as "extreme"?  How much bond energy is there in some other more ordinary, non-"extreme" bonds?
+4) small style issues: inconsistent capitalization, strange to bring rightmost image first, "no-field" hyphenation, add a black outline to the square images
+5) an image of a substrate being destroyed or otherwise some practical example (e.g., "you just can't use something like lead or glass which suffers thermal damage at the temperatures you NEED for this transformation to work if you use an oven")
+	1) also, be sure you can respond to questions about all that nanoparticle stuff (what is electron-phonon scattering?  does the electric field pull that far away from the nucleus?  they probably won't be happy with any answer like "I don't know, I didn't make the image" because you chose to use the image and so you're responsible for being able to communicate anything confusing about it)
+6) just similar style comments to slide 5
+7) this seems re-used from the slide 5, so I don't know how it demonstrates, communicates, or evidences any claim about using lasers, but presumably you'll be able to talk about it
+8) maybe a better slide title would allude that these are just the first good candidates that came to mind.  I'd otherwise worry that you'd invite questions about if these are the most optimal possible precursors.  Either way I suppose you'll need to be prepared to briefly discuss why these specifically are good ideas.  (the nightmare scenario is that one of your committee members can think of a better candidate off the top of their heads and you can't at least discuss the reasons why it's good or bad)
+9) "the optimal" feels bold enough to invite criticism.  To make any commentary on it being good relative to other possible precursors, you would want to be able to mention what specific other precursors you know and why they are indisputably worse than PCD.  So something like "an attractive candidate" would be preferred in my opinion.  
+10) at this slide, I might question the cost-effectiveness of this method compared to the way that we currently apply ceramic coatings if we need to keep it in a vacuum
+	1) someone might also wonder from the video why the spot 'looks' so much bigger than the 100 um diameter in the label
+11) I'd prefer a slide title phrase more like "Laser processing of PCD into B4C was supported by XRD and SEM"
+12) Do you know what assumptions went into Ben's 10 ns number?  I wouldn't be surprised if it was a very rough estimate, and even if it wasn't, I might expect you to be able to discuss how you know the temperature vs time decay will be so sharp...without math or a paper citation, how do you know it wouldn't take 500 ns or 5 seconds or 5 minutes?
+13) how do sites/cm2 /m3 cancel to nanoseconds?
+14) the paper citation is weird.  are there authors?
+	1) also maybe this would make sense to show before the calculation you made to say "one possibility is that it will simply oxidize, which we know *from literature* happens between 500 and 800 C" and then "but here, *the math* shows that the rapid nature of the heat may actually outpace the collisions with O2 at the surface"... "so we collected *this data* which shows thermal dissipation is still not quite rapid enough to mitigate oxidation in air"
+	2) also style: different fonts in the slide title
+15) asdf
+16) asdf
+
+17) I'd modify the phrasing of the slide title to something like "Spectroscopy and pyrometry may help inform reaction dynamics"
+	1) the slide contents in general are confusing to me: pump-probe spectroscopy could be interesting (though I don't understand why you want to use it here), and it's ok to propose experiments that you don't follow through on, but can you discuss it in depth?  How it works, and most importantly what specific data you expect to get?  Is there something about the 'reaction dynamics' of B4C formation that isn't known but is important for you to know?  How specifically will it help you?
+	2) I also don't know what the first reference has to do with this slide
+	3) I also don't know what the graphs are.  What "collision time" are we talking about?  Why is it abbreviated to "CW"?  Like "collision window"?
+18) This 'scenario 1' slide confuses me as well.  Are you suggesting on this slide that the B4C is being formed and then oxidizing?  How is it an ultra-high temperature ceramic if it oxidizes at these temperatures?  And "wrong thermal window" and "wrong collision time" are difficult phrases to understand your meaning.  I still don't know what collision time means here, but do the phrases mean "what it looks like when the collision time is too long" and "what it looks like when the heat diffuses too slowly"
+	1) if we're talking about the 17 ns from the "objective 1" slide, does it really matter if a single oxygen molecule collides with a cm^2 surface? When we're comparing it to 10^15 "sites," wouldn't even 1000 collisions be almost indistinguishable from 0 collisions?
+19)  I'd change the slide title to something like "Nanosecond thermometry is difficult with conventional instrumentation"
+	1) I still don't know that it's a good idea for you to include this in your comps, but I will be sure to bring questions for you.  An obvious one that I bet they will ask is, why specifically can you not use any of the several existing types of thermometers to accomplish this?  What's wrong with a thermocouple?  What's wrong with a $50 pyrometer for Amazon?  Or a $1000 pyrometer from oan analytical chemistry store?  They'll expect specifics
+20) Setting aside my confusion ver the content of these last few slides, I do think I like the 'objective' -> 'scenario' structure you are using.  "I want to know something, here are the tests I plan on doing, here are my hypotheses for what I'll find" is a good, easily-followed flow.  But I'll have to listen to the practice talk to see if I will be able to understand the logic.
+21) I think I see the point of everything on this slide.  Nice!  My criticisms are all minor: I think you mean "gradients" (not "gradience"), keep the capitalization consistent, vertically center the values in the table and make them waste less space, include the unit for thermal conductivity, and is "coefficient" a typo as well?  I usually just see it as "thermal conductivity."  And I like the idea of having the measuring tape art over just having the words "measurement interference", but depending on what you mean, there's probably a better image.  If you mean like how glass messes with Tainara's XRD, I'd maybe suggest a side-view of a thin film on a slide...then a photon entering the thin film an angle from the top and bouncing off the top of the slide instead of the top of the film
+22) Are you sure that SiC line in your XRD from the previous slide is truly a peak?  I thought that SiC line was drawn to show the opposite: that there is no discernable SiC signal at the position you would expect to see it if any SiC appeared. I know Tainara said that the glass messes with her XRD measurements, but I'm not seeing the problem in the previous slide's XRD figure
+23) I still feel that "explore if a condition matters" is weak language to use discussing these experiments.  A little better would be "explore the influence of laser conditions on B4C formation", but that's still too vague.  The question I would have is "what do we even care about anymore.  You told me you cared about making B4C, but then you made B4C, so what's the new goal?  Why are you still running experiments after you found what you were looking for?"  Which is to say, I would recommend updating your research goal more explicitly here.  Maybe "optimizing B4C" is a start, but then what are you optimizing for?  Material properties?  The hardest, strongest, blackest, smoothest B4C you can make?  Once I understand your goal, I'll be more curious about how you plan on achieving that, and what/why laser parameters may be a good starting place
+24) probably reword to "improves B4C crystallinity."  And be careful not to confuse power with energy (you show energy units but use the word "power).  And maybe when you're speaking, explicitly include that the only parameter changed here is the power
+25) this slide can work if you navigate it carefully.  First of all, are you able to respond to questions about why 'frequency' would matter here?  Like, could you speculate on what would happen at a high frequency that would make the pulse more penetrating or intense?
+	1) also, why does it look like "frequency" is replacing "area" in your math?
+	2) also, be prepared to respond to questions about the differences you'd expect scanning a beam over the whole area versus pulsing a more powerful beam a single time if you're going to define fluence in this way which they may find strange
+26) This slide is generally really awesome (easy to follow visuals and an easy to understand problem that isn't overly obvious).  That said, I don't know that I understand what you're suggesting the consequence is for "too thin" of a coating.  I can see how having unreacted precursor could be bad, but "too thin" isn't clear to me as a problem here.
+27) same as with PCD, I'd probably just want to hear why these are the precursors you'd lean towards specifically.
+28) I assume this slide is just a placeholder, but if not, it's weird to introduce the other precursors and then jump back into real data being collected for the precursor you had been using the rest of the talk.
+	1) also, I'm sure your committee would be happy if you understood the mechanism well, or could at least discuss the leading theory for the mechanism, but it's not a given that any piece of information is useful.  I would suggest mentioning explicitly that (1) it's not clear what the mechanism is, (2) other people may have it wrong, (3) why we think that, (4)  that this knowledge affects the design of this and other PCDs, perhaps specifically in the context of photothermal transformations
+29) I'd avoid words like "prove" in favor of "suggests" or "shows"
+30) 'Mechanism' may be the strongest place to have a literature background.  It would be embarrassing if the committee speculated on a possible mechanism and you couldn't discuss it.  Just remember that if you're going to include multiple slides of figures about determining the mechanism, then you'll be held responsible for understanding how those figures help (what they suggest, what they rule out, why that's important)
+
+also 14 - why am I supposing we have 10^15 sites/cm^2?
+
+---
+### ML notes/terms
+- Early fundamental discoveries
+	- 1763 - Bayes posthumously publishes "An Essay Towards Solving a Problem in the Doctrine of Chances"
+	- 1812 - Laplace publishes what is now called Bayes' theorem
+	- 1913 - Markov chains
+- 1940s
+	- Donald Hebb publishes his theory of biological neuron behavior - "Neurons that fire together, wire together"
+	- Warren McCulloch and Walter Pitts propose computational modeling of neurons
+- 1950s
+	- Alan Turing publishes "Computing Machinery and Intelligence" paper, considering how to evaluate machine "thought" and proposing the Turing Test and Imitation Game
+	- Arthur Samuel uses ML to play checkers
+	- Frank Rosenblatt invents the perceptron
+- 1960s
+	- "learning machines" modeled on neurons are developed using punch-tape memory ("Cybertron") developed by Raytheon Company
+	- Nils Nilsson publishes "Learning Machines," using machines to classify patterns
+	- Alexey Ivakhenko trains a "deep network" with hidden layers and a narrowing architecture
+	- a primitive backpropagation emerges and proceeds to be left in a box for 20 years
+- 1970s
+	- 'AI winter' of pessimism about machine learning effectiveness
+	- Early 'convolutional' networks
+	- backpropagation is improved in Linnainmaa in a master's thesis, but with no proposed relationship with neural networks and it is forgotten again
+- 1980s
+	- backpropagation re-discovered, but for real this time, applied to NN by Rumelhart, Hinton, and Williams 
+	- Stevo Bozinovski reports his training methods for a network that recognized 40 handwritten characters (26 letters, 10 digits, 4 special symbols) from a computer (demo [YT video](https://youtu.be/FwFduRA_L6Q))
+- 1990s
+	- recurrent neural networks (RNNs) and support-vector machines (SVMs) become popular
+- 2000s
+	- kernel methods (SVC, etc.) and unsupervised methods become widespread
+- 2010s
+	- deep learning becomes "feasible", then integral to many software services and applications, spurring huge advances in vision and text processing
+- 2020s
+	- generative AI: advanced chatbots and text-to-image models
+- exploration-exploitation dilemma - search for optimal balance between new actions and using current knowledge
+- gradient descent -> stochastic gradient descent -> adaptive moment estimation
+- layer-by-layer pretraining - initializing a model with suitable features (weights)
+- cross-entropy
+- reinforcement learning
+- supervised/unsupervised learning
+- evolutionary algorithms: (1) evolutionary strategies, (2) evolutionary programming, and (3) genetic algorithms
+- genetic algorithm
+- depth and composition - distinguishing feature of NNs over GLMs which arise from hidden layers
+- clustering
+- Bayes
+- Markov decision process and Markov chain
+- full-batch vs mini-batch gradient descent (Sebastian Lague ~22:00)
+- perceptron - an algorithm for supervised learning of binary classifiers
+	- classifier (binary, linear)
+	- predictor function
+	- feature vector
+	- criticized in the 90s as being structurally-identical to a generalized linear model of statistics (GLM framework published in 1972,  [wiki](https://en.wikipedia.org/wiki/Generalized_linear_model))
+		- weights -> coefficients
+		- bias -> intercept
+		- activation function -> link function
+		- training -> maximum likelihood estimation
+- autoencoder
+- misc
+	- (1995) Gartner hype cycle - [wiki](https://en.wikipedia.org/wiki/Gartner_hype_cycle)
+	- optimal control - [wiki](https://en.wikipedia.org/wiki/Optimal_control)
+---
+### BG3 easy run achievements
+- Act 0
+	- [x] Defeat Commander Zhalk on the nautiloid
+- Anytime
+	- [x] kill a character with an unarmed strike
+	- multiclass into every class (no withers) (JUST BUY A MERCENARY AT LEVEL 12)
+	- long rest with only alcohol
+	- earn 100 g from playing music
+	- defeat 20 opponents drunk
+- Act II
+	- Kill the Surgeon before surgery
+- Act III
+	- knock dragon out of the sky in wyrmway
+	- 
+---
+### BG3 minmaxing
+- daily routine
+	- camp party spells
+		- Cleric
+			- Poison resistance (x2)
+			- Warding bond (x1)
+		- Ranger
+			- Longstrider (ritual)
+		- Wizard
+			- Warding Bond
+			- Death Ward
+			- Freedom of Movement
+			- Aid
+		- Misc (self? don't have?)
+			- Speak with Dead
+			- Detect Thoughts
+			- See Invisibility
+			- Elixers (Hill Giants, etc.)
+	- traveling party spells
+		- summon familiar/mage hand
+		- summon hexblade or pact weapon
+		- (remember toggle ranged)
+- remember
+	- str club + titanstring on ranger
 ---
 ### Neural Net Demo - 2D Racing Game Outline
 - Make  track
@@ -87,7 +219,57 @@
 	- shift+click and ctrl+click to select multiple
 	- drag items onto character portrait to give it to them
 	- send all camping supplies straight to camp (only place they're needed)
+---
+### CUI Notes
+- dcsa.mil [link](https://securityawareness.dcsa.mil/cui/story.html) (32 ~1 min video slides with occasional questions)
+- Controlled Unclassified Information - from 2010 executive order
+- 'for official use only' (FOUO) designation is deprecated
+- knowledge objectives
+	- purpose and location of ISOO and DOD CUI registries
+	- decontrol, safeguarding, destruction
+	- identify/report security incidents
+- (4) no audio
+- unclassified information is only CUI if there is a law/policy prescribing safeguarding or dissemination control
+	- agencies must not disseminate CUI because of FOIA
+- The 'authorized holder' is responsible for determining if info is CUI and marking it as such
+- NDA is optional (according to CUI Notice 2020-03), but the Secretary of Defense has directed the issuance of a DOD CUI NDA
+- (9) all government, civilian, and contractors must take the ISOO Registry assessment
+- (11) Marking requirements
+	- CUI Basic - policy does not set handling controls, so default to the registry guidelines
+	- CUI Specified (SP) - specific to the information with rules set by the policy
+		- don't use any abbreviation that uses SP to avoid confusion with this
+- (12) marking CUI documents
+	- make sure it is actually CUI
+	- add a header and footer saying "CUI" 
+	- add "designation indicator" (controlled by; categories; control types; POC) to the first page or cover of all documents
+- (13) portion markings (not required) - U (unclassified) vs CUI
+- (14) Limited Dissemination Controls (LDC) - part of designation indicator showing how it can be disseminated
+- (18) when portions of a document are CUI but other portions are higher classification, the banner text of the document will read the highest level classification applicable (e.g., top secret)
+- (19) mark CUI in the banner and footer of emails (use portion markers as applicable, i.e., for 'co-mingled' documents)
+	- to ask more questions about markings, contact the Security Manager or Component Program Manager
+- (21) no audio
+	- decontrol of CUI documents will occur when the contents no longer require safeguarding
+	- agencies must "promptly" decontrol CUI and notify all holders when doing so, who will then remove their CUI markings
+- (22) pre-publication review required
+	- see DoD instruction 5230.09 and DoD instruction 5230.29
+- (24) keep CUI documents in locked containers unless the building itself has security measures against unauthorized readers
+- (25) for information systems, the network configuration is "moderate confidentiality" (NIST 800-171 for non-federal systems, NIST 800-53 for federal)
+- (26) CUI can be distributed through mail or online (online requires TLS) 
+	- don't fax unless the sender knows the receiver is ready to intercept it or it's going to a secured location
+- (27) destroying CUI
+	- first process through the Records Management procedures
+	- make it unreadable and irrecoverable (guidance provided in DoDM 5200.01-V3)
+- (28) who can access CUI
+	- not need-to-know (NTK) like classified
+	- basically anyone who isn't restricted by a law/policy/LDC (limited dissemination control) and means to further any 'lawful government purpose', though agencies can place more limits found in Table 2 of DoDI 5200.48
+	- might be that raw data is kept CUI until it is worked up to determine if it is really CUI
+- (30) security incidents (unauthorized disclosure (UD))
+	- improper marking or otherwise risking unauthorized disclosure
+	- when it happens, no formal security inquiry is necessary unless disciplinary action will be taken
+	- UD of some CUI, like export-controlled technical data, may result in civil and criminal sanctions
+	- report mishandling to the UD Program Management office (PMO) and the Military Department Counterintelligence (CI) organization
 
+---
 ### Singing warmup addition idea
 - include snippets of example songs to rehearse in singing warmup with the 53ana expression list
 - give the snippets multiple tags and try to find as many combinations as possible 
@@ -435,128 +617,7 @@ thinking of buying (removed from amazon cart)
  - Code
 	 - [ ] Song scroller with more complete feature set and UI
 	 - [ ] Color grade with sliders in Marimo
-### Closed Tabs
-- Machine Learning
-	- https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html#id5
-	- https://jdlm.info/articles/2019/01/01/driverless-race-car-deep-learning.html
-	- https://nsrishankar.github.io/files/docs/projects/AI_DDPG_Outrun.pdf
-	- https://en.wikipedia.org/wiki/Variance
-	- https://www.kaggle.com/code/anthonykatona/exercise-model-validation/edit
-	- https://yann.lecun.com/exdb/mnist/
-	- https://www.geeksforgeeks.org/deep-learning/fully-connected-layer-vs-convolutional-layer/
-	- http://neuralnetworksanddeeplearning.com/chap1.html
-- danger amorphous vs crystalline silica
-- tonicize rhythm [video](https://youtu.be/5ud-fwdalu0)
-- 3dp iron and other exotic materials [video](https://youtu.be/J8PZWkjt65Q)
-- Blender 5.0 - what's new [video](https://youtu.be/4wEqD-jK0DU) and animation focus [video](https://youtu.be/s3kcPME65ic)
-- fighter jets c++ [video](https://youtu.be/Gv4sDL9Ljww)
-- myopia
-- amazon chicken wire
-- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
-- [Tiger VNC](https://tigervnc.org/)
-- [Selenium](https://pypi.org/project/selenium/)
-- what is `pip install -e`?
-- https://threejs.org/manual/#en/installation
-- 3B1Br and Sebastian Lague Neural Network videos
-- wiki islamic holidays
-- setting frames to video length blender
-- youtube [vibe coding microsoft](https://www.youtube.com/watch?v=eo9UKLqfjhI)
-- hotkeys for obsidian commit and push
-- esp button clicker game
-- coding adventures: rasterizer
-- w3 python reference list and string methods
-- https://en.wikipedia.org/wiki/In-band_signaling
-- https://www.instructables.com/Tales-From-the-Chip-LM386-Audio-Amplifier/
-- https://en.wikipedia.org/wiki/Amplifier#:~:text=An%20amplifier%20is%20defined%20as,power%20gain%20greater%20than%20one.&text=An%20amplifier%20can%20be%20either,in%20almost%20all%20electronic%20equipment.
-- https://www.youtube.com/watch?v=aRdiiWpA0AA
-- [special search characters](https://www.digitalthirdcoast.com/blog/5-easy-symbols-google-work)
-- https://zen-browser.app/download/
-- https://www.masteringthemix.com/products/eq-academy
-- [well posed vs ill posed problem](https://www.statisticshowto.com/well-posed-ill/)
-- https://en.wikipedia.org/wiki/Barkhausen_stability_criterion
-- https://en.wikipedia.org/wiki/Nyquist_stability_criterion
-- Open source tools list
-	- drawing - https://excalidraw.com/
-	- penpot, ardour, applflowy, drone (ci/cd), 
-- YT
-	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
-	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
-	- [Andre Kelley DoD](https://youtu.be/IroPQ150F6c)
-	- [Every type of capacitor](https://youtu.be/Fwng7mRuOVw)
-	- [simulating 256 bytes RAM](https://www.youtube.com/watch?v=HGkuRp5HfH8)
-	- Ben Eater [8-bit Computer](https://youtu.be/HyznrdDSSGM?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
-	- [shadow math ](https://youtu.be/MuvuxHXLzls)
-	- Ample Bass [1](https://youtu.be/2WrbDEUMPU0) and [2](https://youtu.be/bfB4tkRIp8M)
-	- [Walking Basslines on Keyboard](https://www.youtube.com/watch?v=1ohTb1El06o)
-	- [DIY Mass Spec](https://www.youtube.com/watch?v=nIKhUizkXxA&t=449s)
-	- [Lighting in Godot](https://www.youtube.com/watch?v=aRdiiWpA0AA)
-	- Legal Eagle - [Supreme Court Trans Rights](https://youtu.be/S80ivPamBoM)
-	- Legal Eagle - [Religious Parents](https://youtu.be/Go3-HnVxres)
-	- [LibGodot](https://youtu.be/L06KBOWCsSk)
-	- [Andor Luthen Speech](https://youtu.be/-3RCme2zZRY)
-	- Josh recommended YT video on Godot signals - https://youtu.be/w6jXgaWHo1s
-	- Yt Crystals Upconversion - https://youtu.be/7WT0qZdHT5M
-	- https://youtu.be/NSB6JrP--F4
-	- [Complete guide to recording in FL Studio](https://youtu.be/qTh4COvhIs0)
-	- music - [kishi bashi](https://youtu.be/5BiirTWso0s) (sophia recommendation) 
-	- Ian Hubert - [talking about art in the woods](https://youtu.be/6LWZqmba0uw)
-	- AI replacing humans going poorly - https://youtu.be/QX1Xwzm9yHY
-	- FL Studio Emphasis [overview video](https://youtu.be/U3zeQ2A7xNI)
-	- [Rhythm Guitar Tips](https://www.youtube.com/watch?v=Uo70TeO6B9E)
-	- [12k hours blender user tips](https://youtu.be/n677HB7GbpQ)
-	- [Blender Hades Modeling Inside Look](https://www.youtube.com/watch?v=cYJ6d1ifSqA)
-	- [Stop Growing Lawns](https://www.youtube.com/watch?v=KLYMjPNppRQ )
-	- [Hidden Gems on Ali Express](https://youtu.be/VyqljSodp6k)
-	- [Marquees Brownlee Android Update](https://youtu.be/j7W2v_FmCuE)
-	- ["Hotspot texturing for the omnisiah"](https://youtu.be/qU7EjGv3iiE)
-	- [Good React (js) tutorial](https://youtu.be/E8lXC2mR6-k) 
-	- [Computerphile SQL injection](https://youtu.be/ciNHn38EyRc)
-	- [making digitcore sounds Vital](https://youtu.be/y4w_mNuhxmw)
-	- [pixel art animation reinvented](https://youtu.be/HsOKwUwL1bE)
-	- [10 best new AI updates in DaVinci](https://youtu.be/D33F1tktokg)
-	- [Dan Worral - Transient Designers](https://youtu.be/cCGwZ7Re4VU)
-	- [Inside Hades 3D Designing](https://youtu.be/cYJ6d1ifSqA)
-	- [iphone17 pro teardown](https://youtu.be/O2hSlsvB8nA)
-	- [free DMX lighting controller software](https://www.youtube.com/shorts/pliVPYhEPmw?feature=share)
-		- also "lighting for a band" for how key/fill/side/rear lights are usually placed and which ones are best stylized with patterns and colors
-	- [level design Quake mod](https://youtu.be/hyBAQPCMiCE)
-	- limited slip differential [explainer](https://youtu.be/1B1FNs5bgrE)
-- https://en.wikipedia.org/wiki/Refractive_index
-- [Blargis 3d](https://www.youtube.com/@Blargis3d)
-- https://learngitbranching.js.org/?locale=en_US
-- https://leetcode.com/problems/longest-common-prefix/description/
-- 3DP - "snap-fit joints"
-- https://wokwi.com/rust
-- https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_3d_shader.html
-- mounting onto acrylic -face -photo
-- https://www.w3schools.com/cpp/cpp_functions_lambda.asp
-- https://github.com/google-gemini/gemini-cli
-- chemical composition of dirt
-- UCUPaint latest version
-- Silo TV Series
-- https://da4all.github.io/toolkit/
-- FL delete 'd' vs e
-- put sample on k junction
-- focusrite scarlett mute speakers but not monitor
-- https://github.com/ur-whitelab/chemcrow-publicm
-- music pack jam ([shrimpo](https://datafruits.fm/shrimpos/fall-fruix-2025))
-- Jain - Come (music video from Seana, lots of VFX)
-- 9/12 Polyfjord Blender VFX video (30 min)
-- Sophia music - https://www.tunemymusic.com/share/Lk6gS7JTkl
-- [physics of music video](https://youtu.be/tCsl6ZcY9ag)
-- Hank Green
-	- [Electricity About to be Like Housing](https://youtu.be/39YO-0HBKtA)
-	- [Caffeine](https://youtu.be/p-Dy2pcdBSU)
-- how to use color palette and chrome sphere for vfx?
-- https://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies
-- https://www.usatoday.com/story/news/nation/2025/02/12/tesla-cybertrucks-inspire-backlash-amid-elon-musks-political-work/78358688007/
-- go-to tenor gifs to favorite
-- sharpening mower blades
-- https://www.colour-science.org/
-- pixel update notes
-- Google Pixel 8 PRO Focus and Exposure Lock for photo and video
-- buy dry ice near me
-- 
+
 
 ---
 ## FL Notes
@@ -578,6 +639,36 @@ thinking of buying (removed from amazon cart)
 		- that come with the new Kontakt bass player
 - [x] Try out Jacob Collier's free choir plugin
 ---
+### j'accuse song sprint notes
+
+2026-01-13 SWS - wikipedia - publishing of article "J'Accuse"
+
+- open letter to French president Felix Faure written by Emile Zola concerning "the Dreyfus affair" accusing the government of antisemitism 
+- Alfred Dreyfus, French army officer wrongfully life-sentenced to penal servitude for espionage (1894)
+- letter printed front page, causing a sensation within France and abroad
+- Zola prosecuted for libel and found guilty (1898) (though the suit was apparently the intention, as he intended to make an accusation so bold that it would require escalation)
+  - Zola was murdered (1902) after he fled to England by CO poisoning from a blocked chimney
+- Madame Marie Bastian, a French spy working at the German Embassy, found a suspicious document and passed it to a Commandant in French military counterintelligence, which handwriting experts (and not much else) linked to Dreyfus in a secret miltary court-martial in which he was denied the right to exame the evidence against him
+- army stripped him of rank in a humiliating ceremony and shipped him off to Devil's Island, a penal colony in French Guiana
+- the head of counter-espionage found evidence that the real culprit was an Army major named Ferdinand Esterhazy, but high-ranking officials suppressed the new evidence, acquitted Esterhazy in a two day sham trial, and laid additional charges against Dreyfus with forged documents
+- public backlash led to his retrial, though he was found guilty again (1899), but then pardoned
+- annulment of the pardoned guilty verdict came in 1906 when he was awarded the Legion of Honor, said to be given for enduring "an unparalleled martyrdom"
+
+counting down several --> island of devils
+counter intelligence --> in a very real sense
+libelous, why won't you tell us, 
+something this smells of, a hell of a share of success
+dress your friends down so you can cover them up
+
+---
+felt the bag in my mouth with a flag you've unfurled
+waking up, getting whipped across half the world
+
+falling down stairs, say a prayer to your gods
+again and again and against all the odds
+
+
+
 ## YT Audio Comment Response
 '''
 Well, who I think it's good for is people with a simple 2x2 interface and an SM7B. No other preamps or anything else. This is for two reasons. 
@@ -745,5 +836,445 @@ You don’t need these right away, but talk to me if you'd like to learn more ab
 *note that what I've referred to as a "group" in these messages you will usually see called a "server"*
 
 **And again: all of these features are free.  Do not pay for anything.**
+
+---
+
+## github markdown syntax playground
+
+```stl
+
+solid cube_corner
+
+  facet normal 0.0 -1.0 0.0
+
+    outer loop
+
+      vertex 0.0 0.0 0.0
+
+      vertex 1.0 0.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+    endloop
+
+  endfacet
+
+  facet normal 0.0 0.0 -1.0
+
+    outer loop
+
+      vertex 0.0 0.0 0.0
+
+      vertex 0.0 1.0 0.0
+
+      vertex 1.0 0.0 0.0
+
+    endloop
+
+  endfacet
+
+  facet normal -1.0 0.0 0.0
+
+    outer loop
+
+      vertex 0.0 0.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+      vertex 0.0 1.0 0.0
+
+    endloop
+
+  endfacet
+
+  facet normal 0.577 0.577 0.577
+
+    outer loop
+
+      vertex 1.0 0.0 0.0
+
+      vertex 0.0 1.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+    endloop
+
+  endfacet
+
+endsolid
+
+```
+
+  
+
+```stl
+
+solid Mesh
+
+  facet normal 0.0 0.0 1.0
+
+    outer loop
+
+      vertex 1.0 0.0 0.0
+
+      vertex 0.0 1.0 0.0
+
+      vertex 0.0 0.0 1.0
+
+    endloop
+
+  endfacet
+
+endsolid Mesh
+
+```
+
+  
+
+```mermaid
+
+graph TD;
+
+    A-->B;
+
+    A-->C;
+
+    B-->D;
+
+    C-->D;
+
+```
+
+  
+
+```mermaid
+
+graph LR;
+
+    a1((a1))-->b1((b1));
+
+    a2((a2))-->b1;
+
+    a3((a3))-->b1;
+
+    a1-->b2((b2));
+
+    a2-->b2;
+
+    a3-->b2;
+
+    a1-->b3((b3));
+
+    a2-->b3;
+
+    a3-->b3;
+
+    a1-->b4((b4));
+
+    a2-->b4;
+
+    a3-->b4;
+
+    b1-->c1((c1));
+
+    b2-->c1;
+
+    b3-->c1;
+
+    b4-->c1;
+
+    b1-->c2((c2));
+
+    b2-->c2;
+
+    b3-->c2;
+
+    b4-->c2;
+
+```
+
+  
+
+```geojson
+
+{
+
+  "type": "FeatureCollection",
+
+  "features": [
+
+    {
+
+      "type": "Feature",
+
+      "id": 1,
+
+      "properties": {
+
+        "ID": 0
+
+      },
+
+      "geometry": {
+
+        "type": "Polygon",
+
+        "coordinates": [
+
+          [
+
+              [-90,35],
+
+              [-90,30],
+
+              [-85,30],
+
+              [-85,35],
+
+              [-90,35]
+
+          ]
+
+        ]
+
+      }
+
+    }
+
+  ]
+
+}
+
+```
+
+```mermaid
+
+erDiagram
+
+    CUSTOMER ||--o{ ORDER : places
+
+    ORDER ||--|{ ORDER_ITEM : contains
+
+    PRODUCT ||--o{ ORDER_ITEM : includes
+
+    CUSTOMER {
+
+        string id
+
+        string name
+
+        string email
+
+    }
+
+    ORDER {
+
+        string id
+
+        date orderDate
+
+        string status
+
+    }
+
+    PRODUCT {
+
+        string id
+
+        string name
+
+        float price
+
+    }
+
+    ORDER_ITEM {
+
+        int quantity
+
+        float price
+
+    }
+
+```
+
+  
+
+```mermaid
+
+treemap-beta
+
+"Section 1"
+
+    "Leaf 1.1": 12
+
+    "Section 1.2"
+
+      "Leaf 1.2.1": 12
+
+"Section 2"
+
+    "Leaf 2.1": 20
+
+    "Leaf 2.2": 25
+
+```
+
+  
+
+```mermaid
+
+xychart-beta
+
+    title "Sales Revenue"
+
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+
+    y-axis "Revenue (in $)" 4000 --> 11000
+
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+
+```
+
+  
+
+```mermaid
+
+---
+
+config:
+
+  kanban:
+
+    ticketBaseUrl: 'https://github.com/mermaid-js/mermaid/issues/#TICKET#'
+
+---
+
+kanban
+
+  Todo
+
+    [Create Documentation]
+
+    docs[Create Blog about the new diagram]
+
+  [In progress]
+
+    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]
+
+  id9[Ready for deploy]
+
+    id8[Design grammar]@{ assigned: 'knsv' }
+
+  id10[Ready for test]
+
+    id4[Create parsing tests]@{ ticket: 2038, assigned: 'K.Sveidqvist', priority: 'High' }
+
+    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }
+
+  id11[Done]
+
+    id5[define getData]
+
+    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: 2036, priority: 'Very High'}
+
+    id3[Update DB function]@{ ticket: 2037, assigned: knsv, priority: 'High' }
+
+  
+
+  id12[Can't reproduce]
+
+    id3[Weird flickering in Firefox]
+
+```
+
+  
+
+```mermaid
+
+gitGraph
+
+    commit
+
+    branch develop
+
+    checkout develop
+
+    commit
+
+    commit
+
+    checkout main
+
+    merge develop
+
+    commit
+
+    branch feature
+
+    checkout feature
+
+    commit
+
+    commit
+
+    checkout main
+
+    merge feature
+
+```
+
+  
+
+```mermaid
+
+classDiagram
+
+    Animal <|-- Duck
+
+    Animal <|-- Fish
+
+    Animal <|-- Zebra
+
+    Animal : +int age
+
+    Animal : +String gender
+
+    Animal: +isMammal()
+
+    Animal: +mate()
+
+    class Duck{
+
+      +String beakColor
+
+      +swim()
+
+      +quack()
+
+    }
+
+    class Fish{
+
+      -int sizeInFeet
+
+      -canEat()
+
+    }
+
+    class Zebra{
+
+      +bool is_wild
+
+      +run()
+
+    }
+
+```
+
+  
+
+https://mermaid.live/edit
 
 
