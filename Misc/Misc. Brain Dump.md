@@ -18,6 +18,92 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
+### twist acoustic
+- opening chord dissonance
+- mic noise ()
+- nice fast vocal slides
+- nice rhythmic and vocal dynamics
+- nice guitar runs at bridge
+### itch acoustic
+- nice mandolin
+- nice mix
+- very controlled, restrained -- cool how much space you give the little guitar melodies, even after the build
+- deliberate build with harmonies
+### Yuki Practice Talk 1 Notes (1/14)
+- General
+	- current version talks more about chemistry than the previous version, which is great
+	- you're often a little slow to get to the point (the beginnings of the slides sometimes feel meandering and unclear)
+- title
+1) {we have a talented team}
+2) {engines can get too hot which limits their utility}
+	1) A little slow to getting to the point and clarify why we're introducing these subjects
+	2) unclear why we're talking about the two different engines...and the right side of the screen
+3) {metal carbides are good materials for thermal protection}
+	1) how does a thermal protection system work?  why does the temperature sensitive substrate not get hot too?  how thick of a layer do you need to protect it?
+4) {slide skipped around here?}
+5) {carbides are generally good and B4C and SiC are especially good}
+6) {existing coating application methods carry technical challenges}
+	1) "back to our topic" I do like that you have the big picture in mind verbally, but the transition could probably better facilitate this flow
+	2) have the image associated with the second point appear with the bullet point appearance
+	3) "long turnaround" is a little long to get to the point
+7) {photothermal techniques circumvent traditional challenges}
+	1) Qs: various on the photothermal figure, where did you get this data?  how do you know this is true?
+8) {no field maintenance}
+	1) I would have the bullet point fade-in with the slide transition so it's visually clear why the other stuff disappeared 
+	2) Qs: 
+		1) how portable is it if you can't do it in air; 
+		2) where do these parts get disassembled?  won't they need to be disassembled for parts like engines where the heat is on the inside anyway?
+9) (skip?)
+10) {Precursor candidates}
+	1) I'd change the slide title to something like "there are two current attractive categories of carbide pre-cursor candidates" (maybe shorten that)
+11) {PCD is good for B4C}
+	1) will you talk about the spin coating if they question how you'll interpret results across a varied surface?  How will you delineate thickness effects from polymer synthesis or laser parameter effects?
+	2) what was the comment about "risk of explosion" with oxygen?
+	3) I feel that the content here meanders between why preceramic polymers are good and why PCD specifically is good.  Try to delineate/clarify them better
+12) {laser processing and parameter overview}
+	1) Qs
+		1) why Ar and not cheaper N2?
+		2) that beam looks a lot bigger than 100 um
+		3) do you know what the symbols mean in the figure?
+13) {XRD and SEM support generation of B4C}
+	1) what about the SEM is helpful in this determination?  What about the SiC peak (?) is useful here?  How can you tell that this is B4C?  What do these peaks at these positions mean?
+14) {objective 1: test environment}
+	1) I think you did a good job setting up the problem with the window where the hot surface is vulnerable to oxidation, though I would not show such a complex/busy figure as the photothermal mechanism unless it is necessary (a little starburst icon to represent a laser would likely suffice here)
+15) {math shows oxygen collision events happen on comparable timescale to thermal window}
+	1) check that the m2 to cm2 conversion happened
+	2) how do you know the thermal decay happens at this rate? source? 
+16) {despite math, oxidation is visible in XRD}
+	1) how do you interpret this XRD
+17) {sources show B4C (?) can oxidize below 800 C}
+	1) Are you talking about he precursor?  I don't think anyone doubted that oxidation of a precursor possible, so it's weird to say after you show that it oxidizes that someone else showed that it oxidized.  That was the premise of the experiment in the first place, right?
+	2) if you're actually talking about B4C, then how is this material a high temperature ceramic if it oxidizes at such low temperatures?
+18) {spectroscopy and pyrometry can something something (find if B4C is an intermediate?)}
+	1) ?
+19) {time something}
+20) skipping thermometry for time
+21) {objective 1 (?): surface oxygen something something}
+	1) this slide was very short, I didn't really understand it
+	2) didn't we already have an objective 1? did we ever have an objective 2 actually?
+22) {objective 2: substrates}
+	1) what is up with the XRD here?  What is is it showing in support of this slide's point?
+	2) why is sapphire's TC such a wide range?  And why can silica have a TC of 0?  What influences these ranges?  Why sapphire, not something with even higher TC like graphite or metal?  is there some disadvantage to high TC?
+23) {we made it on sapphire}
+	1) what was up with "objective 1"?  why are we showing data for 2 but not for 1?
+24) {objective 3: laser fluence on crystallinity}
+	1) why do you think laser fluence specifically would influence B4C crystallinity specifically...and why do you care about crystallinity in particular to begin with?
+	2) show a visual for this scan rate stuff.  it will be difficult to understand the difference between your three different parameters
+25) {laser power improves crystallinity}
+	1) why did you stop at 400 uJ?  difference between energy and power?
+	2) slide went by super fast, careful not to rush
+26) {future work for objective 3}
+	1) is "objective 1" not just future work?
+	2) change title to be more helpful at grounding the viewer to the slide's purpose
+27) {future work: optimize precursor thickness}
+	1) Qs: 
+		1) what does it mean to be "too thin"?  what's bad about it?
+			1) won't there be a gradient of properties either way?  if anything, wouldn't you want the thinnest possible film to make the least severe possible thermal (and property) gradient
+		2) is it bad for the precursor to be unreacted?  won't the reacted material still accomplish your goal? or won't it?
+---
 ### Yuki slides notes
 - General
 	- asdf
@@ -68,6 +154,8 @@
 
 also 14 - why am I supposing we have 10^15 sites/cm^2?
 
+---
+Vivian idea - use like a cymbal sample on a dummy peak controller track to control sampler parameters
 ---
 ### ML notes/terms
 - Early fundamental discoveries
@@ -167,6 +255,9 @@ also 14 - why am I supposing we have 10^15 sites/cm^2?
 		- (remember toggle ranged)
 - remember
 	- str club + titanstring on ranger
+---
+### BG3 barbarian act 2 items
+- coldbrim hat at moonrise (access to balthazar's room, ~16:30)
 ---
 ### Neural Net Demo - 2D Racing Game Outline
 - Make  track
