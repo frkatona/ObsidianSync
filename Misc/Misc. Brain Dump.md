@@ -18,17 +18,13 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
-### twist acoustic
-- opening chord dissonance
-- mic noise ()
-- nice fast vocal slides
-- nice rhythmic and vocal dynamics
-- nice guitar runs at bridge
-### itch acoustic
-- nice mandolin
-- nice mix
-- very controlled, restrained -- cool how much space you give the little guitar melodies, even after the build
-- deliberate build with harmonies
+### BG3 other throw barb
+- lightning
+	- weapon - the sparky points or crab
+	- glove - the sparkle hands (gain charges on unarmed) or belligerent skies (reverberation when lightning)
+	- boots - the water sparklers
+	- ring - the sparkswall
+---
 ### Yuki Practice Talk 1 Notes (1/14)
 - General
 	- current version talks more about chemistry than the previous version, which is great

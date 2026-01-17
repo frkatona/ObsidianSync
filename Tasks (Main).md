@@ -3,12 +3,9 @@ Home
 - [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
-- ask Ben/Yuki what to do about MURI Meeting tomorrow
-- tell Tian-shin about desk situation
-- finish notes on Yuki's slides
-- play Kaya's game
 - groceries
-- tell Ben about the spin coater and glovebox and moisture analyzer I wrote his name on
+- respond Ed/Mason ($40 game)
+- 
 
 - respond 
 	- Zack (see if he's on snapchat?)
@@ -22,8 +19,8 @@ Home
 - Chelsea credit/debit
 	- December
 		- Rent - paid
-		- Power - $564.22 / 2 = $282.11
-		- Internet - $112 /2 = $56
+		- Power - (forgiven) - $564.22 / 2 = $282.11
+		- Internet - (?) - $112 /2 = $56
 	- January
 		- Rent - paid - $1825 (/2 = $912.50)
 			- (water included)
