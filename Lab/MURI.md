@@ -20,6 +20,20 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 1/21 Meeting Notes
+- to discuss
+	- [ ] was my understanding of thickness determination correct?
+	- [x] mention surgery next week
+	- [ ] sending samples to Greg
+	- [ ] non-confidential quiz from document
+- Tainara discusses her SEM images
+	- tried to do a 3d but charging prevented a good image (might be cool to try for me)
+- Ben S has what he needs to write something up for Rob
+- Ben S is ready to use the profilometer for thickness determination
+- Ben S found 10-15% wt% in solution has been giving nice clean flat samples on a sapphire drip cast
+- thickness discussions (is that related to why the scan lines of the one thicker sample in particluar are so clean)
+	- Tainara - maybe do 4 samples with same thickness
+
 ### 12/17 Meeting Notes
 - Self:
 	- Ben S mentioned to me over text that he'd have PCD sample for me today

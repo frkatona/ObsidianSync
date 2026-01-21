@@ -18,12 +18,12 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
-### BG3 other throw barb
-- lightning
-	- weapon - the sparky points or crab
-	- glove - the sparkle hands (gain charges on unarmed) or belligerent skies (reverberation when lightning)
-	- boots - the water sparklers
-	- ring - the sparkswall
+### Duncan Notes
+- Wants: look at 'general outline' and the first chapter and share any thoughts or ideas
+- Current outline: 'first section' -> explain relevant tensile properties -> mechanical properties relationship with aging -> thermodynamic background of soxhlet/cross-link density tests -> cross-link density  -> conclusion
+- General notes
+	- maybe it would be more readable to have the background information for tensile and soxhlet just be the intro of their respective chapters (so e.g., Ch2 \subsection{intro} = tensile properties are important because of {reasons}, they work {like this}, the way I'll test this is {this way}; Ch2 \subsection{experimental}; Ch2 \subsection{results and discussion})
+- Chapter 1
 ---
 ### Yuki Practice Talk 1 Notes (1/14)
 - General
