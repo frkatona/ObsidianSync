@@ -3,8 +3,9 @@ Home
 - [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
-- tell Tian-chi about Jackie's schedule AND lab notebook
-- write more of lit review before MURI meeting
+
+- Sadia, Abi, Justine, Josh
+
 - knee
 	- check if I need to pick up drugs early
 	- hospital -> pre-op labs
