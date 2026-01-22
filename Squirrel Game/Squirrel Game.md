@@ -1,4 +1,16 @@
-### 2026-01-12 Notes
+### 2026-01-19 Meeting Notes
+- pre-meeting
+	- acerola video (1/10, built all these things "crashed out")
+	- godot 4.6 on release candidate
+- code sprint share/talk
+	- anime model
+		- give walk/run/jump (etc.?) animations
+		- re-do the skeleton to be able to reuse animations on all three
+		- maybe clean up extraneous bones
+	- Arana Grande
+		- walk animation - added a third in-between state; animation now correctly only triggers on player input
+	- Kaya recommends watching shows "scavengers reign" and "pantheon"
+### 2026-01-12 Meeting Notes
 - Josh messed with some 401k stuff and comcast
 - Kaya kept going with websockets multiplayer network synchronizer
 - Ideas for neural network project
@@ -9,11 +21,11 @@
 		- colony sim
 	- idle game, ...
 
-### 2026-01-09 Notes
+### 2026-01-09 Meeting Notes
 - Kaya is pretty deep in rebuilding network sync from scratch with websockets, "probably head down for a few weeks," though it seems to be going well so far (she's well versed in websockets from previous projects compared to webRTC)
 - maybe experiment with another jam game or two before diving back in
 - ultimately will probably be me making the geometry and seeing if it works with code (e.g., pipes and other janky edge)
-### 2025-12-08 Notes
+### 2025-12-08 Meeting Notes
 - Kaya likes the "Space Krill for the Moon Whale" song
 - talked about alternatives to the Arduino API's 'map()' function
 	- just dividing, match, lerp, remap
@@ -23,14 +35,14 @@
 	- talked about openwebui for his GPT credits
 - Kaya talked about deriving utility from just rolling through the global scope functions ([here](https://docs.godotengine.org/en/stable/classes/class_%40globalscope.html))
 
-- ### 2025-11-17 Notes
+- ### 2025-11-17 Meeting Notes
 	- to-do before
 		- fishing / card updates (implement some slay the spire)
 	- think on
 		- prototyping hex tiles for Kaya's minigame
 		- pick-up emote animations like Kaya had mused on again briefly during RV
 ---
-- ### 2025-11-10 Notes
+- ### 2025-11-10 Meeting Notes
 	- Qs
 		- resource saving in the second discord script
 	- to-do before
@@ -53,7 +65,7 @@
 				- animated gshader material?
 
 ---
-- ### 2025-10-20 Meeting
+- ### 2025-10-20 Meeting Notes
 	- note to self:
 		- ideas for squirrel mini games
 			- work up fishing to something fancy
@@ -63,7 +75,7 @@
 		- talk to Kaya about Gimp
 	- Kaya's webrtc thing isn't quite working on Windows to show and tell, but it's looking good on Mac and should just need a docker container and some setup script
 ---
-- ### 2025-09-22 Meeting
+- ### 2025-09-22 Meeting Notes
 		- idea: pull video into DVR and use "Color Palette" mode to inform design
 		- Anthony
 			- messed with a few ways to make the roughness map glyph appear cool in Godot similar to Blender's Eevee, including SSR, reflection probe, and SDF-global illumination, but seemingly the best was to just add a small, colored spotlight at an angle next to the object

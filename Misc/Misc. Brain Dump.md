@@ -1,4 +1,3 @@
-
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
@@ -18,12 +17,19 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
-### BG3 other throw barb
-- lightning
-	- weapon - the sparky points or crab
-	- glove - the sparkle hands (gain charges on unarmed) or belligerent skies (reverberation when lightning)
-	- boots - the water sparklers
-	- ring - the sparkswall
+### BG3 on long rest
+- cleric stuff
+- respec laezel
+- dole out elixirs - 
+	- (cloud) giants elixer for rogue and barb
+	- crit elixir for others?
+---
+### Yuki Practice Talk Notes (1/20)
+- General
+	- asdf
+- Slides
+	- 1 - asdf
+	- 2 - asdf
 ---
 ### Yuki Practice Talk 1 Notes (1/14)
 - General
