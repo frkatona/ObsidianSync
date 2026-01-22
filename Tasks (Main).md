@@ -3,13 +3,21 @@ Home
 - [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
-- groceries
-- respond Ed/Mason ($40 game)
-- 
-
+- tell Tian-chi about Jackie's schedule AND lab notebook
+- write more of lit review before MURI meeting
+- knee
+	- check if I need to pick up drugs early
+	- hospital -> pre-op labs
+	- orthopedic -> get knee brace adjusted
+	- amazon -> last chance to buy anything I need
+	- ice cooler
+		- see if pump still works
+		- start freezing bottles
 - respond 
 	- Zack (see if he's on snapchat?)
+	- Abi
 	- Justine
+	- Emily
 	- ask Sey about where to play his games or see his art
 - warranty time-sensitive
 	- wash out fog machine (Hakuta Fog Machine not fogging)
