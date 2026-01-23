@@ -4,12 +4,15 @@ Home
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
 
-- Sadia, Abi, Justine, Josh
+- Sadia, Abi, Justine
+- Log in to forge to clone files
+- Duncan thesis review
+- MURI
+	- Ben S illustrator passes (what does Rob want exactly?)
+	- ask Tainara for images -> normal map
 
 - knee
-	- check if I need to pick up drugs early
-	- hospital -> pre-op labs
-	- orthopedic -> get knee brace adjusted
+	- check if I need to pick up drugs early (ask Chelsea if she did last time)
 	- amazon -> last chance to buy anything I need
 	- ice cooler
 		- see if pump still works

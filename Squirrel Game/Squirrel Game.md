@@ -1,3 +1,25 @@
+### 2026-01-22 Josh Winter Jam Meeting Notes
+- pre-meeting thoughts:
+	- anticipate role assignments and gaps/pain-points in our skillsets
+	- build a tentative timeline
+	- test-run version control
+	- test-run deployment and updating with Butler
+	- discuss scope (what's ideal, what's too far, e.g., 2D vs 3D, multiplayer)
+	- making a mini project
+		- probably just replicate a well-known game (e.g., vampire survivors, super mario, SM64, etc.)
+		- building some universal backbone template
+			- UI (pause menu, start menu)
+			- logic (win screen, fail screen + restart menu)
+- Meeting
+	- josh feels his coding logic strengths lie in emergent behavior, he likes his tower defense history
+		- **character controlling** is a weakness
+	- jam starts at 8 tomorrow when I'll be at a show, but I can bring my laptop and shoot ideas when the theme is announced
+	- timeline
+		- Saturday 10:00 am - crystallize the vision
+		- Saturday 4:00 pm - local playable version
+		- Sunday 10:00 am - upload-ready final-ish draft, just final bug fixes
+		- Sunday availability is before 1:00 PM and 5:00-~7:00 PM
+	- try to sign into forge, coordinate with Josh a new branch push/pull/merge to troubleshoot conflicts
 ### 2026-01-19 Meeting Notes
 - pre-meeting
 	- acerola video (1/10, built all these things "crashed out")
@@ -11,7 +33,7 @@
 		- walk animation - added a third in-between state; animation now correctly only triggers on player input
 	- Kaya recommends watching shows "scavengers reign" and "pantheon"
 ### 2026-01-12 Meeting Notes
-- Josh messed with some 401k stuff and comcast
+- Josh dealt with some 401k stuff and comcast
 - Kaya kept going with websockets multiplayer network synchronizer
 - Ideas for neural network project
 	- Kaya

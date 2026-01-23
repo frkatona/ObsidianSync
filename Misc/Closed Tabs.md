@@ -123,3 +123,9 @@
 - 12tone Linkin Park [video](https://www.youtube.com/watch?v=f9sQSJqOwiA), also vertical vs horizontal harmony
 - Subornation of perjury
 - removing dealer sticker from car
+- retinue, patter
+- comcast won't change plans online
+- keeping cold out of house in winter
+- minimal obsidian homepage - [reddit](https://www.reddit.com/r/ObsidianMD/comments/1q6r9zv/my_minimal_homepage/)
+- chevy bolt remote start
+- turn off 'hey google'
