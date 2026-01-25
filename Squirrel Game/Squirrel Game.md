@@ -20,6 +20,10 @@
 		- Sunday 10:00 am - upload-ready final-ish draft, just final bug fixes
 		- Sunday availability is before 1:00 PM and 5:00-~7:00 PM
 	- try to sign into forge, coordinate with Josh a new branch push/pull/merge to troubleshoot conflicts
+- Sokoban-style xmas delivery
+	- pivot back to elves?
+	- unlock or upgrade new paths or automate paths for the boxes to take as you progress
+	- 
 ### 2026-01-19 Meeting Notes
 - pre-meeting
 	- acerola video (1/10, built all these things "crashed out")
