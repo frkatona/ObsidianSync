@@ -1,4 +1,8 @@
-	
+mom shows
+- Pitt
+- E. Pluribus
+- Sinners
+- Heated Rivalry
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
