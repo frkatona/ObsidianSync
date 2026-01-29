@@ -4,27 +4,54 @@ Home
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
 
+Surgery notes
+- no food/drink/gum after midnight
+- wear comfortable, loose-fitting clothes
+- bring insurance card, ID, crutches, and brace
+- check-in: enter the medical center (155 Wellness Way) at the main entrance/front desk
+- filling Rx
+
 - Home
 	- Take TV back, buy new TV
 	- Buy anything I'll need (amazon, ask Chelsea)
-	- make sure a 12 V adapter works with the pump
-		- freeze more bottles
+	- freeze more bottles
 	- Pay bills (power, internet, rent)
-- respond Justine, Emily
-- read Kristen chapter (see if Duncan has an updated version for the rest?)
-- MURI
-	- Yuki - show laser, talk coal, tell about gas tank
+- respond Justine, Emily, Abi
+- Lab (knee prep)
+	- Yuki
+		- show laser
+		- talk about coal project
+		- teach how to use gas tank
+		- MOVE THE GAS TANK BACK
+	- Kristen - read chapter
+	- Duncan - tell that I'll be out tomorrow, maybe can coordinate discussing chapter comments today?
+	- Alex 
+		- reaching out to pros/staff ([intake link](https://pmd.mri.psu.edu/mriintake/))
+			- TJ ([link](https://www.mri.psu.edu/mri/personnel-directory/tjz127))- IR (better ideas on testing given our conditions OR how to crush the pellet and what we could be doing wrong)
+			- Tim 
+			- Dean
+		- buying stuff
+			- hydraulic press (cost?)
+			- analytical grade KBr (cost?)
+		- think on better system for adhesive+lasing
+			- acrylic (how would we machine it?)
+	- Rescheduling photothermal subgroup
 
-watch new Frieren
+Home
+- watch new Frieren + JJK
+- Take in the trash and recycling
+- wash out fog machine (Hakuta Fog Machine not fogging) and then start return process
+
+Respond Ben in discord (x2)
+
+W-2s available from bank1, bank2, investment firm, Penn state, ?
+- American Century Investments - (get from [here](https://www.americancentury.com/signin/))
+- 
 
 - knee
 	- check if I need to pick up drugs early (ask Chelsea if she did last time)
-	- amazon -> last chance to buy anything I need
-	- ice cooler
-		- see if pump still works
-		- start freezing bottles
+	- freeze more bottles
 - warranty time-sensitive
-	- wash out fog machine (Hakuta Fog Machine not fogging)
 	- walmart tv dead pixel column
 - how many gemini credits do I have left
 - clear drive for chelsea
@@ -41,10 +68,9 @@ watch new Frieren
 	- February
 		- Rent - 
 		- Power - 
-		- Internet - 
+		- Internet - $108 (/2 = $54)
 	- Sewage/Water/etc.
 		- Probably the $307.54 (/2 = $153.77) paid on Oct 31 on top of the $1800 rent
-	- Pay her for groceries
 - apply jobs
 	- machine learning job
 		- update resume
@@ -52,9 +78,6 @@ watch new Frieren
 		- do a basic machine learning exercise
 		- move unlisted projects into the website
 		- learn about Ben's data vis influence and Emma's ML contribution
-- Call to ask about hospital double charge
-	- why is there a "doctor" and "hospital" component for the MRI?
-	- didn't I already pay the MRI?
 - vocal warmup website
 	- arrows between sections
 	- remove "agility" for overlap with "precision"

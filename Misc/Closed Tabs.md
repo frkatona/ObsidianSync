@@ -11,6 +11,7 @@
 - tonicize rhythm [video](https://youtu.be/5ud-fwdalu0)
 - 3dp iron and other exotic materials [video](https://youtu.be/J8PZWkjt65Q)
 - Blender 5.0 - what's new [video](https://youtu.be/4wEqD-jK0DU) and animation focus [video](https://youtu.be/s3kcPME65ic)
+- "scaling spalling"
 - fighter jets c++ [video](https://youtu.be/Gv4sDL9Ljww)
 - myopia
 - amazon chicken wire
