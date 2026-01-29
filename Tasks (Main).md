@@ -6,9 +6,16 @@ Home
 
 - Sadia, Abi, Justine
 - Log in to forge to clone files
-- Duncan thesis review
+- 
+- Labmates
+	- Alex response (/look into buying)
+		- hydraulic press
+		- salt plates
+		- anlaytical grade KBr
+	- Alex tensile testing
+	- Duncan thesis review
 - MURI
-	- Ben S illustrator passes (what does Rob want exactly?)
+	- Aka email + ask Tainara if she has more to follow up with
 	- ask Tainara for images -> normal map
 
 - knee
