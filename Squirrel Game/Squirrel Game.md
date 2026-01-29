@@ -1,3 +1,6 @@
+### 2026-01-26 Post-Jam and Kaya Websockets 
+- 250702_gaemon_20frame
+- still would prefer the miku ones, but ideally I can get those to translate animations between them (so build skeleton)
 ### 2026-01-22 Josh Winter Jam Meeting Notes
 - pre-meeting thoughts:
 	- anticipate role assignments and gaps/pain-points in our skillsets

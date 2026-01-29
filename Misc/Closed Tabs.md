@@ -40,7 +40,17 @@
 - Open source tools list
 	- drawing - https://excalidraw.com/
 	- penpot, ardour, applflowy, drone (ci/cd), 
+- gm presentation
+- when to git fetch (or when not to since it seems needed before a hard reset)
+- Amazon
+	- space heater
+	- tv
+	- bed
+	- body pillow
+	- knee pump
+	- knee brace (after healed) [link](https://www.amazon.com/NEENCA-Professional-Patented-Arthritis-Meniscus/dp/B0CY3ZPFND?sr=8-36)
 - YT
+	- Coding adventure analyzing audio
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
 	- [Andre Kelley DoD](https://youtu.be/IroPQ150F6c)

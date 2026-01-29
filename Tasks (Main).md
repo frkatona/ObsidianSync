@@ -4,19 +4,18 @@ Home
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
 
-- Sadia, Abi, Justine
-- Log in to forge to clone files
-- 
-- Labmates
-	- Alex response (/look into buying)
-		- hydraulic press
-		- salt plates
-		- anlaytical grade KBr
-	- Alex tensile testing
-	- Duncan thesis review
+- Home
+	- Take TV back, buy new TV
+	- Buy anything I'll need (amazon, ask Chelsea)
+	- make sure a 12 V adapter works with the pump
+		- freeze more bottles
+	- Pay bills (power, internet, rent)
+- respond Justine, Emily
+- read Kristen chapter (see if Duncan has an updated version for the rest?)
 - MURI
-	- Aka email + ask Tainara if she has more to follow up with
-	- ask Tainara for images -> normal map
+	- Yuki - show laser, talk coal, tell about gas tank
+
+watch new Frieren
 
 - knee
 	- check if I need to pick up drugs early (ask Chelsea if she did last time)
@@ -24,12 +23,6 @@ Home
 	- ice cooler
 		- see if pump still works
 		- start freezing bottles
-- respond 
-	- Zack (see if he's on snapchat?)
-	- Abi
-	- Justine
-	- Emily
-	- ask Sey about where to play his games or see his art
 - warranty time-sensitive
 	- wash out fog machine (Hakuta Fog Machine not fogging)
 	- walmart tv dead pixel column
@@ -45,6 +38,10 @@ Home
 			- (water included)
 		- Power - paid - $683.04 (/2 = $341.52)
 		- Internet - paid - $112 /2 = $56
+	- February
+		- Rent - 
+		- Power - 
+		- Internet - 
 	- Sewage/Water/etc.
 		- Probably the $307.54 (/2 = $153.77) paid on Oct 31 on top of the $1800 rent
 	- Pay her for groceries
