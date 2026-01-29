@@ -9,7 +9,8 @@ Surgery notes
 - wear comfortable, loose-fitting clothes
 - bring insurance card, ID, crutches, and brace
 - check-in: enter the medical center (155 Wellness Way) at the main entrance/front desk
-- filling Rx
+- filling Rx? (just given to us on the way out?)
+- empty car so I can fit in back seat
 
 - Home
 	- Take TV back, buy new TV
