@@ -36,6 +36,7 @@ Surgery notes
 		- think on better system for adhesive+lasing
 			- acrylic (how would we machine it?)
 	- Rescheduling photothermal subgroup
+steam over boiling water for 10 minutes
 
 Home
 - watch new Frieren + JJK
