@@ -13,9 +13,7 @@ Home
 - respond Justine, Emily
 - read Kristen chapter (see if Duncan has an updated version for the rest?)
 - MURI
-	- send email to Aka (link to SEM, ask Tainara for analysis, offer to talk about it after online meeting tomorrow)
-	- ask Tainara for images -> normal map?
-	- ask Ben S if we're meeting in the morning tomorrow
+	- Yuki - show laser, talk coal, tell about gas tank
 
 watch new Frieren
 

@@ -4,7 +4,7 @@ mom shows
 - Sinners
 - Heated Rivalry
 
-respond aka, watch veep
+	markdown files for research
 
 Bg3
  - respec bards for short rests (what do monks get? paladins?)
