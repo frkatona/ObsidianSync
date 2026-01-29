@@ -20,6 +20,20 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 1/28 Meeting Notes (online)
+- Ben S discusses an overview of 
+- meeting with Tainara (T) and Akachukwu (A) afterward
+	- (Tainara can stay until ~12:15)
+	- A -
+		- "compound is not very stable to moisture --> breaks town to long chain alkynyls (is stable to O2, just not water)"
+		- asks "can we say if it is or is not silicon carbide from the available data?"
+	- T - says it's tough to be sure, but it doesn't seem likely silicon carbide.  she saw some weird triangle shapes that seem almost like sucrose she's seen in literature
+	- A - wonders if we can tell if we just made graphite
+	- T - asks if there could be some other element there
+	- A - maybe a little bit of magnesium because that was a part of the synthesis
+
+
+---
 ### 1/21 Meeting Notes
 - to discuss
 	- [ ] was my understanding of thickness determination correct?

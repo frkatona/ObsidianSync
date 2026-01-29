@@ -3,6 +3,11 @@ mom shows
 - E. Pluribus
 - Sinners
 - Heated Rivalry
+
+respond aka, watch veep
+
+Bg3
+ - respec bards for short rests (what do monks get? paladins?)
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
