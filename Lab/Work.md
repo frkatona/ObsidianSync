@@ -9,9 +9,46 @@
 - [ ] Get CO2 laser set up
 - [ ] Review MURI folder papers
 - [ ] Dr. Maslak about chemistry game
+---
+3-slide hypothesis slides
+- enough background to find hypothesis interesting
+- hypothesis
+	- something testable and falsifiable
+- how you'll test hypothesis
+---
+### 2/2 Jackie Research Update Notes
+1) asdf
+2) asdf
+3) asdf
+4) asdf
+5) Patterned surfaces are difficult to scale 
+	1) scale? typo?
+6) 'photothermal heating decreases curing times and leads to surface deformation'
+	1) how localized?  more than just hitting any other black thing?
+7) 'Marangoni flow can be controlled through laser parameters'
+	1) 'incident'?
+	2) did you want a smooth surface?
+8) ?
+9) 'photothermal patterning can be used on steel substrates'
+	1) is steel special or difficult for some reason?
+	2) why is this relevant/helpful?
+10) 'hydrophobicity increases with addition of patterns'
+	1) what is p1/p2?
+11) 'fouling test was set up in collaboration with NUWC'
+	1) super fast
+	2) wc -> 'set up'
+12) 'decreased fouling in initial weeks on patterned surfaces'
+13) 'improved fouling-release properties with smaller pattern'
+14) 'patterns are intact post-power-washing'
+	1) what is p1 and p2
+	2) wc 'power washing' maybe
+15) 'barnacles left indent in coating post removal'
+	1) crazy fast, what is the point?
+16) ?
+17) ?
+18) 'pattern fidelity and barnacle growth' (?)
+19) 'optical asdfasdf'?
 
-Alex paper notes
-- 
 ---
 ### 12/6 thoughts
 - induction furnace with conductive carbon and metal particles
