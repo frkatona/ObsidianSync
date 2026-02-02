@@ -4,28 +4,26 @@ Home
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
 
-Surgery notes
-- no food/drink/gum after midnight
-- wear comfortable, loose-fitting clothes
-- bring insurance card, ID, crutches, and brace
-- check-in: enter the medical center (155 Wellness Way) at the main entrance/front desk
-- filling Rx? (just given to us on the way out?)
-- empty car so I can fit in back seat
+group meeting notes
+- subgroup
+	- send yuki paper about pdms and carbon black
+	- alex says Ge atr looks good
+	- talk to jackie about thesis
 
 - Home
-	- Take TV back, buy new TV
-	- Buy anything I'll need (amazon, ask Chelsea)
-	- freeze more bottles
-	- Pay bills (power, internet, rent)
-- respond Justine, Emily, Abi
-- Lab (knee prep)
+	- note/plan which day to take back 55" tv
+	- Write what to have Chelsea pick up (groceries?  small water bottles for ice?   snacks?)
+	- Pay power bill
+- respond Justine, Emily, Ryan, Zack
+- Lab
+	- photothermal subgroup...meeting late today? after group? cancelling?
 	- Yuki
-		- show laser
-		- talk about coal project
+		- ask her to lase stuff to prepare for Alex's sample
+		- talk about coal project progress
+		- order new gas tank
 		- teach how to use gas tank
-		- MOVE THE GAS TANK BACK
 	- Kristen - read chapter
-	- Duncan - tell that I'll be out tomorrow, maybe can coordinate discussing chapter comments today?
+	- Duncan
 	- Alex 
 		- reaching out to pros/staff ([intake link](https://pmd.mri.psu.edu/mriintake/))
 			- TJ ([link](https://www.mri.psu.edu/mri/personnel-directory/tjz127))- IR (better ideas on testing given our conditions OR how to crush the pellet and what we could be doing wrong)
@@ -36,8 +34,6 @@ Surgery notes
 			- analytical grade KBr (cost?)
 		- think on better system for adhesive+lasing
 			- acrylic (how would we machine it?)
-	- Rescheduling photothermal subgroup
-steam over boiling water for 10 minutes
 
 Home
 - watch new Frieren + JJK

@@ -6,8 +6,22 @@ mom shows
 
 	markdown files for research
 
-Bg3
- - respec bards for short rests (what do monks get? paladins?)
+lab
+- macro photography reddit suggestions - [reddit](https://www.reddit.com/r/photography/comments/jx1v8x/simplest_way_to_get_into_macro_photography/)
+- birefringence [wiki](https://en.wikipedia.org/wiki/Birefringence)
+- photoelasticity [wiki](https://en.wikipedia.org/wiki/Photoelasticity)
+- stress plastics [youtube](https://www.youtube.com/watch?v=zgd4RkmVLDk)
+
+home
+- ignition timing [wiki](https://en.wikipedia.org/wiki/Ignition_timing)
+- cartilage injuries [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4300813/)
+- "subdomains on github pages"
+- distrokid update (april renewal at higher charge?)
+- compare terminal applications
+- 5 bebop guitar licks [youtube](https://youtu.be/7bhzT5Dtsq0?list=PLGSQLUOdi3SlC2Yy3Bh8SYG1WWOl7vwCP)
+- hairy ball [youtube](https://youtu.be/BHdbsHFs2P0)
+- 
+
 ### Chord progression notes
 - Royal road
 	- IV - V - iii - vi
