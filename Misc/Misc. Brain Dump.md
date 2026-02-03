@@ -20,7 +20,20 @@ home
 - compare terminal applications
 - 5 bebop guitar licks [youtube](https://youtu.be/7bhzT5Dtsq0?list=PLGSQLUOdi3SlC2Yy3Bh8SYG1WWOl7vwCP)
 - hairy ball [youtube](https://youtu.be/BHdbsHFs2P0)
-- 
+
+---
+### job app drafts
+- tell us a little about yourself
+	- Currently a post-doc focused on developing novel polymer and ceramic coating techniques.  In grad school, I worked to explore various nanocomposite systems for compatibility with photothermal laser processing.  My relevant publications include laser-cured coatings on flexible, thermally sensitive substrates (including paper), as well as using trace amounts of inexpensive carbon-filler as an absorption agent for generating heat in transparent media sufficient to drive chemical reactions.
+- greatest impact in prior role
+	- I spearheaded the application of 3D printing techniques (concept, hardware, and software) to coatings processing which are still fundamental to my undergraduate laboratory's research methodology
+-  3 attributes in a work environment in which you thrive
+	- social co-workers with diverse interests
+	- unsolved technical challenges
+	- transparent and consistent project motivations
+- Please describe your experience in zero to one build roles.
+	- Having never worked in industry, I haven't taken any project "to one" as it were, but everything I do starts at zero and gets as far as could be reasonably expected for the contextual desirability.  My research techniques largely involve creating novel processing techniques.  As an electronics hobbyist, I've successfully prototyped a few interesting projects to the limits of personal my ambition (e.g., designing, 3D printing, woodworking, and coding electronic instruments).
+	- While I am familiar with ambitious projects on tight timelines and budgets, I have not yet had the need for the final critical steps of proper product manufacturing experience.  But I am excited to learn.
 
 ### Chord progression notes
 - Royal road

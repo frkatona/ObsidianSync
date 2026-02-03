@@ -3,12 +3,7 @@ Home
 - [ ] make better to-do with tasks 🔼 🛫 2026-01-09 📅 2026-01-11
 - [ ] troubleshoot interface preamp always outputting noise ⏬ 🛫 2026-01-09 
 - [ ] Practice ETB 🔁 every day 
-
-group meeting notes
-- subgroup
-	- send yuki paper about pdms and carbon black
-	- alex says Ge atr looks good
-	- talk to jackie about thesis
+- [ ] Apply job 🔁 every day 
 
 - Home
 	- note/plan which day to take back 55" tv
