@@ -6,12 +6,8 @@ Home
 - [ ] Apply job 🔁 every day 
 
 - Home
-	- note/plan which day to take back 55" tv
-	- Write what to have Chelsea pick up (groceries?  small water bottles for ice?   snacks?)
-	- Pay power bill
-- respond Justine, Emily, Ryan, Zack
+- respond Justine, Emily, Zack
 - Lab
-	- photothermal subgroup...meeting late today? after group? cancelling?
 	- Yuki
 		- ask her to lase stuff to prepare for Alex's sample
 		- talk about coal project progress
@@ -31,8 +27,11 @@ Home
 			- acrylic (how would we machine it?)
 
 Home
+- Squirrel game
+	- rig models
+	- set up centralized asset project
 - watch new Frieren + JJK
-- Take in the trash and recycling
+- chelsea bill - $669.96 / 2 = $334.98 
 - wash out fog machine (Hakuta Fog Machine not fogging) and then start return process
 
 Respond Ben in discord (x2)
@@ -514,8 +513,3 @@ https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
 
 ---
 
-# Work
-
-## see [[Work]]
-# Other
-### [[Misc. Brain Dump]]
