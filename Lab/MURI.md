@@ -20,6 +20,27 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2/4 Meeting Notes (online)
+- Ben S presentation
+	- confirmed 5-6 microns deep
+		- that's pre-lasing or post?  how do we know that?  do we know it's consistent?
+		- (as opposed to 100+ microns of earlier samples)
+	- Raman
+		- polymer precursor where no transformed material
+		- graphite on the laser lines (at the surface it seems)
+		- somewhere in between in the gray stuff between lines
+		- Rob S suggests trying with an even thinner set of samples to show it doesn't convert at all
+		- **note to self:** put laser power meter under the sample and export the power vs time and line it up with where the laser was in a video to make a figure that can overlay the absorbed power on top of the laser lines
+	- first sample (0.1 mm spacing) microscope images 
+		- off-screen guy talks about how it's interesting that the transition is so sharp and so that might be evidence it's not purely photothermal (nucleation + growth; autocatalytic; radial; etc.)
+		- Rob says JP couldn't get it to crystallize at 266 nm (converted to different colors though)
+			- Ben L says he's just ripping apart everything
+		- Ben L says maybe we could use our YAG (at some point...'bigger fish to fry for now')
+		- Rob and Adri talking about the right term for the observed effect of a series of reactions reaching out from the beam until a threshold ("not autocatalytic...maybe cascading")
+		- **note to self:** make a lightburn image that has all the desired line spacings (lone line, normal distance, pure dots) in preparation for new samples
+		- Rob to Ben S about sample prep for the one-line sample image "just do it, get it done"
+	- Jupjeet has a paper with a chain-branching cycle explosion that he feels could inform some of the ideas here (screenshotted some content)
+
 ### 1/28 Meeting Notes (online)
 - Ben S discusses an overview of 
 - meeting with Tainara (T) and Akachukwu (A) afterward
