@@ -1,10 +1,3 @@
-mom shows
-- Pitt
-- E. Pluribus
-- Sinners
-- Heated Rivalry
-
-	markdown files for research
 
 lab
 - macro photography reddit suggestions - [reddit](https://www.reddit.com/r/photography/comments/jx1v8x/simplest_way_to_get_into_macro_photography/)
@@ -20,6 +13,23 @@ home
 - compare terminal applications
 - 5 bebop guitar licks [youtube](https://youtu.be/7bhzT5Dtsq0?list=PLGSQLUOdi3SlC2Yy3Bh8SYG1WWOl7vwCP)
 - hairy ball [youtube](https://youtu.be/BHdbsHFs2P0)
+
+mom shows
+- Pitt
+- E. Pluribus
+- Sinners
+- Heated Rivalry
+
+
+- markdown files for research
+- run audio through fl to compress, native comrpessor
+- rusty lake, The_Roottrees_are_Dead, blazing sails game, deep space cache
+- Lint_(software)
+
+- catch up on texts/discord messages, message IOOF FB about cancellations
+- water softener
+- betide update
+- DIY PCM [yt](https://youtu.be/Nqxjfp4Gi0k)
 
 ---
 ### job app drafts

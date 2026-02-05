@@ -40,6 +40,12 @@ Absorption mechanisms to explore:
 		- **note to self:** make a lightburn image that has all the desired line spacings (lone line, normal distance, pure dots) in preparation for new samples
 		- Rob to Ben S about sample prep for the one-line sample image "just do it, get it done"
 	- Jupjeet has a paper with a chain-branching cycle explosion that he feels could inform some of the ideas here (screenshotted some content)
+	- Ben L says there was some discussion of finite elements stuff:
+		- unimolecular reaction with an activation barrier it depends on temperature
+		- how sharp will the transition be
+		- won't involve intermediate or H2 release
+		- back of the envelope for something just decomposing vs something creating some autocatalytic behavior; once you have the temperature profile it's just adding in the different mechanisms; is something that is unimolecular vs bimolecular have very different features at those boundaries
+		- is one of those super sensitive to film thickness and the other is not?
 
 ### 1/28 Meeting Notes (online)
 - Ben S discusses an overview of 

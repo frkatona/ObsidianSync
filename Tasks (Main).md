@@ -5,8 +5,9 @@ Home
 - [ ] Practice ETB 🔁 every day 
 - [ ] Apply job 🔁 every day 
 
-- Home
-- respond Justine, Emily, Zack
+Chelsea about laundry, dishes, ice, labels
+remind Yuki about gas cylinder, alternative systems to practice lasing, papers
+
 - Lab
 	- Yuki
 		- ask her to lase stuff to prepare for Alex's sample
@@ -27,6 +28,7 @@ Home
 			- acrylic (how would we machine it?)
 
 Home
+- respond Justine, Emily, Zack
 - Squirrel game
 	- rig models
 	- set up centralized asset project
@@ -38,7 +40,6 @@ Respond Ben in discord (x2)
 
 W-2s available from bank1, bank2, investment firm, Penn state, ?
 - American Century Investments - (get from [here](https://www.americancentury.com/signin/))
-- 
 
 - knee
 	- check if I need to pick up drugs early (ask Chelsea if she did last time)
