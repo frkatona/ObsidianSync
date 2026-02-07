@@ -1,3 +1,19 @@
+### 2026-02-07 solo Miku animation notes
+- got models re-topologized, re-normalized, re-textured
+- rigging and animation challenge for a portable system: differences in hair/clothes
+	- first idea: make base meta-rig and add bones which could work for any of the three models
+		- remember NOT TO ANIMATE those extra bones so that there are no discrepancies in the animation data
+		- [ ] test rig and animation built --> pull into Godot and try with spring bones
+		- [ ] pull test rig/animation for one model into Godot and make sure (1) it's not broken by additional bones and (2) basic spring bones can be used effectively
+		- [ ] try again on same model but with all the bones that will be used for other hair styles
+			- maybe I don't need to make one skeleton with each combination of hair bones...maybe instead just make a new skeleton for each and see if the new animations work
+		- [ ] try working bones on a different model and make sure that works
+			- make sure the meshes are equivalent (do fingers line up?  how far back did I move the elbows?)
+	- [ ] fix the bone weights (probably lots of problems with arms in the hair or the smile/eyebrow mesh)
+	- [ ] attach the hand items?  probably actually just export them to attach in Godot
+	- [ ] make cool little backpacks or cloth capes
+- after successful export, return to music export 
+
 ### 2026-01-26 Post-Jam and Kaya Websockets 
 - 250702_gaemon_20frame
 - still would prefer the miku ones, but ideally I can get those to translate animations between them (so build skeleton)

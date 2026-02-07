@@ -17,7 +17,6 @@ home
 mom shows
 - Pitt
 - E. Pluribus
-- Sinners
 - Heated Rivalry
 
 
@@ -30,6 +29,8 @@ mom shows
 - water softener
 - betide update
 - DIY PCM [yt](https://youtu.be/Nqxjfp4Gi0k)
+- better S/N [yt](https://youtu.be/iJ7lPt4xKUc)
+- (why?) do small sensors have wider depth of field?
 
 ---
 ### job app drafts
