@@ -29,6 +29,7 @@ remind Yuki about gas cylinder, alternative systems to practice lasing, papers
 
 Home
 - respond Justine, Emily, Zack
+- tape up pill container for moisture
 - Squirrel game
 	- rig models
 	- set up centralized asset project

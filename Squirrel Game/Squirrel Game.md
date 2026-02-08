@@ -3,16 +3,23 @@
 - rigging and animation challenge for a portable system: differences in hair/clothes
 	- first idea: make base meta-rig and add bones which could work for any of the three models
 		- remember NOT TO ANIMATE those extra bones so that there are no discrepancies in the animation data
-		- [ ] test rig and animation built --> pull into Godot and try with spring bones
-		- [ ] pull test rig/animation for one model into Godot and make sure (1) it's not broken by additional bones and (2) basic spring bones can be used effectively
+		- [x] build test rig and animation and pull into Godot and try with spring bones ✅ 2026-02-07
+		- [x] pull test rig/animation for one model into Godot and make sure (1) it's not broken by additional bones and (2) basic spring bones can be used effectively ✅ 2026-02-07
 		- [ ] try again on same model but with all the bones that will be used for other hair styles
-			- maybe I don't need to make one skeleton with each combination of hair bones...maybe instead just make a new skeleton for each and see if the new animations work
+			- maybe I don't need to make one skeleton with each combination of hair bones
+			- maybe instead just make a new skeleton for each and see if the new animations work
+			- maybe try the bone retargeting option (advanced import settings -> skeleton 3D -> retarget (bone map))
 		- [ ] try working bones on a different model and make sure that works
 			- make sure the meshes are equivalent (do fingers line up?  how far back did I move the elbows?)
+	- [ ] fix run animation (arms opposite legs)
 	- [ ] fix the bone weights (probably lots of problems with arms in the hair or the smile/eyebrow mesh)
 	- [ ] attach the hand items?  probably actually just export them to attach in Godot
 	- [ ] make cool little backpacks or cloth capes
-- after successful export, return to music export 
+	- note to self: on first Overhauled_Yellow run cycle export, I had accidentally left in the tip of the hair lacking sufficient bone influence weight, and so the tip of the hair kinda stuck to the shoe in the Godot spring bone test.  If the 'fixed' hair seems to whip around too much, it's possible that intentionally leaving some tip vertices with sub-maximum influence could help solve that  
+- IMPORTANT LESSON: only exporting deform bones seems to preserve the animations fine and removes the extraneous skeleton in the file (unclear on file size or processing difference)
+	- realization from CoderNunk ([vid](https://youtu.be/OQhoZvYpXTs)) mentioning that metarig copies the original skeleton with 'def' prefix under the hood
+	- he also mentions that "normalize position" and "retarget method" were the biggest for him
+- after successful export, return to fixing music in the updated LD game
 
 ### 2026-01-26 Post-Jam and Kaya Websockets 
 - 250702_gaemon_20frame

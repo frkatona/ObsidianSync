@@ -31,6 +31,10 @@ mom shows
 - DIY PCM [yt](https://youtu.be/Nqxjfp4Gi0k)
 - better S/N [yt](https://youtu.be/iJ7lPt4xKUc)
 - (why?) do small sensors have wider depth of field?
+- job salaries 2023 data [link](https://www.bls.gov/oes/2023/may/oes_nat.htm#00-0000)
+- average downpayment on house closer to 8%
+	- types of loans possible when paying lower than 20% down
+- erroneous 5 dollar late fee ARPM
 
 ---
 ### job app drafts
