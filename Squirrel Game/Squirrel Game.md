@@ -20,6 +20,18 @@
 	- realization from CoderNunk ([vid](https://youtu.be/OQhoZvYpXTs)) mentioning that metarig copies the original skeleton with 'def' prefix under the hood
 	- he also mentions that "normalize position" and "retarget method" were the biggest for him
 - Why is the hair bone chain shorter in Godot?  It seems fine but is still concerning
+
+- Troubleshooting Dodgeball video
+1) export model + animation (doesn't have to have all animations)
+2) create an "animations" folder in the Godot file system
+3) when importing to Godot, select file and do "actions" -> click "set animation save paths" --> select animation folder --> select desired animations  --> click "set paths" --> click "reimport"
+4) on following exports, you may (should?) ignore the model (though just removes texture, not mesh)
+5) **Extracting new animations –** import glb (repeat steps from #2), feeling free to delete the glb this came from
+6) in the first mesh with the first animation, remove the original Animation Player (must make "editable children" as well as "local" in right-click menu)
+7) replace with a new animation player as a child of the glb root (not "Node 3D")
+8) click the "Animation" button in the "Animation" panel
+
+
 - after successful export, return to fixing music in the updated LD game
 
 ### 2026-01-26 Post-Jam and Kaya Websockets 
