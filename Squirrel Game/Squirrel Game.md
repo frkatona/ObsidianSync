@@ -19,6 +19,7 @@
 - IMPORTANT LESSON: only exporting deform bones seems to preserve the animations fine and removes the extraneous skeleton in the file (unclear on file size or processing difference)
 	- realization from CoderNunk ([vid](https://youtu.be/OQhoZvYpXTs)) mentioning that metarig copies the original skeleton with 'def' prefix under the hood
 	- he also mentions that "normalize position" and "retarget method" were the biggest for him
+- Why is the hair bone chain shorter in Godot?  It seems fine but is still concerning
 - after successful export, return to fixing music in the updated LD game
 
 ### 2026-01-26 Post-Jam and Kaya Websockets 
