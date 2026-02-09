@@ -21,7 +21,7 @@
 	- he also mentions that "normalize position" and "retarget method" were the biggest for him
 - Why is the hair bone chain shorter in Godot?  It seems fine but is still concerning
 
-- Troubleshooting Dodgeball video
+- Troubleshooting Dodgeball video ([link](https://youtu.be/cUZZ2XrpX4U))
 1) export model + animation (doesn't have to have all animations)
 2) create an "animations" folder in the Godot file system
 3) when importing to Godot, select file and do "actions" -> click "set animation save paths" --> select animation folder --> select desired animations  --> click "set paths" --> click "reimport"
@@ -30,7 +30,15 @@
 6) in the first mesh with the first animation, remove the original Animation Player (must make "editable children" as well as "local" in right-click menu)
 7) replace with a new animation player as a child of the glb root (not "Node 3D")
 8) click the "Animation" button in the "Animation" panel
+	1) (I got warnings about the animations which didn't work until after I re-made the animation library.  Now it's working fine.)
 
+- Troubleshooting Brackeys video ([timestamp](https://youtu.be/ke5KpqcoiIU?t=2173)
+	- pretty hand-wavey for the export details
+	1) import one glb which just contains the model, texture, and rig (no animations) and drag it into the scene
+	2) import meshless animations (import as an animation library)
+		1) this step could also be (1) importing a new animated model and extracting the animations to a dedicated folder in the import screen or (2) retargeting (probably)
+	3) add new animation player for the model
+	4) animation -> load library -> 
 
 - after successful export, return to fixing music in the updated LD game
 
