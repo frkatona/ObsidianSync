@@ -1,4 +1,78 @@
 
+### Jackie Presentation notes
+- context
+	- should be 30 min
+	- will be some chemists, mostly engineers
+	- today "hey I have a plan for the presentation", potentially ~2/20ish
+- general
+	- obviously nervous/tired/uncharismatic
+	- I'd move the left edge of the title text a bit to the right
+- slides
+1) {title} photothermal patterning of PDMS
+	1) maybe a more targeted name?
+2) {naval vessels lose efficiency over time}
+	1) "efficiency" maybe more precise phrasing (and what is "operational efficiency"?)
+	2) maybe arrows from the center image
+	3) "to prevent them from occurring" better phrase
+3) {currently foulding release coatings rely on silicone}
+	1) what's up with formatting of "currently"
+	2) will engineers take "surface energy" at face value?
+4) {patterned surfaces improve coating}
+	1) include a few words of text in case they miss a few words ("hydrophobicity control")
+5)  {patterned surfaces are difficult to scale}
+	1) misalignment in citations
+6) {photothermal heating decreases curing times and introduces surface deformation}
+	1) swap "leads to" phrasing
+	2) can introduce CB more attractively with its extraordinarily low cost and prevalance (fun fact about everything is black)
+7) {Marangoni flow leads to surface patterning}
+	1) slide looks cool but I'm not sure of the point (proposing Marangoni flow as the source?)
+8) {Scalable photothermal patterning}
+	1) wayyyy too fast and I didn't know when to look at one
+9) {patterning on steel substrates}
+	1) slide title / point
+	2) what do I care about sharks (missing out on all the fun charismatic conversational remarks)
+10) {characterizing photothermal patterning in three stages: surface changes, fouling release, durability}
+11) {surface imaging}
+	1) what does small and large mean? maybe say those words, but include a numbers
+12) {shark skin}
+	1) crazy fast, not sure what happened
+13) {hydrophobicity increases with the addition of patterns}
+	1) "with the addition of patterns" --> what does that mean?  are you just saying you can control hydrophobicity with patterning?  how do you control that?
+14) {roadmap: moving on to fouling release section}
+15) {fouling test set up in collab with NUWC}
+	1) said a name but I don't think you said "at NUWC" or her role
+	2) put "12-week study" on its own line so the eye knows its the important part
+16) {decreased fouling in initial weeks on patterned surfaces}
+	1) I'm wondering what we're looking for exactly.  like just 
+17) {more fouling}
+	1) very fast, not sure what happened
+18) {power washer easily washing fouling on small pattern}
+	1) change title to just like "fouled coating easily detaches" or "washes away"
+19) {high pressure powerwasher}
+	1) clarify phrasing to "most of the remaining fouling was removed from a higher pressure"
+	2) but what is high and low pressure here?  is lower like ordinary consumer grade and the other is military grade?  or super expensive?
+20) {summary of foul images}
+21) {barnacle is removed with foot}
+	1) clarify phrasing...sounds like all these last slides are basically "how much effort does it take to remove the various regimes of hard-to-clean fouling sources"
+22) {image processing}
+	1) clarify phrasing: maybe "image processing through WEKA can help quantify fouling"
+	2) also establish more clearly and early that quantification in this space is an unsolved problem and you'll be making novel strides in technique
+	3) also emphasize ML because people love to hear that (but don't get too heavy in terminology or you'll get questions)
+23) asdf
+24) asdf
+25) asdf
+26) asdf
+27) {patterns are intact post power washing}
+	1) lost the thread a bit
+28) {current work: pattern fidelity vs barnacle growth}
+	1) clarify phrasing to "vs" barnacle growth or something like that
+	2) also what is "fidelity" here?
+29) {future: resubmerging plates for reproducibility}
+	1) it sounds awesome, but I'd also have questions about how long you'd need to have them underwater to be useful to a ship?  why take them out when you did and not 10x longer 
+
+"de-adhesion"? I don't know the best word
+get name of startup from Jackie
+
 lab
 - macro photography reddit suggestions - [reddit](https://www.reddit.com/r/photography/comments/jx1v8x/simplest_way_to_get_into_macro_photography/)
 - birefringence [wiki](https://en.wikipedia.org/wiki/Birefringence)

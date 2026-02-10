@@ -1,3 +1,21 @@
+### 2026-02-09 Monday Show and Tell Notes
+- Kaya fixed my animation library problem in 4 seconds, now I have a fully functioning animation library system for multiple (similar) models pulling from a shared library (blender and godot files in a github repo [here](https://github.com/frkatona/Portable-Godot-Miku-Rig))
+- Josh added some quality of life to box game after his friend came over to demo it, including timer difficulty
+- Kaya spent like 60 hours this week building a roll-a-ball 
+
+Next steps for me:
+- fix music-stopping bug in Box Game
+- animations for roll-a-ball game
+	- curl up and crouch - basically just idle crouched
+	- "walking the ball" - hamster walking
+- music + sfx for roll-a-ball
+- Later
+	- try to get teddybear (balloon) to share animations as well (probably not essential)
+	- try to export animations without the actual armature (import window should not show a skeleton ideally, though it's not high priority)
+
+
+
+
 ### 2026-02-07 solo Miku animation notes
 - got models re-topologized, re-normalized, re-textured
 - rigging and animation challenge for a portable system: differences in hair/clothes
@@ -40,15 +58,9 @@
 	3) add new animation player for the model
 	4) animation -> load library -> 
 
-- after successful export, return to fixing music in the updated LD game
 
 applying animation library to non-original mesh error: 
 - "AnimationMixer (at: Miku_Yellow_AnimationLibrary.tscn): 'miku_animations/run_003', couldn't resolve track:  'Skeleton3D:DEF-f_pinky.01.R'. This warning can be disabled in Project Settings."
-
-- animations for roll-a-ball game
-	- curl up and crouch - basically just idle crouched
-	- "walking the ball" - hamster walking
-- music + sfx
 ### 2026-01-26 Post-Jam and Kaya Websockets 
 - 250702_gaemon_20frame
 - still would prefer the miku ones, but ideally I can get those to translate animations between them (so build skeleton)
