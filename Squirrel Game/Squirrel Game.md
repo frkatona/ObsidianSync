@@ -32,7 +32,7 @@
 8) click the "Animation" button in the "Animation" panel
 	1) (I got warnings about the animations which didn't work until after I re-made the animation library.  Now it's working fine.)
 
-- Troubleshooting Brackeys video ([timestamp](https://youtu.be/ke5KpqcoiIU?t=2173)
+- Troubleshooting Brackeys video ([timestamp](https://youtu.be/ke5KpqcoiIU?t=2173))
 	- pretty hand-wavey for the export details
 	1) import one glb which just contains the model, texture, and rig (no animations) and drag it into the scene
 	2) import meshless animations (import as an animation library)
@@ -42,6 +42,13 @@
 
 - after successful export, return to fixing music in the updated LD game
 
+applying animation library to non-original mesh error: 
+- "AnimationMixer (at: Miku_Yellow_AnimationLibrary.tscn): 'miku_animations/run_003', couldn't resolve track:  'Skeleton3D:DEF-f_pinky.01.R'. This warning can be disabled in Project Settings."
+
+- animations for roll-a-ball game
+	- curl up and crouch - basically just idle crouched
+	- "walking the ball" - hamster walking
+- music + sfx
 ### 2026-01-26 Post-Jam and Kaya Websockets 
 - 250702_gaemon_20frame
 - still would prefer the miku ones, but ideally I can get those to translate animations between them (so build skeleton)

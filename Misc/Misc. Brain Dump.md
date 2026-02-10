@@ -4,6 +4,8 @@ lab
 - birefringence [wiki](https://en.wikipedia.org/wiki/Birefringence)
 - photoelasticity [wiki](https://en.wikipedia.org/wiki/Photoelasticity)
 - stress plastics [youtube](https://www.youtube.com/watch?v=zgd4RkmVLDk)
+- cleanability ([wiki](https://en.wikipedia.org/wiki/Cleanability)) - ability to have contaminants removed (dust, germs, stains, etc.)
+	- standard is a surface roughness of <0.8 um
 
 home
 - ignition timing [wiki](https://en.wikipedia.org/wiki/Ignition_timing)
@@ -35,6 +37,8 @@ mom shows
 - average downpayment on house closer to 8%
 	- types of loans possible when paying lower than 20% down
 - erroneous 5 dollar late fee ARPM
+- https://en.wikipedia.org/wiki/Approximate_string_matching
+- Godot quickopen resource hotkey `alt + shift + 'O'`
 
 ---
 ### job app drafts
