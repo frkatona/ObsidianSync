@@ -4,7 +4,15 @@
 - Kaya spent like 60 hours this week building a roll-a-ball 
 
 Next steps for me:
-- fix music-stopping bug in Box Game
+- Box game
+	- fix music-stopping bug in Box Game
+		- it stops looping in the browser...and now it does seem like always stops when the song ends, but it restarts when going to the next level
+		- my pause menu hack is still in place (and working I think)
+		- where is it playing from?  What is the audio player in the 'opening.tscn' scene?
+		- what is this "music_controller.gd" script?  what calls it?
+		- why am I missing some of the wall assets?
+		- what is audio re-loading ;stuff in the 'loading zone' script? 
+	- add low pass while pause menu is up
 - animations for roll-a-ball game
 	- curl up and crouch - basically just idle crouched
 	- "walking the ball" - hamster walking
@@ -12,10 +20,7 @@ Next steps for me:
 - Later
 	- try to get teddybear (balloon) to share animations as well (probably not essential)
 	- try to export animations without the actual armature (import window should not show a skeleton ideally, though it's not high priority)
-
-
-
-
+---
 ### 2026-02-07 solo Miku animation notes
 - got models re-topologized, re-normalized, re-textured
 - rigging and animation challenge for a portable system: differences in hair/clothes
@@ -61,9 +66,11 @@ Next steps for me:
 
 applying animation library to non-original mesh error: 
 - "AnimationMixer (at: Miku_Yellow_AnimationLibrary.tscn): 'miku_animations/run_003', couldn't resolve track:  'Skeleton3D:DEF-f_pinky.01.R'. This warning can be disabled in Project Settings."
+---
 ### 2026-01-26 Post-Jam and Kaya Websockets 
 - 250702_gaemon_20frame
 - still would prefer the miku ones, but ideally I can get those to translate animations between them (so build skeleton)
+---
 ### 2026-01-22 Josh Winter Jam Meeting Notes
 - pre-meeting thoughts:
 	- anticipate role assignments and gaps/pain-points in our skillsets
