@@ -20,6 +20,22 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2/11 Meeting Notes (online)
+- before
+	- read through profilometer workup techniques
+- Rob 
+	- self sustaining threshold/runaway mechanism ()'reticles') discussion
+- unclear why we don't just solve this by looking at the cross section of a thick sample
+	- Ben seems to bring up a point like this and asks for like a 1cm thick sample
+		- Ben S agrees, but commitment is unclear
+- JP
+	- another parameter grid "go from enough to too much" on sample that is thick enough (they say 10 um)
+- All talking about thermal vs 'starts thermal --> exotherm runaway' modeling
+	- discussing where runaway happens; Adri: formation of carbide is not terribly exothermic
+	- Ben Lear wonders if we could arrest the process partway through; Adri says it would be very tough to stop it at the relevant boron stage
+		- Ben: "if you had something that would passivate this 10-boron cluster"; Adri: idk what you'd passivate it with
+	- Rob: lase PCOD with Ti(carbide?) and see if that converts
+
 ### 2/4 Meeting Notes (online)
 - Ben S presentation
 	- confirmed 5-6 microns deep

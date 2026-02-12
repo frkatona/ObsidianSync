@@ -1,5 +1,31 @@
 get name of startup from Jackie
 
+
+- blue moon
+	- doesn't seem normalized.  balance seems almost taken off-guard when the arrangement fills and empties.  it might not have been mastered
+	- the guitar seems blown out a few times in the solo 2:00
+- mighty times
+	- weird crackling distortion early, like 20s
+	- full mix comes in nicely.  generally nice balance, well behaved across the arrangement dynamics
+	- maybe the piano high notes could do with some compression
+- stutter baby
+	- man the sub (on the kick or the bass?) really pops through here compared to the other tracks.  Mids/highs on the bass feel hidden in the mix when other instruments are around
+### Kristen notes
+- vision talk (private teaching talk after public lecture)
+- a lot of ideas arounding modernizing (e.g., ebook, canvas page)
+- some ideas around TAs: did math for how long a TA should spend on the course and how that is being used
+	- what they report is just the time that they use directly, no prep work
+	- TAs actually only go for 1 h a week, so Kristen's restructured math gives them time for a better exam
+	- using online tool gradescope (?) so it should be streamlined
+	- after should have 23 hours left over and I want to show exactly how all time will be used (TA training, lectures, grading... leftover)
+- currently have them practice the first 4 recitations
+	- but Kristen wants to reallocate that time to hammer home professional development
+- Template website
+	- grad students put in stuff about research: logging their skills, projects, achievements
+	- they have to learn a little html to make their own website
+	- end of the semester they can see what they put there
+	- Q: would an industry-motivated person want it
+
 lab
 - macro photography reddit suggestions - [reddit](https://www.reddit.com/r/photography/comments/jx1v8x/simplest_way_to_get_into_macro_photography/)
 - birefringence [wiki](https://en.wikipedia.org/wiki/Birefringence)
@@ -22,9 +48,8 @@ home
 - E. Pluribus
 - Heated Rivalry
 
-
 - markdown files for research
-- run audio through fl to compress, native comrpessor
+- run audio through fl to compress, native compressor
 - rusty lake, The_Roottrees_are_Dead, blazing sails game, deep space cache
 - Lint_(software)
 
@@ -40,6 +65,7 @@ home
 - erroneous 5 dollar late fee ARPM
 - https://en.wikipedia.org/wiki/Approximate_string_matching
 - Godot quickopen resource hotkey `alt + shift + 'O'`
+- parkinsons law
 
 ---
 ### job app drafts
