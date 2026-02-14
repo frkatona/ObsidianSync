@@ -1,5 +1,25 @@
-get name of startup from Jackie
+home
+- apply indeed; get name of startup from Jackie
+- FL Thurs track
+- firebase ([fireship](https://youtu.be/vAoB4VbhRzM), [firebase + actions](https://youtu.be/P0x0LmiknJc), )
+- Kaya (music, miku anims, bear rig {retarget?})
+- Ryan - reference track + AI ([BJordan vid](https://youtu.be/wZRV2H4PK0Q))
 
+work
+- Kristen chapter
+- Ben zygo info (where did he get the info?)
+- Yuki read/send [Stache paper](https://chemrxiv.org/doi/10.26434/chemrxiv-2025-cl4ld); ask about sample + gas tank 
+
+backup:
+- FL bug for IL
+- camera ("apsc sensor camera", )
+- respond (emily, justine)
+- 300 GB in seedbox?
+- Gachiakuta anime
+- migrating github
+- how to test if a patch cable is instrument or speaker
+- make editor thumbnail fl studio
+- fireship hacker tools [video](https://youtu.be/Ukt2gVz25PQ)
 
 - blue moon
 	- doesn't seem normalized.  balance seems almost taken off-guard when the arrangement fills and empties.  it might not have been mastered

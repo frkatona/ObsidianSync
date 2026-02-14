@@ -5,14 +5,14 @@
 
 Next steps for me:
 - Box game
-	- fix music-stopping bug in Box Game
+	- [x] fix music-stopping bug in Box Game
 		- it stops looping in the browser...and now it does seem like always stops when the song ends, but it restarts when going to the next level
 		- my pause menu hack is still in place (and working I think)
 		- where is it playing from?  What is the audio player in the 'opening.tscn' scene?
 		- what is this "music_controller.gd" script?  what calls it?
 		- why am I missing some of the wall assets?
 		- what is audio re-loading ;stuff in the 'loading zone' script? 
-	- add low pass while pause menu is up
+	- [ ] add low pass while pause menu is up
 - animations for roll-a-ball game
 	- curl up and crouch - basically just idle crouched
 	- "walking the ball" - hamster walking
@@ -20,6 +20,7 @@ Next steps for me:
 - Later
 	- try to get teddybear (balloon) to share animations as well (probably not essential)
 	- try to export animations without the actual armature (import window should not show a skeleton ideally, though it's not high priority)
+	- polish miku meshes/rigs (e.g., inappropriate mouth/eyebrow deformation, torso disconnected from hips)
 ---
 ### 2026-02-07 solo Miku animation notes
 - got models re-topologized, re-normalized, re-textured
@@ -28,13 +29,13 @@ Next steps for me:
 		- remember NOT TO ANIMATE those extra bones so that there are no discrepancies in the animation data
 		- [x] build test rig and animation and pull into Godot and try with spring bones ✅ 2026-02-07
 		- [x] pull test rig/animation for one model into Godot and make sure (1) it's not broken by additional bones and (2) basic spring bones can be used effectively ✅ 2026-02-07
-		- [ ] try again on same model but with all the bones that will be used for other hair styles
+		- [x] try again on same model but with all the bones that will be used for other hair styles ✅ 2026-02-14
 			- maybe I don't need to make one skeleton with each combination of hair bones
 			- maybe instead just make a new skeleton for each and see if the new animations work
 			- maybe try the bone retargeting option (advanced import settings -> skeleton 3D -> retarget (bone map))
-		- [ ] try working bones on a different model and make sure that works
+		- [x] try working bones on a different model and make sure that works ✅ 2026-02-14
 			- make sure the meshes are equivalent (do fingers line up?  how far back did I move the elbows?)
-	- [ ] fix run animation (arms opposite legs)
+	- [x] fix run animation (arms opposite legs) ✅ 2026-02-14
 	- [ ] fix the bone weights (probably lots of problems with arms in the hair or the smile/eyebrow mesh)
 	- [ ] attach the hand items?  probably actually just export them to attach in Godot
 	- [ ] make cool little backpacks or cloth capes
