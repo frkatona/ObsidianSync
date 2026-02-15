@@ -5,7 +5,8 @@ Home
 - [ ] Practice ETB 🔁 every day 
 - [ ] Apply job 🔁 every day 
 
-Chelsea about laundry, dishes, ice, labels
+bungie watch, response to Josh
+re-sign lease
 remind Yuki about gas cylinder, alternative systems to practice lasing, papers
 
 - Lab

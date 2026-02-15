@@ -1,3 +1,19 @@
+### 2026-02-14 Thoughts
+- animations
+	- think with Kaya if fast vs slow animations are preferable if she plans on making the crawl speed proportionate to the ball move speed
+	- Bear:
+		- remake rig (maybe aim for a universal enemies rig?  but a one-off for such a clunky shape is fine)
+		- floating balloon
+		- received damaged
+		- reeling
+		- death
+			- (will Kaya opt for non-death?  ragdoll death?  pop out of existence?)
+		- falling
+- to-do
+	- test that universal rig animation library export works (exporting from a copy of the rig, hopefully it takes the 'universal-rig' name rather than the under-the-hood name of like rig.007)
+	- then try the animations without skinning
+	- try FMOD for more reliable web audio
+
 ### 2026-02-09 Monday Show and Tell Notes
 - Kaya fixed my animation library problem in 4 seconds, now I have a fully functioning animation library system for multiple (similar) models pulling from a shared library (blender and godot files in a github repo [here](https://github.com/frkatona/Portable-Godot-Miku-Rig))
 - Josh added some quality of life to box game after his friend came over to demo it, including timer difficulty
