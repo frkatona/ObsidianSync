@@ -75,6 +75,8 @@ to-do
 - test web build + deploy
 	- gh action
 
+- Josh glow on object --> give it to me to mess around with for merge
+
 ### 2026-02-14 meeting notes
  - Jam starts tomorrow morning (6am) and lasts 1 week
  - Tonight's meeting with Josh to briefly consider planning (timeline, meetings, template, etc.)
