@@ -5,9 +5,24 @@ Home
 - [ ] Practice ETB 🔁 every day 
 - [ ] Apply job 🔁 every day 
 
-bungie watch, response to Josh
+
+
 re-sign lease
 remind Yuki about gas cylinder, alternative systems to practice lasing, papers
+
+Subgroup Meeting notes (2026-02-16)
+- I'm good to return with a cane or something in 2 more week
+- Ben S sample --> Yuki
+	- did he say he had something?
+	- do we have the 
+- Heat transfer project
+	- asdf
+- Profilometer project
+	- where did you find the manual?
+	- what does that other number mean?
+	- If those really are just microns, then the sample is pretty huge
+	- tried a few interpolation methods.  
+		- somewhat meaningful differences, but I don't think Kriger is actually useful here
 
 - Lab
 	- Yuki
@@ -15,8 +30,6 @@ remind Yuki about gas cylinder, alternative systems to practice lasing, papers
 		- talk about coal project progress
 		- order new gas tank
 		- teach how to use gas tank
-	- Kristen - read chapter
-	- Duncan
 	- Alex 
 		- reaching out to pros/staff ([intake link](https://pmd.mri.psu.edu/mriintake/))
 			- TJ ([link](https://www.mri.psu.edu/mri/personnel-directory/tjz127))- IR (better ideas on testing given our conditions OR how to crush the pellet and what we could be doing wrong)
@@ -25,6 +38,7 @@ remind Yuki about gas cylinder, alternative systems to practice lasing, papers
 		- buying stuff
 			- hydraulic press (cost?)
 			- analytical grade KBr (cost?)
+			- microscope ($170 Tomlov dm201 at [this timestamp](https://youtu.be/4fkLigX4ilA?t=1626))
 		- think on better system for adhesive+lasing
 			- acrylic (how would we machine it?)
 

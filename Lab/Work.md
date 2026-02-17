@@ -16,6 +16,17 @@
 	- something testable and falsifiable
 - how you'll test hypothesis
 ---
+### Yuki meeting notes
+- reach out to Ben Stovall
+- maybe low power is ok
+- try in oven
+- why not seeing other peaks rise (what it decomposes into)
+	- learn mechanism
+- break down into simpler steps
+	- show PPC vs anthracite (vs PPC + anthracite ?) to highlight what is anthracite
+	- show PPC alone with the proposed decomposition reaction and show which functional groups (/bands) you expect to go up or down)
+	- 
+
 ### 2/2 Jackie Research Update Notes
 1) asdf
 2) asdf

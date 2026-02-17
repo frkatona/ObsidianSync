@@ -1,3 +1,63 @@
+### Kristen Vision Talk
+- General
+	- plan: accessibility, AI, "7 topics' etc.
+	- I'd like to hear the real version of these slides said out loud, especially the transitions and the word-heavy ones
+	- old papers 
+	- icons aren't just replacements for text to minimize reading, they're a way to visually orient yourself and anchor to something more meaningful than a color scheme.  I see a slide like slide 12 and I immediately think "this slide might as well be honest to god blank, it would have exactly the same impact."  If you simply disagree, that's fine.  If you respond with some contrived bullshit about how this audience would actually prefer more text, then I will hunt you down
+	- I wanna help you think through using copilot...let's brainstorm
+		- it seems like I had to specially request an upgrade from basic...I wonder how much it helps
+- Slides
+	1) misspelled 'vision'
+	2) asdf
+	3) {road map}
+	4) {what is a coordinator (I understand this job and its responsibilities)}
+		1) so many words (icons?)
+		2) how are you going to present this?  Just read all the words?  How long is it gonna take?
+	5) {"a classroom is a learning community"}
+	6) {"Understanding requires persistence through confusion"}
+		1) "to learn is to struggle" kinda
+	7) {"Students explore when they feel safe and capable"}
+		1) {some buzzwords} should you be specific? {response: no}
+	8) {The organization of Chem 110 must focus on what students need to succeed in future endeavors}
+		1) {come back and fix 'what majors'}
+		2) maybe case matse as "MatSE" (is engineering not included in MatSE?)
+		3) are 2002 papers old for these people?
+	9) {Course goals provide the framework for learning objectives}
+		1) alignment of top sections
+		2) holy god so many words
+	10) {We design courses backwards from outcomes}
+	11) {Expert logic is not equivalent to how a novice learns}
+		1) holy god again but not even a color scheme to help us this time
+	12) {asdfasdf skipped a slide somewhere}
+	13) {A well-designed course is necessary, but not sufficient}
+		1) misspellings (e.g., "characteristics")
+	14) {"Early detection of struggle enables intervention"}
+		1) is our current system not active?  how much more time would you spend?
+		2) crop out the "B" in the figure...maybe also remove the background or add a border
+	15) {"Recitation only improves learning when intentionally designed"}
+	16) {"Recitation only improves learning when intentionally designed" 2nd slide}
+		1) how many classes did that professor he have?  what was the error?  were differences even statistically significant? 
+		2) "it couldn't hurt to try" --> I would anticipate someone being up in arms about this notion
+	17) {Content is not the barrier, rather assessment design is}
+		1) title weird
+		2) color gradient animation bug
+		3) wtf is "polytomous"....is dichotomous "binary"?
+	18) {Once assessment changes, grading must change with it}
+		1) exactly how much time does this add to the TAs and where is that coming from in their budgeted time?
+	19) {Once assessment changes, grading must change with it}
+	20) asdf
+	21) {Revised grading fits within existing TA allocations}
+		1) I wish this was all in hours
+	22) {Teaching assistants are developing professions}
+		1) asdf
+	23) {asdf}
+	24) {Embedding professional development into existing TA duties}
+		1) woorddsssss (categorize and iconize)
+	25) {"A consistent framework enables flexible teaching"}
+	26) asdf
+	27) asdf
+	28) I wish the font size was consistent
+
 home
 - apply indeed; get name of startup from Jackie
 - FL Thurs track

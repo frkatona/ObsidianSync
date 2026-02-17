@@ -26,7 +26,47 @@
 	- first 'look-at-me' is the bonfire
 		- light or smoke from fire serves as a clear visual marker to orient the player as the move through an otherwise dense, disorienting terrain
 	- enemies?  fight or run/hide?
-	- 
+
+to-do
+- Game
+	- mechanic/interest
+	- story
+		- **YOU** - wake up in unfamiliar forest, don't know how you got there
+		- **NEED** - lost something important (sister, teddy bear, )
+		- **GO** - 
+		- **SEARCH** - 
+		- **FIND** - 
+		- **TAKE** - 
+		- **RETURN** - 
+		- **CHANGE** - 
+	- questions to answer
+		- how did you get here?  why are you here?
+			- plane crash; it's a dream
+		- why are YOU able to swap dimensions?
+			- it's related to the thing you're looking for
+				- it's like a Millenium Items situation and you still have the "eye" (seeing the unseen world) or whatever piece lets you swap dimensions, but not the ones that give you power (to kill? force push? enemies), 'knowledge' (memories)
+			- it's just something that happens on this island (see: why are you here?)
+		- what is preventing you from leaving?  both in the grand scheme and moment to moment?
+- player character
+	- sculpt/make something really nice to swap out the third-person asset
+- bush NPC
+	- [ ] animation tree + conditions for waking, sleeping, etc.
+	- [ ] detect player + activate chase + escape/caught condition
+	- pathing
+		- [ ] patrol across pre-defined nodes
+		- [ ] wander across nav mesh
+		- [x] hardcode some kind of circle or figure-8, etc.
+- music
+	- [ ] BGM more magical/ethereal
+	- [ ] chase music (or add thumping 2x speed beat to bgm)
+- sfx
+	- global atmosphere:
+		- wind
+	- local:
+		- fire, owls, game object
+	- player (steps, jump, )
+- test web build + deploy
+	- gh action
 
 ### 2026-02-14 meeting notes
  - Jam starts tomorrow morning (6am) and lasts 1 week

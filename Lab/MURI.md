@@ -20,6 +20,18 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2/18 Meeting Notes (online)
+- before
+	- polish understanding optical profilometry, particularly vs stylus 
+	- tell them I can come back in 2 weeks, but Yuki is fine to do it now
+	- ask Ben S to take another profilometer set with Jackie, this time:
+		- at least one raw sample
+		- one close up (current horizontal resolution seems like 5 um)
+		- one smushed down to see the full range
+		- fyi seems like there's like a >8 um swing 
+	- show heat simulation
+	- show profilometry analysis
+
 ### 2/11 Meeting Notes (online)
 - before
 	- read through profilometer workup techniques
