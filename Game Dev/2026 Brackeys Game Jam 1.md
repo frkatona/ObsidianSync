@@ -29,7 +29,14 @@
 
 to-do
 - Game
-	- mechanic/interest
+	- source of fun/actual game-loop mechanics
+		- puzzle/platforming
+			- find things to interact with which open doors, raise platforms, drop bridges
+		- stealthing?
+	- novel interest
+		- line-of-sight interactions
+			+ detective vision, predator vision?
+		- mirror world traversal 
 	- story
 		- **YOU** - wake up in unfamiliar forest, don't know how you got there
 		- **NEED** - lost something important (sister, teddy bear, )
@@ -41,9 +48,9 @@ to-do
 		- **CHANGE** - 
 	- questions to answer
 		- how did you get here?  why are you here?
-			- plane crash; it's a dream
+			- plane crash; it's a dream; 
 		- why are YOU able to swap dimensions?
-			- it's related to the thing you're looking for
+			- it's related to the thing you're looking for and to the reason why you have LOS interaction powers
 				- it's like a Millenium Items situation and you still have the "eye" (seeing the unseen world) or whatever piece lets you swap dimensions, but not the ones that give you power (to kill? force push? enemies), 'knowledge' (memories)
 			- it's just something that happens on this island (see: why are you here?)
 		- what is preventing you from leaving?  both in the grand scheme and moment to moment?

@@ -1,3 +1,16 @@
+### 2026-02-16 Show and Tell Notes
+- Kaya roll-a-ball thoughts
+	- Bear 
+		- 'death' maybe just pop, play around with it (maybe head gets big fast, maybe fly apart if poss)
+		- attacking: maybe eyes glow red, swing (?)
+		- thinking on threat to player
+			- maybe the bears pop your bubble 
+	- Miku animations
+		- make crawl more like a falling forwarding (person in big plastic ball-style)
+		- tucked position should be more curled up
+	- try FMOD for more reliable web audio
+		- 'concept of different sliders like danger level (#monsters) or height in the sky' dynamic response gameplay
+
 ### 2026-02-14 Thoughts
 - animations
 	- think with Kaya if fast vs slow animations are preferable if she plans on making the crawl speed proportionate to the ball move speed
@@ -12,7 +25,7 @@
 - to-do
 	- test that universal rig animation library export works (exporting from a copy of the rig, hopefully it takes the 'universal-rig' name rather than the under-the-hood name of like rig.007)
 	- then try the animations without skinning
-	- try FMOD for more reliable web audio
+
 
 ### 2026-02-09 Monday Show and Tell Notes
 - Kaya fixed my animation library problem in 4 seconds, now I have a fully functioning animation library system for multiple (similar) models pulling from a shared library (blender and godot files in a github repo [here](https://github.com/frkatona/Portable-Godot-Miku-Rig))
