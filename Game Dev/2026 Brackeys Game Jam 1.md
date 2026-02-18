@@ -1,4 +1,8 @@
 
+### 2026-02-17 Notes
+- Josh has a solid negative world window, but he'd like me to take a stab at the particle effects 
+	- limitation to remember: only one is usable in the world at once
+
 ### 2026-02-15 Notes - Jam Day 1
 - Theme: **"Strange Places"**
 	- gameplay
@@ -70,8 +74,16 @@ to-do
 	- global atmosphere:
 		- wind
 	- local:
-		- fire, owls, game object
-	- player (steps, jump, )
+		- ambient environment
+			- fire, owls
+		- portal (stasis, open, opening, closing, walking, walk through)
+	- player 
+		- [ ] step1/step2
+		- [ ] jump/land
+		- [ ] enter/leave/is look-mode
+		- [ ] 
+	- objects 
+		- 
 - test web build + deploy
 	- gh action
 
