@@ -1,4 +1,53 @@
 
+### 2026-02-22 notes
+- bug fixes
+	- audio balancing (lower all, add fader, minimize foreshadow audio)
+- debrief, and reflection
+	- thorough (not just bug test) play test by day 2 and following each major revision
+	- more basic placeholders for visuals (blender defaults --> real textures day before was a fine workflow)
+	- separate ALL meshes
+		- buildings = trivial collisions in Godot or with `-col`
+		- characters = easier weight painting
+			- though [this short](https://www.youtube.com/shorts/Zf8uuh0PNO4) and [this video](https://youtu.be/4VI5jk7pZag) will be better looking forward
+		- figure out what was up with editing actions after export (tabbing in wouldn't let me save keyframes...though I could seemingly move existing keyframes)
+	- modularize into scenes
+		- exporting new buildings into the world would often drastically move them and locating the children was a nightmare
+	- basic template asks 
+		- pause menu -> volume control
+		- physics glitch saves (up arrow to teleport up a bit)
+		- progress-the-game and win-the-game buttons
+		- anticipated file structure
+			- imported assets vs scenes derived from those assets vs scenes derived from scenes?
+			- separating assets so glb is with textures or textures in a separate folder?
+	- research UID version control problems more 
+
+### 2026-02-21 notes
+- to-do
+	- level design
+		-  'strange item' + portal + platform/puzzle
+		- come up with mirror-world element to the puzzles
+	- sounds
+		- lift, button, tv static
+	- UI
+		- click 'e' to call lift (or end game)
+		- game start instructions: purpose, controls (move, jump/glide, look {q} unstuck{up}, menu{esc}, etc.)
+			- "have you ever noticed something strange in a dream"
+			- "and felt it shake your perception as you teeter between worlds?"
+			- "to pass on from this place, find the knowledge hidden in the sacred books in both the White Lodge and the Great Cathedral to pass on"
+			- "focus your attention on the `out of place` to undo the local fabric and slip past obstacles (`q` to enter `focus mode`)"
+			- "trigger platforms by locating their buttons to move where you need to go (`e` to `interact`)"
+	- lodge
+		- replace the trophy with a fire when the portal opens
+	- ideas 
+		- tv in starting lodge flipping between pseudo tutorial and some puzzle clue (e.g., drought + rain evidence in next puzzle...or in the hut)
+			- door to leave hut is locked (prompt says "seems no way to open this door" or something); portal in the hut lets you phase through the locked door (walls/floor are still colliding) and then you pop back into reality once on the other side 
+	- josh tasks
+		- testing/pushing/optimizing web build
+### 2026-02-19 Notes
+- check out 4.6.1 stable build release notes and discuss with Josh if we want to try switching
+- meeting with Josh tonight at 8 before FL Thurs
+- added new character coupled with the downloaded controller
+
 ### 2026-02-17 Notes
 - Josh has a solid negative world window, but he'd like me to take a stab at the particle effects 
 	- limitation to remember: only one is usable in the world at once
@@ -34,8 +83,20 @@
 to-do
 - Game
 	- source of fun/actual game-loop mechanics
+		- exploring/discovering
+			- mysterious music plays in certain areas leading to something 'out of place'
+				- trophy in the fireplace (pick something that would be more ironic or mysterious in fireplace)
+				- bush (growing on a tree?  weird color?)
+				- news report on tv says "no rain" but there's (an umbrella, muddy rainboots?)
+					- flips back and forth between the weather report and reports of the tears in reality
+			- look at the object to reveal the portal (then m2 to open at will)
+				- dev note: single-use portal teleports to whatever tool you're in the region of
+			- on the other side of the portal, special platforming elements are revealed to reach *something*
+				- the item has some emotional significance
+					- fetching it unlocks a power
 		- puzzle/platforming
 			- find things to interact with which open doors, raise platforms, drop bridges
+			- movement - glide, charged jump, grapple gun impulse
 		- stealthing?
 	- novel interest
 		- line-of-sight interactions
@@ -68,7 +129,8 @@ to-do
 		- [ ] wander across nav mesh
 		- [x] hardcode some kind of circle or figure-8, etc.
 - music
-	- [ ] BGM more magical/ethereal
+	- [x] BGM more ethereal ✅ 2026-02-19
+	- [ ] BGM more cheerful 
 	- [ ] chase music (or add thumping 2x speed beat to bgm)
 - sfx
 	- global atmosphere:

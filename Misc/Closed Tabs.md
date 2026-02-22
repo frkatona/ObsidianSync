@@ -95,6 +95,11 @@
 	- [level design Quake mod](https://youtu.be/hyBAQPCMiCE)
 	- limited slip differential [explainer](https://youtu.be/1B1FNs5bgrE)
 	- Heisenberg still difficult to explain [video](https://youtu.be/c-Q5r3THR3M)
+	- create small web builds in Godot [video](https://youtu.be/TgLxdEA6f04)
+	- What are the differences between a stream and a sample?
+	- weight painting easy way shorts [video](https://www.youtube.com/shorts/Zf8uuh0PNO4?t=2&feature=share)
+		- other full [video](https://youtu.be/4VI5jk7pZag)
+	- complete 3d character guide codernunk [video](https://youtu.be/dd6G2S6MQ6U)
 - https://en.wikipedia.org/wiki/Refractive_index
 - [Blargis 3d](https://www.youtube.com/@Blargis3d)
 - https://learngitbranching.js.org/?locale=en_US
@@ -140,3 +145,5 @@
 - minimal obsidian homepage - [reddit](https://www.reddit.com/r/ObsidianMD/comments/1q6r9zv/my_minimal_homepage/)
 - chevy bolt remote start
 - turn off 'hey google'
+
+Vivian cassette -  https://cleanertapes.limitedrun.com/products/873118-cosinevi-perennial-cassette-tape
