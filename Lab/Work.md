@@ -16,6 +16,72 @@
 	- something testable and falsifiable
 - how you'll test hypothesis
 ---
+
+### group meeting notes (Jackie practice talk) (2026-02-23)
+- general
+	- {for a job}
+- slides
+1) {Shark-skin-inspired photothermal patterning for fouling-release applications}
+	1) maybe biomimetic?
+2) {vesssels are inefficient from drag}
+3) {fouling control achieved through coatings}
+	1) title "is" controlled
+4) asdf
+5) asdf
+6) asdf
+7) {surface patterning achieved through Marangoni flow}
+	1) ton of text in that figure
+8) {photothermal patterning can be applied to a naval coating system}
+	1) show the lines separated by relative distances
+	2) why those 'big/small' chosen?
+9) {achieved texture scales comparable to shark skin}
+	1) I'd use full sentences with "we"
+10) {characterizing photothermal patterning in three stages}
+	1) case consistency
+
+what commenting tool are Ben and Emma using?
+
+
+### subgroup meeting notes (2026-02-23)
+- Alex found good stuff with TJ
+- Duncan and ben talked about the new modulus vs crosslink density graph (and another I couldn't see)
+- Tian-Chi compared various samples (couldn't see)
+- Yuki has problems getting a response from her anthracite people and some issues with her procedure
+	- Ben suggests outlining these challenges in her proposal to assuage her despair over little preliminary data
+- to discuss
+	- Yuki
+		- salt plates (+Alex + Tian-chi how many we may need, what types we might want?)
+		- lasing Akachukwu (and Ben S eventually too)
+	- time to cure m2 of PCD (were we talking PCD in that message?)
+		- ~ 1 min per cm2 currently (so 10,000 min = 1 week per m2)
+			- but we can use much high powers (currently just using 20% of the 30W model and they sell 100 W of this brand and higher elsewhere) coupled with bigger beam sizes, so the time will scale with how big you can get a beam with maintained power density
+			- can also use more lasers with linear reduction per additional laser (if laser = $500, then 100 lasers = $50,000 for 90 min per m2) 
+	- profilometer github
+		- you found the manual?  it didn't say anything about the other small number in the metadata?
+		- you used waviness + roughness for some calculations (RMS?)
+		- size seems much different from what Ben Stovall reported
+			- tough to really tell because these have all been lased
+			- form sometimes seems radial, like there was a big drop spreading
+			- waviness often spans more than the ~6 microns Ben S thought was the total height
+		- cool little interpolation investigation
+		- roughly what's the max range you've seen?  is it unlikely it can see all the way to the sample?  did this work on pure PDMS (which white light gets through obviously well)?
+		- sent Ben S some literature on the significance of controlling solvent evaporation
+		- other cool little graphs
+			- slope distribution for Jackie's optics/roughness/hydrophobicity
+	- thermal sim
+		- images/animation
+		- have repo working into github, want to refine the parameters for realism
+
+
+### Adri Meeting notes (2026-02-23)
+- thermal window for oxidation of PCD -> B4C 
+- Adri has lots of ideas for processes to test for their feasibility and rate
+	- but 
+- Ben is curious if we're making the oxide on the way to the carbide
+- what does the boron carbide phase diagram look like?
+- Adri used to work with explosives/rockets and says boron was a really attractive candidate for its energy to weight ration but it never worked out ("never get to b2o3 because you get too many intermediates)"
+- note to self: did we do the TGA or DSC on the confirmed successful samples or just before the first successful XRD?
+
 ### Yuki meeting notes
 - reach out to Ben Stovall
 - maybe low power is ok
@@ -25,7 +91,6 @@
 - break down into simpler steps
 	- show PPC vs anthracite (vs PPC + anthracite ?) to highlight what is anthracite
 	- show PPC alone with the proposed decomposition reaction and show which functional groups (/bands) you expect to go up or down)
-	- 
 
 ### 2/2 Jackie Research Update Notes
 1) asdf

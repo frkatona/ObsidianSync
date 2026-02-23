@@ -5,7 +5,9 @@ Home
 - [ ] Practice ETB 🔁 every day 
 - [ ] Apply job 🔁 every day 
 
-
+- ask Yuki if she's able to **lase Akachukwu's sample**
+	- no need to wait for the gas, but also **have you gotten the gas**?  When does VWR close?  Do you know how to use the cylinder straps?
+	- I should buy table-side straps
 
 re-sign lease
 remind Yuki about gas cylinder, alternative systems to practice lasing, papers
@@ -23,6 +25,11 @@ Subgroup Meeting notes (2026-02-16)
 	- If those really are just microns, then the sample is pretty huge
 	- tried a few interpolation methods.  
 		- somewhat meaningful differences, but I don't think Kriger is actually useful here
+
+making a paper library like the material library
+- representative image
+- json with keywords
+- also browser-based
 
 - Lab
 	- Yuki

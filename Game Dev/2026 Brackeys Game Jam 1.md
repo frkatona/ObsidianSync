@@ -1,7 +1,8 @@
 
 ### 2026-02-22 notes
 - bug fixes
-	- audio balancing (lower all, add fader, minimize foreshadow audio)
+	- audio balancing (lower all, add fader, minimize foreshadow audio if not remove the foreshadow)
+	- make the player walk further away before it lets them come back through the portal
 - debrief and reflection
 	- thorough (not just bug test) play test by day 2 and following each major revision
 	- more basic placeholders for visuals (blender defaults --> real textures day before was a fine workflow)
@@ -19,7 +20,10 @@
 		- anticipated file structure
 			- imported assets vs scenes derived from those assets vs scenes derived from scenes?
 			- separating assets so glb is with textures or textures in a separate folder?
-	- research UID version control problems more 
+	- research UID version control problems more
+	- better track looping
+		- separating any intro section
+		- still seems to be a distinct seam at the restart...do I have to use .wav to avoid the few ms of gap?  using a reverb bridge may be less compatible with the web build than previously thought
 
 ### 2026-02-21 notes
 - to-do
