@@ -2,7 +2,7 @@
 ### 2026-02-22 notes
 - bug fixes
 	- audio balancing (lower all, add fader, minimize foreshadow audio)
-- debrief, and reflection
+- debrief and reflection
 	- thorough (not just bug test) play test by day 2 and following each major revision
 	- more basic placeholders for visuals (blender defaults --> real textures day before was a fine workflow)
 	- separate ALL meshes
