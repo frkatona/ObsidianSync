@@ -383,11 +383,20 @@ Vivian idea - use like a cymbal sample on a dummy peak controller track to contr
 	- long rest with only alcohol
 	- earn 100 g from playing music
 	- defeat 20 opponents drunk
+- Act I
+	- Rescue Sazza from emerald grove, goblin camp, and moonrise towers
+	- Find and summon Shovel
+	- Kill spider matriarch before her eggs hatch
+	- Pet scratch and owlbear cub at the same time
+	- save all tieflings in a single playthrough
 - Act II
-	- Kill the Surgeon before surgery
+	- rescue all the prisoners from moonrise towers
 - Act III
 	- knock dragon out of the sky in wyrmway
-	- 
+hidden
+
+- 
+
 ---
 ### BG3 minmaxing
 - daily routine

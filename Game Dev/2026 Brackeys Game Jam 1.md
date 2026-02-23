@@ -3,6 +3,10 @@
 - bug fixes
 	- audio balancing (lower all, add fader, minimize foreshadow audio if not remove the foreshadow)
 	- make the player walk further away before it lets them come back through the portal
+	- bake scattering so it happens during the load (what is the binary warning suggesting)
+	- why does the first floor lodge button not start red like the basement button does?
+	- move menu from 'esc' to 'tab' and tell player after the scroller
+	- let player any-key through the scroll, but pause ~2 seconds to let the player 'e' through the end
 - debrief and reflection
 	- thorough (not just bug test) play test by day 2 and following each major revision
 	- more basic placeholders for visuals (blender defaults --> real textures day before was a fine workflow)
@@ -24,7 +28,12 @@
 	- better track looping
 		- separating any intro section
 		- still seems to be a distinct seam at the restart...do I have to use .wav to avoid the few ms of gap?  using a reverb bridge may be less compatible with the web build than previously thought
-
+	- try a 2D toon shader on the 1K photorealistic textures (though they actually look pretty fine hereI think)
+	- create readme on the little techniques used here
+		- scatterer
+		- opening scroll
+		- anti-tiling
+		- 
 ### 2026-02-21 notes
 - to-do
 	- level design
