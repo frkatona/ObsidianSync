@@ -33,7 +33,7 @@
 		- scatterer
 		- opening scroll
 		- anti-tiling
-		- 
+		- prompts/goal UI ("press `e` to activation switch"; "collect the other book")
 ### 2026-02-21 notes
 - to-do
 	- level design

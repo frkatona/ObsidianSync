@@ -17,6 +17,17 @@
 - how you'll test hypothesis
 ---
 
+### Yuki lasing
+- cracked the lid to the chamber
+- just ~15 min of purge (ask Yuki to recall)
+- buy more acrylic and cut with CO2 or get steel
+- single line
+	- 20% and 30 mm/s for one line
+- kill-it square
+	- fill {nothing happens}
+	- 20% -> 100%
+		- lid got engraved (never happened before...not sure why.  Maybe it needed soap+water washed?  oh my god was the beam focused at the lid instead of the sample)
+		- sapphire substrate maybe began to crack
 ### group meeting notes (Jackie practice talk) (2026-02-23)
 - general
 	- {for a job}
