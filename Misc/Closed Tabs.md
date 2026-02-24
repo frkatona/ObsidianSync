@@ -145,5 +145,6 @@
 - minimal obsidian homepage - [reddit](https://www.reddit.com/r/ObsidianMD/comments/1q6r9zv/my_minimal_homepage/)
 - chevy bolt remote start
 - turn off 'hey google'
+- gift idea - https://store.gemsofscience.com/collections/loose-cut-gems
 
 Vivian cassette -  https://cleanertapes.limitedrun.com/products/873118-cosinevi-perennial-cassette-tape

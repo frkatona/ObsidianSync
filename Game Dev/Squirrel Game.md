@@ -1,3 +1,13 @@
+### 2026-02-23 Show and Tell Notes
+- didn't make any progress on last weeks due to game jam
+	- show off music
+- Kaya
+	- worked on NAS this week
+	- added CRT shader (some bugs on browser had to fix)
+	- changed some stuff with websockets
+		- queueing up instead of sending right away to be sure it sends in right order
+
+
 ### 2026-02-16 Show and Tell Notes
 - Kaya roll-a-ball thoughts
 	- Bear 
