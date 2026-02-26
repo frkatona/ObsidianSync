@@ -1,4 +1,3 @@
-
 ### Experimental conditions to try once we have samples
 - {**remember to weigh**}
 - single line (how far out does it reach?  what resolution do we have?  does it correspond to the same line made on a piece of steel or something under the same conditions?)
@@ -20,7 +19,29 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
-### 2/18 Meeting Notes (online)
+
+### 2026-02-25 Meeting Notes (monthly)
+- transcript here: [[2026-02-25_online-MURI-meeting]]
+- before
+	- thermal sim
+	- implement scaling factors from the manual and meet with Ben L before
+	- order more parts for the chamber
+- beginning notes
+	- No JP or Ben Lear
+	- Rob says Pauni told him we should have a MURI website to point out all the articles
+	- we should have money for all 3 years
+		- we've received $3.25 million so far, spent $2.2 million, with a $7 million total
+	- 2nd year review
+		- happens Wednesday August 5th
+		- PI meeting the following morning
+- presentations
+	- Mozhdeh (Mohj-dah {soft j like jean-paul}) - TiB2 talk
+		- titanium diboride (TiB2) is a UHTC
+			- it oxidizes at <700 K and the B2O3 product evaporates around 1000 K, so how is it UHTC, I wonder
+		- ReaxFF MD simulations
+		- REMD simulation - weird condition crossover image
+
+### 2026-02-18  Meeting Notes (weekly, no PIs attending)
 - before
 	- polish understanding optical profilometry, particularly vs stylus 
 	- tell them I can come back in 2 weeks, but Yuki is fine to do it now
@@ -32,7 +53,7 @@ Absorption mechanisms to explore:
 	- show heat simulation
 	- show profilometry analysis
 
-### 2/11 Meeting Notes (online)
+### 2026-02-11  Meeting Notes (online)
 - before
 	- read through profilometer workup techniques
 - Rob 
@@ -47,8 +68,8 @@ Absorption mechanisms to explore:
 	- Ben Lear wonders if we could arrest the process partway through; Adri says it would be very tough to stop it at the relevant boron stage
 		- Ben: "if you had something that would passivate this 10-boron cluster"; Adri: idk what you'd passivate it with
 	- Rob: lase PCOD with Ti(carbide?) and see if that converts
-
-### 2/4 Meeting Notes (online)
+---
+### 2026-02-04 Meeting Notes (online)
 - Ben S presentation
 	- confirmed 5-6 microns deep
 		- that's pre-lasing or post?  how do we know that?  do we know it's consistent?
@@ -74,7 +95,7 @@ Absorption mechanisms to explore:
 		- won't involve intermediate or H2 release
 		- back of the envelope for something just decomposing vs something creating some autocatalytic behavior; once you have the temperature profile it's just adding in the different mechanisms; is something that is unimolecular vs bimolecular have very different features at those boundaries
 		- is one of those super sensitive to film thickness and the other is not?
-
+---
 ### 1/28 Meeting Notes (online)
 - Ben S discusses an overview of 
 - meeting with Tainara (T) and Akachukwu (A) afterward
@@ -281,6 +302,52 @@ Absorption mechanisms to explore:
 - Rob - Ben S maybe transformed some PCD to boron carbide just from performing Raman spec (tough to say if there's no 'thermal' contribution because the Raman does heat the stage)
 - Adri/Rob/BenS discussed simulations with the monomer pertaining to their paper
 - Rob hooking me and Ben S up with Greg at Brookhaven who wants to do x-ray in-situ with the laser
+---
+
+### 2025-10-10 Nabankur meeting
+- has met with Alex and (?) and ran some simulations and wanted to talk about what we're up to
+- 1
+	- P25108 polymer with cif (?) crystal structure (Akachukwu says "hexa ethynyl disilane", something like NUF1IM as a published structure)
+	- SiCH-based polymer, did some NAQMD simulations by exciting one electron from HOMO, evaluating for 1.2 ps, analyzing the initiating reactions of the system
+  2
+	- calculated band participation numbers for each band
+- 3
+	- Density of states - occupancy at each band level
+		- hole sits on the Si atoms, forming bonds initially
+- 4
+	- partial (until 500 fs) shows bonds, then bonds blow apart by 1.2 ps b/c it's too hot
+- 5: Si-Si bond breaking
+	- Si-Si crosslinks break around 58 fs after t0
+	- then around 360 fs the Si are are forming with carbons
+- C-C bonds are pretty stable until around 350 fs when they form bonds with the other atoms
+	- around 404 fs, some C-C are still intact
+- 7: Si-C bond formation
+	- 296 fs some kind of condensation reaction which stays stable until close to 500 fs
+		- so there's a window of ~200 fs where the bonds form without being broken?
+- 8: Bond overlap
+	- permanent bond breaking and formation seen for the three bonds monitored previously
+	- Si-Si bond overlap goes to 0 from 0 to 200 fs and never goes up
+	- C-C goes from 2 to 1 at ~150 fs and then goes to 0 around 400 fs
+	- Si-C is 0 until it goes to 1 around 275 fs (graph ends at ~500 fs)
+- Diffusion of elements
+	- first h2 released at 871 fs.  Although H bonding shifts from one Si/C to another SiC/C before that from around 600 fs
+	- there's a plateau of condensation below 600 fs, and then H2 seems to diffuse substantially afterwards
+- Potential energy
+	- a plateau of energy between 150 and 350 fs
+- Bandgap
+	- sharp drop at 100 fs indicating the systme undwent change in electronic structure signifying passage through a conical intersection which is a point degeneracy where two potential energy surfaces touch
+- Temperature
+	- T of Si is highest, switches to NVT at around 400 fs
+	- drops at 350 fs where the highest condensation of the system could be expected after which the system temperature increases rapidly
+- System evolving over time
+- Silicon-carbon initial condensation
+	- Si shows tetraveanetasdfasdf
+- Bond Overlap
+	- bond overlap  of different Si-C bonds indicate different bonds forming around 250 fs and different bonds breaking around that time due to rearrangement as seen in previous figures
+- Key takeaways
+	- screencaptured
+Akachukwu will send the other compond for me to lase if we find something good with XRD
+- otherwise will just keep chasing the polymer version of the compound 
 ---
 ### 10/1 Meeting Notes
 - Ben S notes on the paper, discussing the decomposition mechanism with JP, seeking what is findable with TGA-mS

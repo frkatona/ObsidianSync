@@ -7,7 +7,6 @@
 	- changed some stuff with websockets
 		- queueing up instead of sending right away to be sure it sends in right order
 
-
 ### 2026-02-16 Show and Tell Notes
 - Kaya roll-a-ball thoughts
 	- Bear 
