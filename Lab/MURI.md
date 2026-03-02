@@ -20,6 +20,16 @@ Absorption mechanisms to explore:
 
 ---
 
+### 2026-02-27 Meeting Notes (AC + Nabanankur)
+- try 350 nm (or as low as we can go) on AC's samples on Monday
+- ask Tainara
+	- if JP has a TGA-MS to try with Akachukwu's samples (250 C original samples didn't melt - look at decomposition profile)
+	- to have something to tell Nabankur and Akachukwu on Wednesday-ish
+- read up on what similar compounds have been successfully transformed to SiC, and how
+	- AC recommends "Convenient approach to Si–H-containing polymers", page 135
+- try 532 nm on boron polymer
+- thought: maybe mix a bit with CB
+
 ### 2026-02-25 Meeting Notes (monthly)
 - transcript here: [[2026-02-25_online-MURI-meeting]]
 - before

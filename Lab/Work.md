@@ -1,6 +1,7 @@
 ---
 
 ---
+
 ### Lab
 - [ ] Send purchases to Emma
 - UFBB thermometer work
@@ -16,6 +17,44 @@
 	- something testable and falsifiable
 - how you'll test hypothesis
 ---
+
+### groups list
+- theory
+	- Adri
+	- Priya
+	- Aiichiro
+- synthesis
+	- Mike
+	- Rob
+	- Alex
+- processing
+	- Lear
+	- JP
+
+
+### 2026-02-26 Kristen talk notes
+ - general
+	 - good job moving along promptly and confidently after answering questions
+	 - worry facing questions of forcing people to coordinate and using software (following up with 80 year old research faculty about if they've updated their onedrive spreadsheets with the proper format)
+		 - accessibility question slide - beating allegations of being anti-fun and unnecessarily beaurocratic
+	 - do you want me to fill your outlined icons where they sit next to filled icons, or remove backgrounds from colored icons, or round the corners or add outlines to colored boxes?
+ - slides
+	1) {who am I}
+		1) maybe year ranges under the schools
+	2) asdf
+	3) asdf
+	4) {learning community}
+		1) maybe black outline for colored squares and gray arrows
+	5) {understanding requires persistence through confusion}
+		1) slightly weird to reuse the pivotal icon as for a sub-point
+		2) slightly weird to pair filled and thinly-outlined icons
+		3) why the backgrounds?  do you want me to remove them?
+	6) {students explore when they feel safe and capable}
+
+15) {early detection of struggle enables intervention}
+	- is struggle something that's good or something that requires intervention
+16) a few small trip ups
+17) 
 
 ### Yuki lasing
 - cracked the lid to the chamber
