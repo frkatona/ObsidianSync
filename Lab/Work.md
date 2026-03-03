@@ -7,7 +7,7 @@
 - UFBB thermometer work
 	- [x] set up basic version
 	- [ ] troubleshoot bandwidth problem
-- [ ] Get CO2 laser set up
+- [x] Get CO2 laser set up ✅ 2026-03-02
 - [ ] Review MURI folder papers
 - [ ] Dr. Maslak about chemistry game
 ---
