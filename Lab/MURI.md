@@ -20,6 +20,18 @@ Absorption mechanisms to explore:
 
 ---
 
+### 2026-03-04 Meeting Notes
+- Rob
+	- asks me to try the first sample at 100% can it convert
+	- Ben S says he can drop it back off (but JP maybe says he'll try?  tough to tell)
+- Tainara
+	- TEM images of 2x line density (0.05 mm interval) 
+	- in the part where there appeared to be very little conversion, there actually was noticeable conversion in the form of little droplets of converted material
+	- Ben S. - the pattern of conversion on the surface seems to align with the spin coater
+- self-note
+	- tell AC tomorrow should be the day for characterizing the samples
+	- when can we do optical profilometry
+
 ### 2026-02-27 Meeting Notes (AC + Nabanankur)
 - try 350 nm (or as low as we can go) on AC's samples on Monday
 - ask Tainara
