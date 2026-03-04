@@ -17,6 +17,68 @@
 - how you'll test hypothesis
 ---
 
+### Kristen presentation
+
+general
+- make gif for kristen
+
+slides
+1\
+
+first talk (NOT 'tinkering' one)
+slide 11) remove 1 and 2 C or figure out why <3 really doesn't follow the trend (Ben pointed out "they're a gas" doesn't make sense comparing boiling/melting points)
+
+slide 16) Ben: the right figure is tough to parse after you've brough in a few sets; maybe fade out each set as the new set appears 
+
+slide 17) you told me to write "fix animations"
+
+second talk (tinkering)
+1) asdf
+2) asdf
+3) asdf
+4) "but higher education often requires {collaboration?}"
+	1) "community of practice" the suggested possible source to pull from to evidence that communication might be something to aspire to rather than a vibe
+	2) Ben suggests having 'active learning' as a term drop in your back pocket, you say "we're building the environment where active learning can take place"
+5) ads
+6) fasdf
+7) leftmost icon maybe didn't bottom-align the same as the others
+8) adf
+9) asdf
+10) asdf
+11)  'plethora' -> abundance
+	1) weird to center align these, I feel
+asdf
+asdf
+23 - not sure I understand the graph
+27 - what to say if someone says the TAs already struggle to keep up with all the student questions?  is that true?
+29 - put the question instead of the 'Fa24 n=' thing
+32 - move exams to the bottom "because I talk about exams here but I didnt' think about that"
+34 - what's up with the dropdown thing?
+37 - 'instead of cedir logo, a picture of using the tool'
+38a - weird black mark on the right side
+38 - almost sounds like the point is to question it.  I think that's a good idea, but is that what the school is looking for they ask to add AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ### Yuki lasing
 - cracked the lid to the chamber
 - just ~15 min of purge (ask Yuki to recall)
