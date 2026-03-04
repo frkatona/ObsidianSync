@@ -10,7 +10,7 @@ Home
 
 - ask Yuki if she's able to **lase Akachukwu's sample**
 	- no need to wait for the gas, but also **have you gotten the gas**?  When does VWR close?  Do you know how to use the cylinder straps?
-	- I should buy table-side straps
+	- 
 
 
 
