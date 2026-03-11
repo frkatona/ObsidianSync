@@ -146,5 +146,20 @@
 - chevy bolt remote start
 - turn off 'hey google'
 - gift idea - https://store.gemsofscience.com/collections/loose-cut-gems
+- Intl.Segmenter
+- pdf ligatures [post](https://tex.stackexchange.com/questions/33476/why-cant-fi-be-separated-when-being-copied-from-a-compiled-pdf#:~:text=Ligature%20Copying%20Issue:%20TeX%20combines%20characters%20like,PDF%20reader's%20ability%20to%20interpret%20glyph%20components.)
+- vector space classification [link](https://nlp.stanford.edu/IR-book/html/htmledition/vector-space-classification-1.html)
+- shell commands grep and rg
+- syntax sugar, list comprehension
+- hothouse flower, internecine, overton window, susceptor
+- 2026-03-09 creative
+	- get_tree.process in loop
+	- awaiting signals / coroutines [docs](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#awaiting-signals-or-coroutines)
+	- YT godot 3 ways to see other scripts [video](https://youtu.be/ZgaM-42xiZg)
+	- YT 'this is better than export' [video](https://youtu.be/PrCza2z0Log)
+	- singing - vibrato [yt video](https://youtu.be/PGzqVmdNJL0)
+	- surface stable fractal dithering [yt video](https://youtu.be/HPqGaIMVuLs)
+	- 
+
 
 Vivian cassette -  https://cleanertapes.limitedrun.com/products/873118-cosinevi-perennial-cassette-tape

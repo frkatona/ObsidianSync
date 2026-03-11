@@ -1,3 +1,26 @@
+### 2026-03-11 Squirrel Racer meeting notes
+- see recording
+- thinking about making inherited scenes for the three girls having different hair
+- thinking about blendspaces to replace the set_blend_time commented out in survivors_player_character_model
+- consider renaming the first and last bones in the hairs to root and end ("as long as you know which one it doesn't really matter")
+- expand on magnets that I think of for mechanics
+
+### 2026-03-09 Show and Tell Notes
+- I showed PDF manager and low light filter
+- Kaya asks if I can beeline to getting the props or a proper level over to her for prototyping
+- Josh has some updates on his card game and he plans on picking it up more after Marathon dies down
+- Miku rig placement issue
+	- there's a repo on forge to clone to be drop in new models to fix the models not always being in the right spot relative to the bouncy ball
+		- has a "model import" tool script with a child_entered_tree function to automatically hook the model into the ball
+		- be mindful of filename consistency when dragging into script if changing the script
+		- could add something like "var springbone := SpringArm3D.new() /n springBone"
+	- hair on yellow goes below the orb --> add spring bones in the project
+		- be mindful of editable children and the instancing thing
+	- makes more sense to just have one scene per character and then that plugs into the model import
+	- make a reference sphere in blender to have her hands and feet right on 
+	- make 'curl' animation more up-and-down (not leaning forward as much)
+		- also make the curl super tight to fit in the small ball (1/2 original ball size)
+
 ### 2026-02-23 Show and Tell Notes
 - didn't make any progress on last weeks due to game jam
 	- show off music
@@ -6,7 +29,7 @@
 	- added CRT shader (some bugs on browser had to fix)
 	- changed some stuff with websockets
 		- queueing up instead of sending right away to be sure it sends in right order
-
+	
 ### 2026-02-16 Show and Tell Notes
 - Kaya roll-a-ball thoughts
 	- Bear 

@@ -20,6 +20,26 @@ Absorption mechanisms to explore:
 
 ---
 
+### 2026-03-11 Meeting Notes (weekly)
+- Note to self
+	- Remember to ask about TGA-MS for AC's simple
+	- pull trigger on device to pipe Ar gas into Ben's cell
+	- find if we can replace the window in Ben's Raman cell
+	- understand ellipsometry
+- Ben - talking about leaving in ~July 
+- Rob
+	- talking to Tainara about
+	- talking to me:
+		- find the power/thickness parameters that convert
+		- find in the literature what has been done to be able to compare ("seems like people have done a lot if different things")
+		- once we find good parameters, we'll do MS with JP's setup
+			- looking for overlap with H2 release and heating (?)
+- Ben Lear
+	- talking to me: a series of lines widely spaced with various powers across various known thickness samples
+- Ben Stovall
+	- talking to me: he'll give me back the 1 um sample hopefully before he leaves for Atlanta to re-lase at various powers to see it's possible to convert with our laser
+- Me - asking Ben S about profilometry; he and Rob suggest we look at it with profilometry of either sort again and reporting a thickness and a +/- range
+
 ### 2026-03-04 Meeting Notes
 - Rob
 	- asks me to try the first sample at 100% can it convert
