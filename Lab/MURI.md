@@ -27,6 +27,8 @@ Absorption mechanisms to explore:
 		- film thickness
 	- high vs low absorptivity and emissivity difference when material transforms
 
+
+
 ### 2026-03-11 Meeting Notes (weekly)
 - Note to self
 	- Remember to ask about TGA-MS for AC's simple
