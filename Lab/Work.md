@@ -24,7 +24,6 @@ general
 - make gif for kristen
 
 slides
-1\
 
 first talk (NOT 'tinkering' one)
 slide 11) remove 1 and 2 C or figure out why <3 really doesn't follow the trend (Ben pointed out "they're a gas" doesn't make sense comparing boiling/melting points)
