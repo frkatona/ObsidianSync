@@ -30,7 +30,7 @@ On The Job You’ll Have Access To:
 - A dedicated Creatives Team for asset production
 - Basic SOPs for product launches
 ## deliverables
-1) **5 min video**
+1) **video to the CEO** (5 min max)
 	- Create with Loom
 	- "Walk us through your plan and thought process as if you're presenting it to the CEO. Be concise, confident, and clear. We want to get a sense of your communication style and leadership approach."
 	- Notes to self:
