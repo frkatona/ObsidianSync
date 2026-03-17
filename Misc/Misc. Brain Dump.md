@@ -58,6 +58,27 @@ backup:
 	- man the sub (on the kick or the bass?) really pops through here compared to the other tracks.  Mids/highs on the bass feel hidden in the mix when other instruments are around
 
 perspicuous, brinkmanship, lumpen, perspicacity, stolid
+
+
+### Chelsea python
+- First assignment: Hello World
+	- make file --> open in code editor --> print to console
+	- w3 starter [here](https://www.w3schools.com/python/default.asp)
+- Work up to: Random Book Picker
+	- Given resources: 
+		- CSV of books (titles, page counts)
+	- Skills:
+		- opening and reading CSV contents (probably easier with the Pandas library)
+			- importing libraries
+			- using Pandas ([read_csv](https://www.w3schools.com/python/pandas/pandas_csv.asp))
+		- [variables](https://www.w3schools.com/python/python_variables.asp), [lists](https://www.w3schools.com/python/python_lists.asp)
+		- [looping](https://www.w3schools.com/python/python_for_loops.asp) through a list
+		- appending titles to a list and keeping a running count of the total pages
+		- [conditional](https://www.w3schools.com/python/python_conditions.asp) to stop after a certain threshold
+		- picking a random element (maybe [this](https://www.w3schools.com/python/ref_random_choice.asp)?  probably just np.random.randn(x,y)
+- Bridge assignments:
+	- given a list of strings, print the number of times the word "apple" appears
+	- print a random element from a list
 ### Kristen notes
 - vision talk (private teaching talk after public lecture)
 - a lot of ideas arounding modernizing (e.g., ebook, canvas page)
