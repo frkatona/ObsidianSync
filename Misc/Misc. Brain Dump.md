@@ -56,6 +56,8 @@ backup:
 	- maybe the piano high notes could do with some compression
 - stutter baby
 	- man the sub (on the kick or the bass?) really pops through here compared to the other tracks.  Mids/highs on the bass feel hidden in the mix when other instruments are around
+
+perspicuous, brinkmanship, lumpen, perspicacity, stolid
 ### Kristen notes
 - vision talk (private teaching talk after public lecture)
 - a lot of ideas arounding modernizing (e.g., ebook, canvas page)
