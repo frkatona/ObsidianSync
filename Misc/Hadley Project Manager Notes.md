@@ -80,3 +80,42 @@ On The Job You’ll Have Access To:
 		- when tables grow to ~50k+ records; high-frequency writes; millisecond retrieval; need utility from a transaction control language (TCL)
 
 
+### Video Notes
+- someone who knows how to organize projects and think strategically
+- Use the three resources
+- A) **Timeline:** reference the product launch checklist to create a project launch timeline for the Pre-K project
+	- "realistic 2 week sprint" 
+	- include **key tasks**, responsible team members, **dependencies**, and milestone dates (**timeline**)
+	- identify **2 major risks** that could delay this launch and how you would mitigate them.
+- B) **QA audit:** document the intentional errors/typos in the sheet
+- C) **Propose Improvements**
+	- 1 process improvement to streamline future launches, and
+	- 1 QA system improvement (automation, accountability, tools, etc.)
+- they're evaluating:
+	- ability to plan, organize, and lead
+	- attention to detail and QA mindset
+	- communication and team coordination
+	- strategic thinking
+
+Put the above together in any sort of document (word, slideshow, etc.) and attach a <5 min loom video
+
+
+
+# Assignment Draft
+
+### Timeline
+- asdf
+
+### QA Audit
+- enforce Prek to PreK or Pre-K
+- exclude the mistake in the top row.  Leave the edit as a comment if need be
+- DPR is restricted access, increasing friction for usability
+- "Product description" is of the competitor
+- 
+### QA checklist md
+
+- main image (reference the product specifications)
+	- does the product have correct dimensions/specifications ?
+		- no "2.5 x 4.2 in" (spec sheet) --> "2.5 x 4 in" (listing preview)
+	- is the product made int he USA or just designed in the USA?
+	- is the overall quality of the main image acceptable?
