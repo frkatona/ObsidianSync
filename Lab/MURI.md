@@ -19,16 +19,29 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
-
-### Laser scan data
+### 2026-03-18 Meeting Notes (weekly)
+- Note to self
+	- Remind Tainara about TGA-MS
+	- Ask Rob about the budget (-30k?) for new chamber
+	- ellipsometry
+---
+### 2026-03-17 Paper Notes
+- Parameters in successful conversions in literature
+	- [(2016) Tangermann-Gerk +6](http://dx.doi.org/10.1016/j.matdes.2016.07.102)
+		- **green system:** organosilazane + glass + m-ZrO2
+		- **pyrolysis product:** glass/SiCNO + t'-ZrO2
+		- **substrate:** "mild" steel dip-coated in PHPS (bonding agent) with the system spray-coated
+		- **findings:** 
+			- lasing vs oven --> different morphologies from different forming mechanisms
+			- lasing --> unexpected oxygen vacancies in ZrO2 which increased absorption
+---
+### 2026-03-15 Laser scan simulation notes
 - illustrate examples for extremes of unknown parameters:
 	- high vs low thermal diffusion
 	- high vs low laser contribution relative to enthalpic contribution
 		- film thickness
 	- high vs low absorptivity and emissivity difference when material transforms
-
-
-
+---
 ### 2026-03-11 Meeting Notes (weekly)
 - Note to self
 	- Remember to ask about TGA-MS for AC's simple
@@ -37,7 +50,6 @@ Absorption mechanisms to explore:
 	- understand ellipsometry
 - Ben - talking about leaving in ~July 
 - Rob
-	- talking to Tainara about
 	- talking to me:
 		- find the power/thickness parameters that convert
 		- find in the literature what has been done to be able to compare ("seems like people have done a lot if different things")
@@ -48,7 +60,7 @@ Absorption mechanisms to explore:
 - Ben Stovall
 	- talking to me: he'll give me back the 1 um sample hopefully before he leaves for Atlanta to re-lase at various powers to see it's possible to convert with our laser
 - Me - asking Ben S about profilometry; he and Rob suggest we look at it with profilometry of either sort again and reporting a thickness and a +/- range
-
+---
 ### 2026-03-04 Meeting Notes
 - Rob
 	- asks me to try the first sample at 100% can it convert
@@ -60,7 +72,7 @@ Absorption mechanisms to explore:
 - self-note
 	- tell AC tomorrow should be the day for characterizing the samples
 	- when can we do optical profilometry
-
+---
 ### 2026-02-27 Meeting Notes (AC + Nabanankur)
 - try 350 nm (or as low as we can go) on AC's samples on Monday
 - ask Tainara
@@ -70,7 +82,7 @@ Absorption mechanisms to explore:
 	- AC recommends "Convenient approach to Si–H-containing polymers", page 135
 - try 532 nm on boron polymer
 - thought: maybe mix a bit with CB
-
+---
 ### 2026-02-25 Meeting Notes (monthly)
 - transcript here: [[2026-02-25_online-MURI-meeting]]
 - before
@@ -91,7 +103,7 @@ Absorption mechanisms to explore:
 			- it oxidizes at <700 K and the B2O3 product evaporates around 1000 K, so how is it UHTC, I wonder
 		- ReaxFF MD simulations
 		- REMD simulation - weird condition crossover image
-
+---
 ### 2026-02-18  Meeting Notes (weekly, no PIs attending)
 - before
 	- polish understanding optical profilometry, particularly vs stylus 
@@ -103,7 +115,7 @@ Absorption mechanisms to explore:
 		- fyi seems like there's like a >8 um swing 
 	- show heat simulation
 	- show profilometry analysis
-
+---
 ### 2026-02-11  Meeting Notes (online)
 - before
 	- read through profilometer workup techniques
