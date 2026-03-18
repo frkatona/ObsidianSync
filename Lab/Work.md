@@ -17,6 +17,74 @@
 	- something testable and falsifiable
 - how you'll test hypothesis
 ---
+### 2026-03-16 Emma Talk
+- General
+	- I don't like how the titles seem to meld with the slide content
+	- I'd try to make single citations one line where possible (e.g., slide 3,4)
+	- black borders around pictures (e.g., 2, 12)
+	- I would abbreviate repeated things (mostly AuNP)
+
+- Slides
+	1) {Title - Gold Nanoparticle Morphology and Agglomeration under Microgravity Conditions}
+	2) {AuNPs uses}
+		1) Ben --> "make point more like 'the aggregation of AuNPs is what's useful'"
+		2) already know about placeholder image
+	3) {NP properties depend on things like size, shape, and clustering}
+		1) Kristen - "figures are a little small"
+	4) {I must have missed this slide}
+	5) {why do things agglomerate: DLVO theory}
+		1) Ben - "this is one of the cases I might suggest theory before application"
+	6) {NP aggregation influenced by processes that cause collisions - {I missed the first one}}
+	7) {^ + sedimentation}
+		1) Kristen was interested in seeing a literature example, but you said that'd be meh
+	8) {^ + buoyancy}
+		1) Ben - usually you'd see the red arrow going up the center and the blues going down the sides 
+			1) also "how would you do a controlled experiment"
+		2) magnifying glass zoom-in to what's happening
+	9) {micro gravity}
+		1) kristen - maybe show force diagram
+	10) {micrgravity is a platform for studying fundamental NP behavior}
+	11) {theory: DLVO + Smoluchowski coagulation}
+		1) Ben - "if it's important than break it down so each term is understood"
+		2) making a chart --> "could do checkmarks and x's"
+	12) {measuring NP agglomeration changes in microgravity}
+		1) Kristen doesn't like calling Thiol "coated"
+		2) Ben wonders why they used such a viscous solvent instead like e.g., hexane
+			1) it's possible the viscosity is deliberate 
+		3) Kristen wants a schematic and the paper's data
+		4) Ben says the text is difficult to read, if you have access to the text-free version to re-label
+	13) {drop tower data shows more agglomeration in microgravity}
+		1) what does 'reaction limited' mean
+	14) {microgravity affects size distributions}
+		1) what's up with that dotted line box in the bottom right figure
+		2) my question about jiggly lines (what does it feel like to oscilate rapidly at 0g like the noise in the second graph)
+	15) {^ part 2 -> they see smaller particles with tighter distribution with microgravity}
+		1) error bars pixelated
+		2) Ben: "what counts as a particle", "do they mean particle size or more like 'clump size' or 'feature size'?"
+	16) {why don't the experiments agree}
+	17) {other experiment will help}
+	18) {future directions}
+		1) Ben - "don't mind the synthesis, but it's kindof a right turn, so need a reason for why you'd expect"
+	19) {implications}
+		1) Ben - "why do we care about any of this, how will it help us on earth or in space"
+
+
+---
+### 2026-03-16 Subgroup Meeting
+- Ben wants to use the video for his Princeton talk (he'll be gone Tu-Th this week)
+	- he can just download the one in discord
+	- let him know 
+		- it's probably not very stable yet (changes at low dt)
+		- it still needs to fulfill its purpose: see which parameters influence the sharpness
+- I need to look at posters with Alex and Duncan (and help them print upstairs)
+- Does Duncan's paper still need looked at?
+- Buy stuff
+	- basic digital microscope
+	- new chamber:
+		- probably bad to try existing thing
+		- flanged high vacuum containers ~5-10k ok budget?
+---
+- try plastic welding the acrylic box
 
 ### Kristen presentation
 
