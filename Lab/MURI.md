@@ -24,6 +24,11 @@ Absorption mechanisms to explore:
 	- Remind Tainara about TGA-MS
 	- Ask Rob about the budget (-30k?) for new chamber
 	- ellipsometry
+	- eddy thickness meter
+- Rob and Adri shooting the breeze and talking about their paper
+- Tainara has the TGA-MS up-and-running
+- Rob wants us to consider texturing the surface in this manuscript for novelty
+- I talked to Rob and Ben S about my Zygo-derived thickness doubts; Rob says we should get more confident with the thicknesses
 ---
 ### 2026-03-17 Paper Notes
 - Parameters in successful conversions in literature
