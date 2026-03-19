@@ -19,6 +19,24 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2026-03-19 Profilometry Notes
+- file format: max_zoom_type_number
+- Samples to take
+	- zoomed max out
+	- zoomed max in
+		- on the stylus marking
+		- on the edge
+			- mark the edge with marker
+			- slash the edge with the spatula
+- Notes
+	- if the valleys really are the sapphire bottom, than 1 um does seem right for the average/floor assigned in the zygo
+		- however, there appears to be +1 um of peaks from the floor
+			- need to measure for roughness
+	- also looks kinda veiny some places (spreading out from the spin center?)
+	- got a scratched image to see that it is indeed 1 um (but still suggests many peaks going upt o 1 um above that)
+	- next going to look at some closeups (1)  the scratched corner; (2) the highest veiny point; (3) where the veins meet (the tributary)
+
+
 ### 2026-03-18 Meeting Notes (weekly)
 - Note to self
 	- Remind Tainara about TGA-MS
