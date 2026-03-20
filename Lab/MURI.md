@@ -22,8 +22,11 @@ Absorption mechanisms to explore:
 ### 2026-03-18 Meeting Notes (weekly)
 - Note to self
 	- Remind Tainara about TGA-MS
-	- Ask Rob about the budget (-30k?) for new chamber
-	- ellipsometry
+	- Ask Rob about the budget (-30k?)
+		- new UHV chamber + quartz window
+		- eddy-current thickness gauge (e.g. [$100 walmart](https://www.walmart.com/ip/Coation-Thickness-Gauge-0-1micron-0-1300-Car-Paint-Film-Tester-Coating-Measuring-Tools-Meter-Multifunctional/18567873592?utm_medium=feed&utm_source=chatgpt.com) or [$2000 DMP40 Dualscope](https://www.pine-environmental.com/products/fischer-dualscope-dmp40)
+	- ellipsometry?
+	- integrating sphere UV-Vis-IR on the samples?
 ---
 ### 2026-03-17 Paper Notes
 - Parameters in successful conversions in literature
@@ -31,9 +34,24 @@ Absorption mechanisms to explore:
 		- **green system:** organosilazane + glass + m-ZrO2
 		- **pyrolysis product:** glass/SiCNO + t'-ZrO2
 		- **substrate:** "mild" steel dip-coated in PHPS (bonding agent) with the system spray-coated
+		- **laser conditions:**
+			- wavelength 1064 nm
+			- power = 1 to 10 W
+			- diameter = 40 um
+			- rep rate = CW, 5 kHz, and 11 kHz
+			- scan velocity = 6 to 40 mm/s
+			- hatch distance = 15, 20, 30, and 40 um
+			- atmosphere = air
 		- **findings:** 
 			- lasing vs oven --> different morphologies from different forming mechanisms
 			- lasing --> unexpected oxygen vacancies in ZrO2 which increased absorption
+			- all interactions between laser and coating take place in milliseconds
+			- laser "interaction zone" is exactly equal to the diameter of the focused beam, 40 um, with a shallow penetration resulting in weak adhesion/cohesion in the region near the substrate (when the green coating thickness is "too high") 
+			- short heating/cooling times prevent relaxation, accumulating stresses
+			- laser caused phase separations - regions rich in particles and regions rich in glass phase, the latter especially near the surface and the interface between sturctures
+		- **misc. notes:**
+			- used UV-Vis-NIR integrating sphere for total and diffuse transmittance and reflectance spectra
+			- determined thickness with an eddy-current method device (Dualscope MP40)
 ---
 ### 2026-03-15 Laser scan simulation notes
 - illustrate examples for extremes of unknown parameters:
