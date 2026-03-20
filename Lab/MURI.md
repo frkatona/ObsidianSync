@@ -19,6 +19,24 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2026-03-19 Profilometry Notes
+- file format: max_zoom_type_number
+- Samples to take
+	- zoomed max out
+	- zoomed max in
+		- on the stylus marking
+		- on the edge
+			- mark the edge with marker
+			- slash the edge with the spatula
+- Notes
+	- if the valleys really are the sapphire bottom, than 1 um does seem right for the average/floor assigned in the zygo
+		- however, there appears to be +1 um of peaks from the floor
+			- need to measure for roughness
+	- also looks kinda veiny some places (spreading out from the spin center?)
+	- got a scratched image to see that it is indeed 1 um (but still suggests many peaks going upt o 1 um above that)
+	- next going to look at some closeups (1)  the scratched corner; (2) the highest veiny point; (3) where the veins meet (the tributary)
+
+
 ### 2026-03-18 Meeting Notes (weekly)
 - Note to self
 	- Remind Tainara about TGA-MS
@@ -27,6 +45,11 @@ Absorption mechanisms to explore:
 		- eddy-current thickness gauge (e.g. [$100 walmart](https://www.walmart.com/ip/Coation-Thickness-Gauge-0-1micron-0-1300-Car-Paint-Film-Tester-Coating-Measuring-Tools-Meter-Multifunctional/18567873592?utm_medium=feed&utm_source=chatgpt.com) or [$2000 DMP40 Dualscope](https://www.pine-environmental.com/products/fischer-dualscope-dmp40)
 	- ellipsometry?
 	- integrating sphere UV-Vis-IR on the samples?
+	- eddy thickness meter
+- Rob and Adri shooting the breeze and talking about their paper
+- Tainara has the TGA-MS up-and-running
+- Rob wants us to consider texturing the surface in this manuscript for novelty
+- I talked to Rob and Ben S about my Zygo-derived thickness doubts; Rob says we should get more confident with the thicknesses
 ---
 ### 2026-03-17 Paper Notes
 - Parameters in successful conversions in literature
