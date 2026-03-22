@@ -1,4 +1,32 @@
-
+- Thermal sim
+	- have 'cancel' finish the steps to the next export frame and then present the frames created thitherto
+	- offer 'open existing frames' for last run
+	- after finishing a 
+	- remember changes (Asma --> approximation):
+		- Ea = 1.4e6 --> 1e5
+		- dH = 2e7 --> 1e6
+	- find the the project folder (or re-clone if need be)
+		- get icon working
+		- see how time intervals are determined
+- attempt a basic comsol + matlab thermal sim run
+	- basic transient thermal
+		- then add reactivity
+		- then make the power source pulse 
+		- then approximate our system with a real material library
+		- then use a laser absorption profile as the heat source
+		- then make the laser move
+	- compare to simplified FEM?
+- XRD project
+- file finder --> track down the extra journal article books, manuals, and PDFs to consolidate
+- MURI talking points
+	- peak power
+		- energy (J) -> power (W) -> irradiance (aka *radiant flux*, W/m2)
+		- pulse energy != single-photon energy (i.e., E = h * nu)
+		- electrical power -> optical power (aka *radiant flux*, aka *luminosity*)
+		- average -> peak
+		- spatial + temporal gaussian
+	- When does beam spread matter?
+		- some, but not all, of the beam meets a threshold of absorbance
 ### projects
  - thermal simulation dashboard
  - literature library web GUI (Flask -> Tauri)
