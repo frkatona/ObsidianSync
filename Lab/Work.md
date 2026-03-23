@@ -17,6 +17,52 @@
 	- something testable and falsifiable
 - how you'll test hypothesis
 ---
+### 2026-03-23 Yuki Talk
+ General
+- verbose
+	- tons of extraneous details, reading text directly
+	- try to practice these talks as pure transitions ("THEREFORE" and "BUT", rarely "AND" or "ALSO")
+- I'd reserve the saturated red text for bad things and the saturated green for good things.  otherwise use a more muted, readable color
+- currently doesn't seem to focus on "current project path" like the form says
+
+Slides
+1) {caprolactam is big}
+	1) reframe this as nylon.  everybody knows what nylon is
+2) {low margin, mature industry}
+	1) why do I care?
+3) {brands pay more for recycled}
+	1) why do they pay more for recycled?
+	2) keep consistent currency units
+4) {US Nylon Recycling previously was untenable due to cost}
+5) {Photothermal heating achieves 88% caprolactam yield}
+	1) fix charmander's head
+	2) dissolved in KOH?
+6) {PA has a ton of extra absorber lying around}
+	1) how are there areonly 211 tons of culm waste if we're generating 95 tons a day?
+	2) what are those brown areas? where the carbon waste "comes from", does that mean the mines?  do mines extend across like 2 counties like that?
+	3) "shuh-moh-kin"
+	4) red Shamokin Creek text could use more contrast (stroke/outline?)
+7) {Anthroacite nanoflake is zero-cost absorber for nylon-6}
+	1) why does it have to be a nanoflake?  Is there a cost associated with processing the anthracite?
+	2) change zero-cost to reflect that it's actually a profit source
+	3) do you have to remove the anthracite after you use it for this purpose?  are there no health concerns?
+	4) the graphs aren't readable, and even if I look closely, I can't tell easily tell what the point is.  Make use of insets, arrows, and formatting simplifications to make it clear what features are helpful in the results
+8) {experiments expected for phase 1}
+	1) give phase 1 a more descriptive name in the slide title
+	2) what is PPC benchmarking?
+		1) do you use this abbreviation often before now?
+	3) don't show arbitrary choices unless you're willing to defend them (why CB range numbers, Anthracite numbers, laser source, laser current)
+		1) and why laser current instead of laser power?  what about power dnesity? what does literature talk about?  How many amps is a good number of amps?  How many amps does it take to burn paper?
+9) {beyond phase 1}
+	1) did you say explicitly what the efficiency was in CB?  Or why we're not just using CB?  How much money would we save if we used CB?
+	2) What in your phase one proposal would indicate if mineral impurities contaminate products?  What mineral impurities do you expect?
+	3) the middle section seems arbitrary, uninteresting, and unimportant to me
+	4) lots of text.  repeated single icons aren't useful, particularly when there's a confusing mirror-image question mark
+	5) "beyond phase 1"
+		1) what does "scale up" mean specifically?  how much do you have to scale?  What questions left to answer
+10) {Q&A}
+	1) well how does efficiency translate to cost?  how much does it cost to turn the laser on?  how much laser might it take to convert some mass of product?  Even as extreme estimates?
+	2) 
 ### 2026-03-16 Emma Talk
 - General
 	- I don't like how the titles seem to meld with the slide content
