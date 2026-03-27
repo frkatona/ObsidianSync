@@ -1,0 +1,26 @@
+## to-do
+- [ ] 🔽 🛫 2026-03-25 Request Chelsea internet money ($108 / 2 = $54)
+
+- tell Zack and Ben about dinner (Vivian good after 5, defaulting to takeout at my place, open to Voodoo or whatever)
+- MURI prep
+	- re-attempt COMSOL modules + matlab module scripting
+	- read through google sheet and think of anything I'll need for them
+	- understand the sapphire absorption (defect absorption, etc....*what is absorbing* and *why*)
+	- understand incubation (I've seen damage, are there other examples, especially chemical conversion- or polymer-related)
+- Get procedure up on the MURI site
+- need to coordinate Chelsea pickup + Rx + groceries time?
+	- all at 3:00?
+- follow up with Yuki about her presentation time
+- check ebay PO Box
+- obsidian tasks
+	- figure out a way to make the tasks more readable in the edited md doc (if poss)
+	- get a basic relevant 'tasks' view working for at least today + yesterday
+- apply for job
+- Vivian music prep
+	- practice guitar
+	- check drums working and practice
+	- get midi controller up (pull a chair/table over)
+- tomorrow dinner prep
+	- 'seating'/'table'? (island? big table?)
+	- food
+	- pizza? (does dominoes still have that half-off special for large any toppings?), Voodoo

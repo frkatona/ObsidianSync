@@ -27,6 +27,10 @@
 		- spatial + temporal gaussian
 	- When does beam spread matter?
 		- some, but not all, of the beam meets a threshold of absorbance
+
+change psu email-associated accounts
+- github
+- epic games account (caitlin boyle --> facebook login 2FA)
 ### projects
  - thermal simulation dashboard
  - literature library web GUI (Flask -> Tauri)
@@ -52,6 +56,18 @@
 - Tritone subs
 - Using parallel modes for mode mixture
 ---
+### Laser industry undergrads project notes
+advantages
+- cost/efficiency
+- substrate sensitivity
+- time (fast OR temporal resolution)
+- space (spatial resolution)
+
+coil coating for sheets
+	- how much metal would you not have to heat? what's its heat capacity?
+
+---
+
 home
 - apply indeed; get name of startup from Jackie
 - FL Thurs track

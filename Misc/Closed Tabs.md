@@ -183,5 +183,11 @@
 	- .\Godot_v4.6-stable_win64_console.exe -e ..\..\teamsquirrel\websocket_forwarding_multiplayer\project.godot
 	- checkout -b to make and switch
 - set ANGLE graphics backend to D3D11 WARP from default (brave://flags/#use-angle)
+- wiki
+	- cavitation
+	- PDF, postscript, stream (computing)
+	- laser damage threshold
+- UI [article](https://medium.com/codetodeploy/15-cool-chatgpt-prompts-that-will-fix-your-ui-css-and-code-reviews-in-minutes-fb0745554d79)
+
 
 Vivian cassette -  https://cleanertapes.limitedrun.com/products/873118-cosinevi-perennial-cassette-tape

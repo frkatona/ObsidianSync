@@ -38,7 +38,7 @@ Slides
 	1) fix charmander's head
 	2) dissolved in KOH?
 6) {PA has a ton of extra absorber lying around}
-	1) how are there areonly 211 tons of culm waste if we're generating 95 tons a day?
+	1) how are there are only 211 tons of culm waste if we're generating 95 tons a day?
 	2) what are those brown areas? where the carbon waste "comes from", does that mean the mines?  do mines extend across like 2 counties like that?
 	3) "shuh-moh-kin"
 	4) red Shamokin Creek text could use more contrast (stroke/outline?)
@@ -52,7 +52,7 @@ Slides
 	2) what is PPC benchmarking?
 		1) do you use this abbreviation often before now?
 	3) don't show arbitrary choices unless you're willing to defend them (why CB range numbers, Anthracite numbers, laser source, laser current)
-		1) and why laser current instead of laser power?  what about power dnesity? what does literature talk about?  How many amps is a good number of amps?  How many amps does it take to burn paper?
+		1) and why laser current instead of laser power?  what about power density? what does literature talk about?  How many amps is a good number of amps?  How many amps does it take to burn paper?
 9) {beyond phase 1}
 	1) did you say explicitly what the efficiency was in CB?  Or why we're not just using CB?  How much money would we save if we used CB?
 	2) What in your phase one proposal would indicate if mineral impurities contaminate products?  What mineral impurities do you expect?
