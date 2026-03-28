@@ -34,4 +34,13 @@ check ebay link to see what is included
 - https://www.masterclass.com/articles/cornmeal-vs-corn-starch
 - YT - 8bmt - surf theme tier list
 - [good hyperfocal distance article](https://martinbaileyphotography.com/2021/02/18/depth-of-field-hyperfocal-distance-infinity-and-beyond-podcast-732/)
+
+
+
+Tian Chi notes
 - 
+- measurements
+	- contact angle
+	- **buy thermocouples and reader and recording ability (esp32?)**
+	- refractive index
+	- laser power drop

@@ -1,9 +1,12 @@
+
+## Resources
+- https://ryan.himmelwright.net/post/started-using-obsidian-tasks-plugin/
 # to-do list
 - [ ] pick up drugs 📅 2026-01-06
 - [ ] sell drugs 📅 2026-01-11 
 - [ ] go to the mattresses 📅 2026-01-12
 - [ ] pay off congressman 📅 2026-02-01
-- [ ] enjoy sunset📅 2026-03-30
+- [ ] enjoy sunset 📅 2026-03-30
 ### due today
 ```tasks
 due today

@@ -5,18 +5,6 @@ Home
 - [ ] Practice ETB 🔁 every day 
 - [ ] Apply job 🔁 every day 
 
-- read new duncan draft
-- pad out the outlines
-
-- ask Yuki if she's able to **lase Akachukwu's sample**
-	- no need to wait for the gas, but also **have you gotten the gas**?  When does VWR close?  Do you know how to use the cylinder straps?
-	- 
-
-
-
-re-sign lease
-remind Yuki about gas cylinder, alternative systems to practice lasing, papers
-
 Subgroup Meeting notes (2026-02-16)
 - I'm good to return with a cane or something in 2 more week
 - Ben S sample --> Yuki
