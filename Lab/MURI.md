@@ -19,6 +19,16 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2026-03-25 Monthly MURI Meeting Notes
+- Alex asks for me to CC him on communications with AC and to be quick when reporting especially negative results to offer them time to iterate
+	- we'll invite AC next week to talk to us about Tainara's results
+	- AC can speak at the next monthly meeting
+- Presentation: Yifan Deng (Hickner group) - VAT printing PDC-SiOC
+	- interesting: DUDMA crosslinker in their works is this big chain that offers them some flexibility in a way that reminds me of Allcock's description of the siloxane backbone
+- Thought to self
+	- Alex is worried he and AC aren't integrated or writing enough; it'd be nice for me to practice a similar system (photochemistry, laser, perhaps even polymer/ceramic) that has been reported in literature
+
+---
 ### 2026-03-19 Profilometry Notes
 - file format: max_zoom_type_number
 - Samples to take

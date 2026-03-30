@@ -159,7 +159,35 @@
 	- YT 'this is better than export' [video](https://youtu.be/PrCza2z0Log)
 	- singing - vibrato [yt video](https://youtu.be/PGzqVmdNJL0)
 	- surface stable fractal dithering [yt video](https://youtu.be/HPqGaIMVuLs)
-	- 
+2026-03-20
+- jobs@intone.com + REQ-00049429 - Data Analyst - Malvern - Contract - Duration: 6 Months
+- https://extensions.blender.org/add-ons/goblend/
+- "download all one drive contents to a backup drive then delete one drive"
+- https://photographylife.com/learn-photography
+- https://www.rp-photonics.com/mode_locking.html
+	- https://www.rp-photonics.com/quasi_continuous_wave_operation.html
+- lab google doc for onedrive placement
+- compare difference sensor sizes low light
+- sonic cutter, Eddy-current_testing
+- https://www.canon.ge/pro/infobank/understanding-focal-length/ ; https://en.wikipedia.org/wiki/Circle_of_confusion
+- important
+	- TAX ACT - https://www.taxact.com/exit/signed-out
+	- OPENAI PAYMENT - https://pay.openai.com/p/session/live_YWNjdF8xSE9yU3dDNmgxbnhHb0kzLF9VNzF5NXBDTk96cGE3bWM2VDVIbmNHY083ZnR5NU9U0100Mse94UT8
+	- ask Ben S for sapphire that I can lase solo
+	- see how spot size changes as I push the focus adjuster one touch at a time through perfect focus
+- new in blender 5.1 [youtube](https://www.youtube.com/watch?v=8r3xoRwwN6I)
+- high vacuum chamber usage [youtube](https://youtu.be/iZ9ieSHOZsg)
+- put the de-tiling script in the repo
+- Kaya commands
+	- windows keep track ssh git
+	- .\Godot_v4.6-stable_win64_console.exe -e ..\..\teamsquirrel\websocket_forwarding_multiplayer\project.godot
+	- checkout -b to make and switch
+- set ANGLE graphics backend to D3D11 WARP from default (brave://flags/#use-angle)
+- wiki
+	- cavitation
+	- PDF, postscript, stream (computing)
+	- laser damage threshold
+- UI [article](https://medium.com/codetodeploy/15-cool-chatgpt-prompts-that-will-fix-your-ui-css-and-code-reviews-in-minutes-fb0745554d79)
 
 
 Vivian cassette -  https://cleanertapes.limitedrun.com/products/873118-cosinevi-perennial-cassette-tape
