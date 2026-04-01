@@ -7,6 +7,7 @@
 	- https://yann.lecun.com/exdb/mnist/
 	- https://www.geeksforgeeks.org/deep-learning/fully-connected-layer-vs-convolutional-layer/
 	- http://neuralnetworksanddeeplearning.com/chap1.html
+- pack managers are evil [article](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
 - danger amorphous vs crystalline silica
 - tonicize rhythm [video](https://youtu.be/5ud-fwdalu0)
 - 3dp iron and other exotic materials [video](https://youtu.be/J8PZWkjt65Q)
@@ -51,6 +52,7 @@
 	- knee pump
 	- knee brace (after healed) [link](https://www.amazon.com/NEENCA-Professional-Patented-Arthritis-Meniscus/dp/B0CY3ZPFND?sr=8-36)
 - YT
+	- microwave ruby [video](https://youtu.be/ybcdRQmQcHQ)
 	- Coding adventure analyzing audio
 	- [Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/@thethoughtemporium)
 	- [Object-oriented vs functional programming in typescript](https://youtu.be/fsVL_xrYO0w)
@@ -189,5 +191,12 @@
 	- laser damage threshold
 - UI [article](https://medium.com/codetodeploy/15-cool-chatgpt-prompts-that-will-fix-your-ui-css-and-code-reviews-in-minutes-fb0745554d79)
 
+https://en.wikipedia.org/wiki/Photographic_lens_design
+https://en.wikipedia.org/wiki/Quadtree
+script vs code
+yt - privacy for sale [video](https://youtu.be/xFKSKjyBVDU)
+
+bonnie tyler to website
 
 Vivian cassette -  https://cleanertapes.limitedrun.com/products/873118-cosinevi-perennial-cassette-tape
+
