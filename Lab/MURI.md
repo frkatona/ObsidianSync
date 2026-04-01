@@ -19,6 +19,20 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2026-04-01 Weekly MURI Meeting Notes
+- to do
+	- send "energy density of a single pulse" to JP
+	- respond to AC (he'll be back sometime in May, he'll try to get me a new sample before then)
+	- re-lase Ben S. sample (ask if he wants me to lase just the unlased spots, because I probably cannot)
+	- people think we should be dissolving and casting the Alex/AC samples --> ask AC what solvent might be good for that some time
+- discussion over the origin of the interplay between thickness, power, and the on-or-off conversion threshold
+	- Ben is still feeling that it's largely a matter of conduction through the material to the substrate
+		- can test with a low conductivity substrate
+	- Ben feels that the real key to determining much of this starts with finding what is absorbing, so we should look at like purified PCOD without catalyst
+	- JP questions if the laser pulses are consistent
+		- Ben has an idea with coupons, but probably just buying/borrowing a power meter would be most direct if possible
+
+---
 ### 2026-03-25 Monthly MURI Meeting Notes
 - Alex asks for me to CC him on communications with AC and to be quick when reporting especially negative results to offer them time to iterate
 	- we'll invite AC next week to talk to us about Tainara's results
