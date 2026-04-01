@@ -1,4 +1,10 @@
-### 2026-03-11 Squirrel Racer meeting notes
+### 2026-03-30 Squirrel Racer Meeting Notes
+- Josh did some floor plane creator stuff
+- player character causing performance issue
+	- try combining meshes (do a join see if animation stays the same)
+	- swap it out and watch frames
+
+### 2026-03-11 Squirrel Racer Meeting Notes
 - see recording
 - thinking about making inherited scenes for the three girls having different hair
 - thinking about blendspaces to replace the set_blend_time commented out in survivors_player_character_model
