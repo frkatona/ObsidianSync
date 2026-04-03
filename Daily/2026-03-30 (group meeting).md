@@ -19,6 +19,7 @@
 		- pull screenshots of HPC comsol attempts
 		- revisit thermal sim code
 		- rehearse research talk
+	- Ben notes: "could we use burn paper/annodized plates _under_ a sample to see how much power comes through the sample during an experiment?"
 
 closed tabs
 - thor labs CF vacuum flanges
