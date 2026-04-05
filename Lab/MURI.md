@@ -149,7 +149,7 @@ Absorption mechanisms to explore:
 - thought: maybe mix a bit with CB
 ---
 ### 2026-02-25 Meeting Notes (monthly)
-- transcript here: [[2026-02-25_online-MURI-meeting]]
+- transcript here: [[2026-02-25_monthly-MURI-meeting]]
 - before
 	- thermal sim
 	- implement scaling factors from the manual and meet with Ben L before

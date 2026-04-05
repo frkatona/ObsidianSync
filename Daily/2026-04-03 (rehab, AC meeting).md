@@ -1,5 +1,5 @@
 ### to-do
-- rsvp to sadia's thing
+- [ ] rsvp to sadia's thing
 - CRV engine
 - pull Kaya branch
 - buy keyboard or clean alt key
@@ -9,12 +9,11 @@
 - improve video downloader
 - return tripod
 
-- tell Tainara that it would be worth reporting if:
+- [x] tell Tainara that it would be worth reporting if:
 	- she sees any Si-C-H
 	- or "even 1% SiC"
 
 CC Aiichiro and Nabankur along with AC and Alex on all silicon-related stuff
-
 
 tabs
 - JP
@@ -32,4 +31,11 @@ tabs
 - https://www.youtube.com/watch?v=P1VmIYheuU4&t=1056s
 - MURI thoughts slide
 - https://dinopoloclub.itch.io/rtfm
-- 
+
+- https://en.wikipedia.org/wiki/Brewster_angle
+	- depends on interfacing materials (IOR ratio) and wavelength of light
+		- visible + air-water --> 53°
+		- visible + air-glass --> 56°
+	- applications
+		- Brewster's microscopes - distinguish surface vs below
+		- Brewster's windows - 
