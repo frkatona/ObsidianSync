@@ -1,0 +1,4 @@
+- 9 weeks to find a job
+- buy
+	- SD card
+	- tripod

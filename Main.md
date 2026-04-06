@@ -5,24 +5,13 @@ Home
 - [ ] Practice ETB 🔁 every day 
 - [ ] Apply job 🔁 every day 
 
-Subgroup Meeting notes (2026-02-16)
-- I'm good to return with a cane or something in 2 more week
-- Ben S sample --> Yuki
-	- did he say he had something?
-	- do we have the 
-- Heat transfer project
-	- asdf
-- Profilometer project
-	- where did you find the manual?
-	- what does that other number mean?
-	- If those really are just microns, then the sample is pretty huge
-	- tried a few interpolation methods.  
-		- somewhat meaningful differences, but I don't think Kriger is actually useful here
+### 2026-03-31 notes for improving PDF reader from Ben
+ready to paste format
+pdf++
 
-making a paper library like the material library
-- representative image
-- json with keywords
-- also browser-based
+script to view online and notify when:
+	new software versions release (Godot, Blender, etc.)
+	- marketplace (FB, ebay, craigslist) of certain type items appear within price range (e.g., 30% - 60% MSRP, -"for parts") 
 
 - Lab
 	- Yuki

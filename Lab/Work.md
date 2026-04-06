@@ -17,6 +17,36 @@
 	- something testable and falsifiable
 - how you'll test hypothesis
 ---
+### 2026-04-06 group meeting
+- Subgroup
+	- to-do
+		- respond Ben discord
+		- gather thoughts on profilometry
+		- present thoughts on laser fluence to translate to JP's laser
+		- MURI budget discussion
+			- what should I prioritize before I leave?  Will Yuki be doing this work?  
+	- discuss
+		- met with AC and Nabankur
+			- Nabankur says the threshold for success is pretty low for writing a high impact paper - "1% SiC product" or "even Si-C-H instead of Si-C"
+				- it's not clear if that's helpful for Tainara, but AC is making more of the last sample stuff to cast in CHCl3 as well as some new stuff (will come "as an oil")
+		- MURI CUI form
+		- talk camera (phones better, consider trying makeshift extension tube)
+			- coding an auto-focus on the computer side
+- Group meeting (Kristen Research Talk)
+	- to-do
+		- prep hypothesis slide (temperature measurement)
+			- background
+				- high temperatures benefits: speed, but also
+				- unique chemical products from the thermal pathways that exist in massive gradient conditions
+				- Tian-Chi's underwater stuff (thermally locking the surface at 100C) stands to introduce an even steeper gradient than previously explored
+			- hypothesis
+				- asdf
+			- experiment
+				- complications
+	- notes
+		- ask Kristen when she'll wear something nice so I can bring in my green screen
+
+---
 ### 2026-03-23 Yuki Talk
  General
 - verbose
