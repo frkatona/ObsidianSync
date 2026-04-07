@@ -2,6 +2,7 @@
 - explore tweens to replace animation players if I want more than 1 or 2 per large area
 - Kaya would like to incorporate this week's FL Thurs track (heave-ho)
 	- "general slow build with a little bit of energy is good exploration vibes"
+	- she kinda likes the idea of using it as is, but she'll let me know if I should modify it
 
 ### 2026-03-30 Squirrel Racer Meeting Notes
 - Josh did some floor plane creator stuff
