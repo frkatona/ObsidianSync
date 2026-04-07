@@ -19,6 +19,12 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2026-04-03 Nabankur + AC Meeting Notes
+- transcript: [[2026-04-03_nabankur-AC-meeting]]
+- updated Nabankur on Tainara having samples
+	- he mentioned that the threshold for successful conversion and markers of success are quite low (even 1% SiC or even Si-C-H instead of SiC would be enough for a high-impact paper)
+- more samples coming from AC in the coming weeks
+
 ### 2026-04-01 Weekly MURI Meeting Notes
 - to do
 	- send "energy density of a single pulse" to JP
@@ -34,6 +40,7 @@ Absorption mechanisms to explore:
 
 ---
 ### 2026-03-25 Monthly MURI Meeting Notes
+- transcript: [[2026-03-25_monthly-MURI-meeting]]
 - Alex asks for me to CC him on communications with AC and to be quick when reporting especially negative results to offer them time to iterate
 	- we'll invite AC next week to talk to us about Tainara's results
 	- AC can speak at the next monthly meeting
@@ -139,6 +146,7 @@ Absorption mechanisms to explore:
 	- when can we do optical profilometry
 ---
 ### 2026-02-27 Meeting Notes (AC + Nabanankur)
+- transcript: [[2026-02-27_Akachukwu-meeting]]
 - try 350 nm (or as low as we can go) on AC's samples on Monday
 - ask Tainara
 	- if JP has a TGA-MS to try with Akachukwu's samples (250 C original samples didn't melt - look at decomposition profile)
@@ -149,7 +157,7 @@ Absorption mechanisms to explore:
 - thought: maybe mix a bit with CB
 ---
 ### 2026-02-25 Meeting Notes (monthly)
-- transcript here: [[2026-02-25_monthly-MURI-meeting]]
+- transcript: [[2026-02-25_monthly-MURI-meeting]]
 - before
 	- thermal sim
 	- implement scaling factors from the manual and meet with Ben L before

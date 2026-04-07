@@ -1,11 +1,21 @@
+### 2026-04-06 Squirrel Racer Meeting Notes
+- explore tweens to replace animation players if I want more than 1 or 2 per large area
+- Kaya would like to incorporate this week's FL Thurs track (heave-ho)
+	- "general slow build with a little bit of energy is good exploration vibes"
+
 ### 2026-03-30 Squirrel Racer Meeting Notes
 - Josh did some floor plane creator stuff
 - player character causing performance issue
 	- try combining meshes (do a join see if animation stays the same)
 	- swap it out and watch frames
+- I switched to the windows client for better frames (jumped from web's average of maybe ~10-20) to my display max of 120), but it dropped to ~20-60 within a few minutes 
+- we spent a while trying to figure out why frames were dropping in strange scenarios, e.g., when I would climb a certain specific hill
+	- the performance bug seemed difficult to replicate while Kaya's and Josh's characters were in my immediate vicinity
+	- initially it was thought to be related to the loading and unloading of adjacent tiles as I crossed the boundary, but that ultimately seemed unrelated, particularly because the performance issues persisted when I stayed within a chunk and was somehow linked to me keeping a movement key pressed down
+	- Kaya noticed that there were far too many draws being made, usually nearly as many as there were objects in the scene
 
 ### 2026-03-11 Squirrel Racer Meeting Notes
-- see recording
+- transcript: [[2026-03-11_Kaya-SquirrelRacer-project-tutorial]]
 - thinking about making inherited scenes for the three girls having different hair
 - thinking about blendspaces to replace the set_blend_time commented out in survivors_player_character_model
 - consider renaming the first and last bones in the hairs to root and end ("as long as you know which one it doesn't really matter")
