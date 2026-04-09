@@ -29,6 +29,8 @@
 		- met with AC and Nabankur
 			- Nabankur says the threshold for success is pretty low for writing a high impact paper - "1% SiC product" or "even Si-C-H instead of Si-C"
 				- it's not clear if that's helpful for Tainara, but AC is making more of the last sample stuff to cast in CHCl3 as well as some new stuff (will come "as an oil")
+				- Ben: XPS, Raman may provide evidence for scant Si-C;
+					- also pick brains of MSC people "we just want to know if there's any of these things"
 		- MURI CUI form
 		- talk camera (phones better, consider trying makeshift extension tube)
 			- coding an auto-focus on the computer side
@@ -45,6 +47,10 @@
 				- complications
 	- notes
 		- ask Kristen when she'll wear something nice so I can bring in my green screen
+		- ask Ben if I should pull the trigger on <7k chamber/optics for NURP
+			- also crystal laser
+			- *think on* what material I could lase and test (IR?) with the MIG weld setup to verify it is good enough
+			- can I buy an adjustable 1/4" threaded 2D mount/tripod for the camera (contact angle)
 
 ---
 ### 2026-03-23 Yuki Talk
