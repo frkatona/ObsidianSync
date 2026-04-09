@@ -11,7 +11,20 @@
 - full frame, 24 MP
 - <$1000 body on ebay (though YT video suggested <$600 last year?)
 - "L-mount alliance" ecosystem
-	- (compatibiilty between Panasonic, Sigma, Leica, and some 3rd parties)
+	- compatibility between Panasonic, Sigma, Leica, and some 3rd parties
+	- e.g., Lumix S-series, Leica SL/TL lenses, Sigma DG DN lenses
+	- cheap, adaptable M42 prime lenses
+		- adapters
+			- $20-30 M42 to L-mount adapter
+			- $20-30 Nikon F to L-mount adapter
+			- macro
+				- helicoid
+				- focal reducer
+				- reverse adapter
+		- $100 fast wide-angle - asdf (35 mm, f/1.4)
+		- $30 normal - Industar (50 mm)
+		- $88 telephoto - [Takamur](https://www.oldcamsbyjens.com/products/takumar-135mm-f-2-5?variant=44823675601161) (135 mm)
+		- $100 far telephoto - Pentax Takumar (300 mm, f/4)
 - USB-C + HDMI mini
 - 10 bit v-log footage
 - 96 MP "high resolution mode"
