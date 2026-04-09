@@ -1,0 +1,8 @@
+- check boiled eggs (floating)
+- timeline
+	-  Chelsea pickup - 11:00
+	- Ben S. - 1:00 
+	- Tian Chi - 3:30
+- lab
+	- bring drill (acrylic)
+	- bring camera (macro test + sample)

@@ -9,13 +9,13 @@
 
 ### migrate to Lumix S5?
 - full frame, 24 MP
-- <$1000 body on ebay
-- `specific lens?`
-- `adapter cable type?`
+- <$1000 body on ebay (though YT video suggested <$600 last year?)
+- "L-mount alliance" ecosystem
+	- (compatibiilty between Panasonic, Sigma, Leica, and some 3rd parties)
+- USB-C + HDMI mini
 - 10 bit v-log footage
 - 96 MP "high resolution mode"
 	- '[pixel shift multi shooting](https://scene.sonyanz.com/articles-and-resources/the-joys-of-pixel-shift)' (super-Bayer sampling)
 - more modern apps (phone/PC control and transfer)
-- "L-mount alliance" ecosystem
-	- (compatibiilty between Panasonic, Sigma, Leica, and some 3rd parties)
+
 - still has IBIS
