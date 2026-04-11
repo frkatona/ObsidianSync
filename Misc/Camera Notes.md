@@ -21,14 +21,12 @@
 				- helicoid
 				- focal reducer
 				- reverse adapter
-		- $100 fast wide-angle - asdf (35 mm, f/1.4)
+		- $120 fast wide-angle - [7Artisans](https://www.mpb.com/en-us/product/7artisans-35mm-f2f14-leica-l-fit/sku-3804986) (35mm, f/1.4, L-fit)
 		- $30 normal - Industar (50 mm)
-		- $88 telephoto - [Takamur](https://www.oldcamsbyjens.com/products/takumar-135mm-f-2-5?variant=44823675601161) (135 mm)
-		- $100 far telephoto - Pentax Takumar (300 mm, f/4)
+		- $20 telephoto - [Misc](https://www.keh.com/shop/miscellaneous-brand-135mm-f-2-8-auto-m42-screw-mount-manual-focus-lens-55-695282.html?aid=243866-961078)) (135 mm, f/2.8, M42 Screw Mount)
 - USB-C + HDMI mini
 - 10 bit v-log footage
 - 96 MP "high resolution mode"
 	- '[pixel shift multi shooting](https://scene.sonyanz.com/articles-and-resources/the-joys-of-pixel-shift)' (super-Bayer sampling)
 - more modern apps (phone/PC control and transfer)
-
 - still has IBIS
