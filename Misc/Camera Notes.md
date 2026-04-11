@@ -7,6 +7,28 @@
 - strain relief?  bespoke adapter cable?
 - extension tubes
 
+### selling current cameras
+- a7s ii
+	- bought $575 (including shipping + tax)
+	- shutter count <7000 (hardly used)
+- a6400
+	- bought $830 (including shipping + tax)
+	- description
+		- 24.2 MP APS-C mirrorless camera
+		- 4K 30p video
+		- 0.02 s autofocus + real-time tracking
+		- 11 fps burst shooting
+		- 180 degree flip screen
+		- ISO expandable to 102,400
+		- 3.5mm microphone jack
+		- metal body
+		- transfer photos through wifi, bluetooth, or NFC
+		- retails $1100 new ([Sony](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b))
+		- shutter count < ?
+- Sony FE 24-240 mm f3.5/6.3 OSS lens
+	- bought $440 (including shipping + tax)
+- Sony FE 50mm f/1.8
+	- bought $174 (including shipping + tax)
 ### migrate to Lumix S5?
 - full frame, 24 MP
 - <$1000 body on ebay (though YT video suggested <$600 last year?)
