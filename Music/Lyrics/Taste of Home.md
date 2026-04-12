@@ -6,7 +6,7 @@ Bm7 somewhere (TASTE of home?)
 - add a b7 and then 6
 ### Verse 1a
 Take off and fallen back to Earth
-(Baseline from plasticity, freeform talks with Socrates)
+(Baseline authenticity, freeform talks with Socrates)
 
 Take off, but you'll never see return
 (Non-conformal Listerine for hydro-electricity)
@@ -19,10 +19,10 @@ Give it back when you're done, or don't you
 know? (oh oh oh)
 
 When you face a taste of home
-Help yourself, but stay alone
+Help yourself, though you've outgrown (unknown)
 
-Unknown and sharp to shape,
-the silicone you spill on your whet-
+Unknown and sharp to shame,
+the silicone you spill when you're al-
 
-stone
+one
 (oh uhoh oh)
