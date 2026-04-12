@@ -1,0 +1,9 @@
+- meet Yuki at 11:20
+- Go to thrift store
+	- cups/plates
+- Practice
+	- godot (basics + kaya textures)
+	- music (originals for omn tomorrow)
+- read Kristen's thesis
+- apply job
+	- Data Science Research and Development Engineer
