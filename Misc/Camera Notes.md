@@ -1,21 +1,25 @@
-## 2026-04-04
-
 ### personal buy considerations:
 - $484 Sony FE 24-240 mm f3.5/6.3 OSS lens ([mpb](https://www.mpb.com/en-us/product/sony-fe-24-240mm-f-3-5-6-3-oss/sku-3692813))
 - $295 DaVinci Resolve upgrade
 - shot microphone?  how to connect existing IEM setup to the mixer?
 - strain relief?  bespoke adapter cable?
 - extension tubes
-
 ### selling current cameras
 - a7s ii
 	- bought $575 (including shipping + tax)
-	- shutter count <7000 (hardly used)
+		- $900 on MPB for similar condition
+	- shutter count <7000 (like new)
+	- designed for low noise in low-light conditions
+	- metal frame
+	- 5-axis in-body image stabilization
+	- ISO up to 409,600
+	- records internal 4K (3840x2160) at 30p and 1080p at 120fps
 - a6400
 	- bought $830 (including shipping + tax)
 	- description
 		- 24.2 MP APS-C mirrorless camera
 		- 4K 30p video
+		- shutter count <7000 (hardly used)
 		- 0.02 s autofocus + real-time tracking
 		- 11 fps burst shooting
 		- 180 degree flip screen
@@ -24,9 +28,16 @@
 		- metal body
 		- transfer photos through wifi, bluetooth, or NFC
 		- retails $1100 new ([Sony](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b))
-		- shutter count < ?
 - Sony FE 24-240 mm f3.5/6.3 OSS lens
 	- bought $440 (including shipping + tax)
+	- retails $1350 new ([Sony](https://electronics.sony.com/imaging/lenses/full-frame-e-mount/p/sel24240?mg=pmax&gad_campaignid=20288277529))
+	- description
+		- Sony SEL24240 FE mirrorless camera lens
+		- 10x zoom from 24 mm to 240 mm (minimum 50 cm focal distance)
+		- dust and moisture resistant
+		- small crack in the aluminum body
+		- no issues with over a year of shooting, hasn't grown any bigger since it happened
+		- includes a K&F Concept Nano-K Series UV filter
 - Sony FE 50mm f/1.8
 	- bought $174 (including shipping + tax)
 ### migrate to Lumix S5?
