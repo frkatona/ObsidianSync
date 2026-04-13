@@ -1,0 +1,26 @@
+home
+- kaya textures
+- apply to another ARL job
+work
+- laser
+	- continue testing sapphire
+	- ask Yuki when she's coming in
+	- take a UV/vis on the 1 and 10 um samples
+	- get the samples to Tainara
+- Tian-chi
+	- find a good simulator or VS Code plugin for the 6x thermo probe + wifi
+		- can start making with placeholders
+			- wifi AP + app
+			- signals at 1 Hz
+			- csv of data updates
+- meetings
+	- subgroup
+		- talk about the samples
+			- Ben S is having a hard time reliably making anything over 1 um
+		- pitch a UHV system
+			- housing - ?
+			- window (532 nm - 1064 nm, probably fused quartz)
+			- window (<400 nm, probably ?)
+	- group
+		- hypothesis slide
+			- read more on the sapphire ablation mechanism (how much heat?)

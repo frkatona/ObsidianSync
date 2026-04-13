@@ -9,7 +9,7 @@ Home
 ready to paste format
 pdf++
 
-script to view online and notify when:
+script to view online and notify when
 	new software versions release (Godot, Blender, etc.)
 	- marketplace (FB, ebay, craigslist) of certain type items appear within price range (e.g., 30% - 60% MSRP, -"for parts") 
 
