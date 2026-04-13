@@ -14,6 +14,17 @@
 	- 5-axis in-body image stabilization
 	- ISO up to 409,600
 	- records internal 4K (3840x2160) at 30p and 1080p at 120fps
+
+The Sony a7s ii was $3000 when it was released.  That was a decade ago, but to this day it is an absolute monster for low-light situations, particularly low-light video, with a full frame sensor, 4K internal recording, and ISOs over 400,000 (the 's' stands for 'sensitive').  
+
+5-axis in-body image stabilization, controllable through phone or PC through USB-C.  Hardly used with a <7000 shutter count and only 2 sub-millimeter scratches on the body that I could find.  Works perfectly.
+
+I've just been getting into video editing and want to purchase something capable of recording 10-bit video, which is unfortunately one of the few
+
+I'll throw in a battery and a low-storage SD card
+
+I'd rather not deal with shipping, but if it isn't sold within 1 week, I will drop the price by a bit and then post it on EBay.
+
 - a6400
 	- bought $830 (including shipping + tax)
 	- description
