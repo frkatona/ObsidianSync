@@ -2,6 +2,7 @@
 - kaya textures
 - apply to another ARL job
 - move obsidian to google drive (what is the current repo size?)
+- put floss on desk
 
 ### work
 - MURI
