@@ -9,7 +9,7 @@
 	- laser
 		- [ ] continue testing sapphire with different dwell and pulses
 			- when is Yuki coming in?  10:30ish?
-			- [ ] check the 808 laser (or just plug in the other laser to the 3DP collimator)
+			- [x] check the 808 laser (or just plug in the other laser to the 3DP collimator)
 		- maybe try different parameters or CW or CO2 or focused 355 nm (focused?) on the extra 1 um samples
 		- get the samples to Tainara
 - safety check prep
@@ -21,7 +21,7 @@
 	- thermocouple set-up
 		- [ ] ask Emma if she has an update (check office?)
 		- find a good simulator or VS Code plugin for the 6x thermo probe + wifi
-		- [ ] make placeholders
+		- [x] make placeholders
 			- wifi AP + app
 			- signals at 1 Hz
 			- csv of data updates
@@ -39,7 +39,8 @@
 			- [ ] read more on the sapphire ablation mechanism (how much heat?)
 
 
-get back to steak knife lady
+- post a reminder for next week both to Emma to give the presentation and to everyone else that it will be a hypothesis talk
+- get back to steak knife lady
 
 closed tabs
 - https://www.johnphelpsmusic.com/new-blank-page
