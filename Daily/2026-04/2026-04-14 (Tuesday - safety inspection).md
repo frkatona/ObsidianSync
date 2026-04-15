@@ -1,5 +1,5 @@
 work
-- Budget DN100CF
+- Budget DN100CF laser air-free (vacuum + flow) chamber
 	- $720 - cube ([ebay](https://www.ebay.com/itm/336467314008?chn=ps&google_free_listing_action=view_item))
 	- $1200 - door, windowless ([Kurt J Lesker](https://www.lesker.com/flanges/fast-entry-access-load-lock-doors/part/ds-ll0600))
 	- $450 - fused silica window ([ebay](https://www.ebay.com/itm/146888980432?chn=ps&google_free_listing_action=view_item))

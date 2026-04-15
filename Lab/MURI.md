@@ -19,6 +19,21 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2026-04-15 Weekly MURI Meeting Notes
+- showed the 10um results (transformed at 20% and 10% power)
+- showed the 1 um results (the rest of the samples) and we all expressed confusion over the partial transformation observed at 100% power
+	- Rob thinks this means we might want to actually just re-do all these samples
+- Pass off all samples to Tainara
+- Rob thinks we should look more intently at the 1 um stuff since something about the mechanism is eluding us
+	- I mentioned that an alternative is to just move forward with the thicknesses we know work to explore the kinds of products that emerge while we vary other parameters
+	- He says "maybe best is to do 1 um, 5 um, 10 um at whatever laser parameters we know works"
+	- I had a talk with him about how incubation may help explain JP's struggle to replicate the results (i.e., maybe it needs pre-warmed) and he seemed reluctant to approach the notion, but ultimately seemed open to testing it eventually after power- and thickness-focused studies
+- Rob had to go and after, I mentioned to Ben S that free-standing sample and polished sapphire samples would be nice for approaching the mechanism
+- **Note to self:** 
+	- For these next samples, maybe I should ask Jackie to reserve profilometry first, or maybe Tian-Chi?  Ask Tian-Chi if she's fully trained
+- Ben S is giving me more samples:
+	- asdf
+
 ### 2026-04-03 Nabankur + AC Meeting Notes
 - transcript: [[2026-04-03_nabankur-AC-meeting]]
 - updated Nabankur on Tainara having samples
