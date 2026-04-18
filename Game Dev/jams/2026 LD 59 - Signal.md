@@ -17,4 +17,4 @@
 	- demonstration
 		- whistle, gesture, signboard, turn signal, hand signal, semaphore
 	- like signal-to-noise
-		- signal-to-noise, radio chatter, cross-talk, chirp, electrical, wifi, reception, signal processing, sine/square/triangle/sawtooth, circuits
+		- radio chatter, cross-talk, chirp, electrical, wifi, reception, signal processing, sine/square/triangle/sawtooth, circuits, aliens, metal detector
