@@ -1,3 +1,6 @@
+### 2026-04-16 Notes
+- opened two projects
+
 ### 2025-09-25 Notes
 - Start with vocal warmups
 - Find range and passagio
