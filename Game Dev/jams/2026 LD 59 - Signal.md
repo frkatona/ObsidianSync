@@ -8,8 +8,6 @@
 		- internal Blender
 		- UI (menus, start)
 		- player controller
-
-
 ## Theme: "Signal"
 - in what sense
 	- warning/awareness
@@ -26,3 +24,11 @@
 	- ray gun for killing basic enemies
 	- other detector for seeing invisible enemies
 		- later introduce rooms which are totally dark but adequate use of the tool can allow both navigation of the room and the enemies
+
+make robot enemies to emit signals
+- have player tune the speed of their pulse as a compromise between seeing things faster vs hovering on nearby objects/enemies longer
+
+josh ideas:
+- make placeholder capsule enemy which hurts player on contact
+- make combat system with placeholder stick to swat at enemies, knocking them back (maybe kill them eventually, maybe not, idk)
+- ramp up volume on a noise channel when an enemy is near
