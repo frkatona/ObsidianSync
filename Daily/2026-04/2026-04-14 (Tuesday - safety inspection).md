@@ -16,7 +16,6 @@ work
 	- current total: ~$2500
 - also buy:
 	- UV mirrors
-	- power bank?
 
 tomorrow
 - pick up package
