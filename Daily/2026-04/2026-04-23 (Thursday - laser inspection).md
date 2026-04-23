@@ -7,3 +7,6 @@
 - read Jackie's references (?)
 ### Home
 - glassdoor applications x2
+- look up preferred way to deal with cardboard
+- download papers in "january papers" bookmarks folder to delete folder and put them in the library manager
+- get the google drive library sync working

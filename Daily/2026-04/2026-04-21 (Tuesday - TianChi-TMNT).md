@@ -4,9 +4,7 @@
 	- [ ] work on track
 	- [x] respond about Friday ✅ 2026-04-21
 - Respond Emily
-- look up preferred way to deal with cardboard
-- download papers in "january papers" bookmarks folder to delete folder and put them in the library manager
-- get the google drive library sync working
+
 - re-add parsec etc. to work on codex projects from laptop
 - play other LD59 games
 	- https://ldjam.com/events/ludum-dare/59/are-we-zer-yet
