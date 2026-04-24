@@ -54,3 +54,7 @@ When you feel you're on your own
 keep it up and you'll make it so
 
 Unfold and make a break,
+
+
+
+shadows, reflections, and echoes

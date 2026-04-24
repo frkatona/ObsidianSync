@@ -69,7 +69,7 @@
 	- email: bz6@psu.edu
 	- phone: (814) 865-2895
 - Dr. Zackary Rhoden
-	- Associate Teaching Faculty
+	- Assistant Analytical Lab Director
 	- relationship: coworker
 	- email: zcr5008@psu.edu
 	- phone: (814) 863-1347

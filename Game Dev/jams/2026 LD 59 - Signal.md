@@ -32,3 +32,10 @@ josh ideas:
 - make placeholder capsule enemy which hurts player on contact
 - make combat system with placeholder stick to swat at enemies, knocking them back (maybe kill them eventually, maybe not, idk)
 - ramp up volume on a noise channel when an enemy is near
+
+
+played games:
+- [ ] https://ldjam.com/events/ludum-dare/59/hidden-messages
+- [ ] https://ldjam.com/events/ludum-dare/59/logic-emitter
+- [ ] https://ldjam.com/events/ludum-dare/59/into-the-nightmare
+- [ ] 

@@ -1,5 +1,16 @@
+### 2026-04-24 Notes
+- Tim needs to drop his car off at the shop and get a
+
 ### 2026-04-16 Notes
 - opened two projects
+	- Citizen Beware
+	- Out of Time (name ?)
+- I added some placeholder drums, lead guitar, and fx, just so Tim could hear his voice in context, and sent them via text
+	- added a ~E locrian tapping solo which seemed to fit to the 'Out of Time' instrumental
+- Tim not satisfied with his performance on these, so he'll come back another day
+	- Next time I'd like to warm up with him, partially for his stability/range, but mostly for his character
+		- When asked what inspiration he might draw his envisioned vocal character from, he said the original singer, who has a very Roger Daltry kind of in-your-face mania
+	- Tim has been taking voice lessons, doing SOVT training and scales, both linear and intervals
 
 ### 2025-09-25 Notes
 - Start with vocal warmups
