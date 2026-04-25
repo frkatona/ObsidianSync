@@ -1,5 +1,9 @@
+### 2026-04-25 Notes
+- asdf
+
 ### 2026-04-24 Notes
-- Tim needs to drop his car off at the shop and get a
+- Tim needs to drop his car off at the shop, but he'll try to come around 1 PM
+	- he wants to get housework done at this time instead since tomorrow is rainy, so he'll come **tomorrow** (**Saturday, 4/25**) instead
 
 ### 2026-04-16 Notes
 - opened two projects
