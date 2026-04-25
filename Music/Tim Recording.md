@@ -1,9 +1,13 @@
 ### 2026-04-25 Notes
-- asdf
+- I told Tim my thoughts on the flat vocal character via text:
+> You have better and worse days with melody and projection, but to be clear, I think the energy is low with these tracks across performances. I think the gravelly low-end of your register in many songs can evoke a frailty or exasperation (e.g., Everybody's Looking --> "keep their blues away") or a fun kind of depravity (e.g., Ducks with Blood --> "hold by neck to poor"), but the register you need for the melodies in Citizen Beware call for a higher energy than I think you're used to, and so they hit flat like a schoolroom pledge of allegiance I think just getting comfortable navigating the high end of your range from the exercises you're doing with your vocal teacher will naturally help with this, but I thought it could be worth just keeping in the back of your mind during practice
+- and he replied:
+> I’ve realized that at home I am a restricted. Live, I feed off the crowd energy. I haven’t sung in a studio setting in decades. Just played guitar. It’s neither home nor live for a crowd. I’ve got to create my own energy.
+- 
 
 ### 2026-04-24 Notes
 - Tim needs to drop his car off at the shop, but he'll try to come around 1 PM
-	- he wants to get housework done at this time instead since tomorrow is rainy, so he'll come **tomorrow** (**Saturday, 4/25**) instead
+	- he wants to get housework done at this time instead since tomorrow is rainy, so he'll come **tomorrow** (**Saturday, 4/25**) at 1:00 instead
 
 ### 2026-04-16 Notes
 - opened two projects
