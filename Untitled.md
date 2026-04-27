@@ -1,8 +1,0 @@
-- chapter 1 
-	- just pages 3-7
-- chapter 2
-	- just skim it, don't take more than ~10-20 minutes, just writing down the key words/concepts
-	- allocate a little more time to understanding crosslinking
-	- maybe a few minutes on mechanical properties too
-- chapter 4 - polysiloxanes
-	- I would spend no more than an hour here, just focus on the parts that help you answer "why is PDMS unique/useful"
