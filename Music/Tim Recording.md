@@ -21,6 +21,7 @@
 			- [ ] add crashes (especially after solo)
 			- [ ] outro section 3:44
 		- [ ] try out bass
+	- I swapped out Tim's preset to other presets, but his preset is saved in my customs (also try to remember to actually let him sit and dial in settings for next time to save as permanent presets)
 
 - I talked to Tim about the downward inflection in his phrases and he recognizes them and ascribes them to breath control
 - sent an "out of time" draft on Monday night (4/27)
