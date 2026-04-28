@@ -3,15 +3,27 @@
 > You have better and worse days with melody and projection, but to be clear, I think the energy is low with these tracks across performances. I think the gravelly low-end of your register in many songs can evoke a frailty or exasperation (e.g., Everybody's Looking --> "keep their blues away") or a fun kind of depravity (e.g., Ducks with Blood --> "hold by neck to poor"), but the register you need for the melodies in Citizen Beware call for a higher energy than I think you're used to, and so they hit flat like a schoolroom pledge of allegiance I think just getting comfortable navigating the high end of your range from the exercises you're doing with your vocal teacher will naturally help with this, but I thought it could be worth just keeping in the back of your mind during practice
 - and he replied:
 > I’ve realized that at home I am a restricted. Live, I feed off the crowd energy. I haven’t sung in a studio setting in decades. Just played guitar. It’s neither home nor live for a crowd. I’ve got to create my own energy.
+
 - citizen beware notes
 	- asdf
 - out of time notes
-	- redo line around bar 66
-	- Tim is considering keeping the double tracked vocals
-	- the guitar could have more grit to it
-	- shorten the beginning part
-	- at the very end (the last two "out of times") add some guitar parts
+	- [x] redo line around bar 66
+	- [x] Tim is considering keeping the double tracked vocals
+	- [x] the guitar could have more grit to it
+	- [x] shorten the beginning part
+	- [ ] at the very end (the last two "out of times") add some guitar parts
 	- on soundcloud, this song is called "eraserhead live at the electric banana 1984" maybe called "drive me crazy" and it might not have this
+	- Notes to self: 
+		- [ ] change drums for section at ~0:45 (Chorus?)
+		- [ ] add a slide-in for the guitar solo first note
+		- [ ] change the crazy solo part (maybe just miserlou around to different frets?)
+		- [ ] general drum changes
+			- [ ] add crashes (especially after solo)
+			- [ ] outro section 3:44
+		- [ ] try out bass
+
+- I talked to Tim about the downward inflection in his phrases and he recognizes them and ascribes them to breath control
+- sent an "out of time" draft on Monday night (4/27)
 
 ### 2026-04-24 Notes
 - Tim needs to drop his car off at the shop, but he'll try to come around 1 PM

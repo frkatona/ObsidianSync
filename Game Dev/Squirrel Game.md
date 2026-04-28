@@ -1,3 +1,10 @@
+### 2026-04-27 Squirrel Racer Meeting Notes
+- pre notes
+	- LD59 - did anyone try the updated game? or play any other LD games?
+	- YARG --> midi controller + drums + keyboard
+	- made greebles, try to make another environment texture
+
+
 ### 2026-04-06 Squirrel Racer Meeting Notes
 - explore tweens to replace animation players if I want more than 1 or 2 per large area
 - Kaya would like to incorporate this week's FL Thurs track (heave-ho)
