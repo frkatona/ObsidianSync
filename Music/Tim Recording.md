@@ -3,7 +3,15 @@
 > You have better and worse days with melody and projection, but to be clear, I think the energy is low with these tracks across performances. I think the gravelly low-end of your register in many songs can evoke a frailty or exasperation (e.g., Everybody's Looking --> "keep their blues away") or a fun kind of depravity (e.g., Ducks with Blood --> "hold by neck to poor"), but the register you need for the melodies in Citizen Beware call for a higher energy than I think you're used to, and so they hit flat like a schoolroom pledge of allegiance I think just getting comfortable navigating the high end of your range from the exercises you're doing with your vocal teacher will naturally help with this, but I thought it could be worth just keeping in the back of your mind during practice
 - and he replied:
 > I’ve realized that at home I am a restricted. Live, I feed off the crowd energy. I haven’t sung in a studio setting in decades. Just played guitar. It’s neither home nor live for a crowd. I’ve got to create my own energy.
-- 
+- citizen beware notes
+	- asdf
+- out of time notes
+	- redo line around bar 66
+	- Tim is considering keeping the double tracked vocals
+	- the guitar could have more grit to it
+	- shorten the beginning part
+	- at the very end (the last two "out of times") add some guitar parts
+	- on soundcloud, this song is called "eraserhead live at the electric banana 1984" maybe called "drive me crazy" and it might not have this
 
 ### 2026-04-24 Notes
 - Tim needs to drop his car off at the shop, but he'll try to come around 1 PM

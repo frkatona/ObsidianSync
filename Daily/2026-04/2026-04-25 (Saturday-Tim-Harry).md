@@ -1,0 +1,7 @@
+- before Harry's
+	- [x] move laundry
+	- [ ] get YARG working (vocals, drums, guitar 1, guitar 2, keyboard)
+	- [ ] pick up alcohol
+	- [ ] CRV keys
+	- [ ] ben CV, alex message respond, duncan
+	- [ ] read Kristen
