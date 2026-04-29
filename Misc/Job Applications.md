@@ -20,7 +20,7 @@
 	- circuit design/prototyping, signal analysis, micro-controllers
 - Soft skills
 	- asdf
-## Accomplishments / evidence
+## Accomplishments
 - Journal Articles
 	- (2018) Galaxy structure in the ultraviolet: The dependence of morphological parameters on rest-frame wavelength
 	- (2024) Effective photothermal curing of PDMS using ultralow loadings of carbon black
@@ -42,6 +42,7 @@
 		- frkatona.github.io
 		- MURI homepage ("team-page-draft")
 		- Product manager report
+	- 
 
 ## Jobs
 - Chemist II, Chemist III
@@ -78,7 +79,6 @@
 ## Progress
 #### 4/23
 - HSE Specialist - Graymont (Pleasant Gap, PA)
-<<<<<<< HEAD
 
 ---
 ## Alternatively
@@ -88,6 +88,9 @@
 - *hay fever*
 ### 4/25
 -  Associate Manager of Data Analysis - Progressive (Remote)
+
+## 4/29 
+- Database Administrator - Penn State (Remote)
 
 ---
 ## Alternatively

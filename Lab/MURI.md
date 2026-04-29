@@ -19,6 +19,11 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+### 2026-04-29 Monthly MURI Meeting Notes
+- Tainara has TGA data that Rob would like to discuss about getting activation energy
+- I think Rob wants me to run NMR on AC's stuff to see if it's good enough for other testing (TGA-MS?)
+### 2026-04-22 Weekly MURI Meeting Notes
+- Canceled (Rob traveling)
 ### 2026-04-15 Weekly MURI Meeting Notes
 - showed the 10um results (transformed at 20% and 10% power)
 - showed the 1 um results (the rest of the samples) and we all expressed confusion over the partial transformation observed at 100% power
