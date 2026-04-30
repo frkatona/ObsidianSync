@@ -3,7 +3,9 @@
 | Bm7 - - - | - - - - |
 | A7 - - - | - - - - |
 
-I - III7 - vi - IV7
+I - III7 - vi - V7
+
+can add ii7 before V7
 
 Bm7 somewhere (TASTE of home?)
 - add a b7 and then 6
