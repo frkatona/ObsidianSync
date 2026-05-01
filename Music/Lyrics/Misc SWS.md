@@ -1465,4 +1465,171 @@ asdf
 asdf
 
 ---
-### 
+### car keys
+
+[VERSE 1]
+Handle me gently
+when you're helping me up
+Don't stare so intently
+But don't stop so abrupt
+
+If you're asking me questions
+Then I need time to speak
+It stresses me out when
+You start calling me sweet
+
+[Chorus]
+You
+Can be so sentimental
+I can see your just as gentle
+With these memories reflected in your eyes
+
+With me
+The broken cardboard box
+A life of airborn aftershocks
+Addictions, depictions of shattering glass
+
+But I'm melted together
+Just two birds of a feather
+So I can fare any weather
+I can go to wherever you need
+
+[VERSE 2]
+asdf
+asfd
+asdf
+asdf
+
+---
+### Mirror Mirror
+
+Verse1: 
+If every time I
+Felt I was rattled
+Bought up some apples
+Planted the seeds
+
+I'd have an orchard
+That brings me misfortunes
+And sing of the portents
+And my misery
+
+Chorus:
+Mirror, mirror, on that wall
+Keep to yourself what fate will be befall me
+Mirror, mirror, I think it is best
+If we take to our graves what you mean to confess
+
+Verse2:
+Take back what you said
+Get out of my head
+Just let me forget
+And keep it discreet
+
+I'll break out of envy
+Save every penny
+Make up wth plenty
+Get back on my feet
+
+---
+### Street Art
+
+[VERSE 1]
+Who are you
+A gentle mouth with a megaphone
+Who are you
+A lifeless vine found overgrown
+
+[PRECHORUS]
+Who are you
+A ski mask drenched in cold cologne
+Feeling wet with acetone
+The hope of getting high alone
+But knowing they'll keep holding on
+
+Let them go? What a joke
+They'd never do it unprovoked
+Now you know? But it's too late
+Forsaken land I'll consecrate
+
+[CHORUS]
+Superstructure, needs some color
+a little neon green
+Architecture, needs some texture
+to fill the cracks between
+
+[VERSE 2]
+asdf
+
+[WORDBANK]
+architecture
+framework
+superstructure
+in the residential district
+
+---
+### peaceful
+
+
+[VERSE 1]
+grass that reaches up to play
+winds that sing a song
+clouds careen and rock and sway, with
+leaves that dance along
+
+facing up to summer rain
+warm and beating strong
+the kind heart that tries to make you 
+feel like you belong 
+
+---
+
+[PRECHORUS]
+Sinking
+On the brink of falling through
+Unblinking
+If the warmth envelopes you
+
+---
+
+[VERSE 2]
+We find no trouble breathing
+Beneath the ocean waves
+While rays of light are leading us
+through narrow passageways
+
+You climbed inside your bubble
+and invited me inside
+instead of going nowhere
+'cause there's nowhere left to hide
+
+---
+
+[PRECHORUS]
+
+---
+
+[CHORUS]
+I never wear my pockets
+So I never need to pay
+The cost of disbelieving
+Is waking up someday
+
+x2
+
+---
+
+[VERSE 3]
+a higher power can't complain
+if you feel you must refuse
+you'd find and take what else remains
+until they've nothing left to lose
+
+We both have kept our promises
+But in keeping with the trend
+If something ends mishapen
+I find it's better broke than bent
+
+
+[PRECHORUS]
+[CHORUS]
