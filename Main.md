@@ -5,6 +5,10 @@ Home
 - [ ] Practice ETB 🔁 every day 
 - [ ] Apply job 🔁 every day 
 
+5/1/2026 - Rent: $1,800.00
+4/20/2026 - Tenant Charge Sewer: $121.00
+4/15/2026 - Tenant Charge Refuse: $95.64
+5/15 - Power: $287.29
 ### 2026-03-31 notes for improving PDF reader from Ben
 ready to paste format
 pdf++
