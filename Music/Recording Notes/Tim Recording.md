@@ -21,9 +21,16 @@
 			- [ ] add crashes (especially after solo)
 			- [ ] outro section 3:44
 		- [ ] try out bass
+	- I swapped out Tim's preset to other presets, but his preset is saved in my customs (also try to remember to actually let him sit and dial in settings for next time to save as permanent presets)
 
 - I talked to Tim about the downward inflection in his phrases and he recognizes them and ascribes them to breath control
 - sent an "out of time" draft on Monday night (4/27)
+- sent a "citizen beware" draft on Tuesday (4/28)
+	- updated but didn't send an edited version on Thursday (4/30):
+		- added an outro solo
+		- diversified drum loops and added some fills
+		- added a delay to the verb bus
+		- tried a Neutron-based vocal mix chain (undecided, will wait for his call on a re-recording before pursuing further)
 
 ### 2026-04-24 Notes
 - Tim needs to drop his car off at the shop, but he'll try to come around 1 PM

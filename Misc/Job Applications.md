@@ -20,14 +20,14 @@
 	- circuit design/prototyping, signal analysis, micro-controllers
 - Soft skills
 	- asdf
-## Accomplishments / evidence
+## Accomplishments
 - Journal Articles
 	- (2018) Galaxy structure in the ultraviolet: The dependence of morphological parameters on rest-frame wavelength
 	- (2024) Effective photothermal curing of PDMS using ultralow loadings of carbon black
 	- (2025) Photothermal Curing of Polydimethyldisiloxane: Carbon Black Composites Results in Changes to Polymer Topography, Cross-Link Density, and Mass Density
 	- (2025) Rapid photothermal curing of PDMS on paper
 	- S Phillips et al, 2026 (review). Indust. Chem. & Mat, “Nanometer-Scale Surface Roughness. .. ”
-- Built device/instrument
+	- Built device/instrument
 	- gas flow chamber
 	- 3d printed optics parts
 	- teensy ekit module
@@ -42,6 +42,7 @@
 		- frkatona.github.io
 		- MURI homepage ("team-page-draft")
 		- Product manager report
+	- 
 
 ## Jobs
 - Chemist II, Chemist III
@@ -78,7 +79,6 @@
 ## Progress
 #### 4/23
 - HSE Specialist - Graymont (Pleasant Gap, PA)
-<<<<<<< HEAD
 
 ---
 ## Alternatively
@@ -89,8 +89,25 @@
 ### 4/25
 -  Associate Manager of Data Analysis - Progressive (Remote)
 
+### 4/29 
+- Database Administrator - Penn State (Remote)
+- Data Scientist - Center for Black Digital Research (PSU)
+
+### 4/30
+- Indeed
+	- Underwriting Data Analyst - Judy Health (NY, Remote)
+	- Junior Python Developer - Openkyber (Georgia, Remote)
+	- Behavioral Data Scientist - Applied Research and Analysis Company (Remote)
+
+### 5/1
+- asdf
+
 ---
-## Alternatively
+## (5/15) apply out of town
+
+## (6/1) Apply for <$40k jobs
+
+## (7/11) Post-doc ends, apply for unemployment 
 - https://www.pa.gov/services/dli/apply-for-unemployment-compensation-benefits#accordion-15f280c2d3-item-06c0611a83
 
 ---
@@ -185,4 +202,3 @@
 |**Tolerance for ambiguity**|In science/engineering you often want mechanistic clarity before accepting a label like “burned,” “absorbed,” “non-covalent,” or “defect effect.” That rigor is valuable, but ambiguity is unavoidable in early troubleshooting.|
 |**Physical recovery vs ambition mismatch**|Your interest in competitive sports and conditioning may outpace what your knee can safely tolerate at times.|
 |**Follow-through risk**|Because you generate many viable ideas, some projects may stall at the research/planning stage unless narrowed into staged deliverables.|
->>>>>>> origin/main
