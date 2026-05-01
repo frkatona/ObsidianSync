@@ -852,4 +852,617 @@ Wisp through the air, shapleless and unaware,
 singing a breeze that goes unsung
 
 ---
+### Letter on the first voyage
+
+[VERSE 1] (search)
+We're seeking
+30 days to 
+Find the pearls
+And see them brought to focus
+Despite what you had told us,
+
+In a 
+foreign place
+An underworld
+From ptolemeic relics with a 
+yearning for angelic words
+
+[B VERSE] (gentle)
+that burn, but don't hurt,
+that pine, convert
+that wilt with weakened knees
+and beg to play a 
+game of hide and seek
+
+[VERSE 2] (find)
+
+[PRECHORUS] (violent)
+asdf
+asdf
+asdf bells ring
+and no one left objecting
+
+[CHORUS] (dead wrong)
+there are monsters in the boats
+that come from fear of the unknown and though
+a body sinks or floats I warn that if you
+ever want to try you'll die alone
+
+they are animals that marry to the cannibals
+for intermittent mating, never cease their salivating
+asdf
+asdf
+
+[VERSE 3] (treachery - hid lost flagship, stolen pinta, portugal)
+
+---
+### Newspaper Skin
+
+[VERSE 1]:
+Maybe turn those lights back off
+If you fan the flame, don't blame the moth
+For trying to find you, for dying behind you
+
+[PRECHORUS]:
+You put us on this lifeboat,
+Left us to die
+Taught us to pray
+Pointed out to the sky
+
+You made a new collection
+and taught us to swim
+With our sandpaper hearts
+And our newspaper skin
+
+[CHORUS]:
+But the news never got to me
+
+---
+### Hollywood Walk
+[VERSE 1]:
+Today we're digging up the dirt
+Today we're breaking ground
+To celebrate the self-inserted
+Heroism homeward-bound
+
+The heart has found a place to live
+But living isn't cheap
+We'll forge a name that we forgive
+Though we never got to meet
+
+[PRECHORUS]:
+I want to walk in their steps, Sail in their sea
+Climb up the rope that they, went to troubles, throwing down to me 
+
+If I could break myself down, just to take on their shape
+I could stand in their place, statuesque, holding firm, from forsaken
+
+[CHORUS]
+asdf
+aasdf made of cotton
+asdf
+Eternal but forgotten
+
+The work that you wasted
+your beaten path that went untrodden
+The light you created
+Eternal but forgotten
+
+---
+### My Old Man
+
+[VERSE 1]:
+Today we're digging up the dirt
+Today we're breaking ground
+To celebrate the self-inserted
+Heroism homeward-bound
+
+The heart has found a place to live
+But living isn't cheap
+We'll forge a name that we forgive
+Though we never got to meet
+
+[PRECHORUS]:
+I want to walk in their steps, Sail in their sea
+Climb up the rope that they, went to troubles, throwing down to me 
+
+If I could break myself down, just to take on their shape
+I could stand in their place, statuesque, holding firm, from forsaken
+
+[CHORUS]
+asdf
+aasdf made of cotton
+asdf
+Eternal but forgotten
+
+The work that you wasted
+your beaten path that went untrodden
+The light you created
+Eternal but forgotten
+
+---
+### ZckBryan
+
+[VERSE]
+Doorway to our lives, through
+Hallway half as tight
+Half mast, still in flight
+How fast hearts collide
+
+birthday of your own
+take your own advice
+a steel that softens hope, you can
+take the fall or die
+
+[CHORUS]
+Heading on off away, won't you
+leave me note where you're going to, if
+heading on off away, won't you
+ride, won't you ride, wont you
+
+---
+### Mercury
+
+
+[VERSE 1]
+I don't know where you go
+I don't know why
+Fluttering helplessly
+In a field of butterflies
+
+Silver and gold, willing to
+hold onto all that you've built
+
+---------------------------------------
+[VERSE 2]
+I don't know where I am
+I must have gone far
+Wandering aimlessly
+Falling through the dark
+
+Shivering cold, all you fore-
+told left alone, un-fulfilled
+
+[CHORUS]
+You don't wanna wait for us
+wait for us now
+
+Time has come to pass through
+this glass wall somehow
+
+mercury, mercury, don't let us fall
+to doubt
+
+come out
+
+[VERSE 3]
+Faraway fantasies
+Faring well parts
+Parting-way empathy, that
+follows your embark
+
+shadows of old, too far to
+fold up and leave in your will
+
+[CHORUS]
+
+[BRIDGE]
+Slipping through my fingers
+Skitter on the floor
+The dreadful feeling lingers
+Though you've long been out the door
+
+Listening too closely and [chelsea note --> cut syllables to list'ning]
+forget what you've become
+Conducting like an orchestra
+But beating like a drum
+
+---
+### Time won't wait
+
+[INTRO]
+slow motion free fall
+rain drops standing still
+the starlight passing over top
+a spillway overfilled
+
+though I know I left alone
+She came to me tonight
+my starborne savior thunderstone
+that wouldn't let me die
+
+[VERSE 1]
+I know I saw the world
+float away
+and I know I saw it coming just
+a little too late
+
+[PRECHORUS 1]
+and I know I turned the wheel
+and it makes it all worthwhile
+if I can catch a falling 
+star I'll wait
+
+[CHORUS]
+Some-
+body I know
+Tore from my back the knife,
+brought back to life
+
+Some
+face that knows me
+I recognize from in my dreams
+it's somewhere deep
+
+[PRECHORUS 2]
+in me
+who is she
+in me
+where could she be
+in me
+
+[CHORUS 2]
+I know the weight of the world won't
+stay on me
+I know that timing with love is
+everything
+
+so maybe time will tell
+why you always bid farewell
+why I sense your warm concern
+But you're never there when I turn
+
+[BRIDGE]
+I wanna know 
+where she goes
+again
+
+--[add low harmony]--
+--[check harmony timings]--
+
+hang time
+walking on tight ropes
+clinging to false hope, I
+never forgot
+
+high tide
+taking in hang time
+holding the spotlight
+coiled in knots
+
+you're, 
+bedside, I'm
+shaking from inside, and
+curled up and tied tight, you're 
+pulling me taut
+
+---
+### To Build A Fire
+
+[VERSE 1]:
+dawn of day
+never say, 
+I'd be the one, undone
+
+its cold and gray
+and we can't stay
+nevermind a promise of the sun
+
+[PRECHORUS 1]:
+this sterile sand and snow
+will never let us go
+a simple guiding hand
+no means to understand
+
+[CHORUS]:
+I think but never know, it's 
+never 55 below
+no room to sit or stand to spare
+just flowing ice and freezing air
+
+there's never better ways to die,
+so how come now I wonder why
+the ones I left behind passed by?
+there's better ways to say goodbye
+
+---
+### Envy is a Bed
+
+[VERSE 1]
+No one can provide
+And no one's on my side
+Just my wounded pride
+and me
+
+so undignified
+the means to fight, but hides
+no fate but to survive
+I see
+
+[Prechor?]
+Envy is a bed
+It's a cozy place to rest
+It's the warmest place to lie
+When you're longing and obsessed
+
+Where you'll stop to wonder why
+It's in your nature to deny, that
+You're an ill-begotten guest
+In a house of lullabies
+
+[CHORUS]
+Stop, what I want, 
+is ally body anybody
+Stop what I want
+is me
+
+[VERSE 2]
+a favor to deride
+a new, ungrateful sigh
+you drew each new divide
+
+---
+### White Lies
+
+[VERSE 1]:
+White lies, as
+clear as the crow flies
+How far it flew, to
+die far away
+
+Restraint, don't
+stain your clean slate, you're
+too far into
+this masquerade
+
+[PRECHORUS]:
+Your wings beat hard against the ground
+While broken feathers dance around
+The moon reflected in your eye, while
+Trying still to learn to fly.
+
+Feeling drops like falling stars
+We're burning up we've come so far
+Your vision never found it's shape
+Once you get in, there's no escape
+
+[CHORUS]:
+I'm all filled up on empty phrases
+I shout out to you, no reply
+No open doors, just different cages
+If I tell you it's a secret, will you tell me it's a lie
+
+[BRIDGE]:
+The boy cried once, then twice, then three
+No one left to hear the plea
+The crow that soared now tumbles down
+Truth's too heavy when it's drowned
+
+
+[backburner:]
+
+[VERSE 2]:
+["dove flies" --> parallel to first verse but representing innocence departing]
+[asdf]
+[asdf]
+[asdf]
+
+---
+### lit
+
+Verse 1
+I'm living at a distance, holding onto breath
+You moved on without me, kept on living after death
+I thought  I'd find a way back home; a path into your life
+But the echoed pain, what I became, it's much too late to try
+
+Pre-Chorus
+I'm haunted by the things I know I never got to say
+And the thoughtless, hurtful, [asdf]
+Hoping you'd be waiting, just as I knew you
+But time can be a dagger and it's carved out someone new
+
+Chorus
+I thought maybe you could still love me like you used to
+But you changed too, I guess we both moved on.
+The one I miss doesn't exist anymore
+
+---
+### what we repeatedly do
+
+[VERSE 1]:
+All I ever learned was-from watching you
+Don't know who you think you're preaching to
+We are not what we repeatedly do
+What's wrong with me, why I can't I seem, to catch a view
+
+They say the only time that is opportune
+Is what you measure out in tablespoons
+It's not a skill, it's an attitude
+For the rest of us, what's left us, we're not immune
+
+[CHORUS]:
+To lies,
+in prison cells of 
+time
+we tell ourselves that holding back is what's keeping us alive
+
+But I,
+am developing these
+ties
+I find myself the jealous type Even on deserted isles
+[velvet eyes?]
+
+[VERSE 2]:
+What I'm looking 
+
+- first verse says 'not what we repeatedly do' --> what do we do
+  - try to make first verse a series of "thing 'you' say" + refutation/criticism THEN second verse is applications of lessons learned from those interactions either bouncing off another character or through live events
+
+---
+### inflexibility is a fog
+
+[VERSE 1]:
+I know I won't go any farther
+I know what happened there before
+I'm just an innocent observer
+I'll keep that innocence secure
+
+[CHORUS]:
+Incredible, Inexpressible, 
+Can you count the careless breaths you take
+Inflexible, indefensible
+If there's ever been a time to disobey
+
+I'd make, it now, 
+I feel, somehow
+You can't live, without
+Some scars
+
+I'll take, the vow,
+If you'll, allow,
+On our journey to
+The stars
+
+[VERSE 2]:
+[???] bog
+[???] instead
+If constellations lied behind the fog
+She'd keep a lighthouse overhead
+
+[BRIDGE]:
+There's pride, in life, well-lived, forgiveness
+For all, the sins, you leave, unfinished
+No way, to take, away, the shame,
+Of wasting time on self-restraint
+
+[CHORUS]
+[VERSE 1]:
+[???]
+
+[PRECHORUS]
+Dynamic and shifting,
+like sifting through sand,
+all hope of persisting,
+falls through outreached hands
+
+Humanity's waning and
+it pains me to say,
+I find it so entertaining
+[???] disobey
+
+[CHORUS]
+Where did it go?  By now it's
+Halfway round the globe
+In somebody else's backyard where
+it can be that person's hope
+
+I have all I need, compromise incomplete [?]
+It's the stars that keep me afloat
+What can I learn of restraint from a
+forgotten puff of smoke?
+
+---
+### modus operandi
+
+[Verse]
+A lot of the days, these days
+When I'm halfway to awake
+I hear the other half telling me
+it's not so easy to escape
+
+It takes some time to tie my shoes
+and stay my shaking hands
+I'm all alone at 2am
+and too tired to go to bed
+
+I think I'm safe, I don't recall, I'm swallowed in the dark
+I brush my hands along the wall but I think "where did I start"
+It's quietly been killing me and turning thoughts bizarre
+Where are we going, why don't you know, you've taken this too far
+
+[Prechorus]
+So it returns, it's so routine
+So unconcerned, so far foreseen
+
+[Chorus]
+It's my modus operandi
+Making dark before the dawn, she
+Opened halfway in that whole time, but
+old habits die too hard
+
+---
+
+### Handle Gently
+
+[VERSE 1]
+Handle me gently
+when you're helping me up
+Don't stare so intently
+But don't stop so abrupt
+
+If you're asking me questions
+Then I need time to speak
+It stresses me out when
+You start calling me sweet
+
+[Chorus]
+You
+Can be so sentimental
+I can see your just as gentle
+With these memories reflected in your eyes
+
+With me
+The broken cardboard box
+A life of airborn aftershocks
+Addictions, depictions of shattering glass
+
+But I'm melted together
+Just two birds of a feather
+So I can fare any weather
+I can go to wherever you need
+
+[VERSE 2]
+asdf
+asfd
+asdf
+asdf
+
+---
+### warehouse
+
+[VERSE 1]
+Handle me gently
+when you're helping me up
+Don't stare so intently
+But don't stop so abrupt
+
+If you're asking me questions
+Then I need time to speak
+It stresses me out when
+You start calling me sweet
+
+[Chorus]
+You
+Can be so sentimental
+I can see your just as gentle
+With these memories reflected in your eyes
+
+With me
+The broken cardboard box
+A life of airborn aftershocks
+Addictions, depictions of shattering glass
+
+But I'm melted together
+Just two birds of a feather
+So I can fare any weather
+I can go to wherever you need
+
+[VERSE 2]
+asdf
+asfd
+asdf
+asdf
+
+---
 ### 
