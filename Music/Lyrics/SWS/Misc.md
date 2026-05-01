@@ -23,95 +23,6 @@ my hopeless {understanding starts me}
 inscrutably alone
 
 ---
-### Tombstone Trial of Tan Chay Wa
-
-[VERSE 1:]
-in a trial for a tombstone that was raised on the wrong hill
-and filled with lonely messages and dreams
-it means to me so little to hear you won't or will
-forget, forego, forsake or forgive me
-
-[CHORUS:]
-if I could tell the difference then I would tell a different story, but
-for a hundred thousand miles you couldn't make me say I'm sorry
-for in a hundred thousand years, they won't ask what friends are for
-and if they did then you could hang me for a hundred thousand more
-
-[VERSE 2:]
-try not to take offense if I let you take a look
-but the mirror's only role is to reveal, I get you
-have to make a move so that you won't get overtook, but you 
-need to take a seat to take the wheel
-
----
-
-### Laguardia
-
-sterile lights strare down inside
-with metal beams and plastic tarp
-flashing consoles asked to guide, these
-angels floating in the dark
-
-the bokeh glare cleans up the air
-from tips to tongues and ends to ends
-a hateful game of love affairs
-for the couple in the camera lens
-
-the carousel horses can buck off their posts
-kick through seventeen inches of steel
-is your thrill in the haunting, or the hunting of ghosts?
-a magician would never reveal
-
-cracked open, simple and clean
-too rotten for dinner, too sanitary
-I've left all my luggage at the parking garage east
-so I've got extra space if you have secrets to keep
-
-an LED flashlight that you pass like batons
-let this triple A battery banter begone
-a smothering hold on withering soul
-being crushed into nothing in the search to feel whole
-
-it's black and it's red and it's loud and it's gone
-a gabardine windbreaker in the winter, withdrawn
-a rainwater presence and a radio mind
-it's no better to weather if you're paying in kind
-
----
-### 2025-12-20 Sample Swap
-
-sterile lights strare down inside
-with metal beams and plastic tarp
-flashing consoles asked to guide, these
-angels floating in the dark
-
-the bokeh glare cleans up the air
-from tips to tongues and ends to ends
-a hateful game of love affairs
-for the couple in the camera lens
-
-the carousel horses can buck off their posts
-kick through seventeen inches of steel
-is your thrill in the haunting, or the hunting of ghosts?
-a magician would never reveal
-
-cracked open, simple and clean
-too rotten for dinner, too sanitary
-I've left all my luggage at the parking garage east
-so I've got extra space if you have secrets to keep
-
-an LED flashlight that you pass like batons
-let this triple A battery banter begone
-a smothering hold on withering soul
-being crushed into nothing in the search to feel whole
-
-it's black and it's red and it's loud and it's gone
-a gabardine windbreaker in the winter, withdrawn
-a rainwater presence and a radio mind
-it's no better to weather if you're paying in kind
-
----
-
 ### Rape of Nanjing
 
 living alone along the outside
@@ -187,6 +98,7 @@ I'll run away from my reflection,
 reject all of its affection,
 It's for my own protection
 
+---
 ### Joyce Carol Oates "Where are you going..."
 
 
