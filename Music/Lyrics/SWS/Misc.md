@@ -48,6 +48,7 @@ at least I knew the level because devil wants his due
 ---
 ### Exxon Mobile merger
 
+[verse]
 how long, you gotta
 stay here still?
 you've got your dollar bill and yet you've
@@ -65,6 +66,13 @@ to mistakes
 I wrapped these presents to myself,
 then lost the will to cut them out again
 
+[chorus]
+asdf
+asdf
+asdf
+asdf
+
+[verse]
 I intend
 to pay whatever price you say
 that'll buy my way to masquerade with you
