@@ -69,3 +69,14 @@ Opening line:
 > Michael Crichton doesn't have the deep human characters of a Chekhov or the brilliant plots of a Dickens. He just happens to be the best premise writer in Hollywood. Take Jurassic Park, for example. Crichton's story might have come from this designing principle: "What if you took the two greatest heavyweights of evolution—dinosaurs and humans—and forced them to fight to the death in the same ring?" Now that's a story I want to see. 
 
 
+recommends taking weeks before starting to write scenes to flesh out the premise to "see the big picture" and "figure out the story's shape and development"
+
+>the premise stage is the most tentative of the entire writing process. You are putting out feelers in the dark, exploring possibilities to see what works and what doesn't, what forms an organic whole and what falls apart
+
+### developing a premise
+1) write something that may change your life
+	1) get some data on who you are—get it outside of you and in front of you to study from a distance
+	2) make a wish list and a premise list
+	3) as you study the lists, patterns will emerge about what you love
+2) look for what's possible
+3) identify the story's challenges/problems
