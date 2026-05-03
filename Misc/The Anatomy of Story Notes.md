@@ -62,7 +62,6 @@ Change represented differently in different storytelling forms:
 - Scene Construction and Symphonic Dialogue
 
 ---
-
 # Premise
 
 Opening line:
@@ -80,3 +79,6 @@ recommends taking weeks before starting to write scenes to flesh out the premise
 	3) as you study the lists, patterns will emerge about what you love
 2) look for what's possible
 3) identify the story's challenges/problems
+
+### add a 'designing principle'
+- 'induce' the form of the story from its premise
