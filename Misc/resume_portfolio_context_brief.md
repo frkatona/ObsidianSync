@@ -167,8 +167,6 @@ Demonstrated skills:
 - Vanilla JavaScript browser UI
 - File and live transcription modes
 - TXT / SRT export
-- Optional speaker diarization
-- Benchmarking model runtimes on RTX 3080
 
 Best-fit role families:
 - AI Tools Developer

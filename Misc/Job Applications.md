@@ -93,9 +93,9 @@
 - Data Scientist - Center for Black Digital Research (PSU)
 ### 4/30
 - Indeed
-	- Underwriting Data Analyst - Judy Health (NY, Remote)
-	- Junior Python Developer - Openkyber (Georgia, Remote)
-	- Behavioral Data Scientist - Applied Research and Analysis Company (Remote)
+	- Underwriting Data Analyst - Judy Health (NY, remote)
+	- Junior Python Developer - Openkyber (Georgia, remote)
+	- Behavioral Data Scientist - Applied Research and Analysis Company (remote)
 ### 5/1
 - n/a
 ### 5/2
@@ -103,7 +103,11 @@
 ### 5/3
 - Glassdoor
 	- Lead Product Safety Engineer (Ultrasound(R4037871)) - GE (State College)
-	- 
+
+### 5/4
+- Indeed
+	- YO IT Consulting - Data Scientist (remote, contractor)
+	- Credit Acceptance - Senior Data Modeler (Remote)
 
 ---
 ## (5/15) apply out of town
