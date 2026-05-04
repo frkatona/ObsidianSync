@@ -1,4 +1,3 @@
-
 ### complex filtergraph in ffmpeg
 used `-filter_complex` in ffmpeg to double video speed along with the audio track but without the audio being pitched up:
 ```bash
@@ -6,3 +5,4 @@ ffmpeg -i picking-up0001-0971.mp4 -filter_complex "[0:v]setpts=0.5*PTS[v];[0:a]a
 ```
 
 ffmpeg docs/details on video speed change found [here](https://trac.ffmpeg.org/wiki/How%20to%20speed%20up%20/%20slow%20down%20a%20video), including motion interpolation
+

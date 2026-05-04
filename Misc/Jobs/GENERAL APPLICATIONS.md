@@ -42,7 +42,6 @@
 		- frkatona.github.io
 		- MURI homepage ("team-page-draft")
 		- Product manager report
-	- 
 
 ## Jobs
 - Chemist II, Chemist III
@@ -107,7 +106,9 @@
 ### 5/4
 - Indeed
 	- YO IT Consulting - Data Scientist (remote, contractor)
-	- Credit Acceptance - Senior Data Modeler (Remote)
+	- Credit Acceptance - Senior Data Modeler (remote)
+	- Temco Logistics - Human Resources Data Analyst (Georgia, remote, $75k)
+	- Division of Homeland Security and Emergency Services - Homeland Security Program Analyst 2 (Albany NY, remote, $87k)
 
 ---
 ## (5/15) apply out of town
