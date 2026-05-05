@@ -621,10 +621,17 @@ Columbo
 - [this timestamp](https://youtu.be/exAWzMfmwQ8?t=558) demonstrates combining the ESP32 logic with a DC adapter
 ---
 ### Gift Ideas
+### <$25
+
 - False Knees comics/stickers ($7-15 each) - [store](https://store.falseknees.com/collections/comics)
 - Lockpick
 - ESP32 stuff
+### <$50
+
 - Otomatone
+
+### <$150
+- BirdNetPi
 
 ---
 ### latent esp DMX info

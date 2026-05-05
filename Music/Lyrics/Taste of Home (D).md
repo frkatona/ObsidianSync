@@ -50,9 +50,8 @@ were? (oo whoa oh, oo whoa oh)
 When it throws you overboard
 Rest at all and you'll rest assured
 
-A golden ball and chain
-The rocks and waves will trade you any day
-
+Unfold your ball and chain
+...with nothing left to gain
 
 
 

@@ -1,7 +1,7 @@
 ## Documents
-- Resume
-- CV
-- Cover Letter
+- [Resume](https://www.overleaf.com/project/64d695aae6505a85731f1157)
+- [Cover Letter](https://www.overleaf.com/project/69878a3fdb7f5720f5ec2ec4)
+- [CV](https://www.overleaf.com/project/68292f623c716b292a91cf96)
 ## Skills
 - Chemistry
 	- spectroscopy: NMR, UV/Vis, IR
