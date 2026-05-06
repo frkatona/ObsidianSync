@@ -1,3 +1,19 @@
+Post-op surgeon meeting notes (week 12)
+- how does it feel
+	- still tight in the mornings
+	- catches a bit sometimes when pivoting/twisting
+	- may have gotten a little worse between 3 weeks ago and now
+		- I could fully extend it in front of me while standing before, but not now 
+- MACI procedure
+	- asdf
+- Checking in if the remaining cells are regrown, or if I'll need a separate harvesting step again
+- PA vs rehab advice
+	- I stopped doing stairs because they think it might be irritating the graft
+- I started squatting at week ~18 after the osteotomy/reconstruction
+- MACI Rehab Consensus paper ([link](https://pmc.ncbi.nlm.nih.gov/articles/PMC8808808/))
+
+> Dr. Essa recommends two days of strength training per week to supplement a running program. Running is a straight-ahead task, and the hip muscles that stabilize the knee from shifting side-to-side forces often get neglected. Maintenance work focusing on hip, core, quad, and hamstring strength can help keep your knee healthy as you return to normal activities.
+
 - Thermal sim
 	- have 'cancel' finish the steps to the next export frame and then present the frames created thitherto
 	- offer 'open existing frames' for last run
