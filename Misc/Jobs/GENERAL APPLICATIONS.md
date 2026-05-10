@@ -114,6 +114,17 @@
 - Indeed
 	- first due - Technical Analyst Data Migration (remote, $90k)
 
+### 5/8
+- Indeed
+	- Empower Associates - Business Intelligence Developer (remote, $100k)
+
+### 5/10
+- LinkedIn
+	- First Quality - Product Development Scientist (Lewistown, BS)
+	- Jobgether - Sr. Applications Engineer (Electronics) (remote, $115k)
+	- Voyager Technologies - Material Scientist - Advanced Technology (remote, $125k)
+	- Quaker Houghton - Chemist II/III (Conshohoken, PA)
+
 ---
 ## (5/15) apply out of town
 

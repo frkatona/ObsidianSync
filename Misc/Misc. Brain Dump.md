@@ -1,4 +1,31 @@
-Post-op surgeon meeting notes (week 12)
+### looper notes
+- vocal harmonies
+- best drum stand-in sounds
+	- vocal -> beatbox
+	- guitar -> hand tap on strings/body
+- guitar
+	- what kinds of melodies/rhythms work to create harmonies and counterpoints
+	- what kinds of basslines work to solo out the chords
+- explore mobius features
+	- use host tempo (with a click?  with midi drums?)
+	- recording different instrument section on each track's loop
+
+### song scroller edit prompts
+
+- [x] in the song selector modal, I'd like left clicks outside the modal to close it.  I'd also like the 'alignment' button to be a toggle switch where the user can see the alternative alignment they are toggling to and from.  I'd also like to add a "?" button in the app header bar for hot key assignment, and I'd like the first default hot key assignments to be "font size increase" "font size decrease" "scroll speed increase" and "scroll speed decrease" mapped to "a" "s" "z" and "x" respectively.  Make sure to disable hotkeys while the editor panel is active (i.e., while those hotkeys would reasonably be used for typing in lyrics)
+
+- [x] remove the circling effect from the description text boxes. instead, change the font color to a stylish orange for "select song" and a stylish blue for "edit lyrics and chords". Then change the circling effect on the icons to be more of a neon pulsing effect based on the corresponding description text color
+
+- [x] dynamically change the UI to accommodate mobile devices for visibility and navigation/use when mobile widths/aspect ratios are detected. The first change should be overhauling the bottom button bar: replace the 'transpose' 'speed' and 'font' controls and instead implement a single 'controls' button which, when selected, will present a semi-transparent overlay which will let the user drag across the width of their screen to edit the parameters of the removed controls. It should be easy to tell which control area corresponds to which parameter, what the current value for each parameter is, and how it is changing. The intervals of change should be coarse enough that small/tedious gestures are not necessary...also make the play/pause button big and centered
+- [x] change songs checkbox for readability (/clickability/footprint) -> just css color whole name pill
+
+- better designation of dynamics
+- remove the song name from the scroller section since it's in the banner
+	- also clean the banner version
+	- maybe don't show the song metadata-like info when its field is empty or "?"
+- Tim's song titles smushed together
+- generally preferred organization?
+### Post-op surgeon meeting notes (week 12)
 - how does it feel
 	- still tight in the mornings
 	- catches a bit sometimes when pivoting/twisting
@@ -13,6 +40,8 @@ Post-op surgeon meeting notes (week 12)
 - MACI Rehab Consensus paper ([link](https://pmc.ncbi.nlm.nih.gov/articles/PMC8808808/))
 
 > Dr. Essa recommends two days of strength training per week to supplement a running program. Running is a straight-ahead task, and the hip muscles that stabilize the knee from shifting side-to-side forces often get neglected. Maintenance work focusing on hip, core, quad, and hamstring strength can help keep your knee healthy as you return to normal activities.
+
+---
 
 - Thermal sim
 	- have 'cancel' finish the steps to the next export frame and then present the frames created thitherto
