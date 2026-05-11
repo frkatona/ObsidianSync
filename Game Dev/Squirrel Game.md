@@ -1,9 +1,13 @@
+### 2026-05-05 Squirrel Racer Meeting notes
+- No big updates from Kaya or Josh
+- I showed off some ucupaint candidate textures I've been making and the greeble box
+
 ### 2026-04-27 Squirrel Racer Meeting Notes
 - pre notes
 	- LD59 - did anyone try the updated game? or play any other LD games?
 	- YARG --> midi controller + drums + keyboard
 	- made greebles, try to make another environment texture
-
+- Kaya feeling too exhausted, meeting cancelled
 
 ### 2026-04-06 Squirrel Racer Meeting Notes
 - explore tweens to replace animation players if I want more than 1 or 2 per large area

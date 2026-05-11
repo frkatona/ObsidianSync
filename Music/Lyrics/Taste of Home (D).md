@@ -16,7 +16,7 @@ Take off and fallen back to Earth
 (Baseline authenticity, freeform talks with Socrates)
 
 Take off, but you'll never see return
-(Non-conformal Listerine for hydro-electricity)
+(Buy up all the Listerine for hydro-electricity)
 
 ---
 ### Verse 1 (I - III7 - vi - IV7)
@@ -39,23 +39,22 @@ one
 
 ---
 ### Chorus
-Take off and fallen back to Earth
-(Baseline authenticity, freeform talks with Socrates)
-
-Take off, but you'll never see return
-(Non-conformal Listerine for hydro-electricity)
 
 ---
 ### Verse 2
 
-Have you held onto somebody's picture
+Have you stared into somebody's picture
 Tried too hard to remember who they 
-were? (oh whoa oh, oh whoa oh)
+were? (oo whoa oh, oo whoa oh)
 
-When you feel you're on your own
-keep it up and you'll make it so
+When it throws you overboard
+Rest at all and you'll rest assured
 
-Unfold and make a break,
+Unfold your ball and chain
+...with nothing left to gain, you've
+sold the world
+
+	
 
 
 

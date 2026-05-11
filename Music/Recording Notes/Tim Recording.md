@@ -13,6 +13,7 @@
 	- [x] shorten the beginning part
 	- [ ] at the very end (the last two "out of times") add some guitar parts
 	- on soundcloud, this song is called "eraserhead live at the electric banana 1984" maybe called "drive me crazy" and it might not have this
+	- Eraserhead - Drive Me Crazy [soundcloud link](https://soundcloud.com/user-933156778/out-of-time-drive-me-crazy)
 	- Notes to self: 
 		- [ ] change drums for section at ~0:45 (Chorus?)
 		- [ ] add a slide-in for the guitar solo first note
