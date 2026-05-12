@@ -125,6 +125,9 @@
 	- Voyager Technologies - Material Scientist - Advanced Technology (remote, $125k)
 	- Quaker Houghton - Chemist II/III (Conshohoken, PA)
 
+### 5/11
+- PA Career Link
+	- Bimbo Bakeries - Data Scientist (Horsham PA, $100k)
 ---
 ## (5/15) apply out of town
 
