@@ -10,6 +10,10 @@
 	- use host tempo (with a click?  with midi drums?)
 	- recording different instrument section on each track's loop
 
+### mom show candidates
+- [outlander](https://www.imdb.com/title/tt3006802/)
+- chelsea's recommended filter show
+
 ### song scroller edit prompts
 
 - [x] in the song selector modal, I'd like left clicks outside the modal to close it.  I'd also like the 'alignment' button to be a toggle switch where the user can see the alternative alignment they are toggling to and from.  I'd also like to add a "?" button in the app header bar for hot key assignment, and I'd like the first default hot key assignments to be "font size increase" "font size decrease" "scroll speed increase" and "scroll speed decrease" mapped to "a" "s" "z" and "x" respectively.  Make sure to disable hotkeys while the editor panel is active (i.e., while those hotkeys would reasonably be used for typing in lyrics)

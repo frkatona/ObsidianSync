@@ -40,22 +40,21 @@ before we leave let's get the camera connected to your phone
 ---
 ### 2026-05-11 Notes
 
-- Slides
-	- Motivation pretty weak (I don't feel compelled to believe a laser is all that helpful)
-		- I'm suggesting moving the "pull ships out of water" slide to slide 1 as motivation
-	- make the elastomer table into a graph (and indeed, try to minimize tables which could be distilled to a more visually engaging figure)
-	- use animations to guide the eye
-	- move the titles up (waste less white space and give more room between the title and the content to make it visually distinct)
-	- be more positive, especially about your underwater d
+Notes:
+- Motivation pretty weak (I don't feel compelled to believe a laser is all that helpful)
+	- I'm suggesting moving the "pull ships out of water" slide to slide 1 as motivation
+- make the elastomer table into a graph (and indeed, try to minimize tables which could be distilled to a more visually engaging figure)
+- use animations to guide the eye
+- move the titles up (waste less white space and give more room between the title and the content to make it visually distinct)
+- frame your results more positively, rather than making them feel like evidence of your incompetence.  They're impressive!  Even negative and unexpected results are helpful!
 
-
+Narrative flow draft:
 1) ship coatings are important
-2) but removing them from the water to coat them is inconvenient/expensive
+2) BUT removing them from the water to coat them is inconvenient/expensive
 3) the kinds of polymers that are desirable for ship coatings are thermally thermosetting (not UV curing) so it's hard to get high enough temperatures to cure them quickly underwater
-	1) show PDMS crosslinking scheme
-4) but with lasers, we can possibly generate high enough thermal gradients to crosslink these polymers
-5) but PDMS is a poor absorber of common laser wavelengths, so we will have to use a photothermal agent like carbon black
-
+	1) good place to show PDMS crosslinking scheme
+4) BUT with lasers, we can possibly generate high enough thermal gradients to crosslink these polymers
+5) BUT PDMS is a poor absorber of common laser wavelengths, SO we will have to use a photothermal agent like carbon black
 
 Questions for Ben
 - 1st year proposal:
