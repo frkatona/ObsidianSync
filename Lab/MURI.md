@@ -19,9 +19,21 @@ Absorption mechanisms to explore:
 - dielectric breakdown
 
 ---
+
+### 2026-05-13 Weekly MURI Meeting Notes
+- pre-notes
+	- thoughts on pattern seen last time
+		- chevron pattern seen in lower power (/high scan repetition) side corresponding to both laser position and movement direction -> evidence of scan parameter influence
+			- what would changing the speed do to this pattern?
+		- rusty/auburn color at boundaries between 
+	- waiting for new sample to justify a full purge cycle
+### 2026-05-06 Weekly MURI Meeting Notes
+- Canceled (Rob traveling)
 ### 2026-04-29 Monthly MURI Meeting Notes
 - Tainara has TGA data that Rob would like to discuss about getting activation energy
 - I think Rob wants me to run NMR on AC's stuff to see if it's good enough for other testing (TGA-MS?)
+	- {later, Tainara let AC know that we are actually too short on extra material to use for TGA-MS}
+- weekly meeting canceled
 ### 2026-04-22 Weekly MURI Meeting Notes
 - Canceled (Rob traveling)
 ### 2026-04-15 Weekly MURI Meeting Notes
