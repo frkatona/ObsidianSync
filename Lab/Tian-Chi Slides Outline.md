@@ -60,3 +60,10 @@ Questions for Ben
 - 1st year proposal:
 	- do they want any figures?
 	- is 3 different projects/proposals reasonable for Tian-chi?
+
+Jackie's ideas:
+- test Jackie's marangoni (vs ablation vs expansion) by doing contact angle with uncured vs cured PDMS
+
+Ben's ideas
+- test warm water vs cold water
+- buy the raw crosslinker and pre-polymer from (he thinks) "gelest"
