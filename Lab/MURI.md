@@ -23,7 +23,7 @@ Absorption mechanisms to explore:
 ### 2026-05-13 Weekly MURI Meeting Notes
 - pre-notes
 	- thoughts on pattern seen last time
-		- chevron pattern seen in lower power (/high scan repetition) side corresponding to both laser position and movement direction -> evidence of scan parameter influence
+		- chevron/herringbone pattern seen in lower power (/high scan repetition) side corresponding to both laser position and movement direction -> evidence of scan parameter influence
 			- what would changing the speed do to this pattern?
 		- rusty/auburn color at boundaries between 
 	- waiting for new sample to justify a full purge cycle

@@ -134,13 +134,20 @@
 ### 5/13
 - CareerLink
 	- Minitab - Senior Dev Ops (State College)
+	- Geosyntec - Early-Career Environmental Geologist/Scientist (Pittsburgh)
+- LinkedIn
+	- AllSTEM - Data Analyst, 3-month Contract (remote, $40/h)
+	- Doximity - Data Analyst, Reporting Partnerships (remote, $77-134k+ total comp)
+
+
 ---
 ## (5/15) apply out of town
 
-## (6/1) Apply for <$40k jobs
+## (5/22 Apply for <$40k jobs
 
-## (6/11) Post-doc ends, apply for unemployment 
-- https://www.pa.gov/services/dli/apply-for-unemployment-compensation-benefits#accordion-15f280c2d3-item-06c0611a83
+## (6/11) Post-doc ends
+- Apply for PA unemployment
+- Apply for health insurance
 
 ---
 
@@ -227,3 +234,29 @@
 | **Tolerance for ambiguity**                | In science/engineering you often want mechanistic clarity before accepting a label like “burned,” “absorbed,” “non-covalent,” or “defect effect.” That rigor is valuable, but ambiguity is unavoidable in early troubleshooting. |
 | **Physical recovery vs ambition mismatch** | Your interest in competitive sports and conditioning may outpace what your knee can safely tolerate at times.                                                                                                                    |
 | **Follow-through risk**                    | Because you generate many viable ideas, some projects may stall at the research/planning stage unless narrowed into staged deliverables.                                                                                         |
+
+---
+# projects to improve resume
+- Data Analyst
+	- Containerize and CI-test one existing Python project
+	- Deploy a tiny FastAPI service to cloud with infrastructure notes
+	- Build a local Kubernetes mini-project with a runbook
+### Misc. remote computer suggestions
+- SQL + BI dashboard project: “Executive Operations KPI Dashboard”
+- "Built a SQL-backed BI dashboard for operational KPI reporting, including normalized source tables, reporting views, data-quality checks, stakeholder-facing visualizations, and written definitions for metrics such as return rate, complaint rate, on-time delivery, and regional performance."
+
+**Goal:** Show you can move from raw business tables to stakeholder-facing metrics.
+
+Build a fake but realistic operations dataset around orders, customers, products, locations, deliveries, returns, complaints, and revenue. Use PostgreSQL or SQL Server Express, write SQL queries/views, then make a dashboard in Power BI, Tableau Public, or Apache Superset.
+
+**What it proves:** SQL joins, aggregations, KPI definitions, dashboarding, business reporting, stakeholder communication, and data quality checks.
+
+**Suggested dataset theme:** bakery distribution, retail operations, hospital operations, or manufacturing quality. A Bimbo-style “freshness, delivery, returns, complaints, and route performance” dataset would be especially believable.
+
+**Core deliverables:**
+
+- SQL schema with fact/dimension tables.
+- SQL views for KPIs: revenue, on-time delivery, return rate, complaint rate, spoilage/waste, regional performance.
+- Dashboard with filters by date, region, product, customer segment.
+- README explaining business questions, definitions, assumptions, and data-quality checks.
+- Short “executive summary” PDF or markdown report.
