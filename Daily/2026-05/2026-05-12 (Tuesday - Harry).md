@@ -1,0 +1,6 @@
+- music stuff
+	- laptop, interface
+	- cables
+- Rx
+- sunglasses
+- rock band drum base

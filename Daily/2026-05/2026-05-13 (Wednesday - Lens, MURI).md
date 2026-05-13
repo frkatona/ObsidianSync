@@ -1,0 +1,9 @@
+- Home
+	- lens sale
+		- get lens from office
+		- message guy about meeting
+- Work
+	- see if SD card is with lens for Tian-chi
+	- read up on the GPT response to her work
+	- order at least the gas attachments
+		- look up if ebay  
