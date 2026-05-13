@@ -27,10 +27,14 @@
 	- (2025) Photothermal Curing of Polydimethyldisiloxane: Carbon Black Composites Results in Changes to Polymer Topography, Cross-Link Density, and Mass Density
 	- (2025) Rapid photothermal curing of PDMS on paper
 	- S Phillips et al, 2026 (review). Indust. Chem. & Mat, “Nanometer-Scale Surface Roughness. .. ”
-	- Built device/instrument
-	- gas flow chamber
-	- 3d printed optics parts
-	- teensy ekit module
+- Built devices/instruments
+	- 3D-printing laser (Arduino + FDM printer + GCode generator + line generator)
+	- air-free, positive pressure flow chamber
+		- $50 prototype and $1000 flanged solutions
+	- $100 5-point remote temperature sensor
+	- ultra-fast blackbody thermometer
+	- 3D printed optics parts
+	- teensy ekit module (+ electronics + 3D print)
 - Coded software
 	- profilometer pipeline
 	- journal article library
@@ -42,7 +46,6 @@
 		- frkatona.github.io
 		- MURI homepage ("team-page-draft")
 		- Product manager report
-
 ## Jobs
 - Chemist II, Chemist III
 - Scientific Programmer / Applied Research Engineer
@@ -56,7 +59,6 @@
 - HSE / Process Safety Specialist
 - Machine Learning Engineer (applied, not big tech)
 - Technical Product / Tool Builder (internal tools, data platforms)
-
 ## References
 - Dr. Benjamin Lear
 	- title: Professor of Chemistry & Associate Department Head for Facilities
@@ -78,11 +80,6 @@
 ## Progress
 #### 4/23
 - HSE Specialist - Graymont (Pleasant Gap, PA)
-
----
-## Alternatively
-- https://www.pa.gov/services/dli/apply-for-unemployment-compensation-benefits#accordion-15f280c2d3-item-06c0611a83
-=======
 ### 4/24
 - *hay fever*
 ### 4/25
@@ -118,6 +115,8 @@
 - Indeed
 	- Empower Associates - Business Intelligence Developer (remote, $100k)
 
+### 5/9
+- n/a
 ### 5/10
 - LinkedIn
 	- First Quality - Product Development Scientist (Lewistown, BS)
@@ -128,12 +127,19 @@
 ### 5/11
 - PA Career Link
 	- Bimbo Bakeries - Data Scientist (Horsham PA, $100k)
+
+### 5/12
+- n/a
+
+### 5/13
+- CareerLink
+	- Minitab - Senior Dev Ops (State College)
 ---
 ## (5/15) apply out of town
 
 ## (6/1) Apply for <$40k jobs
 
-## (7/11) Post-doc ends, apply for unemployment 
+## (6/11) Post-doc ends, apply for unemployment 
 - https://www.pa.gov/services/dli/apply-for-unemployment-compensation-benefits#accordion-15f280c2d3-item-06c0611a83
 
 ---
