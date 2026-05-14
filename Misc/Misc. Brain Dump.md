@@ -26,7 +26,10 @@
 	- Aggretsuko
 ### mom show candidates
 - [outlander](https://www.imdb.com/title/tt3006802/)
-- chelsea's recommended filter show
+- chelsea's recommended filter show (ask her for name)
+- Kaya's recommendations?
+
+- remember to tell her I think I was wrong about stars
 
 ### song scroller edit prompts
 

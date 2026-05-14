@@ -1,0 +1,13 @@
+- Home
+	- rehab (squats, pushups, leg sweep)
+	- exercises for data analyst/scientist []
+	- email to Sarah Lossinger about when benefits expire
+		- and how much COBRA premium becomes + if the maximum-out-of-pocket
+	- lens sale
+		- [ ] get lens from office
+		- [ ] ALSO see if SD card is with lens for Tian-chi
+		- [x] message guy about meeting
+- Work
+	- read up on the GPT response to Tian-chi's work
+	- order at least the gas attachments
+		- look up if ebay purchases 
