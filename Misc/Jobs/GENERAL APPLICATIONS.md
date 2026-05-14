@@ -236,14 +236,23 @@
 | **Follow-through risk**                    | Because you generate many viable ideas, some projects may stall at the research/planning stage unless narrowed into staged deliverables.                                                                                         |
 
 ---
+# school access losses to consider
+- accounts using psu.edu - github
+- adobe - photoshop/raw, illustrator, etc.
+- gym / parking
+
+---
 # projects to improve resume
-- Data Analyst
+- Data Analyst/Scientist ([US BoLS Page](https://www.bls.gov/ooh/math/data-scientists.htm?src_trk=em65eb8d65b8ac49.566995921149745617))
 	- Containerize and CI-test one existing Python project
 	- Deploy a tiny FastAPI service to cloud with infrastructure notes
 	- Build a local Kubernetes mini-project with a runbook
-### Misc. remote computer suggestions
-- SQL + BI dashboard project: “Executive Operations KPI Dashboard”
-- "Built a SQL-backed BI dashboard for operational KPI reporting, including normalized source tables, reporting views, data-quality checks, stakeholder-facing visualizations, and written definitions for metrics such as return rate, complaint rate, on-time delivery, and regional performance."
+
+### SQL + BI dashboard project: “Executive Operations KPI Dashboard”
+
+Resume point: "Built a SQL-backed BI dashboard for operational KPI reporting, including normalized source tables, reporting views, data-quality checks, stakeholder-facing visualizations, and written definitions for metrics such as return rate, complaint rate, on-time delivery, and regional performance."
+
+- ideal for **Data Analyst, BI Analyst, Reporting Analyst, Operations Analyst, Healthcare BI, and Supply Chain Analyst** roles.
 
 **Goal:** Show you can move from raw business tables to stakeholder-facing metrics.
 
@@ -260,3 +269,76 @@ Build a fake but realistic operations dataset around orders, customers, products
 - Dashboard with filters by date, region, product, customer segment.
 - README explaining business questions, definitions, assumptions, and data-quality checks.
 - Short “executive summary” PDF or markdown report.
+### Data reconciliation / migration project: “Master Vendor–Worker–Invoice Dataset”
+
+Resume point: "Created a master external-workforce dataset by reconciling vendor, worker, contract, purchase-order, and invoice records across inconsistent source files; implemented matching logic, exception reporting, data dictionaries, and source-to-target validation summaries."
+
+- ideal for **Data Analyst III, Data Migration Analyst, Procurement/Data Analyst, Vendor Operations Analyst, Data Quality Analyst, and HR/Workforce Analytics** roles
+
+**Goal:** Show that you can reconcile messy records across systems, which appears repeatedly in contract, procurement, workforce, healthcare, and migration roles.
+
+Create 4–6 messy source files: HR/vendor roster, badge access records, purchase orders, invoices, contracts/PDF-like extracted text, and department cost centers. Deliberately include misspellings, duplicate names, inconsistent supplier names, missing IDs, date mismatches, and conflicting contract references.
+
+Use Python + SQL + Excel-style outputs to build a master dataset and exception report.
+
+**What it proves:** record matching, deduplication, reconciliation, anomaly detection, master-data creation, source-to-target validation, auditability, and documentation.
+
+**Core deliverables:**
+
+- Raw messy CSVs.
+- A Python notebook or script for cleaning and fuzzy matching.
+- SQL tables/views for reconciled records.
+- Exception report: missing worker IDs, unmatched invoices, duplicate vendors, expired contracts, bad date ranges.
+- Data dictionary and lineage notes.
+- Before/after record counts and validation summary.
+
+### Predictive analytics project: “Retention / Churn / Risk Scoring Model”
+
+Resume point: "Built an end-to-end predictive analytics project for retention-risk scoring, including data cleaning, EDA, feature engineering, logistic regression/random forest modeling, model evaluation, feature-importance analysis, and stakeholder-oriented recommendations."
+
+- ideal for **Data Scientist, HR Data Analyst, Business Analyst with predictive analytics, Operations Analyst, and Quality/Process Analytics** roles.
+
+**Goal:** Show you can do the predictive-modeling layer many analyst/data-scientist roles ask for, without needing deep ML infrastructure.
+
+Use a public or synthetic dataset for employee retention, customer churn, patient no-show prediction, manufacturing defect risk, or delivery delay prediction. The theme matters less than the workflow: define the target, clean the data, engineer features, train models, evaluate them, explain tradeoffs, and convert results into recommendations.
+
+**What it proves:** EDA, feature engineering, train/test split, model evaluation, logistic regression/random forest, interpretability, stakeholder recommendations, and ethical caution around sensitive data.
+
+**Best theme for your applications:** employee retention or operational risk. HR analytics, healthcare BI, and operations roles all map well to this.
+
+**Core deliverables:**
+
+- Jupyter notebook or Python script.
+- Cleaned dataset.
+- EDA charts.
+- Logistic regression and random forest comparison.
+- Metrics: accuracy, precision, recall, F1, ROC-AUC, confusion matrix.
+- Feature-importance or SHAP-style explanation.
+- “Recommendations and limitations” report.
+- Optional dashboard showing predicted risk by department/site/role.
+
+---
+
+### worst case
+
+1) Unemployment Compensation — apply promptly after separation
+2) Health insurance — compare Pennie, Medicaid, COBRA, and spouse/partner coverage
+3) SNAP / food support — apply if your income drops
+4) Cash assistance — probably only if you fit specific categories
+5) Utility, rent, and emergency assistance
+6) Student loans and PSLF housekeeping
+
+### Before the contract expires
+
+Get these in writing before your last day:
+
+1. Exact employment end date.
+2. Exact health/dental/vision coverage end date.
+3. Whether Penn State classifies the separation as end of appointment, nonrenewal, funding end, layoff, or resignation.
+4. COBRA administrator information and expected COBRA packet timing.
+5. Loss-of-coverage letter for Pennie/Medicaid documentation.
+6. Final pay date and unused leave payout, if any.
+7. W-2 access after separation.
+8. PSLF employment certification, if relevant.
+
+Most important sequence: **file UC immediately after separation, secure health coverage within the 60-day window, apply through COMPASS for Medicaid/SNAP if your income drops, and use 211 for local emergency support.**
