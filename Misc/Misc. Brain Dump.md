@@ -10,6 +10,20 @@
 	- use host tempo (with a click?  with midi drums?)
 	- recording different instrument section on each track's loop
 
+### anime vs not anime
+- Pure Japan EXCEPT dubbed/Western facing or co-produced
+	- Afro Samurai
+	- Shenmue: The Animation
+- Western source material
+	- Halo: Legends (Toei handled which?)
+	- The Animatrix
+- Korean source material
+	- Tower of God
+	- Solo Leveling
+- Japanese production, Western style
+	- Panty and Stocking
+	- Crayon Shin-chan
+	- Aggretsuko
 ### mom show candidates
 - [outlander](https://www.imdb.com/title/tt3006802/)
 - chelsea's recommended filter show
