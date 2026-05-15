@@ -8,7 +8,7 @@
 - a7s ii
 	- bought $575 (including shipping + tax)
 		- $900 on MPB for similar condition
-	- shutter count <7000 (like new)
+	- shutter count <8000 (like new)
 	- designed for low noise in low-light conditions
 	- metal frame
 	- 5-axis in-body image stabilization
