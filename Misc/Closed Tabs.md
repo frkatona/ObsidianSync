@@ -1,3 +1,5 @@
+- thurs 28th the shop recital - ask time
+
 - Machine Learning
 	- https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html#id5
 	- https://jdlm.info/articles/2019/01/01/driverless-race-car-deep-learning.html
