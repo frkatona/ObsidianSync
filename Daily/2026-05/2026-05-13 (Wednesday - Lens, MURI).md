@@ -4,8 +4,8 @@
 	- email to Sarah Lossinger about when benefits expire
 		- and how much COBRA premium becomes + if the maximum-out-of-pocket
 	- lens sale
-		- [ ] get lens from office
-		- [ ] ALSO see if SD card is with lens for Tian-chi
+		- [x] get lens from office ✅ 2026-05-15
+		- [x] ALSO see if SD card is with lens for Tian-chi ✅ 2026-05-15
 		- [x] message guy about meeting
 - Work
 	- read up on the GPT response to Tian-chi's work

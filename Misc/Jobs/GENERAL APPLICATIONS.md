@@ -13,13 +13,13 @@
 	- 3D printing, machine shop (lathe, mill), laser engravers
 - Software
 	- languages: Python, C++, HTML, CSS, JS
-	- tools: git/version control, CI/CD
+	- tools: git/version control, CI/CD, virtual environments and containers, SQL
 	- 3D: (modeling, sculpting, rigging, animating, shading, VFX, compositing), Unreal Engine
 	- misc: Adobe CC (Ae, Il, Ps, Pt, Pr), FL Studio, ImageJ, WEKA segmentation, Veusz
 - Electronics
 	- circuit design/prototyping, signal analysis, micro-controllers
 - Soft skills
-	- asdf
+	- mentorship, inter-disciplinary collaboration, expert and stakeholder communication
 ## Accomplishments
 - Journal Articles
 	- (2018) Galaxy structure in the ultraviolet: The dependence of morphological parameters on rest-frame wavelength
