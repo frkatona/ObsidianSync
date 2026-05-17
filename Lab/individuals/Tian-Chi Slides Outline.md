@@ -67,3 +67,14 @@ Jackie's ideas:
 Ben's ideas
 - test warm water vs cold water
 - buy the raw crosslinker and pre-polymer from (he thinks) "gelest"
+
+---
+### 2026-05-14 Tian-chi slides draft
+1) fuel for ships costs lots of money -> because of drag -> because of marine organisms
+2) coatings can prevent marine organisms from adhering
+3) asdf
+
+I ended up getting a little confused because I felt like you were conflating multiple motivations together.  All of them are good motivations, but your flow would be better served by focusing on one and choosing how to include and order your data, observations, and future directions based on it:
+- ship fuel is expensive --> lower drag and resist bio-fouling with laser texturing
+- dry docking is time consuming --> coat underwater with lasers
+- curing the polymer coating is time consuming --> faster with laser heat
