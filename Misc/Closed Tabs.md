@@ -1,4 +1,16 @@
-- thurs 28th the shop recital - ask time
+- 2026-05-16
+	- CRV engine
+	- batch migrating ownership of projects between github accounts
+	- thurs 28th the shop recital - ask time
+	- https://benhoyt.com/writings/dont-sanitize-do-escape/
+	- Atomic Operations
+	- YT Docker - Kubernetes
+	- Numpy as a synth engine ([link](https://kennethreitz.org/essays/2026-03-29-numpy_as_synth_engine))
+	- blender YT
+		- ucupaint for beginners [YT](https://youtu.be/i89WJ-ap4C4)
+		- custom brush [YT](https://youtu.be/uz03aeKQzYc)
+	- mobius looper techniques [docs](https://mobiuslooper.com/olddocs/techniques.htm#Introduction)
+	- trans voice instrument [YT](https://youtu.be/piBoBpm_o40)
 
 - Machine Learning
 	- https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html#id5
