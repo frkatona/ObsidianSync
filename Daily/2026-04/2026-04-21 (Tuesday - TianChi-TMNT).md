@@ -26,8 +26,3 @@
 - "swagelok needle valve (1/4")"
 - "VLC slow to start up lately"
 - https://developers.openai.com/api/docs/guides/prompt-guidance
-
-
-1) PDMS is already a common and useful material
-2) a big part of its usefulness comes from its surface properties
-3) 

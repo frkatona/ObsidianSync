@@ -13,7 +13,7 @@
 
 ### work
 - purchases
-	- faster SD card ($70 - v90, 300 MB/s, 64 GB - [amazon](https://www.amazon.com/Kingston-Canvas-64GB-UHS-II-SDR2/dp/B09XC5GG83/ref=sr_1_7?sr=8-7))
+	- Kingston v90 storage ($70 - [amazon](https://www.amazon.com/Kingston-Canvas-64GB-UHS-II-SDR2/dp/B09XC5GG83/ref=sr_1_7?sr=8-7))
 	- LEDs ($120 - 60 W LED (flickerless) - [ebay](https://www.ebay.com/itm/356119918728?chn=ps&google_free_listing_action=view_item))
 	- 52 mm RX100 filter adapter (???)
 	- **Raynox DCR-250** ($75 - [B&H](https://www.bhphotovideo.com/c/product/275182-REG/Raynox_DCR_250_DCR_250_2_5x_Super_Macro.html?ap=y&smp=Y)) 

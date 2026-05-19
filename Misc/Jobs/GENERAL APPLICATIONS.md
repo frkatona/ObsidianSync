@@ -139,6 +139,16 @@
 	- AllSTEM - Data Analyst, 3-month Contract (remote, $40/h)
 	- Doximity - Data Analyst, Reporting Partnerships (remote, $77-134k+ total comp)
 
+### 5/18
+- LinkedIn
+	- Mackinnon Bruce Inernational - Research & Development Scientist (remote)
+
+### 5/19
+- workday
+	- ARL - Non-Destructive Inspection Engineer/Material Scientist (Faculty)
+
+
+
 
 ---
 ## (5/15) apply out of town
