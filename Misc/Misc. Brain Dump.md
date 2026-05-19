@@ -1,5 +1,7 @@
 ### looper notes
 - vocal harmonies
+	- "hearing 3rds" [YT](https://youtu.be/kV84-ru5SPg) (unwatched)
+	- cover: Mr. Sandman
 - best drum stand-in sounds
 	- vocal -> beatbox
 	- guitar -> hand tap on strings/body

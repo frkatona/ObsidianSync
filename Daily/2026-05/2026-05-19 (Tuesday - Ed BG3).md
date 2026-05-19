@@ -1,18 +1,27 @@
 ### home
-- applications
-- FB marketplace
+- job
+	- [x] application 1
+	- [ ] application 2
+	- [ ] application 3
+	- [ ] skill progress - Docker
+- renew parking
+	- drive Chelsea tomorrow and stop at the parking office for $40
+- [x] FB marketplace
 - MtNittany adderall re-up appointment (July 13)
 	- (vs later date but with marketplace insurance)
-	- EMAIL Sarah Lossinger about when health insurance expires
-		- also about parking
-		- also about 
+	- just schedule for end of June
+- EMAIL Sarah Lossinger about parking, health insurance expiration, email, etc.
+- email Pennie
+	- find out what to get and when for applying
+	- ask what the premiums and out-of-pockets would be
+	- ask Energy if they are in-network with Pennie
 - practice looping + Eugene's Trick Bag
 - rehab exercises
 
 ### work
 - parking
 	- ticket ([pay](https://transportation.psu.edu/parking-tickets))
-		-  OR go to office to pick up new one and say I thought it fell within the new-hire timeline for her job + the portal directed us to the permit purchasing page with no permits so I thought there was just a hiatus until the summer session
+		- OR go to office to pick up new one and say I thought it fell within the new-hire timeline for her job + the portal directed us to the permit purchasing page with no permits so I thought there was just a hiatus until the summer session
 - purchases
 	- RX100 IV macro + HFR adaptability supplies
 		- **52 mm threaded adapter ring** ($40 - [amazon](https://www.amazon.com/MagFilter-Threaded-Adapter-Carrier-Panasonic/dp/B06Y41X8YB))
@@ -24,3 +33,7 @@
 		- Loc-Line Magnetic Base Flow Manifold ($40 - [Walmart](https://www.walmart.com/ip/Loc-Line-40400-Coolant-Hose-Magnetic-Base-Manifold-1-4-Hose-ID/361094352?wmlspartner=wlpa&selectedSellerId=101051907&selectedOfferId=4DBDE7197E964D0CABF4994D54CDCC53&conditionGroupCode=1))
 		- Loc-Line 1/4" Hose Sample Kit ($10 - [Walmart](https://www.walmart.com/ip/Loc-Line-Hose-Sample-Kit-for-1-4-ID-Systems-40413/39087680?wmlspartner=wlpa&selectedSellerId=101051907&selectedOfferId=F27CF7CE089642E59EF2EFF806E073B6&conditionGroupCode=1))
 		- Loc-Line Flag Slot 60 Nozzle ($8 - [WalMart](https://www.walmart.com/ip/Loc-Line-Flat-Slot-60-Nozzle-PK4-41484/593859424?wmlspartner=wlpa&selectedSellerId=101051907))
+
+
+notes
+- watched Doping Silicon with Lasers video ([YT](https://youtu.be/ZAu3sXXCZuo)
