@@ -1,13 +1,18 @@
 ### home
 - applications
 - FB marketplace
-- MtNittany adderall re-up appointment
+- MtNittany adderall re-up appointment (July 13)
 	- (vs later date but with marketplace insurance)
 	- EMAIL Sarah Lossinger about when health insurance expires
+		- also about parking
+		- also about 
 - practice looping + Eugene's Trick Bag
 - rehab exercises
 
 ### work
+- parking
+	- ticket ([pay](https://transportation.psu.edu/parking-tickets))
+		-  OR go to office to pick up new one and say I thought it fell within the new-hire timeline for her job + the portal directed us to the permit purchasing page with no permits so I thought there was just a hiatus until the summer session
 - purchases
 	- RX100 IV macro + HFR adaptability supplies
 		- **52 mm threaded adapter ring** ($40 - [amazon](https://www.amazon.com/MagFilter-Threaded-Adapter-Carrier-Panasonic/dp/B06Y41X8YB))
