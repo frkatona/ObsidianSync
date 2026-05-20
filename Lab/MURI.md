@@ -20,6 +20,13 @@ Absorption mechanisms to explore:
 
 ---
 
+### 2026-05-20 Weekly MURI Meeting Notes
+- non-faculty meeting
+- pre-notes
+	- I'm gone in 3 weeks
+- to-do
+	- email AC to make sure he's aware that we don't have enough sample and will need more
+---
 ### 2026-05-13 Weekly MURI Meeting Notes
 - pre-notes
 	- thoughts on pattern seen last time
@@ -27,15 +34,19 @@ Absorption mechanisms to explore:
 			- what would changing the speed do to this pattern?
 		- rusty/auburn color at boundaries between 
 	- waiting for new sample to justify a full purge cycle
+---
 ### 2026-05-06 Weekly MURI Meeting Notes
 - Canceled (Rob traveling)
+---
 ### 2026-04-29 Monthly MURI Meeting Notes
 - Tainara has TGA data that Rob would like to discuss about getting activation energy
 - I think Rob wants me to run NMR on AC's stuff to see if it's good enough for other testing (TGA-MS?)
 	- {later, Tainara let AC know that we are actually too short on extra material to use for TGA-MS}
 - weekly meeting canceled
+---
 ### 2026-04-22 Weekly MURI Meeting Notes
 - Canceled (Rob traveling)
+---
 ### 2026-04-15 Weekly MURI Meeting Notes
 - showed the 10um results (transformed at 20% and 10% power)
 - showed the 1 um results (the rest of the samples) and we all expressed confusion over the partial transformation observed at 100% power
@@ -50,13 +61,13 @@ Absorption mechanisms to explore:
 	- For these next samples, maybe I should ask Jackie to reserve profilometry first, or maybe Tian-Chi?  Ask Tian-Chi if she's fully trained
 - Ben S is giving me more samples:
 	- asdf
-
+---
 ### 2026-04-03 Nabankur + AC Meeting Notes
 - transcript: [[2026-04-03_nabankur-AC-meeting]]
 - updated Nabankur on Tainara having samples
 	- he mentioned that the threshold for successful conversion and markers of success are quite low (even 1% SiC or even Si-C-H instead of SiC would be enough for a high-impact paper)
 - more samples coming from AC in the coming weeks
-
+---
 ### 2026-04-01 Weekly MURI Meeting Notes
 - to do
 	- send "energy density of a single pulse" to JP
