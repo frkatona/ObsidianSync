@@ -24,8 +24,20 @@ Absorption mechanisms to explore:
 - non-faculty meeting
 - pre-notes
 	- I'm gone in 3 weeks
+- Tainara: 1 um samples did not transform (?)
+- ideas
+	- absorption
+		- double polished for UV-Vis
+			- also unclear if frosted side is playing a role
+		- Ben: try non-functionalized
+	- mechanism
+		- several layers for two photon
+		- maybe the 10% -> 20% really did need the 10% 
 - to-do
 	- email AC to make sure he's aware that we don't have enough sample and will need more
+	- laser new sample: non functionalized (no catalyst) to test to see if it absorbs
+	- Ben will give a double polished thin sample for UV Vis + laser
+	- consolidate laser parameters we've touched on into a single document/slide
 ---
 ### 2026-05-13 Weekly MURI Meeting Notes
 - pre-notes
