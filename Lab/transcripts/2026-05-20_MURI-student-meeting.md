@@ -1,264 +1,195 @@
+# 2026 05 20_MURI student meeting
 
-So we probably don't even need to really put my Anthony I didn't know if we were coming today. So that's the main reason why I'm holding in person, but Let me still turn on the protector so I
+## 00:00:00
 
-Okay Okay was that Do we know let me get this up so you can share your screen this projector is gonna work
+So we probably don't even need to really put my Anthony, I didn't know if we were coming today. So that's the main reason why I'm holding in person, but Let me still turn on the protector So Okay Was that?
 
-That's a great question. I don't think so because I didn't send it to AC because primarily what I wanted to do is just talk about Our laser stuff for the boron carbide But I probably should have sent it to them in case they had anything else to say
+## 00:01:00
 
-Okay Let me also just send that if they would want did he email you or something? Anthony's talking right now here Yeah, let me get this zoom up here
+Do we know let me get this up so you can share your screen this projector is gonna work That's a great question. I don't think so because I didn't send it to AC because primarily what I wanted to do is just talk about Our laser stuff for the boron carbide But I probably should have sent it to them in case they had anything else to say Um, let me also just send that if they would want did he email you or something Anthony's talking right now Yeah, let me get this zoom up here And I think it is I send email from Alex About the TGMS.
 
-I Send a mail from Alex
+## 00:03:00
 
-About the TGMS. I don't know why put you or not in the cop But most of us and the I didn't receive The answer and I wait the sample for
+I don't know why put you or not in the cop But And I didn't receive the answer answer and I wait the sample for Start the TGMS Do you have the example we feel?
 
-Start the TGMS Do you have the example with you? Yeah, how to delete I use another email I think Okay, okay, thank you cool Anthony were you able to do
+## 00:04:00
 
-Well, let me just first say asthma do you have any updates on the Pyrolysis stuff for the first manuscript I
+Yeah, how to delete I will send another email I think Okay, okay, thank you Cool Anthony, were you able to do?
 
-Just finished adding my stuffs. So I Should I send it to you or I do not to do anything like a new for this manuscript, right? Yeah, just send me whatever you have now and I'll compile everything So as a professor he can mention on last meeting last week meeting
+## 00:05:00
 
-Maybe we plan to submit it to end of me if I heard this correctly Well, I don't know if we'll end up submitting it by the end of May but we need to have it together pretty soon as he mentioned this is not like a strict one, but just just
+Well, let me just first say Asma, do you have any updates on the Pyrolysis stuff for the first manuscript I Just finished adding my stuffs. So Should I send it to you or we I do not to do anything like a new for this manuscript Right. Yeah, just send me whatever you have now and I'll compile everything So as a professor he mentioned on last meeting last week meeting Maybe we plan to submit it to end of May if I heard this correctly I well, I don't know if we'll end up submitting it by the end of May But we need to have it together pretty soon So as as he mentioned this is not like a strict one but just just Like for now He has planned like for end of May or maybe it takes like more time, but just preliminary Did he mention it?
 
-Like for now, yes plan like for end of May or maybe it takes like time but just preliminary Okay, he mentioned. Yeah. Yeah. Yeah, we're I know we're gonna need more time for it. Just point-blank But yes, send me over whatever you have and I will
+## 00:06:00
 
-Finish the draft We can go from there Okay cool
+Yeah. Yeah. Yeah, I know we're gonna need more time for it. Just point blank But yeah, send me over whatever you have and I will Finish the draft We can go from there Cool Yeah, so for the others I was hoping Yuki would join Like Jyupji and Mahmood unless you have anything really This meeting will primarily be between Anthony, Tainara and I to Focus down on the laser stuff we have currently Okay, sounds good then Thanks for thanks for joining, but I wanted to make sure I sent the email to everyone in case they needed to say something So yeah, I think I Mahmood do you have anything?
 
-Yeah, so for the others I was hoping Yuki would join Like jupji and Mahmood unless you have anything really
+## 00:07:00
 
-This meeting will primarily be between Anthony Ty Narra and I to Focus down on the laser stuff we have currently Okay, sounds good then Thanks for thanks for joining but I wanted to make sure I sent the email to everyone in case they needed to say something
+Yeah, I have I should have one question for Tainara if she's in the meeting Yeah, okay, let me share my screen because Then can you let me share my screen? Yes one moment Okay Tainara, can you see my screen? Yeah, yeah, okay. So I did the diagram that you've sent to me That's a pretty interesting and cool diagram.
 
-so yeah, I think I My move you have anything? Yeah, I have actually one question for Ty Narra if she's in the meeting. Yeah okay, let me share my screen because Then can you let me share my screen yes one moment
+Thank you and One question that I have is Do you do you have a constant flow of your metane and argon gas in your In your chamber here, or this is just you for example Inject the gas and everything is stationary and you start the spottering process And I control all the pressure with the argon and the metane at the same time So so the pressure is constant?
 
-Okay Ty Narra, can you see my screen? Yeah, yeah. Yeah. Okay. So I did the diagram that you've sent to me That's a pretty interesting and cool diagram. Thank you. And
+## 00:08:00
 
-one question that I have is Do you Do you have a constant flow of your methane and argon gas in your? In your chamber here or this is just you for example
+Okay, yeah, but you have not necessarily a continuous flow It's just the pressure inside is constant as you deposit more Okay It's partial open so I put the gas flow constant gas flow in the chamber then pump Start from this out, dollar So if I understand it correctly you have the flow a gas flow in your system But you make sure to have a constant pressure Yeah Cool from the pump Use the pump for that.
 
-Inject the gas and everything is stationary and you start the spotting process And So so the pressures constant Okay
+## 00:09:00
 
-Yeah, but you have not necessarily a continuous flow. It's just the pressure inside is constant as you deposit more Okay It's not totally open it's So I put the gas flow
+Yeah, I see I see I see and also you have the Your input of your metane is also same as the argon. I mean the argon and the metane entering from the same side I think so it's Actually, I need to double check this with the I Cool and my last question would be that Do you use the rotating?
 
-Constantly as flow in the chamber then Start from this app dollyard Allow us maintain the pressure the same So if I understand it correctly you have the flow a gas flow in your system
+## 00:10:00
 
-You make sure to have a constant pressure Yeah, I see I see I see and also you have the Your input of your methane is also same as the argon the I mean the argon and the methane entering from the same side
+I mean do you rotate your substrate during your experiment? Yeah, because If I don't your rotation, I don't have the Fitness uniform Oh, I see I see. Cool. Okay. That was all of my questions.
 
-I think so. It's Actually, I need to double check these We could be with my co-op in this chamber Cool and my last question would be that
+Thank you Do you have the um mamu? Do you have the argon gas flow rate too for this setup for tangara? Yeah, actually, this is the flow rate that um Tainara is using but it's not uh, that's just the methane right?
 
-Do you use the rotating? I mean do you rotate your substrate during your experiment? Yeah If I don't you rotation I don't have the Fittness uniform in this home. Hmm. I see I see
+## 00:11:00
 
-Okay, that was all my question. Thank you Do you have the Mamoud do you have the argon gas flow rate too for this setup for tenara? Yeah, actually this is the flow rate that
+Yeah, but they are gone is our Is our 20 That's 20 sccm. Yeah Per hour or per minute I use ours the same flow they are gone Okay I change that so 20 sccm sccm per minute of argon and then zero to six of methane Yeah I change for um But then they feel more or less carbon Um, but the argon is fixed Okay, okay.
 
-Tanner is using but it's not That's just the methane right? Yeah, but they are long is our 20 It's 20 SCCM yeah
+## 00:12:00
 
-Per hour per minute no, I was Using hours the same flow they are gone Okay
+That was all for my slides. Oh I have one One comment about that when I said the distance the target is to substrate I said in terms the uh Vertical distance Um between the target and the substrate substrate I could close more closely or far the substrate That's to the substrate Do you mean this uh, if you can see my cursor do you mean this distance?
 
-So 20 CCM SCCM per minute of argon and then 0 to 6 of methane Okay One comment about that when I said the distance to substrate I sat in terms the
+Yeah Okay, cool. Okay. I actually I'm I'm uh, I'm trying to simulate for uh, like your experiment. I'm trying to simulate with different uh, methane flow rates and then um Grab my largest cluster and do the xrd analysis to see if I can uh, reach the same diagram that you have here or not Yeah So, okay Cool.
 
-Vertical distance Between the target and the substrate substrate I put close more closely offer the substrate to the substrate
+## 00:13:00
 
-During this if you can see my cursor do you mean this? Yeah Okay, cool. Okay. I actually I'm I'm trying to simulate for Like your experiment. I'm trying to simulate with different methane flow rates and then
+Thank you guys. Okay, so, uh We will again meet on next week. So, okay Is next week the monthly meeting? um I don't know. I don't I don't know.
 
-Grab my largest cluster and do the XRD Analysis to see if I can reach the same diagram that you have here or not. Yeah Okay Cool. Thank you guys. Okay, so
+That's a great question. Yeah, actually the name They must be Yeah, okay Okay, have a good day everyone. All right. Thanks guys. Bye.
 
-We will again meet on next week so yes, okay is next week the monthly meeting I don't I Don't know that's a great question. Yeah, actually the name must be yeah Okay
+## 00:14:00
 
-Okay, have a good day everyone, alright, thanks guys, thanks everyone So Rob and I were talking I sent you keen email. So Anthony, when are you like? What's your timeline? Three weeks. Okay
+Thanks everyone. Okay, so Rob and I were talking I sent yuki an email. So anthony when are you like What's your timeline? Three weeks. Okay Um Well first what's next for you?
 
-Well first what's next for you get that on Yeah, so presumably Yuki is continuing Where you're leaving off So Rob and I were talking yesterday about how
+Get that on um Yeah, so presumably yuki is continuing Where you're leaving off um So rob and I were talking yesterday about how Like he he was he was saying he was like Not frustrated per se, but he was like waiting for us to give him a cohesive story about What we have so far or about what We're trying to do and I feel like every time we do that They keep adding more things on or we're talking about new things to do or what things should go in this manuscript But we really just need to kind of put the hammer down about what experiments We need to finish in order to Get this done Because we're kind of just in this weird liminal space of We have lots of things But what are the point of some of the things that we're doing besides just to do them and see if things stick?
 
-Like he was he was saying he was like Not frustrated per se, but he was like waiting for us To give him a cohesive story about What we have so far or about what?
+## 00:15:00
 
-We're trying to do and I feel like every time we do that They keep adding more things on or we're talking about new things to do or what things should go in this manuscript But we really just need to kind of put the hammer down about what?
+um So to that effort Uh first question is were you able to do the freestanding film?
 
-experiments we need to finish in order to Get this done because we're kind of just in this weird liminal space of We have lots of things but What are the point of some of the things that we're doing?
+## 00:16:00
 
-Besides just to do them and see if things stick So to that effort First question is were you able to do the freestanding film? Okay, all right
+Okay. All right, um Okay. Yeah, I don't know what I would have for you recently to do um next unless we decide on that um But I feel like so we have these thin samples less than 10 microns or so and we know above that we get more full conversion of the surface um So tainara on the thin samples you weren't able to get confirmation of Boren carbide from the xrd Okay Boren carbide or boron the defraction is clear Okay, do you want it can you share this?
 
-Okay, all right Okay, yeah, I don't know what I would have for you recently to do Next unless we decide on that But I feel like so we have these thin samples less than
+## 00:17:00
 
-Ten microns or so and we know above that we get more full conversion of the surface So Tainara on the thin samples you weren't able to get confirmation of Boron carbide from the XRD
+You just have to join the Linkrace, yeah Yeah Mm-hmm I Okay Yeah Yeah, so we need to distill That and I know anthony you've put a lot of stuff into the one document, but sifting through that is is not the easiest thing to do Um, so we need to kind of consolidate what data we can use and what stuff we need to do um, so I think you know, we can just say we have you know a thin sample At approximately a certain thickness and a thick sample that we know converts um We can comment on the differences between Those two would not necessarily have like Many thicknesses, but just kind of go thick thin um One of the things um Actually, let me go quick and grab my notebook because I wrote some notes down.
 
-But These a few weeks ago I started with the TM in the list and because of the amount of the samples I
+## 00:19:00
 
-Okay, so yesterday I tried to the fraction of that Boron carbide or boron Is clear Okay, do you want it can you share this
+Thanks My last meeting So basically rob was thinking is You know the couple questions are can we convert the answer is yes What is the proposed mechanism?
 
-You just have to join the link right there Yeah I think Peace
+## 00:21:00
 
-Mm-hmm because these group we have Start and end of the history Okay, because I think the problem is We have
+And how can we kind of show what we know Is going on? um So testing that proposal And what are the important parameters for conversion? um based on You know from from the laser So we really need to hone in on what those things are based on what we've already done and maybe what we need to continue to doing I mean the biggest question we still don't really know is like what's absorbing um So I anthony I actually do have some other samples that I can give you um In the next day or so to test I have some Unfunctionalized like I just have some polybutadiene without that was synthesized without any catalysts um So I can give that to you and we can test to see again, you know, whether that What happens when we raster across that?
 
-samples we have Different conditions but the condition Yeah, yeah, so we need to distill that and I know Anthony you've put a lot of stuff into the one document but sifting through that is not the easiest thing to do
+## 00:22:00
 
-So We need to kind of consolidate what data we can use and what stuff we need to do So I think you know, we can just say we have you know a thin sample At approximately a certain thickness and a thick sample that we know converts
+um on a substrate or freestanding too um But basically yeah, we just need to have a clean establishment of like what those guidelines are and talk about like what's going on and Talk about like what is happening to make the conversion happen basically um So if that makes any sense probably not great, but okay right right because we So we don't know Sorry, I'm like really scattered today.
 
-We can comment on the differences between those two would not necessarily have like Many thicknesses but just kind of go thick thin One of the things
+## 00:24:00
 
-Actually, let me go quick and grab my notebook because I wrote some notes down So basically Rob was thinking is You know that the couple questions are can we convert the answer is yes What is the proposed mechanism?
+Um so with the Maybe this is kind of what tina is getting into here with the thin samples We weren't able to get probably even enough data to really look at But one sample is what the data you have up here and uh So what what are we looking at here? What is this?
 
-And how can we kind of show what we know is going on So testing that proposal and what are the important parameters for conversion based on You know from from the laser
+the What we have the amongst we have the If we don't really Here we have the Strongest spots And the difference between the spot and the center match to the bottom boron carbide or boron just boron but uh Here is the diffraction in the small particle Very small particle It's not the Yeah Of course Just for the Yeah, and I don't know for me we have four samples with the difference I know it's not the mango About the thickness Yeah, I think we're gonna have to drop the thickness because I've been bashing my head against a brick wall for months On getting this thickness and we're just gonna have to go with what i'm able to do.
 
-So we really need to hone in on what those things are based on what we've already done and maybe what we need to continue To doing I mean the biggest question we still don't really know is like what's absorbing the data So I Anthony I actually do have some other samples that I can give you
+## 00:25:00
 
-In the next day or so to test I have some Unfunctional I like I just have some poly butadiene without that was synthesized without any catalysts So I can give that to you and we can test to see again, you know whether that What happens when we raster across that
+It's just I don't have enough of the sample and it's hard to work with so We can go, you know, sub micro sub 10 micron and greater than 10 micron is basically what we're looking at These four samples we have the big convolium Mm-hmm for different conditions. Okay. We have the With the map Now I prepare the TM for that Uh, we uh, we have the srg and actually now I work on the conclusive Uh Stay on the outside.
 
-on a substrate or freestanding to but basically, yeah, we just need to have a clean establishment of like what those guidelines are and Talk about like what's going on in
+## 00:26:00
 
-Talk about like what is happening to make the conversion happen basically So if that makes any sense probably not great but Okay, right, right because we so we don't know Sorry, I'm like really scattered today
+Okay So I think in in this group of the sample we have the Maybe the Okay, so let's Let's stick with that then just Maybe changes in the laser power Um keep the distance between the rows the same um and then Once So we can get, you know, these as a function of laser power Um say which laser power, you know works best for this sample um Then we can talk about, you know, a spin-coded sample of you know, somewhere between Somewhere around 10 microns and do a similar study And then see what happens with that and that would be a nice Report, um So because that that would kind of you know tick off the clean guideline part um And so we can do okay um Okay, um and Do you have do we have Uh sapphire polished on both sides?
 
-so with the Maybe this is kind of what Tyner is getting into here with the thin samples We weren't able to get probably even enough data read to really look at but one sample is what the data you have up here So what what are we looking at here, what is this
+## 00:28:00
 
-To the bottom boron carbide or boron just boron Yeah I don't know for me. We have four samples with different I know it's not
+Or do we just have frosted? Okay, um If I can get some of that to you I have sample that I can cast immediately and and give to him so um Anthony, what are you trying again to do with the double-sided sapphire? Got it Got it. Yeah, because I can I can spin coat a you know, I can I can do a um Drop cast like I've given you before it should be like a really nice um, you know Like circular cast on it and then I can also do a a pretty thin spin coat and we can see The differences of that I just have to be consistent in my concentration.
 
-Yeah, I think we're gonna have to drop the thickness because I've been bashing my head against a brick wall for months I'm getting this thickness and we're just gonna have to go with what I'm able to do It's just it I don't have enough of the sample and it's hard to work with so
+## 00:29:00
 
-We can go, you know sub micro sub 10 micron and greater than 10 micron is basically what we're looking at I'm working on the conciliatory They on that okay, so I think in this group of the samples we have Okay, so let's
+So I know the thicknesses are going to be approximately the same both times um Because papers that have talked about this are also just like yeah, I think this these are somewhere between x and y so I don't think it would be nice to be super um standardized, but I'm just not able to do it right now and we need to get something out I couldn't uh, I think why it's because of the distance there is the you can simulation the the boron carbide and the Carbide and there is a fixed distance between the center and the spots so from that I can calculation and determine It's boron carbide or it's boron.
 
-Let's stick with that then just Maybe changes in the laser power Keep the distance between the rows the same And then
+## 00:30:00
 
-Once so we can get you know, these as a function of laser power Say which laser power, you know works best for this sample Then we can talk about you know a spin coated sample of you know somewhere between somewhere around 10 microns and do a similar study and
+Oh, sorry. We're just on my computer Because the distance between the spots is related to the distance between the plans in the letters Yeah Do you have a picture or a reference of like what that sample looked like? In August last year we have two groups of the sample the first one It's not uh, covra reconvert In the xrg it looked like not convert And I use that for one test in the team just about the solution and we In this test I find this but the xrg doesn't indicate that The xrg showed boron carbide No Was that it was it before we changed the chamber setup though?
 
-Then see what happens with that and that would be a nice Report So because that would that would kind of you know, take off the clean guideline part and so we can do
+## 00:31:00
 
-Okay, and do you have do we have Sapphire polished on both sides Or do we just have frosted? Okay
+Like I don't know it's uh I I don't know I Don't know I don't know without seeing a picture of it. That's and that's part of our problem, right? We have so many of these samples and like We're not Like keeping the best track of what where everything is I can't open my email Anthony normally No, the most recent we have the one sample with uh work Yeah, yeah with glass and with sapphire Zero point zero five You need to Yeah, it just it just it doesn't mean anything to me without Seeing the the sample side by side with the data I know I've assigned codes for a lot of things but like if it was that long ago like I just I don't remember And they're really gonna get on our asses about that if we can't They're gonna be super pissed if we're not super like confident about where everything is because the I I found the email about these samples
 
-If I can get some of that to you I have sample that I can cast immediately and give to him so Anthony what are you trying again to do with the double sided sapphire? Got it got it, yeah, cuz I can I can spin coat a
+## 00:34:00
 
-you know, I can I can do a Drop cast like I've given you before it should be like a really nice You know Like circular cast on it and then I can also do a
+These were the ones where we first did the changes in the rastering Unless you're talking about I put zero point zero five milliliters of solution onto the film Yeah, yeah, that's the distance of the pass between the rows I I I don't I don't know I mean I think February But see I will see this not in February but the the dates in the box is I think the date in the box is about my sapphire Well, I should have they should have been They would have been labeled to with either a code or Something I I don't I can't say anything about the sample if I don't know what it is is the problem So it it could have been A sample that didn't like work out so well or something and that's why we're not seeing boron carbide versus Boron because that seems super strange to me Um, I mean, I mean basically I think what we're gonna have to we're gonna have to repeat a bunch of stuff anyway um
 
-pretty thin spin coat and we can see The differences of that. I just have to be consistent in my concentration So I know the thicknesses are gonna be approximately the same both times
+## 00:36:00
 
-Because papers that have talked about this are also just like yeah thicknesses are somewhere between X and Y So I don't think it would be nice to be super Standardized but I'm just not able to do it right now and we need to get something out And there's a fixed distance between the center and the spots
+Paperwise so I think we just kind of need to not necessarily like start over again, but We have all of this stuff. So from all of the stuff that we've done What are the important experiments? To either revisit Or explore a little bit more in order to tell the story we wanted to tell Well, I talked to him about I said about the thickness.
 
-so from that I can calculation and It's bottom carbide or it's bottom. Oh, sorry. We're just on my computer Because the distance between the spots is related to the distance between the plans in the letters
+## 00:37:00
 
-Yeah Do you have a picture or a reference of like what that sample looked like? I guess last year we have two groups of the sample the first one. It's not Cobra reconvert in the XRD. It's look like not convert and
+I was like can't do thickness. Sorry Um, we can do thick and thin And have it reasonably consistent around that um I said, you know, hopefully we can do something on different substrates Which we have we've already done. We know we can do it on glass and on sapphire We maybe want to do it on like aluminum or something um and then What he really wants is a clean parameter set For what works for conversion And then we need to know we need to have some insight on what the the um mechanism of the conversion is whether that's you know, just some sort of heating is there something actually absorbing So that is still a little up in the air um But I think I think yeah, I basically told him we're just gonna have to deal with it if we want to get it out So he said high conductivity
 
-I use that for one past in the TM just about the solution and we Dispatch I find these but that's a The XRD showed boron carbide, no, no was that was it before we changed the chamber setup though like I don't know it's I
+## 00:38:00
 
-Don't know I Don't I don't know without seeing a picture of it. That's and that's part of our problem, right? we have so many of these samples and like
+Do you know off the top of your head what the difference is we we've looked about before between the glass and the sapphire Yeah, yeah, okay um Anthony could you do me a favor?
 
-We're not like keeping the best track of what where everything is No, they look see we have the one sample with Yeah, so yeah with glass and with sapphire 0.05 million
+## 00:39:00
 
-Yeah, it doesn't it just it doesn't mean anything to me without Seeing that the sample side by side with the data I know I've assigned codes for a lot of things but like if it was that long ago, like I just I don't remember And they're really gonna get on our asses about that if we can't
+And maybe just in like one document or One slide or something Kind of just consolidate some of like the laser parameters that we've touched on um and Like what and then from from that we can figure out okay Was that successful or was that not successful? Just like all the kind of parameters like what the scope of the parameter space you use so far is um and then We can correlate that to what samples that we've done I'm trying to think What the best way to do that is because we have like XRV data in different places versus you know Um Yeah, so I guess just basically what what parameter space Have you done with the laser already and like what all the the values for the power and the you know, um The Like basically all the data that all all the information that like jp would be interested in as as it relates to That parameter space Okay
 
-they're gonna be super pissed if we're not super like confident about what everything is because the These were the ones where we first did the changes in the rastering Unless you're talking about I put 0.05 milliliters of solution on the
+## 00:41:00
 
-film Yeah Yeah, that's this is distance of the past between the rows I
+Yeah, just to kind of just consolidate it into like one document basically And I think that will be good The problem is I'm just trying to think like They have all these things they said they wanted us to do But you know some of those things could take literally years um But we just need to Figure out and I thought we kind of had a good idea but of it before when we were figuring out a figure draft But apparently Not necessarily, um, which I can revisit that too um Yeah, I think we just need that direct Plan so any any input from what you guys think is helpful Um is appreciated because I'm kind of like pulling my hair out here.
 
-I don't I don't know I Well, I should have they should have been they would have been labeled to
+## 00:42:00
 
-with either a code or Something I don't I can't say anything about the sample if I don't know what it is is the problem so it could have been a Sample that didn't like work out so well or something and that's why we're not seeing
+Yeah You know We we just have to be confident In what story we want to tell That they can sign off on Whether it changes what he was asking about or not. I don't think really matters I think we just need to have some sort of cohesive story We Put together based on this stuff and they can say oh, maybe you should add this or maybe don't add that But that's what rob is gonna at least be looking for in the next, you know two weeks Is that we can like freestanding freestanding or um On substrates Yeah, okay I think that'll work and I think for that kind of stuff Um, we'll just have to go with you know the thicknesses that we know work And forget about those that we That are that are on the borderline of actually getting data for right if if we have super thin sample on a substrate and we're not able to like get enough
 
-boron carbide versus Boron because that seems super strange to me I mean, I mean basically I think what we're gonna have to we're gonna have to repeat a bunch of stuff anyway So I think we just kind of need to not necessarily like start over again, but
+## 00:45:00
 
-We have all of this stuff. So from all of the stuff that we've done What are the important experiments to either revisit or explore a little bit more in order to tell the story? We wanted to tell Well, I talked to him about I said about the thickness. I was like can't do thickness. Sorry
+Signal to analyze it then we we might as well just just ditch that a whole idea entirely Um Because I'm not sure Tainara did you were you able to look at these? in the xrd And say whether or not They were boron carbide Yes, these were in a big like bag too But when I went down and checked the desiccator not too long ago, I didn't see them In the bag, so I don't know if you took them out for s.
 
-And have it reasonably consistent around that I Said, you know, hopefully we can do something on different substrates Which we have we've already done. We know we can do it on glass and on sapphire We maybe want to do it on like aluminum or something
+E. M. Or Other things like that they should have a picture I think anthony actually has pictures of these in his photo Folder Because rob rob was like I don't really necessarily know the importance of being able to do like these lines and stuff so You probably can just kind of ditch that too and just fill with scrolling to find the picture Not sure that I Actually do now I think I have a picture before I Before I drop them off No, that would have been um much older these would have given Rob wasn't a fan.
 
-And then What I said about the thickness I was like can't do thickness. Sorry And then What he really wants is a clean parameter set for what works for conversion and
+## 00:47:00
 
-Then we need to know we need to have some insight on what the the Mechanism of the conversion is whether that's you know, just some sort of heating is there something actually absorbing? So that is still a little up in the air
+He didn't understand like the importance or the novelty of like Having these I yeah, I don't really know. He was kind of being a pain in my ass yesterday and monday. Um He was like I don't understand like the importance of having You know these like what the the lines are Um Yeah You're right Right, okay.
 
-But I think I think yeah, I basically told them ever just gonna have to deal with it if we want to get it out So you said high conductivity Do you know off the top of your head what the difference is? We looked about before between the glass and the sapphire Yeah, yeah, okay
+## 00:48:00
 
-I Think could you do me a favor and maybe just in like one document or One slide or something kind of just consolidate some of like the laser parameters that we've touched on and
+So so that's important. That's That's what we need to highlight here because then we can just have You know, we still don't necessarily need to have the precise thickness Or like, you know, have a range of thicknesses, but we say here on the thin sample. Oh when we Raster at the same parameter space that we do with a thick sample We only get you know rows of this distance, but then if we double that we can we can do the same pattern Uh, we can get fuller coverage.
 
-And Like what and then from from that we can figure out okay was that successful or was that not successful Just like all the kind of parameters like what the scope of the parameter space you use so far is and
+## 00:49:00
 
-then We can correlate that to what samples that we've done I'm trying to think What the best way to do that is because we have like xrv data in different places versus, you know
+So that's actually a really really good point. Um, yeah, I don't I don't know either Um, and that's why I think this is so confusing because we're getting just so many different You know, there's too many cooks here Um But then we were thinking like you know are the The differences like In the pictures Here is this truly because of the thickness or is it because of Actually fluctuations in the laser Um Because with the really really thin samples that you recently did we you actually able to see distinct um Rows of that and not this kind of fractured Um Picture so I'm not exactly sure what happened there especially since the the pro-philometry that like Doesn't necessarily say those areas are any lower than than the other areas So I'm not sure but I do like if we can get a um Some really nice images of you know a thinner sample having doubled the The
 
-Yeah, so I guess just basically what what parameter space have you done with the laser already and like what all the values for the power and the you know The
+## 00:51:00
 
-Like basically all the data that all the information that like JP would be interested in as as it relates to that parameter space Okay, yeah just to kind of just consolidate it into like one Document basically
+Or having have the distance between the rows or filling in between the rows Um that we do get this full coverage Um that we can say with xrd or te m or whatever that is boron carbide that adds a really nice piece Because we don't have to have all the answers. We just need to be able to tell this story Um, so I need to think about more about what exactly that story is going to look like Um Yeah Okay, yeah, all right, so I think that's a good piece to kind of You know come back to so we can do you know the You know the thicker samples at the differences in the laser power um We can talk about you know this whole idea of the coverage and we already have some nice Like the periodicity maps that can go with that and and stuff And then We can Probably just do and you know then we can have this you know some of the laser parameters that like Work for our particular samples here
 
-And I think that will be good the problem yeah, the problem is I'm just trying to think like They have all these things they said they wanted us to do But you know, some of those things could take literally years
+## 00:53:00
 
-Well, we just need to Figure out and I thought we kind of had a good idea but of it before when we were figuring out a figure draft but apparently Not necessarily which I can revisit that too
+Um and then just go into the different substrates Um, and I think that should have a reasonable Story to it Um I just need to we just need to think about that a little bit more, but we have some time I think before the before we're going to meet Uh next so we can get also get some some more experiments done related to the Um absorption Um and UV viz so I can get those to you Um probably by Friday Yeah Um the plan is to Get these Uh samples on the the doubly polished sapphire to anthony He can do some UV viz stuff um, I have the unfunctionalized polymer That was synthesized without any catalyst Um to give And then we still have the freestanding film so if we know the freestanding film converts It doesn't necessarily have anything to do with the substrate Um Or I mean it might have something to do with the substrate.
 
-Yeah, I think we just need that direct Plan so any any input from what you guys think is helpful Is appreciated because I'm kind of like pulling my hair out here Yeah
+## 00:54:00
 
-We we just have to be confident in what story we want to tell that they can sign up on Whether it changes what he was asking about or not. I don't think really matters I think you just need to have some sort of cohesive story
+We just have to figure that out. Um and then from the samples that um We have that we will have related to um Laser power It would be nice to have You know the semtm of those nxrd to confirm the boron carbide as well as the thinner sample When we can show oh here's the same Laser parameter, we know the distance between You know the rows it doesn't fully convert, but if we if we have that distance now we have full conversion and we'll need You know spectroscopy of that and The fraction of that as well Um, I'll type up something and send that out that we we know um Kind of what the next steps are and what the story is Is Yeah, I mean thickness at this point is going to be binary It's going to be thick and thin and there's not really going to be any in the in between So it'll be approximately this size thick approximately this size thin um One is drop cast one is spin coated so laser power
 
-Put together based on this stuff and they can say oh, maybe you should add this or maybe don't add that But that's what Rob is gonna at least be looking for in the next, you know, two weeks is that we can like free standing free standing or On
+## 00:55:00
 
-substrates Yeah, okay. I think that'll work and I think for that kind of stuff We'll just have to go with you know, the thickness is that we know work and Forget about those that we better that are on the borderline of actually getting
+binary thickness um And the You know is is does the um Does the difference in the conversion between the thick and the thin samples suggests some sort of thermal mechanism Maybe we have the the samples with the same condition the power The the the series powers Uh, I think we can We can Look for these because maybe we have that Uh One point This is the because this is the thin and the thin doesn't convert It's not the if we have if you have these it's not necessary and not those samples Right, right so saying that Whether or not if this black stuff is even boron carbide or That it just hasn't absorbed enough energy to convert fully Okay Actually Because I think it's important to discuss this song important talk and we Don't have now the information or not and maybe if you we use that in the paper We spend the this talk We put the information So maybe not do
 
-Data for right if we have super thin Sample on a substrate and we're not able to like get enough Signal to analyze it then we we might as well just just ditch that a whole idea entirely Because I'm not sure
+## 00:58:00
 
-Tynar did you were you able to look at these in the XRD and Say whether or not They were born carbide Yes
+Just focus on sapphire and save different substrates for later Yeah, I think but I'm not sure maybe Okay Because we have a lot of samples What we can do with the samples A lot of yeah experiments, right Um, yeah, so I guess what's that it's also to maybe think about Like what Experiments and samples that you know you've done and like How that can fit into You know this story So we're kind of having three people thinking about the the story at the same time and Based on what experiments they've done or what samples they've interacted with Um Because they just want to see some cohesiveness from us and I still feel like There there's a lot out there that That um, yeah, it just seems a little you know, it's incohecid Um like we need everything to come together Um Yeah I should have said No, there isn't But for some reason they they want more of a They they want more of a study here um
 
-These were in a big like bag too But when I went down and checked the desiccator not too long ago, I didn't see them In the bag, so I don't know if you took them out for SEM or Other things like that. They should have a picture. I think Anthony actually has pictures of these in his photo
+## 00:59:00
 
-Folder Because Rob Rob was like I don't really necessarily know the importance of being able to do like these lines and stuff so
+And I think we can do that. It's just Yeah, we need to know exactly what experiments to do And I think we need I think we just have to sit on that for a little bit of time Um But I will send out an email With some of these thoughts and we can kind of brainstorm over the next couple days Um and see if we can't come up with More of a consistent storyline um For this If that's agreeable So if you have any other thoughts we could probably adjourn here and I will I will send out something between this evening and tomorrow um related to what we talked about um And some of the you know the action items That we'll have immediately Okay Off the deep sample we for the The trash dump arrow Uh, I find it here Um, yeah Thank you and I will send out something shortly.
 
-You probably can just kind of ditch that too. I just go with scrolling to find a picture Not sure that I actually do now I think I have a picture before I Before I drop them off
+## 01:01:00
 
-No, that would have been much older these would have given Rob wasn't a fan. He didn't understand like the importance or the novelty of like Having these I yeah, I don't really know. He was kind of being a pain in my ass yesterday and Monday He was like I don't understand like the importance of having
-
-You know these like what the lines are Yeah You're right, right, okay. So so that's important. That's that's what we need to highlight here because then we can just have You know, we still don't necessarily need to have the precise thickness or
-
-Like, you know have a range of thicknesses, but we say here on the thin sample Oh when we raster at the same parameter space that we do with a thick sample We only get you know rows of this distance, but then if we double that we can we can do the same pattern
-
-We can get fuller coverage. So that's actually a really really good point Yeah, I don't I don't know why they're And that's why I think this is so confusing because we're getting just so many different
-
-You know, there's too many cooks here But then we were thinking like you know are the The differences like in the pictures Here is this truly because of the thickness or is it because of
-
-actually fluctuations in the laser Because with the really really thin samples that you can get Because with the really really thin samples that you recently did we you actually able to see distinct
-
-Rows of that and not this kind of fractured Picture so I'm not exactly sure what happened there, especially since the the profilometry that like Doesn't necessarily say those areas are any lower than Than the other areas
-
-So I'm not sure but I do like if we can get a Some really nice images of you know, a thinner sample having doubled the Or having have the distance between the rows or filling in between the rows That we do get this full
-
-coverage That we can say with XRD or TEM or whatever that is boron carbide that adds a really nice piece Because we don't have to have all the answers. We just need to be able to tell the story So I need to think about more about what exactly that story is gonna look like
-
-Yeah Okay, yeah, all right, so I think that's a good piece to kind of You know come back to so we can do you know the You know the thicker samples at the differences in the laser power
-
-We can talk about you know This whole idea of the coverage and we already have some nice like the periodicity maps that can go with that and and stuff and then
-
-we can Probably just do and you know then we can have this, you know some of the laser parameters that like work for our particular samples here And then just go into the different substrates
-
-And I think that should have a reasonable story to it I Just need to we just need to think about that a little bit more but we have some time I think before we go
-
-next so we can get also get some some more experiments done related to the absorption And UV viz so I can get those to you
-
-Probably by Friday. Yeah The plan is to Get these Get these
-
-Samples on the the doubly polished sapphire to Anthony he can do some UV viz stuff I have the unfunctionalized polymer that was synthesized without any catalyst To give and then we still have the freestanding film
-
-So if we know the freestanding film converts, it doesn't necessarily have anything to do with the substrate Or I mean it might have something to do with substrate we just have to figure that out and then from the
-
-samples that We have that we will have related to Laser power it would be nice to have you know, the SEM TEM of those
-
-And XRD to confirm the boron carbide as well as the thinner sample when we can show oh here's the same Laser parameter we know the distance between You know the rows it doesn't fully convert but if we if we have that distance now we have full conversion and we'll need you know spectroscopy of that and
-
-Diffraction of that as well I'll type up something and send that out that we we know Kind of what the next steps are and what the story is That makes any sense
-
-Yeah, I mean thickness at this point is gonna be Binary it's gonna be thick and thin and there's not really gonna be any any in between so it'll be approximately this size thick approximately this size thin One is dropcast one is spin coated so laser power
-
-binary thickness and The You know is is does the
-
-Does the difference in the conversion between the thick and the thin samples suggests some sort of thermal mechanism maybe we have The series powers I think we can We can
-
-Looking for this because maybe we have that The this is one point This is the thickest this is the thin and the thin doesn't convert Not that if we have if you have these it's not necessary another simple
-
-Right right so saying that whether or not if this black stuff is even boron carbide or And it just hasn't absorbed enough energy to convert fully Okay
-
-Because I think it's important to discuss More talk and we don't have now the information And maybe if you we use that in the paper We spend
-
-This talk We thought the information So maybe not do just focus on sapphire and save different substrates for later Yeah, right
-
-Yeah, so I guess what's that it's also to maybe think about Like what Experiments and samples that you know you've done and like how that can fit into You know this story
-
-so we're kind of having three people thinking about the the story at the same time and Based on what experiments they've done or what samples they've interacted with Because they just want to see some cohesiveness from us and I still feel like there there's a lot out there that
-
-That Yeah, it just seems a little You know, it's in cohesive Like we need everything that come together
-
-Yeah Because I don't know I think that we mentioned the literature But they compare with the one I should have said later
-
-No, there isn't But for some reason they they want more of a they they want more of a study here And I think we can do that it's just Yeah, we need to know exactly what experiments to do
-
-And I think we need I think we just have to sit on that for a little bit of time But I will send out an email with some of these thoughts and we can kind of brainstorm over the next couple days And see if we can't come up with more of a consistent storyline For this if that's agreeable
-
-So If you have any other thoughts we could probably adjourn here and I will I will send out something between this evening and tomorrow Related to what we talked about And some of that, you know the action items that will have emigrely, okay
-
-Yeah The symbol we did The truck from barrel I Find it here
-
-Yeah, thank you and I will send out something shortly. Yeah
+See you Bye

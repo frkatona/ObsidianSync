@@ -1,3 +1,9 @@
+### 2026-05-20
+- Vivian track
+	- changeup at 49 with vocal-y wind sounding lead
+	- 2:07 pop off with hard/high wind
+	- 2:26 rofl wtf reggae sampler
+
 ### 2026-05-09 Seana Practice
 - Edits
 	- end of "4 am" --> instrumental at end for a while

@@ -147,7 +147,10 @@
 - workday
 	- ARL - Non-Destructive Inspection Engineer/Material Scientist (Faculty)
 
-
+### 5/21
+- Indeed
+	- BAI Group, LLC - Environmental Technician (State College)
+	- Vescent Technologies - Staff Scientist Optical Clock Development (Golden, CO; >$125k)
 
 
 ---
