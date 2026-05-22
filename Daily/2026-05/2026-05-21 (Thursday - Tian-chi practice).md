@@ -20,3 +20,7 @@
 ### closed tabs
 - https://en.wikipedia.org/wiki/Marshall_McLuhan
 - https://pennstate.craigslist.org/muc/d/milesburg-guitarist-wanted/7933002545.html
+
+
+living scenes from the dreams and the memories I miss
+but I'd rather never known you than to see you like this
