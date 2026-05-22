@@ -78,3 +78,12 @@ I ended up getting a little confused because I felt like you were conflating mul
 - ship fuel is expensive --> lower drag and resist bio-fouling with laser texturing
 - dry docking is time consuming --> coat underwater with lasers
 - curing the polymer coating is time consuming --> faster with laser heat
+
+
+2026-05-18 Ben Meeting
+- custom Geleste purchase idea
+	- Tian-chi proposed some components, Ben said that the hydride terminated species would be more like Sylgard with the hydrides randomly interspersed rather than simply terminal
+		- they tend to be sold at different fractions of hydride saturation, so they can be purchased to vary, e.g., viscosity by changing the chain length, but maintain the crosslinking density because the hydride density is approximately the same
+- choose data (and order) that allows you to focus in on the story from your motivation (and flow between them)
+- solving the bubbles inside the glass slide
+	- IR cells with inlet+outlet
