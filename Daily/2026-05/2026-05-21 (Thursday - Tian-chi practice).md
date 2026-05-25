@@ -15,3 +15,5 @@
 ### closed tabs
 - https://en.wikipedia.org/wiki/Marshall_McLuhan
 - https://pennstate.craigslist.org/muc/d/milesburg-guitarist-wanted/7933002545.html
+- https://tidal.com/album/506221305
+- https://tidal.com/album/184197324/track/184197325
