@@ -152,6 +152,10 @@
 	- BAI Group, LLC - Environmental Technician (State College)
 	- Vescent Technologies - Staff Scientist Optical Clock Development (Golden, CO; >$125k)
 
+### 5/23
+- Indeed
+	- Blue Labs - Data Scientist (Washington DC, remote, $85k)
+
 
 ---
 ## (5/15) apply out of town
