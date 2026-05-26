@@ -266,3 +266,11 @@ The fastest way to identify the dominant mechanism is to repeat the pattern with
 I would also do a simple **puncture-and-dye test**: after curing, nick one end of a light channel and place a low-viscosity dye or fluorescent oil at the opening. If it wicks through, the light region is an open or semi-open air channel. If it does not, it is more likely a cured/thinned/topographic optical feature with embedded bubbles.
 
 A third useful check is to image the sample **before lasing** and again after each pass. If the same waviness exists before lasing, you are seeing thickness/interference/topography imposed by slide spacing. If the waviness appears only after laser exposure, it is a processing instability.
+
+---
+### 2026-05-25 
+- things tian chi might want to prioritize
+	- profilometry pipeline
+	- vacuum chamber
+	- UV vis
+- ChatGPT 
