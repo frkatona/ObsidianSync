@@ -77,3 +77,22 @@ Ben:
 	- problem --> what has been done  --> what could be done --> your work
 	- starts strong with "coatings are needed" and "dry docking is expensive", but Ben would then go straight to "what has been done in the group to address that already"
 		- maybe "we've already shown that you can drive the cure of polymers with lasers must faster" "BUT even though we've accelerated the process to spend less time dry-docking, what if you didn't have to dry dock at all by coat underwater" which leads to "we need to photothermal cure underwater"
+
+Kristen:
+- title slide: 
+	- "fine control" feels like unhelpful jargon, don't know what it means
+	- add an image and info (date, ben's lab, name)
+
+Emma:
+- likes to lighten the font a little (gray instead of black)
+
+Slides
+1. asdf
+2. Kristen - replace or remove "good"
+3. adf
+4. asdf
+5. asdf
+6. asdf
+7. sadf
+8. Ben comments:
+	1. greg hartland paper; photophysics of carbon black 
