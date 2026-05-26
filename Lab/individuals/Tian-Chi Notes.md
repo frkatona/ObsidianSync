@@ -274,3 +274,6 @@ A third useful check is to image the sample **before lasing** and again after ea
 	- vacuum chamber
 	- UV vis
 - ChatGPT 
+
+### 2026-05-26
+- I suggest changing your "previous research" sentence to mention that it showed that bio-fouling on ship coating can be improved with laser engraved patterning
