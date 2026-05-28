@@ -156,6 +156,10 @@
 - Indeed
 	- Blue Labs - Data Scientist (Washington DC, remote, $85k)
 
+### 5/27
+- Workday
+	- Technology Scout Lead - OEC (PSU, >$70k)
+
 
 ---
 ## (5/15) apply out of town
