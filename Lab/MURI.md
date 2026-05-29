@@ -20,6 +20,19 @@ Absorption mechanisms to explore:
 
 ---
 
+### 2026-05-27 Monthly MURI Meeting Notes
+- pre-notes
+	- what to do next for laser group
+		- 1 um samples: will any number of passes at a low power produced a change
+		- non-functionalized: see if it absorbs
+		- receive several coupled (no scattering interfaces) layers to stack to test for two-photon
+		- try the 10 um sample again to see if it really did need 5% (try a 5% pre-lase before the 10% on one side and a straight 10% for the other)
+			- could be that pre-heat through the bulk allows thicker carbide layer
+			- could also try just pre-heating on a hot plate
+		- try again in-air
+- early meeting
+	- Rob discusses how he'd like the August meeting organized
+
 ### 2026-05-20 Weekly MURI Meeting Notes
 - non-faculty meeting
 - pre-notes
@@ -32,7 +45,7 @@ Absorption mechanisms to explore:
 		- Ben: try non-functionalized
 	- mechanism
 		- several layers for two photon
-		- maybe the 10% -> 20% really did need the 10% 
+		- maybe the 5% -> 10% really did need the 5% 
 - to-do
 	- email AC to make sure he's aware that we don't have enough sample and will need more
 	- laser new sample: non functionalized (no catalyst) to test to see if it absorbs
