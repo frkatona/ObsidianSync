@@ -10,6 +10,7 @@
 - Tian-chi discussion points
 	- contact angle
 		- "sessile drop"
+		- adding a diffuser?
 		- tilted (advancing/receding) angle information?
 		- non-water droplet information?
 		- contact angle not only --> hydrophobicity, but also --> surface energy (tension?)
