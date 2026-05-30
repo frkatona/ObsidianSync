@@ -160,6 +160,20 @@
 - Workday
 	- Technology Scout Lead - OEC (PSU, >$70k)
 
+### 5/30
+- asdf
+
+
+### next
+- jobs
+	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)
+	- Analysis and Planning Consultant, University Libraries  - State College - $65k- [linkedin](https://www.linkedin.com/jobs/view/4418827132/) 
+	- Associate Scientist I - Cayman - State College - ?>$70k - [linkedin](https://www.linkedin.com/jobs/view/4379460810/?alternateChannel=search&trackingId=OoeP3I6cS06RuONfi5SfCA%3D%3D)
+	- Sales Account Manager - Entegris - Remote + Travel PA - >$100k - [linkedin](https://www.linkedin.com/jobs/search-results/?currentJobId=4392003054&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=Kvz7h%2FpVQeWMNeS5D5IUXw%3D%3D&keywords=chemi&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=4379460810%2C4414922482%2C4408127143)
+	- 
+- follow up with hiring managers
+	- ARL
+	- PSU libraries
 
 ---
 ## (5/15) apply out of town
