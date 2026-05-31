@@ -176,17 +176,17 @@
 	- PSU libraries
 
 ---
-## (5/15) apply out of town
+### (5/15) apply out of town
 
-## (5/22 Apply for <$40k jobs
+### (5/22 Apply for <$40k jobs
 
-## (6/11) Post-doc ends
+### (6/11) Post-doc ends
 - PSU HR FAQ ([link](https://hr.psu.edu/information-know-when-leaving-university-employment))
 - Apply for PA unemployment compensation ([checklist](https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/uc/uc-forms/uc-23.pdf))
 - Apply for health insurance
+- $10k on 6/1 --> worst case at $3k/mo ~9/1
 
 ---
-
 ### technical expertise
 
 | Area                              | Skills                                                                                                                                                                                            |
