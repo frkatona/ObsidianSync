@@ -17,6 +17,7 @@ Absorption mechanisms to explore:
 - photochemical initiation
 - substrate absorption
 - dielectric breakdown
+- saturable absorption
 
 ---
 
