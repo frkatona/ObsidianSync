@@ -20,6 +20,8 @@ Absorption mechanisms to explore:
 - saturable absorption
 
 ---
+### 2026-06-03 Weekly MURI Meeting Notes
+- Rob cancelled because he's traveling
 
 ### 2026-05-27 Monthly MURI Meeting Notes
 - pre-notes
