@@ -1,3 +1,12 @@
+### Tim set (5/31/26)
+- Citizen Beware (A#m - https://frkatona.github.io/projects/SongPlayer/portfolio.html?artist=admin)
+- Hammer's Gonna Fall (Em)
+- Tales from the Fortress Everything (Em - [sc](https://soundcloud.com/user-933156778/tales-from-the-fortress))
+- maybe
+	- Another Day in the Compound
+	- For You
+	- Balancing Act
+
 ### looper notes
 - vocal harmonies
 	- "hearing 3rds" [YT](https://youtu.be/kV84-ru5SPg) (unwatched)

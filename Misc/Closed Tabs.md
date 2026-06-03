@@ -1,3 +1,5 @@
+- 2026-06-01
+	- amazon sort by unit price
 - 2026-05-16
 	- CRV engine
 	- batch migrating ownership of projects between github accounts
