@@ -1,5 +1,5 @@
 ### home
-- asdf
+- using obsidian with google drive
 
 ### work
 - tian-chi notes
