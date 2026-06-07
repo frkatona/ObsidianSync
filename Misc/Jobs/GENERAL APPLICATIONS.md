@@ -215,13 +215,13 @@
 | **Cameras / media**       | Sony camera workflows, RAW/photo processing, video bitrate/card limitations, monitoring/tethering concepts, DaVinci Resolve ecosystem |
 
 ### professional/transferable skills
-| Area                               | Skills                                                                                                                    |      |     |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---- | --- |
-| **Cross-disciplinary translation** | Moving between chemistry, optics, electronics, software, fabrication, and instrumentation                                 |      |     |
-| **Problem decomposition**          | Breaking vague technical goals into parts lists, workflows, calculations, tests, and risks                                |      |     |
-| **Research synthesis**             | Literature review, article triage, connecting mechanisms across fields                                                    |      |     |
-| **Documentation**                  | Guides, checklists, READMEs, naming conventions, lab/process documentation, FAIR principles                               |      |     |
-| **Career positioning**             | defense, data, machine learning, chemistry, general research, automation, scientific programmer, safety and quality roles | **** |     |
+| Area                               | Skills                                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Cross-disciplinary translation** | Moving between chemistry, optics, electronics, software, fabrication, and instrumentation                                 |
+| **Problem decomposition**          | Breaking vague technical goals into parts lists, workflows, calculations, tests, and risks                                |
+| **Research synthesis**             | Literature review, article triage, connecting mechanisms across fields                                                    |
+| **Documentation**                  | Guides, checklists, READMEs, naming conventions, lab/process documentation, FAIR principles                               |
+| **Career positioning**             | defense, data, machine learning, chemistry, general research, automation, scientific programmer, safety and quality roles |
 ### achievements
 
 | Category                                             | Achievements                                                                                                                                                                                                              |
@@ -283,6 +283,15 @@
 	- Containerize and CI-test one existing Python project
 	- Deploy a tiny FastAPI service to cloud with infrastructure notes
 	- Build a local Kubernetes mini-project with a runbook
+
+---
+# Outreach/Volunteer Work
+- GWIS presentation 1: psychology of bias
+- GWIS presentation 2: physics of sound
+- GWIS elementary school polymer demo
+- GWIS girl scout superconductor quantum locking demo
+- PJAS Science Fair Judge
+
 
 ### SQL + BI dashboard project: “Executive Operations KPI Dashboard”
 
