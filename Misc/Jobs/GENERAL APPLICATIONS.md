@@ -163,6 +163,14 @@
 ### 5/30
 - asdf
 
+### 6/7
+- LinkedIn
+	- R&D Scientist (Adhesives) - Element Solutions - (New Jersey - $? - [linkedin](https://www.linkedin.com/jobs/view/4402744183/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=BvozFqst0dgwh9wRtty%2Fxg%3D%3D&trackingId=WTzU13jLPpyAqvxuzaqFjA%3D%3D))
+	- Senior Photonic Product Engineer - Nokia - (Allentown, PA - $? - [linkedin](https://www.linkedin.com/jobs/view/4397161148/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=BvozFqst0dgwh9wRtty%2Fxg%3D%3D&trackingId=EeCe0YgoMnaPHapyiQd4uA%3D%3D))
+	- R&D Engineer - Coherent Corp - (Monroe, CT - $60-100k - [linkedin](https://www.linkedin.com/jobs/view/4399588783/?eBP=JOBS_AUCTION_SERVICE_FAILED&refId=BvozFqst0dgwh9wRtty%2Fxg%3D%3D&trackingId=gHBRtLSJxpDL3Wr1%2FSjnIA%3D%3D))
+	- Environmental Chemist (data validation) - Onteris - (Remote - $65k - [linkedin](https://www.linkedin.com/jobs/view/4421190600/?eBP=CwEAAAGeo9KquzMyegPeJ3sqRiHsi6bz8nld5Fy_2-pqowOJuejKOuk6f2_ab1aqbg0aThWj9cT_LUYKRRPuTUPyRxxfu38yqqC89niKP7toEmK1kvUakwq55FHC5MJbBUIguRsrMkRr8gBh50ELDeJHnJ6OUoeOnJzLIvWw45OJRZ8vUbT_bUKDFVkKyOwsqYA-c9odP92HOl-7mui-jQKbHlHxgdyq02JqFO9SZT7Y3LeonHKLJQ8RwdvM677uyffZ0VbdQlLuUTqytUpaQNsCaw_OsxvyCsQFbtCTFxhA35u8L-trMzWKyEjHq4zWtpd9LDQQjPjcvaelAZBOr8bsG5hIDNrpBcr3NMyNZERlfyfe9Vw-lF5vzlSn1guxqSnX5ylO2Mpt4VVZC8vrisHf-tNyTpskPLmh0EOffwZgTjR2ZGkPTbAxJM8clwDGRLWxAAEv-d-iEXiBSCS4bCBIWnFYJP9hnrkXS5ybD4OeNfpJ&refId=gIuo%2BbhaEvoarPYyuC8hLA%3D%3D&trackingId=FAr0W4ehsnCVwQg13H4Vvw%3D%3D))
+	- Research Scientist (AI Chemistry) - Universal Display Corporation (Ewing, NJ - >$100k - [linkedin](https://www.linkedin.com/jobs/view/4421874312/?eBP=CwEAAAGeo9KqvMXio3fpqR3cl7NjwGUKcVHXpzElnsjLJ02Fu-zbBhXhtgRxeIwLvSWv1kWCbW5O1sf7rmYUaZy-j2eb43-4hZpVZNUsNzyv6dJ_4DR1Byl4FYhb4l9rJlCS_ou2E8GQ_yVxxI7RazaaRO67D0Q78kxp9Wd9dVkQ8OgWC5pflMcSScekD1fwev4W1tfMBGe5D3tUb3MC8dZF8yeORGsvwhuEOOJ0Lohun3ANZTTQ-UgtU6Zkp5DipTpjzDi2flN6etkLqAWUU9fAh7g_-4WYvbgzo8PaOzSYpC3V-Sh7RJjPQ3toekK7ll1VzRWGKwzBhkXHEzBT1_-Lj_NGH_dPF9YlNSHUZMPBEqJyh1tmvJH_YsMDsw_AuI_LsNMzQDvxXwMftQLb-701yjeF8jDRquS16pEZ7Z8MyaGxlbuaRiH1VZEK9udsz8asDv6JjMIS_YvZtVSL1jzHh9Ur0rOXzainCZryGbQcxw&refId=gIuo%2BbhaEvoarPYyuC8hLA%3D%3D&trackingId=4Fv%2FMqXfC8EGM1caeE0rVQ%3D%3D))
+- to-do: message PSU hiring manager(s)
 
 ### next
 - jobs
