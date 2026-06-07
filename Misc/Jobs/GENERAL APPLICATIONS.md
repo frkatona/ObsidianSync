@@ -215,13 +215,13 @@
 | **Cameras / media**       | Sony camera workflows, RAW/photo processing, video bitrate/card limitations, monitoring/tethering concepts, DaVinci Resolve ecosystem |
 
 ### professional/transferable skills
-| Area                               | Skills                                                                                                                    |      |     |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---- | --- |
-| **Cross-disciplinary translation** | Moving between chemistry, optics, electronics, software, fabrication, and instrumentation                                 |      |     |
-| **Problem decomposition**          | Breaking vague technical goals into parts lists, workflows, calculations, tests, and risks                                |      |     |
-| **Research synthesis**             | Literature review, article triage, connecting mechanisms across fields                                                    |      |     |
-| **Documentation**                  | Guides, checklists, READMEs, naming conventions, lab/process documentation, FAIR principles                               |      |     |
-| **Career positioning**             | defense, data, machine learning, chemistry, general research, automation, scientific programmer, safety and quality roles | **** |     |
+| Area                               | Skills                                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Cross-disciplinary translation** | Moving between chemistry, optics, electronics, software, fabrication, and instrumentation                                 |
+| **Problem decomposition**          | Breaking vague technical goals into parts lists, workflows, calculations, tests, and risks                                |
+| **Research synthesis**             | Literature review, article triage, connecting mechanisms across fields                                                    |
+| **Documentation**                  | Guides, checklists, READMEs, naming conventions, lab/process documentation, FAIR principles                               |
+| **Career positioning**             | defense, data, machine learning, chemistry, general research, automation, scientific programmer, safety and quality roles |
 ### achievements
 
 | Category                                             | Achievements                                                                                                                                                                                                              |
