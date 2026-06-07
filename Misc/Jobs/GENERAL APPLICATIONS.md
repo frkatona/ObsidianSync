@@ -284,6 +284,15 @@
 	- Deploy a tiny FastAPI service to cloud with infrastructure notes
 	- Build a local Kubernetes mini-project with a runbook
 
+---
+# Outreach/Volunteer Work
+- GWIS presentation 1: psychology of bias
+- GWIS presentation 2: physics of sound
+- GWIS elementary school polymer demo
+- GWIS girl scout superconductor quantum locking demo
+- PJAS Science Fair Judge
+
+
 ### SQL + BI dashboard project: “Executive Operations KPI Dashboard”
 
 Resume point: "Built a SQL-backed BI dashboard for operational KPI reporting, including normalized source tables, reporting views, data-quality checks, stakeholder-facing visualizations, and written definitions for metrics such as return rate, complaint rate, on-time delivery, and regional performance."
