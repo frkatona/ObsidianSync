@@ -36,11 +36,19 @@
 | **Evaporation-driven concentration gradients**                      | Local evaporation at hot spots concentrates oligomers/fillers/impurities and changes interfacial tension/cure.                                                                   | Ring-like deposits around bubbles or hot zones.                                                          | Use sealed cell/pressurized water to suppress evaporation/boiling.                                                                                                                                                                   |
 | **Thermal damage or modification of the water-facing surface only** | The surface may become chemically or topographically different from the bulk due to oxidation, hydrolysis, or enrichment of silica/filler.                                       | Contact angle, ATR-FTIR, XPS, or nanoindentation differs at laser track.                                 |                                                                                                                                                                                                                                      |
 
-# Condensed List
-- Cure gradient (freezing in place during movement)
-- Viscosity (?)
-- Marangoni flow (thermocapillary convection)
-- Solutal Marangoni flow (pepper + soapy water)
-- Buoyant convection
-- beam scanning (wakes/neighboring lines affecting each other)
-- 
+### mass transfer mechanisms shortlist:
+- Global influence
+	- cure gradient (freezing in place during movement)
+	- viscosity (high T --> viscosity crash and jump...timescales?)
+	- beam scanning (interference from wakes and neighboring lines)
+	- photo-acoustic frequency dependence
+- Convection
+	- buoyant
+	- thermocapillary (marangoni)
+- Solutal Marangoni flow (e.g., pepper + soapy water) (["laser streaming" paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC5617372/))
+- Gas formation
+	- dissolved gas exsolution
+	- water vapor bubbles
+		- bubble nucleation 
+		- cavitation collapse
+- ...
