@@ -172,6 +172,11 @@
 	- Research Scientist (AI Chemistry) - Universal Display Corporation (Ewing, NJ - >$100k - [linkedin](https://www.linkedin.com/jobs/view/4421874312/?eBP=CwEAAAGeo9KqvMXio3fpqR3cl7NjwGUKcVHXpzElnsjLJ02Fu-zbBhXhtgRxeIwLvSWv1kWCbW5O1sf7rmYUaZy-j2eb43-4hZpVZNUsNzyv6dJ_4DR1Byl4FYhb4l9rJlCS_ou2E8GQ_yVxxI7RazaaRO67D0Q78kxp9Wd9dVkQ8OgWC5pflMcSScekD1fwev4W1tfMBGe5D3tUb3MC8dZF8yeORGsvwhuEOOJ0Lohun3ANZTTQ-UgtU6Zkp5DipTpjzDi2flN6etkLqAWUU9fAh7g_-4WYvbgzo8PaOzSYpC3V-Sh7RJjPQ3toekK7ll1VzRWGKwzBhkXHEzBT1_-Lj_NGH_dPF9YlNSHUZMPBEqJyh1tmvJH_YsMDsw_AuI_LsNMzQDvxXwMftQLb-701yjeF8jDRquS16pEZ7Z8MyaGxlbuaRiH1VZEK9udsz8asDv6JjMIS_YvZtVSL1jzHh9Ur0rOXzainCZryGbQcxw&refId=gIuo%2BbhaEvoarPYyuC8hLA%3D%3D&trackingId=4Fv%2FMqXfC8EGM1caeE0rVQ%3D%3D))
 - to-do: message PSU hiring manager(s)
 
+### 6/9
+- LinkedIn
+	- Sr. Applications Chemist - Joule - (Huntington Pa Hybrid - $? - [linkedin](https://www.linkedin.com/jobs/view/4422984080/?refId=AJKZhD5PZ8uxWDTffP2dhQ%3D%3D&trackingId=eTzoM%2Fz%2FarVHVJ%2F7Qg0irQ%3D%3D))
+	- Development Technology Leader: Surface Engineering - Corning - (Corning, NY - $120k - [linkedin](https://corningjobs.corning.com/job/Corning-Development-Technology-Leader-Surface-Engineering-NY-14831/1373268200/))
+
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)
