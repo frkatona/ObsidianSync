@@ -177,6 +177,10 @@
 	- Sr. Applications Chemist - Joule - (Huntington Pa Hybrid - $? - [linkedin](https://www.linkedin.com/jobs/view/4422984080/?refId=AJKZhD5PZ8uxWDTffP2dhQ%3D%3D&trackingId=eTzoM%2Fz%2FarVHVJ%2F7Qg0irQ%3D%3D))
 	- Development Technology Leader: Surface Engineering - Corning - (Corning, NY - $120k - [linkedin](https://corningjobs.corning.com/job/Corning-Development-Technology-Leader-Surface-Engineering-NY-14831/1373268200/))
 
+### 6/11
+- LinkedIn
+	- Research Scientist - Oura - (remote - [linkedin](https://www.linkedin.com/jobs/view/4423174523/?refId=mkZ0DP%2FgcW0cxrauHsJfTQ%3D%3D&trackingId=l3PLW53KMpbUt0NeOUGLZQ%3D%3D))
+
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)
