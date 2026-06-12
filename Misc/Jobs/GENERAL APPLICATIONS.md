@@ -179,14 +179,15 @@
 
 ### 6/11
 - LinkedIn
-	- Research Scientist - Oura - (remote - [linkedin](https://www.linkedin.com/jobs/view/4423174523/?refId=mkZ0DP%2FgcW0cxrauHsJfTQ%3D%3D&trackingId=l3PLW53KMpbUt0NeOUGLZQ%3D%3D))
+	- Research Scientist - Oura - (remote - $120k - [linkedin](https://www.linkedin.com/jobs/view/4423174523/?refId=mkZ0DP%2FgcW0cxrauHsJfTQ%3D%3D&trackingId=l3PLW53KMpbUt0NeOUGLZQ%3D%3D))
+	- Materials Science Engineer (Extrusion) (521656) - CRH - (Philadelphia - ? - [linkedin](https://www.linkedin.com/jobs/view/4387473346/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=SsJPvebxoICZim3Dldxh0w%3D%3D&trackingId=0yPdvAn4sPZaKcQXaPZBVg%3D%3D))
 - Indeed
 	- Business Data Analyst (Entry Level) - Microflexinfra - (remote - $75k - [indeed](https://www.indeed.com/viewjob?jk=63ffe6462d43ca26&q=data&l=Remote&tk=1jqrpd0lug4uc800&from=ja&alid=69a7a1b9b2e9b00e83d499e2&xpse=SoCM67I3ibw6_Og9vr0LbzkdCdPP&xfps=585d0eac-180a-4e06-afc9-53358f1ee075&rgtk=1jqrpd0lug4uc800&xkcb=SoDo67M3ib65C2gIzz0DbzkdCdPP&applied=1&from=smart-apply))
-
+- Workday
+	- Analysis and Planning Consultant - University Libraries - (hybrid - $65k - [workday](https://www.myworkday.com/psu/d/inst/15$158872/9925$206787.htmld) (job requisition ID: REQ_0000078220))
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)
-	- Analysis and Planning Consultant, University Libraries  - State College - $65k- [linkedin](https://www.linkedin.com/jobs/view/4418827132/) 
 	- Associate Scientist I - Cayman - State College - ?>$70k - [linkedin](https://www.linkedin.com/jobs/view/4379460810/?alternateChannel=search&trackingId=OoeP3I6cS06RuONfi5SfCA%3D%3D)
 	- Sales Account Manager - Entegris - Remote + Travel PA - >$100k - [linkedin](https://www.linkedin.com/jobs/search-results/?currentJobId=4392003054&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=Kvz7h%2FpVQeWMNeS5D5IUXw%3D%3D&keywords=chemi&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=4379460810%2C4414922482%2C4408127143)
 	- 
