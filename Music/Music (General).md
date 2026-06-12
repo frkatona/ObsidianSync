@@ -1,3 +1,5 @@
+###
+
 ### 2026-05-20
 - Vivian track
 	- changeup at 49 with vocal-y wind sounding lead
@@ -43,6 +45,6 @@
 
 ### [[Band Practice]]
 
-### [[General Voice Notes]]
+### [[Voice Notes]]
 
 ### [[SFX Checklist]]

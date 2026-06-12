@@ -490,4 +490,4 @@ Be sure not to skimp on the basics (stay hydrated; stretch out your neck, jaw, a
 
 ---
 
-[[General Voice Notes]]
+[[Voice Notes]]

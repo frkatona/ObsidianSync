@@ -507,7 +507,7 @@ https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe
  - JVJ
 	 - Read horror/mystery book
 - Music
-	- ### [[Music]]
+	- ### [[Music (General)]]
 	- [x] Get Eric's recording onto computer to practice bass for next Sunday
 	- [x] Bring CDs for JVJ
 

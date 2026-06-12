@@ -119,4 +119,4 @@
 - 4am
 	- figuring out chorus opening melody ("while in free fall" - maybe straight Ds, maybe D, C#, E, D)
 ---
-[[General Voice Notes]]
+[[Voice Notes]]
