@@ -4,6 +4,15 @@
 	- toggle instant replay: `alt + shift + f10`
 	- save last 90s: `alt + f10`
 
+### DBD survivor challenges
+- Tome 6
+	- II - heal dying survivor or recover `with empathy` 2x
+	- IV - point to killer `with premonition` 2x
+- Tome 7
+	- I - blue glyph collector; dual challenge blood points
+	- II - fall; reciprocate unhook; hatch escape `with left behind`
+	- III - dual challenge gold emblem
+
 ### Tim set (5/31/26)
 - Citizen Beware (A#m - https://frkatona.github.io/projects/SongPlayer/portfolio.html?artist=admin)
 - Hammer's Gonna Fall (Em)
