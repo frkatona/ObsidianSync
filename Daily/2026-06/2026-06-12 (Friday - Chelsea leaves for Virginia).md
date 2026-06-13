@@ -7,7 +7,11 @@
 - write up hotkeys and CLI commands in misc. list
 - game dev
 	- dolphin model/animations
+- watch ATLA movie
+- play Ecco 
 
 ### work
 - put together list for laser chamber
 - write down logic for Yuki's lasing
+- bring back the SD card
+- parking office

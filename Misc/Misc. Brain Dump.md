@@ -4,6 +4,9 @@
 	- toggle instant replay: `alt + shift + f10`
 	- save last 90s: `alt + f10`
 
+### freelancer ideas
+- lessons (piano, guitar, vocals)
+
 ### DBD survivor challenges
 - Tome 6
 	- [x] II - heal dying survivor or recover `with empathy` 2x
