@@ -23,6 +23,11 @@
 		- film thickness increases with mill speed (also dependent on lubricant properties)
 		- film thickness decreases with oil starvation (also dependent on the emulsion properties)
 		- the roll and strip surfaces are in close sliding contact
+- wikipedia
+	- cold rolling keeps T below recrystallization point of metal which is usually ~0.3-0.4x its melting point
+		- steel melts above 1370 C, so 0.3 x 1370 C = 411 C
+	- Rolling mills are often divided into roughing, intermediate and finishing rolling cages
+	- 
 ### Questions for interviewer
 - Curiousity
 	- Day-to-day tasks
@@ -36,6 +41,11 @@
 ### Questions (lingering)
 - Cold rolling
 	- how big of an industry is it?
-	- what problems does it solve?
 	- who are the major vendors?
+- Advantages of
+	- hot vs cold
+		-  Steelwork processing with large pieces of metal used in hotrolling: ingots, slabs, blooms, and billets
+	- tandem vs reversing
+	- horizontal vs vertical vs universal (rails + H beams + wide plates)
 - Milling terminology
+-
