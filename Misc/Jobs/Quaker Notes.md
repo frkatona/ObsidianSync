@@ -10,8 +10,15 @@
 		- what positive outcomes followed from those efforts?
 
 ### Job Content
-- lubricants for cold rolling of steel
-
+- video
+	- worldwide supply of lubricants specifically for cold rolling steel ("rolling oils")
+	- cold rolling
+		- **steel strips** are passed through **work rolls** at high speed and compression
+			- reversing build - several passes in the same set of coils
+			- tandem build - successive passes
+		- temperature ranges from ~20 C to 160 C (320 F)
+		- keep cooled and lubricated by spraying **oil + water emulsion** on strip surface
+		- the strip accelerates at the rolls due to the thickness reduction
 ### Questions for interviewer
 - Curiousity
 	- Day-to-day tasks

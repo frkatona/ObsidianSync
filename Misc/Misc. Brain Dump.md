@@ -9,11 +9,13 @@
 
 ### DBD survivor challenges
 - Tome 6
-	- [x] II - heal dying survivor or recover `with empathy` 2x
+	- [x] II - heal dying survivor or recover `with empathy` 2x ✅ 2026-06-14
 	- [ ] IV - point to killer `with premonition` 2x
 - Tome 7
-	- [ ] I - blue glyph collector; dual challenge blood points
-	- [ ] II - fall; reciprocate unhook; hatch escape `with left behind`
+	- I
+		- [x] blue glyph collector ✅ 2026-06-14
+		- [ ] dual challenge blood points
+	- [x] II - fall; reciprocate unhook; hatch escape `with left behind` ✅ 2026-06-14
 	- [ ] III - dual challenge gold emblem
 
 ### Tim set (5/31/26)

@@ -6,10 +6,10 @@
 - garden flowers/tomatoes/spinach
 - write up hotkeys and CLI commands in misc. list
 - game dev
-	- dolphin model/animations
-- watch ATLA movie
-- play Ecco 
-
+	- [ ] dolphin model/animations
+	- [ ] play Ecco 
+	- [ ] 
+- [x] watch ATLA movie
 ### work
 - put together list for laser chamber
 - write down logic for Yuki's lasing
