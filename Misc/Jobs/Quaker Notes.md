@@ -18,7 +18,8 @@
 			- tandem build - successive passes
 		- temperature ranges from ~20 C to 160 C (320 F)
 		- keep cooled and lubricated by spraying **oil + water emulsion** on strip surface
-		- the strip accelerates at the rolls due to the thickness reduction
+		- the strip accelerates at the rolls due to the thickness reduction, which creates high sliding speed at the contact
+		- **roll bite**
 ### Questions for interviewer
 - Curiousity
 	- Day-to-day tasks
