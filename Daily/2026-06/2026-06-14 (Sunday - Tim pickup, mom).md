@@ -2,10 +2,11 @@
 - ask if Chelsea can arrange a playdate for Ponyo soon after she's back
 - job
 	- applications
+	- send resume to the resume lady(ies?)
 	- prep for Quaker (message Sarah)
-- - game dev
+- game dev
 	- [ ] dolphin model/animations
-	- [ ] play Ecco 
+	- [ ] install Ecco rom 
 - email HR
 	- email Pennie
 	- find out what to get and when for applying
@@ -13,7 +14,7 @@
 	- ask Energy if they are in-network with Pennie
 - reschedule mt nittany for end of month
 - using obsidian with google drive
-- 
+- find high E string collection (did I give them to Chelsea?)
 ### work
 - put together list for laser chamber
 - write down logic for Yuki's lasing

@@ -19,7 +19,10 @@
 		- temperature ranges from ~20 C to 160 C (320 F)
 		- keep cooled and lubricated by spraying **oil + water emulsion** on strip surface
 		- the strip accelerates at the rolls due to the thickness reduction, which creates high sliding speed at the contact
-		- **roll bite**
+		- term: **"roll bite"**
+		- film thickness increases with mill speed (also dependent on lubricant properties)
+		- film thickness decreases with oil starvation (also dependent on the emulsion properties)
+		- the roll and strip surfaces are in close sliding contact
 ### Questions for interviewer
 - Curiousity
 	- Day-to-day tasks
@@ -35,3 +38,4 @@
 	- how big of an industry is it?
 	- what problems does it solve?
 	- who are the major vendors?
+- Milling terminology
