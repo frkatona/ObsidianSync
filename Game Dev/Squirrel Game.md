@@ -1,3 +1,9 @@
+### 2026-06-15 Squirrel Meeting Notes
+- Josh card game updates
+- George is using SonoBus for some digital mixing
+- Kaya may move on to snowboarding game
+- maybe try adding some jiggle bone to the dolphin spine/tail
+
 ### 2026-05-05 Squirrel Racer Meeting notes
 - No big updates from Kaya or Josh
 - I showed off some ucupaint candidate textures I've been making and the greeble box
