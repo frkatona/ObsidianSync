@@ -1,8 +1,5 @@
 ## General Interview
 
-## timeline
-- 9:30 - voice STAR
-
 ### examples/responses with the 'STAR' method
 - Situation (20%)
 	- what is some brief context for the story?
@@ -41,7 +38,6 @@
 	- concentration, droplet size, surfactant balance, pH, water hardness, temperature, contamination, iron fines, microbial growth, base oil-additive depletion
 - tests
 	- FTIR, viscosity, acid number, saponification value, pH, conductivity, microscopy, particle/iron analysis, emulsion stability, foam, corrosion/stain, tribology
-- 
 
 ### generic Q&A
 - Tell me about yourself
@@ -57,7 +53,14 @@
 			- one published paper focused on how our thermalizing additive would inherently interfere with consumer utility (because thermalizing more light means less optical transparency) and so we found through Python thermal modeling that even at visually undetectable loadings, temperatures rises sufficient for thermosetting should be accessible.   
 	- Maintained vacuum pumps
 - A time you had to deal with conflict
-- ^etc
+- etc
+
+### Resume review points
+- filled systems
+- colloid dispersion behavior
+- analytical characterization
+- formulation problem solving
+- customer/application support
 
 ---
 ### Job Content
@@ -168,7 +171,6 @@ Chat questions 2
 	- tandem vs reversing
 	- horizontal vs vertical vs universal (rails + H beams + wide plates)
 - Milling terminology
--
 
 ### sarah call tips
 - "tell us about a time you've had a solve a problem" "why do you want to work here" kind of questions

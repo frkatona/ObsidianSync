@@ -1,0 +1,12 @@
+### home
+- [ ] respond linkedin message about gesture-to-midi
+- [ ] respond facebook $400 offer for lens
+- [x] complained about codex auto-refreshing
+- [ ] work up track for FL Thursday
+- [ ] pick up gift from Yuki
+- [ ] apply more jobs
+- Squirrel
+	- [ ] find project for accountability hour
+	- [ ] tell about recoverable razor-and-blades for Waze
+	- [ ] tell about mixing website
+- [ ] create a GUI for navigating video media
