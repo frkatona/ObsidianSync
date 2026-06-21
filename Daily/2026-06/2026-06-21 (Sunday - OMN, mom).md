@@ -1,0 +1,21 @@
+### home
+- kody
+	- youtube channel subscriptions
+	- send my channel recommendations
+		- lines on maps, ymfah, thepruld, (other geopolitics? media analysis?)
+	- google photos alt?
+	- mediapipe stuff?
+- linkedin mediapipe response
+- fix toilet (talk to ARPM)
+- tian-chi
+	- FL Studio stuff
+	- set up a day for a hike
+- respond Abi
+- continue remote media
+	- try Tailscale
+	- how did Harry play games remotely?
+	- Kaya's software RAID
+- download abundance
+- job applications
+	- patent office thing
+	- more across Philly
