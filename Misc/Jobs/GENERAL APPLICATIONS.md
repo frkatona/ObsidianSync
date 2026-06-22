@@ -185,6 +185,10 @@
 	- Business Data Analyst (Entry Level) - Microflexinfra - (remote - $75k - [indeed](https://www.indeed.com/viewjob?jk=63ffe6462d43ca26&q=data&l=Remote&tk=1jqrpd0lug4uc800&from=ja&alid=69a7a1b9b2e9b00e83d499e2&xpse=SoCM67I3ibw6_Og9vr0LbzkdCdPP&xfps=585d0eac-180a-4e06-afc9-53358f1ee075&rgtk=1jqrpd0lug4uc800&xkcb=SoDo67M3ib65C2gIzz0DbzkdCdPP&applied=1&from=smart-apply))
 - Workday
 	- Analysis and Planning Consultant - University Libraries - (hybrid - $65k - [workday](https://www.myworkday.com/psu/d/inst/15$158872/9925$206787.htmld) (job requisition ID: REQ_0000078220))
+
+### 6/22
+- Patent Examiner - USPTO - (remote - 60k - [USPTO](https://www.uspto.gov/jobs/become-patent-examiner-4))
+- 
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)

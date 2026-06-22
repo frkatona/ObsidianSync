@@ -1,3 +1,10 @@
+### Godot 4.7 Notes
+- Copy attributes from entire category of same node type (right click --> copy/paste between, e.g., transforms)
+- Cleaner drag-and-drop in the scene node manager
+- Snap path3D to collision shapes
+- Snap to vertex (hold 'V', select select snap)
+- 
+
 ### 2026-06-15 Squirrel Meeting Notes
 - Josh card game updates
 - George is using SonoBus for some digital mixing
