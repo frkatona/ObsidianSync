@@ -1,4 +1,8 @@
 ### home
+- fbm messages
+- respond
+	- vivian
+	- abi
 - kody
 	- youtube channel subscriptions
 	- send my channel recommendations
@@ -9,8 +13,7 @@
 - fix toilet (talk to ARPM)
 - tian-chi
 	- FL Studio stuff
-	- set up a day for a hike
-- respond Abi
+	- set up a day for a hike?
 - continue remote media
 	- try Tailscale
 	- how did Harry play games remotely?
