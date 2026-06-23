@@ -3,7 +3,12 @@
 - Cleaner drag-and-drop in the scene node manager
 - Snap path3D to collision shapes
 - Snap to vertex (hold 'V', select select snap)
-- 
+- Animation player tracks are collapsible
+- AreaLight3D texture
+- Virtual Joystick
+- search popup from dropdown menus (?)
+- Offset transforms in UI elements
+- Asset Store - ratings
 
 ### 2026-06-15 Squirrel Meeting Notes
 - Josh card game updates
