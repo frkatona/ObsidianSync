@@ -189,6 +189,10 @@
 ### 6/22
 - Patent Examiner - USPTO - (remote - 60k - [USPTO](https://www.uspto.gov/jobs/become-patent-examiner-4))
 - Senior Scientist, Biologics Analytical Development - Reference Material and Critical Reagents - Johnson & Johnson - (Malvern (~Philly) - $80k - [linkedin]([https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/Senior-Scientist--Biologics-Analytical-Development---Reference-Material-and-Critical-Reagents_R-082535-1/apply?source=LinkedIn](https://www.linkedin.com/jobs/view/4430749770/?eBP=CwEAAAGe8ernxaebhhje90G10c2MCunSnyuk7oWdxGar3MgFUkKxFZACs196fjU9gVPnH3Fm2QWcs5KXl1qty9zw0EFWKiJLqkorZzCdZ_ev3w821gcviy3q8dAXjO_7kZApZ7Tbw0HTP9QPy5noFI4YOrClsW3QmFSmOirGjtEkCSyF8BzcrduGhxKAEopED8-AtQwBMSMUutIdvxm_UYCC2iarzlMrhJfgTu7UZ4k6siMmgvxPoJGLR7Tkmm8UibZdKu57WqKj2Ia20_HJVfNrHBSzJBkcit-183Y3uGOvAMYFSxI9OM_iwDC9B1wmaKqOPTxaBjwePoXCpHKkuGDatZHlsiZhkLI8_zDFZCgE4Qj9eaL3G1estDEuE6_9MttfwwWVgcD58C4D7E4D2TOGJrZeMny4ysfWlZcR9gKEzbZaUUWnoxXhg0Fxw5L3aDNg3Cm9V8LaIlwoJQf6T92oaIM7mv5_Y_mWH5OGOHMfwaj9uFhLaQ&refId=HiSI4UIma0%2FHcywyNn7tWg%3D%3D&trackingId=nPFKp4eNN2vVi%2FlqWCygUg%3D%3D)))
+
+### 6/23
+- General Engineering/Physical Scientist - Nuclear Regulatory Commission (King of Prussia - $87k)
+- 
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)

@@ -1,12 +1,6 @@
 ### home
-- in-person reminders
-	- FBM Guy
-	- Seana
-	- Yuki
-- show and tell tonight
-	- snowboarding?  more textures?
-	- check out https://godotengine.org/releases/4.7/
-	- think on EOS P2P
+- Kaya game - snowboarding
+	- think more on 4.7 changes https://godotengine.org/releases/4.7/
 - kody
 	- youtube channel subscriptions
 	- send my channel recommendations
@@ -17,12 +11,11 @@
 - fix toilet (talk to ARPM)
 - set up day for Tian-chi hike for deer?
 - continue remote media
-	- [x] try Tailscale
+	- [ ] get Tailscale to work
 	- how did Harry play games remotely?
-	- Kaya's software RAID thing
+	- Kaya's software RAID thing ("ZFS")
 - download abundance
 - job applications
-	- patent office thing
 	- more across Philly
 
 ### codex credit spend
