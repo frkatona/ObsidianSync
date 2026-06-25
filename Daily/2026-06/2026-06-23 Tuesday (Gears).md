@@ -1,6 +1,7 @@
 ### home
 - Kaya game - snowboarding
 	- think more on 4.7 changes https://godotengine.org/releases/4.7/
+	- 2D practice
 - kody
 	- youtube channel subscriptions
 	- send my channel recommendations
@@ -21,7 +22,9 @@
 ### codex credit spend
 - HandMate MIDI update for Kody
 - VCV plugin generation
-- UE 5.8 (general level setup like Godot; basic networking with EOS;  etc.);
+- UE 5.8 (general level setup like Godot; basic networking with EOS;  etc.)
+- Godot free (slow/basic) networking
+- Camo clone
 
 ### closed tabs
 - bypass paywalls clean on android
@@ -29,3 +32,11 @@
 - is Seamus' "Better" Allman Brothers track referring to "[Soulshine](https://www.youtube.com/watch?v=pDIQ7Otf1mw)"?
 - android spam call blocker
 - best pip chrome plugin
+- affectation
+- immich
+	- https://www.youtube.com/watch?v=h5tdK10CRFE
+	- https://docs.immich.app/install/docker-compose/
+- vcv build
+	- https://www.youtube.com/watch?v=2C7GQ5ATzJM&t=1s
+- zfs software raid
+- stun turn ice network [article](https://developer.liveswitch.io/liveswitch-server/guides/what-are-stun-turn-and-ice.html)
