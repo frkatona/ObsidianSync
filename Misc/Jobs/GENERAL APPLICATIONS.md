@@ -192,7 +192,10 @@
 
 ### 6/23
 - General Engineering/Physical Scientist - Nuclear Regulatory Commission (King of Prussia - $87k)
-- 
+
+### 6/25
+- Materials Characterization Analytical Scientist - Chemours (Newark, DE - 74k - [chemours](https://chemours.wd103.myworkdayjobs.com/en-US/Chemours/job/Materials-Characterization-Analytical-Scientist_JR14559))
+- Materials Engineer - Lockheed Martin (King of Prussia - $? - [linkedin](https://www.linkedin.com/jobs/view/4419882493/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2B%2BxLud02fXLY9blIfLb7DA%3D%3D&trackingId=tavO4fNAYNEsb%2BhMvju8Rg%3D%3D))
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)

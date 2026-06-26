@@ -40,3 +40,8 @@
 	- https://www.youtube.com/watch?v=2C7GQ5ATzJM&t=1s
 - zfs software raid
 - stun turn ice network [article](https://developer.liveswitch.io/liveswitch-server/guides/what-are-stun-turn-and-ice.html)
+
+jellyfin
+- tell me when I'm missing episodes
+- updating - how to and to what version
+- skip intro
