@@ -26,8 +26,8 @@
 - wikipedia
 	- cold rolling keeps T below recrystallization point of metal which is usually ~0.3-0.4x its melting point
 		- steel melts above 1370 C, so 0.3 x 1370 C = 411 C
-	- Rolling mills are often divided into roughing, intermediate and finishing rolling cages
-	- 
+	- rolling mills are often divided into roughing, intermediate and finishing rolling cages
+	- Cold forming techniques are usually classified into four major groups: squeezing, bending, drawing, and shearing
 ### Questions for interviewer
 - Curiousity
 	- Day-to-day tasks
