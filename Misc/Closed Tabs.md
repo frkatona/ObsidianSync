@@ -1,3 +1,9 @@
+- 2026-06-16
+	- 3B1Br - How (and why) to take a logarithm of an image
+	- What’s the Left’s Vision for Foreign Policy After Trump? | The Ezra Klein Show
+	- https://developers.google.com/apps-script
+	- https://enroll.pennie.com/prescreener/
+
 - 2026-06-01
 	- amazon sort by unit price
 - 2026-05-16

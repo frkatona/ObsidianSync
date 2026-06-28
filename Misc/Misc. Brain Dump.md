@@ -10,13 +10,13 @@
 ### DBD survivor challenges
 - Tome 6
 	- [x] II - heal dying survivor or recover `with empathy` 2x ✅ 2026-06-14
-	- [ ] IV - point to killer `with premonition` 2x
+	- [x] IV - point to killer `with premonition` 2x ✅ 2026-06-15
 - Tome 7
 	- I
 		- [x] blue glyph collector ✅ 2026-06-14
-		- [ ] dual challenge blood points
+		- [x] dual challenge blood points ✅ 2026-06-15
 	- [x] II - fall; reciprocate unhook; hatch escape `with left behind` ✅ 2026-06-14
-	- [ ] III - dual challenge gold emblem
+	- [x] III - dual challenge gold emblem ✅ 2026-06-15
 
 ### Tim set (5/31/26)
 - Citizen Beware (A#m - https://frkatona.github.io/projects/SongPlayer/portfolio.html?artist=admin)

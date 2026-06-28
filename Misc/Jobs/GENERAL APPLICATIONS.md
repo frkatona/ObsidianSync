@@ -185,12 +185,26 @@
 	- Business Data Analyst (Entry Level) - Microflexinfra - (remote - $75k - [indeed](https://www.indeed.com/viewjob?jk=63ffe6462d43ca26&q=data&l=Remote&tk=1jqrpd0lug4uc800&from=ja&alid=69a7a1b9b2e9b00e83d499e2&xpse=SoCM67I3ibw6_Og9vr0LbzkdCdPP&xfps=585d0eac-180a-4e06-afc9-53358f1ee075&rgtk=1jqrpd0lug4uc800&xkcb=SoDo67M3ib65C2gIzz0DbzkdCdPP&applied=1&from=smart-apply))
 - Workday
 	- Analysis and Planning Consultant - University Libraries - (hybrid - $65k - [workday](https://www.myworkday.com/psu/d/inst/15$158872/9925$206787.htmld) (job requisition ID: REQ_0000078220))
+
+### 6/22
+- Patent Examiner - USPTO - (remote - 60k - [USPTO](https://www.uspto.gov/jobs/become-patent-examiner-4))
+- Senior Scientist, Biologics Analytical Development - Reference Material and Critical Reagents - Johnson & Johnson - (Malvern (~Philly) - $80k - [linkedin]([https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/Senior-Scientist--Biologics-Analytical-Development---Reference-Material-and-Critical-Reagents_R-082535-1/apply?source=LinkedIn](https://www.linkedin.com/jobs/view/4430749770/?eBP=CwEAAAGe8ernxaebhhje90G10c2MCunSnyuk7oWdxGar3MgFUkKxFZACs196fjU9gVPnH3Fm2QWcs5KXl1qty9zw0EFWKiJLqkorZzCdZ_ev3w821gcviy3q8dAXjO_7kZApZ7Tbw0HTP9QPy5noFI4YOrClsW3QmFSmOirGjtEkCSyF8BzcrduGhxKAEopED8-AtQwBMSMUutIdvxm_UYCC2iarzlMrhJfgTu7UZ4k6siMmgvxPoJGLR7Tkmm8UibZdKu57WqKj2Ia20_HJVfNrHBSzJBkcit-183Y3uGOvAMYFSxI9OM_iwDC9B1wmaKqOPTxaBjwePoXCpHKkuGDatZHlsiZhkLI8_zDFZCgE4Qj9eaL3G1estDEuE6_9MttfwwWVgcD58C4D7E4D2TOGJrZeMny4ysfWlZcR9gKEzbZaUUWnoxXhg0Fxw5L3aDNg3Cm9V8LaIlwoJQf6T92oaIM7mv5_Y_mWH5OGOHMfwaj9uFhLaQ&refId=HiSI4UIma0%2FHcywyNn7tWg%3D%3D&trackingId=nPFKp4eNN2vVi%2FlqWCygUg%3D%3D)))
+
+### 6/23
+- General Engineering/Physical Scientist - Nuclear Regulatory Commission (King of Prussia - $87k)
+
+### 6/25
+- Materials Characterization Analytical Scientist - Chemours (Newark, DE - 74k - [chemours](https://chemours.wd103.myworkdayjobs.com/en-US/Chemours/job/Materials-Characterization-Analytical-Scientist_JR14559))
+- Materials Engineer - Lockheed Martin (King of Prussia - $? - [linkedin](https://www.linkedin.com/jobs/view/4419882493/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=%2B%2BxLud02fXLY9blIfLb7DA%3D%3D&trackingId=tavO4fNAYNEsb%2BhMvju8Rg%3D%3D))
+
+### 6/27
+- Acoustics Analyst - Resource Systems Group (Remote - $61k-$85k - [Indeed](https://www.indeed.com/viewjob?jk=7e7ea58da90b7aed&q=data&l=Remote&tk=1js4r97ejkpor80a&from=ja&alid=69a7a1b9b2e9b00e83d499e2&xpse=SoCj67I3hEwzhOygFR0LbzkdCdPP&xfps=c0c91a87-ac75-4fc5-9c8b-275fec637b7b&rgtk=1js4r97ejkpor80a&xkcb=SoBn67M3hE-p9dAgZ70JbzkdCdPP&applied=1&from=smart-apply))
+- Chemist - Department of Defense (Philadelphia - $70k-$130k - [USAJOBS](https://www.usajobs.gov/job/874576500) -  closes 7/6)
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)
 	- Associate Scientist I - Cayman - State College - ?>$70k - [linkedin](https://www.linkedin.com/jobs/view/4379460810/?alternateChannel=search&trackingId=OoeP3I6cS06RuONfi5SfCA%3D%3D)
 	- Sales Account Manager - Entegris - Remote + Travel PA - >$100k - [linkedin](https://www.linkedin.com/jobs/search-results/?currentJobId=4392003054&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=Kvz7h%2FpVQeWMNeS5D5IUXw%3D%3D&keywords=chemi&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=4379460810%2C4414922482%2C4408127143)
-	- 
 - follow up with hiring managers
 	- ARL
 	- PSU libraries
@@ -205,6 +219,14 @@
 - Apply for PA unemployment compensation ([checklist](https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/uc/uc-forms/uc-23.pdf))
 - Apply for health insurance
 - $10k on 6/1 --> worst case at $3k/mo ~9/1
+
+---
+### essay questions
+1) My commitment to the Constitution is grounded in the principles of equal treatment and public service.  I feel a responsibility to the careful allocation and administration of time and resources, as well as technical expertise.
+2) I would use my experience process development, experimental design, and project coordination to make work more reproducible, measurable, and efficient.  In my research, I developed Python-based workflows for processing, fitting, and visualizing experimental data in chemical and physical contexts (e.g., surface topology, hydrophobicity, and tensile measurements) with publishable results.
+3) I support the responsible advancement of artificial intelligence capabilities. I've used AI in personal literature reviews and coding and I'm aware of its power to improve efficiency and support decision-making, as well as its potential for danger if leaned on with undue excess.   The Executive Order on government efficiency (EO 14158) also strikes me as a necessary improvement in modernization and data integrity.  Objective performance reviews should already have been a more prominent component of essential systems.
+4) A strong work ethic has been essential throughout my doctoral and postdoctoral research because experimental science rarely follows a researcher's plan.  Complex projects require hard work and sustained attention; and when they depart from the convenient course, they require independent troubleshooting and careful record-keeping.  In my career, when available methods were insufficient, I learned additional tools and developed custom analysis and experimental approaches, often requiring a persistence on the scale of months or years.
+
 
 ---
 ### technical expertise

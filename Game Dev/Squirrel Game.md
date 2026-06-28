@@ -1,3 +1,21 @@
+### Godot 4.7 Notes
+- Copy attributes from entire category of same node type (right click --> copy/paste between, e.g., transforms)
+- Cleaner drag-and-drop in the scene node manager
+- Snap path3D to collision shapes
+- Snap to vertex (hold 'V', select select snap)
+- Animation player tracks are collapsible
+- AreaLight3D texture
+- Virtual Joystick
+- search popup from dropdown menus (?)
+- Offset transforms in UI elements
+- Asset Store - ratings
+
+### 2026-06-15 Squirrel Meeting Notes
+- Josh card game updates
+- George is using SonoBus for some digital mixing
+- Kaya may move on to snowboarding game
+- maybe try adding some jiggle bone to the dolphin spine/tail
+
 ### 2026-05-05 Squirrel Racer Meeting notes
 - No big updates from Kaya or Josh
 - I showed off some ucupaint candidate textures I've been making and the greeble box
