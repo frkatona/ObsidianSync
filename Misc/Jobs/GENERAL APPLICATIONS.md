@@ -221,7 +221,7 @@
 - $10k on 6/1 --> worst case at $3k/mo ~9/1
 
 ---
-### essay questions
+### USAJOBS essay questions
 1) My commitment to the Constitution is grounded in the principles of equal treatment and public service.  I feel a responsibility to the careful allocation and administration of time and resources, as well as technical expertise.
 2) I would use my experience process development, experimental design, and project coordination to make work more reproducible, measurable, and efficient.  In my research, I developed Python-based workflows for processing, fitting, and visualizing experimental data in chemical and physical contexts (e.g., surface topology, hydrophobicity, and tensile measurements) with publishable results.
 3) I support the responsible advancement of artificial intelligence capabilities. I've used AI in personal literature reviews and coding and I'm aware of its power to improve efficiency and support decision-making, as well as its potential for danger if leaned on with undue excess.   The Executive Order on government efficiency (EO 14158) also strikes me as a necessary improvement in modernization and data integrity.  Objective performance reviews should already have been a more prominent component of essential systems.
