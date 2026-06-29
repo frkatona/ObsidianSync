@@ -200,6 +200,11 @@
 ### 6/27
 - Acoustics Analyst - Resource Systems Group (Remote - $61k-$85k - [Indeed](https://www.indeed.com/viewjob?jk=7e7ea58da90b7aed&q=data&l=Remote&tk=1js4r97ejkpor80a&from=ja&alid=69a7a1b9b2e9b00e83d499e2&xpse=SoCj67I3hEwzhOygFR0LbzkdCdPP&xfps=c0c91a87-ac75-4fc5-9c8b-275fec637b7b&rgtk=1js4r97ejkpor80a&xkcb=SoBn67M3hE-p9dAgZ70JbzkdCdPP&applied=1&from=smart-apply))
 - Chemist - Department of Defense (Philadelphia - $70k-$130k - [USAJOBS](https://www.usajobs.gov/job/874576500) -  closes 7/6)
+
+### 6/28
+- Research & Development Specialist - Avery Dennison (Mill Hall - $??? - [Linkedin](https://www.linkedin.com/jobs/view/4432865236/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=NA1NX7cJ2yDOKZufF%2BZ1AQ%3D%3D&trackingId=MyIS%2F0tlYNC9s1ZAD90%2F0A%3D%3D))
+- Automation & Workflow Integration Scientist - Alphanumeric Systems (Upper Providence - $? - [LinkedIn](https://www.linkedin.com/jobs/view/4427364707/?alternateChannel=search&eBP=CwEAAAGfD9IS5p0i6EjfG0xdNIVfkpzZLF_qzQKI92Hasv24hukXfRuSL2YPBqE09xN06Eq3Ge-UEJGMzGxuhkpXcfqYkiU40COjh9Qhv8b1TepWTujuD5vwYDWYTK25OzuJYDE7dmBwdkshWD2xtYoYVzpLHM6oQHMXMBgw9DEHwymWZT2eczEQ-M2VCM1KVubYs5w7cGuR0R99FNkV540lNPHW0omI9uy-_9nEsTRmAr25t0BAfI_aiPSIkbLXk_BIZPWDO56uMpREK1e7byfGlxSieFSFanB3NWkCYE8OFjsgZ2R7z9G724ZzyuTZsn4viDLLs7U-bSWwtVCh9rpdAWOt-OwnA5DKZVlc-3gkEYfWbmeVHpdQ_RCxsipoqAo6lo5XP12JedPHhVl3VTFlqPQphtGFNprFbr3tNz0MCPoHxuTne9BVUKD6gNV2zZ2e6ANg5qt3wFKbkhYP_jKtsZ4YycpdFp2Vyp8&refId=nj9qzxhh1JVk32vtDfeVcw%3D%3D&trackingId=o3xMVV0L%2BAweyS1gIj3eVg%3D%3D))
+	- Product Development Engineer - Qnity (Newark DE - $? - [LinkedIn](https://www.linkedin.com/jobs/view/4416755400/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=tHXSyHsiVMEC6xFug3G0sg%3D%3D&trackingId=X56zqKQPKs8A1MhYZOfo2g%3D%3D))
 ### next
 - jobs
 	- Ceramics Engineering Manager, Spectrum Control - State College - ? - [linkedin](https://www.linkedin.com/jobs/view/4400475362/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=ctSCReaTrkanjbWrhkif%2Fg%3D%3D&trackingId=DhZu7pfs8v%2FaF2TkHAxnvA%3D%3D)
